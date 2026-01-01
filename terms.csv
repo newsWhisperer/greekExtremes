@@ -1,9 +1,9 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'cd28fc481a',extremes,Fog,#d60d2b,wmo,ομίχλη ελλάδα,2025-12-11T03:46:00+00:00,Greece,0.7354156229582847,0,1,el,MED,Europe
 '5ce15877cd',extremes,Fog,#d60d2b,wmo,ομίχλη ήπειρος,2025-12-11T03:46:00+00:00,Greece,0.7077612188370623,0,1,el,MED,Europe
 '7fa9213218',extremes,Thunderstorm,#53785a,wmo,χαλάζι θεσσαλία,2025-12-05T03:41:00+00:00,Greece,0.6502260746974967,0,1,el,MED,Europe
 'f685d1f47f',extremes,Drought,#edc291,edo,ξηρασία Κύπρος,2025-12-10T03:45:00+00:00,Cyprus,0.6362704916661505,0,1,el,MED,Europe
 'a4e5430606',extremes,Thunderstorm,#53785a,wmo,έντονα καιρικά φαινόμενα ανατολική Στερεά αμπ Εύβοια,2025-12-04T03:42:00+00:00,Greece,0.6337555288810791,0,1,el,MED,Europe
+'cd28fc481a',extremes,Fog,#d60d2b,wmo,ομίχλη ελλάδα,2025-12-11T03:46:00+00:00,Greece,0.6252532945145419,1,1,el,MED,Europe
 'f4d53c45ce',extremes,Precipitation,#d60d2b,wmo,βροχή δυτική Πελοπόννησος,2025-12-04T03:42:00+00:00,Greece,0.5852014095524878,0,1,el,MED,Europe
 'd2fad4af62',extremes,Flood,#030ba1,cmeter,ελληνοαλβανικές πλημμύρες,2025-12-08T03:45:00+00:00,Albania,0.5790544125779934,0,1,el,MED,Europe
 'b8f9601f46',extremes,Precipitation,#d60d2b,wmo,καταρρακτώδης βροχή ανατολική Μακεδονία,2025-12-04T03:42:00+00:00,Greece,0.564659655959565,0,1,el,MED,Europe
@@ -93,7 +93,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'da5c6d0821',extremes,Drought,#edc291,edo,έλλειψη βροχής Κιργιστάν,2025-11-30T03:47:00+00:00,Kyrgyzstan,0.2624998685311933,1,1,el,WCA,Asia
 'dd6493c331',extremes,Storm,#b3b2b1,aidr,καταιγίδα αυστραλία,2025-12-05T03:41:00+00:00,Australia,0.2624464494174822,1,1,el,SAU,Oceania
 'eceab9ea2d',extremes,Precipitation,#d60d2b,wmo,βροχόπτωση τανζανία,2025-12-18T03:44:00+00:00,Tanzania,0.2620014494686384,1,1,el,SEAF,Africa
-'99d338c49c',extremes,Drought,#edc291,edo,ξηρασία ουζμπεκιστάν,2025-11-30T03:47:00+00:00,Uzbekistan,0.2618438425906376,1,1,el,WCA,Asia
 '8d6eb5f6e2',extremes,Precipitation,#d60d2b,wmo,νεροποντή zona sur,2025-12-19T03:46:00+00:00,Ecuador,0.2617750135316664,1,1,el,NWS,South-America
 'bed53cc600',extremes,Precipitation,#d60d2b,wmo,νεροποντή Βραζιλία,2025-12-18T03:44:00+00:00,Brazil,0.2617450873728926,1,1,el,SAM,South-America
 '42f1336000',extremes,Drought,#edc291,edo,ξηρασία Σομαλία,2025-12-11T03:46:00+00:00,Somalia,0.2617337426864135,1,1,el,NEAF,Africa
