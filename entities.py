@@ -492,7 +492,7 @@ for index, column in objNewsDF.iterrows():
     if(i % 50 == 0):
         print(i)
     quote = str(column.en)
-    lang = column.language 
+    lang = 'en' #column.language 
     #quote = str(column.title)+'. ' +str(column.description)
     blob = TextBlob(quote)
     for sentence in blob.sentences:
