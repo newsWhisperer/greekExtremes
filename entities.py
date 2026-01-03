@@ -42,7 +42,7 @@ countriesInfo['geonameid'] = countriesInfo['geonameid'].astype(int)
 countriesDf = pd.merge(countriesGeo, countriesInfo, left_on='geoNameId', right_on='geonameid')
 
 def getNewsFiles():
-    fileName = './csv/news_????_??.csv'
+    fileName = './cxsv/news_????_??.csv'
     files = glob.glob(fileName)
     return files  
 
