@@ -93,9 +93,9 @@ for index, column in locationsDF.iterrows():
   if(isinstance(column['longitude'], numbers.Number) and isinstance(column['latitude'], numbers.Number)):
     if((limits['latMin']<column['latitude']<limits['latMax']) and (limits['lonMin']<column['longitude']<limits['lonMax'])):
         delta = 1.0
-        colorextr = '#ffffff'
-        if(column['extreme'] in extremeColors): 
-          colorExtr = extremeColors[column['extreme']]
+        colorextr = '#2244bb'
+        ## if(column['extreme'] in extremeColors):   ## extremes not in location
+        ##   colorExtr = extremeColors[column['extreme']]
         counter = int(column['count']/maxCount*250+column['count']/sumCounts*180)
         if(column['geotype']=='L'):   #large
             #counter = 1
