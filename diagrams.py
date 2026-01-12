@@ -107,7 +107,7 @@ topicsDF['feedColor'] = topicsDF['feed'].apply( lambda x: feedColors[x])
 #topicsDF = topicsDF.drop(columns = ['topicColor'])
 #topicsDF = pd.merge(topicsDF, topicsColorsDF, how='left', left_on=['topic'], right_on=['topic'])
 topicsDF = topicsDF.sort_values('index', ascending=False)
-axTopics = plt.subplot(gs[0,0])
+axTopics = plt.subplot(gs[0,1])
 axTopics.set_title("Feeds", fontsize=24)
 plot = topicsDF.plot.pie(y='index', ax=axTopics, colors=topicsDF['feedColor'], labels=topicsDF['feed'],legend=False,ylabel='')
 #plot = topicsDF.plot(kind='pie', y='index', ax=axKeywords, colors='#'+keywordsDF['keywordColor'])
@@ -120,7 +120,7 @@ keywordsDF = keywordsDF.dropna()
 keywordsDF['extremeColor'] = keywordsDF['extreme'].apply( lambda x: extremeColors[x])
 #keywordsDF = pd.merge(keywordsDF, keywordsColorsDF, how='inner', left_on=['keyword'], right_on=['keyword'])
 keywordsDF = keywordsDF.sort_values('index', ascending=False)
-axKeywords = plt.subplot(gs[0,1])
+axKeywords = plt.subplot(gs[0,2])
 axKeywords.set_title("Extremes", fontsize=24)
 plot = keywordsDF.plot.pie(y='index', ax=axKeywords, colors=keywordsDF['extremeColor'], labels=keywordsDF['extreme'],legend=False,ylabel='')
 #plot = topicsDF.plot(kind='pie', y='index', ax=axKeywords, colors='#'+keywordsDF['keywordColor'])
@@ -580,7 +580,7 @@ for index, column in newsDf.iterrows():
     for ext in extremeColors:   
        foundTopics[ext] = False
 
-    foundTopics[column['extreme']] = True
+    foundTopics[column['topic']] = True
     '''
     for index3, column3 in keywordsColorsDF.iterrows():
         #if(not column3['topic'] in indexTopics[dayDate]):
