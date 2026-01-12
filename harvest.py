@@ -126,7 +126,7 @@ if(not keywordsNewsDF.empty):
   print(keywordsNewsDF2)
   keywordsNewsDF2['counting'] = keywordsNewsDF2['title'].fillna(0)
   keywordsNewsDF2['counting'] = keywordsNewsDF2['counting'] - keywordsNewsDF2['ratio']
-  keywordsNewsDF2 = keywordsNewsDF2.sort_values(by=['counting'], ascending=True)  
+  keywordsNewsDF2 = keywordsNewsDF2.sort_values(by=['counter','counting'], ascending=True)  
 
 rows20 = int(math.ceil(keywordsNewsDF2.shape[0]/5))
 keywordsNewsDF2 = keywordsNewsDF2.head(rows20)
@@ -688,7 +688,9 @@ def inqRandomNews(maxCount=1):
     if(termsDF3.ratio.max()>0.77):
       randomNumber = 0.5   
     if(unsearchedTerms.ratio.max()>0.750):    #0.765(?)  #0.759:36;3; 0.758:55;21 , 0.757:83;47 , 0.75:215
-      randomNumber = 0.1   
+      randomNumber = 0.1  
+    if(termsDF3.counter.min()<0.5):
+      randomNumber = 0.98   
     ## randomNumber = 0.1 # unsearched first
     #randomNumber = 0.5 # succesors first
     #randomNumber = 0.7
