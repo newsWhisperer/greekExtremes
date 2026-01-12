@@ -637,7 +637,7 @@ def inqMailNews():
     foundNew = False
     keyWord = 'veryUnusualAndNeverUsedKeyword'
     language = os.getenv('EXTREME_LANGUAGE')
-    if (language = 'xx'):
+    if (language == 'xx'):
       print('Please set EXTREME_LANGUAGE in file: mysecrets.py');
       return None
     for currMonth in currentMonths:
