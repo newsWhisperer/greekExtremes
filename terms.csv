@@ -1,7 +1,5 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'7015f6a761',extremes,Thunderstorm,#53785a,wmo,χαλάζι κεντρική Μακεδονία,2025-12-04T03:42:00+00:00,Greece,0.5408409256877291,1,1,el,MED,Europe
-'f685d1f47f',extremes,Drought,#edc291,edo,ξηρασία Κύπρος,2025-12-10T03:45:00+00:00,Cyprus,0.5408299179162279,2,1,el,MED,Europe
-'20c8ca13a3',extremes,Thunderstorm,#53785a,wmo,κακοκαιρία νησιά Δωδεκάνησα,2025-12-04T03:42:00+00:00,Greece,0.5378369185281805,1,1,el,MED,Europe
+'f685d1f47f',extremes,Drought,#edc291,edo,ξηρασία Κύπρος,2025-12-10T03:45:00+00:00,Cyprus,0.5408299179162279,3,1,el,MED,Europe
 '5ae78b36fe',extremes,Fog,#d60d2b,wmo,ομίχλη δυτική Μακεδονία,2025-12-13T03:38:00+00:00,Greece,0.5095459533600827,2,1,el,MED,Europe
 '2168928b82',extremes,Fog,#d60d2b,wmo,ομίχλη δυτική Πελοπόννησος,2025-12-11T03:46:00+00:00,Greece,0.4929072999632446,2,1,el,MED,Europe
 'c58f3e6e04',extremes,Fog,#d60d2b,wmo,ομίχλη κεντρική μακεδονία,2025-12-11T03:46:00+00:00,Greece,0.4885414910823263,2,1,el,MED,Europe
@@ -9,14 +7,10 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'cac8488dd8',extremes,Fog,#d60d2b,wmo,ομίχλη Δωδεκάνησα,2025-12-19T03:46:00+00:00,Greece,0.485167006357817,2,1,el,MED,Europe
 'd5d7a11479',extremes,Drought,#edc291,edo,ξηρασία Κύπρος,2025-12-09T03:41:00+00:00,Cyprus,0.4797338673352274,2,1,el,MED,Europe
 'fe6660da97',extremes,Precipitation,#d60d2b,wmo,νεροποντή Κύπρος,2025-12-08T03:44:00+00:00,Cyprus,0.478760985950361,2,1,el,MED,Europe
-'c9906674b2',extremes,Precipitation,#d60d2b,wmo,κατακρήμνιση Κύπρος,2025-12-09T03:41:00+00:00,Cyprus,0.4723517589226212,2,1,el,MED,Europe
 '41016f45c9',extremes,Precipitation,#d60d2b,cmeter,ελληνοαλβανικές πλημμύρες,2025-12-10T03:45:00+00:00,Albania,0.4615281478714018,2,1,el,MED,Europe
-'cd28fc481a',extremes,Fog,#d60d2b,wmo,ομίχλη ελλάδα,2025-12-11T03:46:00+00:00,Greece,0.4520230330367565,3,1,el,MED,Europe
 'edd8cedd5a',extremes,Storm,#b3b2b1,wmo,καταιγίδα κρήτι,2025-12-09T03:41:00+00:00,Greece,0.4500276632847496,2,1,el,MED,Europe
-'648c26f911',extremes,Drought,#edc291,edo,έλλειψη βροχής ελλάδα,2025-12-07T03:47:00+00:00,Greece,0.44643948071541123,1,1,el,MED,Europe
 '9060b1f3e4',extremes,Thunderstorm,#53785a,wmo,έντονα καιρικά φαινόμενα kriti,2025-12-08T03:44:00+00:00,Greece,0.4454515933046693,1,1,el,MED,Europe
 '0817fc48cb',extremes,Fog,#d60d2b,wmo,ομίχλη θράκι,2025-12-19T03:46:00+00:00,Greece,0.44452609597797,2,1,el,MED,Europe
-'af3396aaaf',extremes,Drought,#edc291,edo,ξηρασία Ελλάδα,2025-12-04T03:42:00+00:00,Greece,0.4396902912102931,0,1,el,MED,Europe
 '5ce15877cd',extremes,Fog,#d60d2b,wmo,ομίχλη ήπειρος,2025-12-11T03:46:00+00:00,Greece,0.4346538585183108,3,1,el,MED,Europe
 'f2948297cc',extremes,Precipitation,#d60d2b,wmo,βροχή Κυκλάδες,2025-12-07T03:47:00+00:00,Greece,0.4346154407958915,0,1,el,MED,Europe
 '4c7fd8a889',extremes,Fog,#d60d2b,wmo,ομίχλη ανατολική Μακεδονία,2025-12-13T03:38:00+00:00,Greece,0.434402639645436,3,1,el,MED,Europe
@@ -29,7 +23,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '9797aa6299',extremes,Drought,#edc291,edo,έλλειψη βροχής Κύπρος,2025-12-16T03:47:00+00:00,Cyprus,0.3645333570266272,4,1,el,MED,Europe
 '7d6aaace1c',extremes,Wildfire,#d60d2b,wmo,πυρκαγιά στην Ινδία,2025-12-19T03:46:00+00:00,India,0.3452454088792543,2,2,el,SAS,Asia
 '385f9f8a7c',extremes,Fog,#d60d2b,wmo,ομίχλη κυκλάδες,2025-12-19T03:46:00+00:00,Greece,0.3259283558954823,4,1,el,MED,Europe
-'6977afac24',extremes,Volcano,#b83202,eonet,ηφαίστειο puracé colombia,2025-12-06T03:32:00+00:00,Colombia,0.3175532868372554,0,1,el,NWS,South-America
 'cebc877b2d',extremes,Fog,#d60d2b,wmo,ομίχλη ανατολική Πελοπόννησος,2025-12-19T03:46:00+00:00,Greece,0.2932396571141821,5,1,el,MED,Europe
 'ab90cfcdd4',extremes,Drought,#edc291,edo,ξηρασία αλβανία,2025-12-15T03:54:00+00:00,Albania,0.2880569838949499,2,1,el,MED,Europe
 'bed53cc600',extremes,Precipitation,#d60d2b,wmo,νεροποντή Βραζιλία,2025-12-18T03:44:00+00:00,Brazil,0.2617450873728926,1,1,el,SAM,South-America
