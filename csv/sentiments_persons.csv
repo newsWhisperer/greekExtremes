@@ -1,11 +1,12 @@
 ,phrase,label,sentiment,subjectivity,language,count
-Vassilis Spanakis,Vassilis Spanakis,PER,0.0,0.0,de,1
-Unwetter Adel,Unwetter Adel,PER,0.7,0.0,de,1
-Umgestürzte Bäume,Umgestürzte Bäume,PER,-1.0,0.0,de,1
-Giorgos Tsatrafillias,Giorgos Tsatrafillias,PER,-0.7,0.0,de,1
-Googles Jahresrückblick,Googles Jahresrückblick,PER,0.7,0.0,de,1
-Kefalogiannis einberufenes,Kefalogiannis einberufenes,PER,0.7,0.0,de,1
-Attiki Odos,Attiki Odos,PER,0.0,0.0,de,1
-Athanasios Diakos,Athanasios Diakos,PER,0.0,1.0,de,1
-Konstantinos Mastrokostopoulos,Konstantinos Mastrokostopoulos,PER,0.0,1.0,de,1
-Grad Celsius,Grad Celsius,PER,0.0,0.0,de,1
+Athanasios Diakos,Athanasios Diakos,PERSON,-0.11764705882352942,0.029411764705882356,en,1.7
+Thesprotia - Lightning,Thesprotia - Lightning,PERSON,-0.6999999999999998,0.6666666666666666,en,1.0
+Vassilis Spanakis,Vassilis Spanakis,PERSON,-0.27499999999999997,0.3333333333333333,en,1.0
+"Adel ""pounds"" Corfu","Adel ""pounds"" Corfu",PERSON,-0.5,0.3,en,1.0
+Adel Attica,Adel Attica,PERSON,-0.6999999999999998,0.6666666666666666,en,1.0
+Monemvasia Bad,Monemvasia Bad,PERSON,-0.44999999999999996,0.5833333333333333,en,1.0
+Thodoris Kolidas,Thodoris Kolidas,PERSON,-0.23333333333333328,0.5079365079365079,en,1.0
+Pramod Sawad,Pramod Sawad,PERSON,-0.06499999999999999,0.215,en,1.0
+Leos Zakynthos,Leos Zakynthos,PERSON,0.0,0.0,en,1.0
+Attiki Odos,Attiki Odos,PERSON,-0.6999999999999998,0.6666666666666666,en,1.0
+Konstantinos Mastrokostopoulos,Konstantinos Mastrokostopoulos,PERSON,0.0,0.0,en,1.0
