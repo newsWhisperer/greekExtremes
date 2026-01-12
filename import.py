@@ -84,6 +84,9 @@ def importTerms(maxImports=10, targetLanguage='de'):
     topicsDF['ratio'] *= topicsDF['country'].apply(
       lambda x: max(0.5,countriesForLanguage[x]) if (x in countriesForLanguage) else 0.4 
     )
+    topicsDF['ratio'] += topicsDF['feed'].apply(
+      lambda x: 0.11 if (x == 'random') else 0.0
+    )
     topicsDF = topicsDF.sort_values(by=['ratio'], ascending=False) 
     topicsDF['pages'] = 1
     topicsDF['counter'] = 0
