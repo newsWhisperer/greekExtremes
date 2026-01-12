@@ -44,6 +44,7 @@ jobs:
         env:
             NEWSAPI_KEY: ${{ secrets.NEWSAPI_KEY }}
             RAPIDAPI_KEY: ${{ secrets.RAPIDAPI_KEY }}
+            EXTREME_LANGUAGE: ${{ secrets.EXTREME_LANGUAGE }}
         run: (python3 harvest.py)
       - name: Submit changes       
         uses: EndBug/add-and-commit@v9
