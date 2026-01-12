@@ -129,6 +129,9 @@ sns.kdeplot(x=lat1, y=long1, fill=False,  levels=10, thresh=.0005, color='grey',
 #for label in labels:
 #    ax1.text(label['lon'],label['lat'],label['name'], color='#200000', fontsize=14, ha='center', va='center',transform=ccrs.PlateCarree())
 
+
+# no legend for now
+'''
 colorLeg = list(extremeColors.values())
 colorLeg.reverse()
 labelLeg = list(extremeColors.keys())
@@ -140,6 +143,7 @@ leg = ax1.legend(custom_lines, labelLeg,
 leg.set_title("Topics", prop = {'size':16}) 
 fig.add_artist(leg)
 plt.tight_layout()
+'''
 
 if(not os.path.exists(DATA_PATH / 'img')):
     os.mkdir(DATA_PATH / 'img')

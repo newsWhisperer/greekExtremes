@@ -625,6 +625,52 @@ def getLatestFileAge():
     return minAge        
 
 
+ts = int(time.time())
+currentMonths = []
+for m in [0,20,40,60]:
+  ##month = datetime.utcfromtimestamp(ts-60*60*24*m).strftime('%Y_%m')  
+  month = datetime.datetime.fromtimestamp(ts-60*60*24*m).strftime('%Y_%m')
+  if month not in currentMonths:
+    currentMonths.append(month)
+
+def inqMailNews():
+    foundNew = False
+    keyWord = 'veryUnusualAndNeverUsedKeyword'
+    language = os.getenv('EXTREME_LANGUAGE')
+    if (language = 'xx'):
+      print('Please set EXTREME_LANGUAGE in file: mysecrets.py');
+      return None
+    for currMonth in currentMonths:
+       extremesFile = "https://github.com/pg-ufr-news/mailHarvester/blob/main/csv/extreme/"+language+"/news_"+currMonth+".csv?raw=true"
+       print(extremesFile)
+       extremesRequest = requests.get(extremesFile, headers={'Accept': 'text/plain'})
+       print(extremesRequest)   
+       if(extremesRequest.status_code == 200):
+          extremesDf=pd.read_csv(io.StringIO(extremesRequest.content.decode('utf-8')), delimiter=',', index_col='index')
+          ##extremesDf['hash'] = extremesDf.index 
+          print(extremesDf)
+          extremesDf = extremesDf[extremesDf['language']==language]
+          print(extremesDf)
+          extremesDict = extremesDf.to_dict('index')
+          extremesArray = list(extremesDict.values())
+          print(extremesArray)
+          checkedArticles = checkArticlesForKeywords(extremesArray, keywordsDF, keywordsNewsDF2, language, keyWord)          
+          print(checkedArticles)
+          newArticles = filterNewAndArchive(checkedArticles, language, keyWord)    
+          for data in newArticles:
+                    if (dataIsNotBlocked(data)):                    
+                        #print(str(keyWord)+': '+str(title)+' '+str(url))
+                        print(["addNewsToCollection: ",data])
+                        if(addNewsToCollection(data)):
+                            foundNew = True
+                            print(["+++added"])  
+                        else:
+                            print(["---not added"])   
+
+       
+    if(foundNew):         
+       storeCollection()
+
 def inqRandomNews(maxCount=1):
   #global termsDF
   global termsDF3
@@ -816,6 +862,7 @@ def inqRandomNews(maxCount=1):
 #              "publishedAt":"2021-07-16T15:06:00Z",
 #              "content":"Nach den langen und heftigen Regenf\xc3\xa4llen Mitte der Woche treten immer mehr katastrophale Folgen zutage: Die Zahl der Toten w\xc3\xa4chst, allein in Rheinland-Pfalz und Nordrhein-Westfalen sind \xc3\xbcber 100 Mens\xe2\x80\xa6 [+4840 chars]"}
 
+inqMailNews()
 
 amount = 4
 if(len(termsDF)>50):
