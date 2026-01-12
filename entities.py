@@ -21,10 +21,10 @@ import geopandas
 
 import nltk
 import spacy
-import de_core_news_md
-from textblob_de import TextBlobDE
+import en_core_web_md
+from textblob import TextBlob
 
-nlp = de_core_news_md.load()
+nlp = en_core_web_md.load()
 nltk.download('punkt_tab')
 nltk.download('punkt')
 
@@ -87,8 +87,8 @@ for index, column in newsDf.iterrows():
     i += 1
     if(i % 50 == 0):
         print(i)
-    quote = str(column['de'])
-    blob = TextBlobDE(quote)
+    quote = str(column['en'])
+    blob = TextBlob(quote)
     newsDf.loc[newsDf['url'] == column['url'], 'subjectivity'] = blob.sentiment.subjectivity
     newsDf.loc[newsDf['url'] == column['url'], 'sentiment'] = blob.sentiment.polarity
     try:
@@ -491,10 +491,10 @@ for index, column in objNewsDF.iterrows():
     i += 1
     if(i % 50 == 0):
         print(i)
-    quote = str(column['de'])
-    lang = 'de' #column.language 
+    quote = str(column['en'])
+    lang = 'en' #NOT column.language !
     #quote = str(column.title)+'. ' +str(column.description)
-    blob = TextBlobDE(quote)
+    blob = TextBlob(quote)
     for sentence in blob.sentences:
         #sentence.sentiment.polarity
         doc = nlp(str(sentence))
