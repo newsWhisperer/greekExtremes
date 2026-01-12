@@ -21,10 +21,10 @@ import geopandas
 
 import nltk
 import spacy
-import en_core_web_md
-from textblob import TextBlob
+import de_core_news_md
+from textblob_de import TextBlobDE
 
-nlp = en_core_web_md.load()
+nlp = de_core_news_md.load()
 nltk.download('punkt_tab')
 nltk.download('punkt')
 
@@ -87,8 +87,8 @@ for index, column in newsDf.iterrows():
     i += 1
     if(i % 50 == 0):
         print(i)
-    quote = str(column.en)
-    blob = TextBlob(quote)
+    quote = str(column['de'])
+    blob = TextBlobDE(quote)
     newsDf.loc[newsDf['url'] == column['url'], 'subjectivity'] = blob.sentiment.subjectivity
     newsDf.loc[newsDf['url'] == column['url'], 'sentiment'] = blob.sentiment.polarity
     try:
@@ -180,7 +180,7 @@ def inqGeonamesByNameAndLanguage(df, phrase, lang):
       df.loc[index,'longitude'] = float(gn.lng)
       df.loc[index,'geotype'] = gn.feature_class
       ##df.loc[index,'country'] = gn.country  #localized!
-      gne = geocoder.geonames(phrase, lang='en', key=geonamesKey)
+      gne = geocoder.geonames(phrase, lang='de', key=geonamesKey)
       if(gne.country):
         df.loc[index,'country'] = gne.country
         print(gne.country)
@@ -491,10 +491,10 @@ for index, column in objNewsDF.iterrows():
     i += 1
     if(i % 50 == 0):
         print(i)
-    quote = str(column.en)
-    lang = 'en' #column.language 
+    quote = str(column['de'])
+    lang = 'de' #column.language 
     #quote = str(column.title)+'. ' +str(column.description)
-    blob = TextBlob(quote)
+    blob = TextBlobDE(quote)
     for sentence in blob.sentences:
         #sentence.sentiment.polarity
         doc = nlp(str(sentence))
