@@ -42,7 +42,7 @@ topicColors = {'unknown':'#000000', 'Adaptation':'#0000FF', 'Mitigation':'#00FF0
 
 continentColors = {'unknown':'#d60d2b', 'Asia':'#ffff00', 'Europe':'#ff00ff', 'North-America':'#0000ff', 'Africa':'#ff0000', 'South-America':'#00ff00', 'Oceania':'#00ffff'}
 
-feedColors = {'unknown':'#d60d2b', 'wmo':'#ff0000', 'meteo':'#008888', 'effis':'#00ff00', 'relief':'#880088', 'edo':'#0000ff', 'fema':'#888800', 'eonet':'#ffff00', 'usgs':'#ffff88', 'eswd':'#ff00ff', 'floodlist':'#ff88ff', 'random':'#00ffff'}
+feedColors = {'unknown':'#d60d2b', 'wmo':'#ff0000', 'meteo':'#008888', 'effis':'#00ff00', 'relief':'#880088', 'edo':'#0000ff', 'fema':'#888800', 'eonet':'#ffff00', 'usgs':'#ffff88', 'eswd':'#ff00ff', 'floodlist':'#ff88ff', 'random':'#00ffff', 'cmeter':'#ff0088'}
 
 def getNewsFiles():
     fileName = './cxsv/news_????_??.csv'
