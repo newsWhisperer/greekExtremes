@@ -830,6 +830,10 @@ def inqRandomNews(maxCount=1):
                 deltaLimit = -1
                 maxCount = 0
                 newLimit =  max(1,currPage+deltaLimit)
+              if(jsonData['code'] == 'rateLimited'):
+                deltaLimit = -1
+                maxCount = 0
+                newLimit =  max(1,currPage+deltaLimit)
               # {"status":"error","code":"maximumResultsReached","message":"You have requested too many results. Developer accounts are limited to a max of 100 results. You are trying to request results 100 to 150. Please upgrade to a paid plan if you need more results."}
     #print(rndKey.index)
     #termsDF.at[rndKey.index, 'limitPages'] = newLimit    

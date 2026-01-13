@@ -6,6 +6,7 @@ import os.path
 import io
 #import requests
 import glob
+import random
 
 import datetime
 from dateutil import parser
@@ -42,7 +43,7 @@ topicColors = {'unknown':'#000000', 'Adaptation':'#0000FF', 'Mitigation':'#00FF0
 
 continentColors = {'unknown':'#d60d2b', 'Asia':'#ffff00', 'Europe':'#ff00ff', 'North-America':'#0000ff', 'Africa':'#ff0000', 'South-America':'#00ff00', 'Oceania':'#00ffff'}
 
-feedColors = {'unknown':'#d60d2b', 'wmo':'#ff0000', 'meteo':'#008888', 'effis':'#00ff00', 'relief':'#880088', 'edo':'#0000ff', 'fema':'#888800', 'eonet':'#ffff00', 'usgs':'#ffff88', 'eswd':'#ff00ff', 'floodlist':'#ff88ff', 'random':'#00ffff', 'cmeter':'#ff0088'}
+feedColors = {'unknown':'#ffffff', 'meteo':'#008888', 'effis':'#00ff00', 'relief':'#880088', 'edo':'#0000ff', 'fema':'#888800', 'eonet':'#ffff00', 'usgs':'#ffff88', 'eswd':'#ff00ff', 'floodlist':'#ff88ff', 'random':'#00ffff', 'cmeter':'#ff0088', 'wmo':'#ff0000'}
 
 def getNewsFiles():
     fileName = './cxsv/news_????_??.csv'
@@ -81,46 +82,74 @@ print(newsDf)
 print(list(newsDf.columns.values))
 
 # Topics & Keywords
-fig = plt.figure(figsize=(18, 6), constrained_layout=True)
-gs = gridspec.GridSpec(1, 3, figure=fig)
+fig = plt.figure(figsize=(18, 12), constrained_layout=True)
+gs = gridspec.GridSpec(2, 3, figure=fig)
 
 # Continents
 continentsDF = newsDf.groupby('continent').count()
 continentsDF['continent'] = continentsDF.index
 print(continentsDF)
 continentsDF['continentColor'] = continentsDF['continent'].apply( lambda x: continentColors[x])
-#topicsDF = topicsDF.drop(columns = ['topicColor'])
-#topicsDF = pd.merge(topicsDF, topicsColorsDF, how='left', left_on=['topic'], right_on=['topic'])
 continentsDF = continentsDF.sort_values('index', ascending=False)
 axContinents = plt.subplot(gs[0,0])
 axContinents.set_title("Continents", fontsize=24)
 plot = continentsDF.plot.pie(y='index', ax=axContinents, colors=continentsDF['continentColor'],  labels=continentsDF['continent'], legend=False, ylabel='')
 
+# Countries
+countriesDF = newsDf.groupby('country').count()
+countriesDF['country'] = countriesDF.index
+print(countriesDF)
+countriesDF['countryColor'] = countriesDF['country'].apply( lambda x: "#{:02x}{:02x}{:02x}".format(random.randint(0, 256),random.randint(0, 256),random.randint(0, 256)))
+countriesDF = countriesDF.sort_values('index', ascending=False)
+axCountries = plt.subplot(gs[0,1])
+axContinents.set_title("Countries", fontsize=24)
+plot = countriesDF.plot.pie(y='index', ax=axCountries, colors=countriesDF['countryColor'],  labels=countriesDF['country'], legend=False, ylabel='')
+
+# ipcc
+ipccDF = newsDf.groupby('ipcc').count()
+ipccDF['ipcc'] = ipccDF.index
+print(ipccDF)
+ipccDF['ipccColor'] = ipccDF['ipcc'].apply( lambda x: "#{:02x}{:02x}{:02x}".format(random.randint(0, 256),random.randint(0, 256),random.randint(0, 256)))
+ipccDF = ipccDF.sort_values('index', ascending=False)
+axIpcc = plt.subplot(gs[0,2])
+axIpcc.set_title("Ipcc", fontsize=24)
+plot = ipccDF.plot.pie(y='index', ax=axIpcc, colors=ipccDF['ipccColor'],  labels=ipccDF['ipcc'], legend=False, ylabel='')
+
 # Topics 
 ##newsDf2 = pd.merge(newsDf, keywordsColorsDF, how='left', left_on=['keyword'], right_on=['keyword'])
 
-
-topicsDF = newsDf.groupby('feed').count()
+newsDf1 = newsDf[newsDf['valid']>0.5]
+topicsDF = newsDf1.groupby('feed').count()
 topicsDF['feed'] = topicsDF.index
-print(topicsDF)
 topicsDF['feedColor'] = topicsDF['feed'].apply( lambda x: feedColors[x])
-#topicsDF = topicsDF.drop(columns = ['topicColor'])
-#topicsDF = pd.merge(topicsDF, topicsColorsDF, how='left', left_on=['topic'], right_on=['topic'])
+print(topicsDF)
+print(topicsDF['feedColor'])
 topicsDF = topicsDF.sort_values('index', ascending=False)
-axTopics = plt.subplot(gs[0,1])
-axTopics.set_title("Feeds", fontsize=24)
+axTopics = plt.subplot(gs[1,0])
+axTopics.set_title("Feeds (valid)", fontsize=24)
 plot = topicsDF.plot.pie(y='index', ax=axTopics, colors=topicsDF['feedColor'], labels=topicsDF['feed'],legend=False,ylabel='')
 #plot = topicsDF.plot(kind='pie', y='index', ax=axKeywords, colors='#'+keywordsDF['keywordColor'])
 
+newsDf2 = newsDf[newsDf['valid']<0.5]
+topicsDF = newsDf2.groupby('feed').count()
+topicsDF['feed'] = topicsDF.index
+topicsDF['feedColor'] = topicsDF['feed'].apply( lambda x: feedColors[x])
+print(topicsDF)
+print(topicsDF['feedColor'])
+topicsDF = topicsDF.sort_values('index', ascending=False)
+axTopics = plt.subplot(gs[1,1])
+axTopics.set_title("Feeds (invalid)", fontsize=24)
+if(not topicsDF.empty):
+  plot = topicsDF.plot.pie(y='index', ax=axTopics, colors=topicsDF['feedColor'], labels=topicsDF['feed'],legend=False,ylabel='')
+#plot = topicsDF.plot(kind='pie', y='index', ax=axKeywords, colors='#'+keywordsDF['keywordColor'])
 
 # Keywords
 keywordsDF = newsDf.groupby('topic').count()
 keywordsDF['extreme'] = keywordsDF.index
 keywordsDF = keywordsDF.dropna()
 keywordsDF['extremeColor'] = keywordsDF['extreme'].apply( lambda x: extremeColors[x])
-#keywordsDF = pd.merge(keywordsDF, keywordsColorsDF, how='inner', left_on=['keyword'], right_on=['keyword'])
 keywordsDF = keywordsDF.sort_values('index', ascending=False)
-axKeywords = plt.subplot(gs[0,2])
+axKeywords = plt.subplot(gs[1,2])
 axKeywords.set_title("Extremes", fontsize=24)
 plot = keywordsDF.plot.pie(y='index', ax=axKeywords, colors=keywordsDF['extremeColor'], labels=keywordsDF['extreme'],legend=False,ylabel='')
 #plot = topicsDF.plot(kind='pie', y='index', ax=axKeywords, colors='#'+keywordsDF['keywordColor'])
@@ -485,15 +514,15 @@ for index, column in newsDf.iterrows():
     if(not dayDate in indexTopics):
         indexTopics[dayDate] = {}
         ##for index2, column2 in topicsColorsDF.iterrows():
-        for top in topicColors:
+        for top in feedColors:
            indexTopics[dayDate][top] = 0
     quote = str(column.en)
     foundTopics = {}
     ##for index2, column2 in topicsColorsDF.iterrows():
-    for top in topicColors:   
+    for top in feedColors:   
        foundTopics[top] = False
 
-    foundTopics[column['topic']] = True
+    foundTopics[column['feed']] = True
     '''
     for index3, column3 in keywordsColorsDF.iterrows():
         #if(not column3['topic'] in indexTopics[dayDate]):
@@ -504,16 +533,16 @@ for index, column in newsDf.iterrows():
     '''
 
     ##for index2, column2 in topicsColorsDF.iterrows():
-    for top in topicColors:
+    for top in feedColors:
         if(foundTopics[top]):
             indexTopics[dayDate][top] += 1
 
-indexTopicsDF = pd.DataFrame.from_dict(indexTopics, orient='index', columns=list(topicColors.keys()))
-indexTopicsDF.to_csv(DATA_PATH / 'csv' / "topics_date.csv", index=True)
+indexTopicsDF = pd.DataFrame.from_dict(indexTopics, orient='index', columns=list(feedColors.keys()))
+indexTopicsDF.to_csv(DATA_PATH / 'csv' / "feeds_date.csv", index=True)
 
 
 #3d Bars -> Topics by Date 
-germanTopicsDate = pd.read_csv(DATA_PATH / 'csv' / 'topics_date.csv', delimiter=',')
+germanTopicsDate = pd.read_csv(DATA_PATH / 'csv' / 'feeds_date.csv', delimiter=',')
 germanTopicsDate = germanTopicsDate.sort_values(by=['Unnamed: 0'], ascending=True)
 xa = []
 xl = []
@@ -526,13 +555,13 @@ for idx, column in germanTopicsDate.iterrows():
     p = 0
     #for topic in colorsTopics:
     ##for index2, column2 in topicsColorsDF.iterrows():
-    for top in topicColors:
+    for top in feedColors:
         xa.append(idx) 
         xl.append(column['Unnamed: 0'])
         ya.append(p)  
         yl.append(top)
         za.append(column[top])
-        ca.append(topicColors[top])
+        ca.append(feedColors[top])
         p += 1
 fig = plt.figure(figsize=(30, 20))
 ## ax = Axes3D(fig)
@@ -541,25 +570,25 @@ ax = fig.add_subplot(projection='3d')
 #fig.subplots_adjust(left=0, right=1, bottom=0, top=1.5)
 ticksx = germanTopicsDate.index.values.tolist()
 plt.xticks(ticksx, germanTopicsDate['Unnamed: 0'],rotation=63, fontsize=18)
-ticksy = np.arange(1, len(topicColors)+1, 1)
-plt.yticks(ticksy, list(topicColors.keys()), rotation=-4, fontsize=18, horizontalalignment='left')
+ticksy = np.arange(1, len(feedColors)+1, 1)
+plt.yticks(ticksy, list(feedColors.keys()), rotation=-4, fontsize=18, horizontalalignment='left')
 ax.tick_params(axis='z', labelsize=18, pad=20)
 ax.tick_params(axis='y', pad=20)
-ax.set_title("Number of Newspaper Articles covering Topics", fontsize=36, y=0.65, pad=-14)
+ax.set_title("Number of Newspaper Articles derrived from Feed", fontsize=36, y=0.65, pad=-14)
 ax.bar3d(xa, ya, 0, 0.8, 0.8, za, color=ca, alpha=0.6)
 ax.view_init(elev=30, azim=-70)
 plt.gca().xaxis.set_major_locator(mdates.DayLocator(interval=7))
 ax.get_proj = lambda: np.dot(Axes3D.get_proj(ax), np.diag([1.0, 0.7, 0.4, 1]))
-colorLeg = list(topicColors.values())
+colorLeg = list(feedColors.values())
 colorLeg.reverse()
-labelLeg = list(topicColors.keys())
+labelLeg = list(feedColors.keys())
 labelLeg.reverse()
 custom_lines = [plt.Line2D([],[], ls="", marker='.', 
                 mec='k', mfc=c, mew=.1, ms=30) for c in colorLeg]
 leg = ax.legend(custom_lines, labelLeg, 
           loc='center left', fontsize=16, bbox_to_anchor=(0.85, .48))
 leg.set_title("Topics", prop = {'size':20})            
-plt.savefig(DATA_PATH / 'img' / 'dates_topics_article_count.png', dpi=300)
+plt.savefig(DATA_PATH / 'img' / 'dates_feeds_article_count.png', dpi=300)
 plt.close('all')
 
 
