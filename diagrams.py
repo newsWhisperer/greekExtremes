@@ -36,14 +36,14 @@ if(not os.path.exists(DATA_PATH / 'csv')):
 
 extremeColors = {'unknown':'#ffffff', 'Thunderstorm':'#53785a', 'Storm':'#222222', 'Storm Surge':'#834fa1', 'Flash Flood':'#0245d8', 'Precipitation':'#608D3A', 'Wet Spell':'#22e91f',
                'Tsunami':'#690191',  'Landslide':'#1C4840', 'Cold Wave':'#a7e9fa', 'Heat Wave':'#d85212', 'Iceberg':'#02b5b8',
-                 'Snow Avalanche':'#deddd5', 'Wildfire':'#fa0007', 'Fog':'#535271', 'Snow&Ice':'#dedde5', 'Flood':'#030ba1', 'Drought':'#572c03', 'Tropical Cyclone':'#4f7fbf', 'Volcano':'#b83202', 'Earthquake':'#870047'  
+                 'Snow Avalanche':'#deddd5', 'Wildfire':'#fa0007', 'Fog':'#535271', 'Snow&Ice':'#dedde5', 'Flood':'#030ba1', 'Drought':'#572c03', 'Tropical Cyclone':'#4f7fbf', 'Volcano':'#b83202', 'Earthquake':'#870047', 'invalid':'#555555'  
                }
 
 topicColors = {'unknown':'#000000', 'Adaptation':'#0000FF', 'Mitigation':'#00FF00', 'Causes':'#00FFFF', 'Impacts':'#FFFF00', 'Hazard':'#FF0000'}
 
 continentColors = {'unknown':'#d60d2b', 'Asia':'#ffff00', 'Europe':'#ff00ff', 'North-America':'#0000ff', 'Africa':'#ff0000', 'South-America':'#00ff00', 'Oceania':'#00ffff'}
 
-feedColors = {'unknown':'#ffffff', 'mail':'#8888ff', 'meteo':'#008888', 'effis':'#00ff00', 'relief':'#880088', 'edo':'#0000ff', 'fema':'#888800', 'eonet':'#ffff00', 'usgs':'#ffff88', 'eswd':'#ff00ff', 'floodlist':'#ff88ff', 'random':'#00ffff', 'cmeter':'#ff0088', 'wmo':'#ff0000'}
+feedColors = {'unknown':'#ffffff', 'mail':'#8888ff', 'meteo':'#008888', 'effis':'#00ff00', 'relief':'#880088', 'edo':'#0000ff', 'fema':'#888800', 'eonet':'#ffff00', 'usgs':'#ffff88', 'eswd':'#ff00ff', 'floodlist':'#ff88ff', 'aidr':'#88ff88', 'random':'#00ffff', 'cmeter':'#ff0088', 'wmo':'#ff0000'}
 
 def getNewsFiles():
     fileName = './cxsv/news_????_??.csv'
@@ -77,16 +77,19 @@ newsDf['title'] = newsDf['title'].fillna('')
 newsDf['description'] = newsDf['description'].fillna('')
 ##newsDf['quote'] = newsDf['quote'].fillna('')
 #newsDf['text'] = newsDf['title'] + ' ' + newsDf['description'] 
-newsDf = newsDf[newsDf['valid']>0.5]
+## newsDf = newsDf[newsDf['valid']>0.5]
 print(newsDf)  
 print(list(newsDf.columns.values))
+newsDfValid = newsDf[newsDf['valid']>0.5]
+newsDfInvalid = newsDf[newsDf['valid']<0.5]
+newsDf[newsDf['valid']>0.5]['extreme'] = 'invalid'
 
 # Topics & Keywords
 fig = plt.figure(figsize=(18, 12), constrained_layout=True)
 gs = gridspec.GridSpec(2, 3, figure=fig)
 
 # Continents
-continentsDF = newsDf.groupby('continent').count()
+continentsDF = newsDfValid.groupby('continent').count()
 continentsDF['continent'] = continentsDF.index
 print(continentsDF)
 continentsDF['continentColor'] = continentsDF['continent'].apply( lambda x: continentColors[x])
@@ -96,20 +99,20 @@ axContinents.set_title("Continents", fontsize=24)
 plot = continentsDF.plot.pie(y='index', ax=axContinents, colors=continentsDF['continentColor'],  labels=continentsDF['continent'], legend=False, ylabel='')
 
 # Countries
-countriesDF = newsDf.groupby('country').count()
+countriesDF = newsDfValid.groupby('country').count()
 countriesDF['country'] = countriesDF.index
 print(countriesDF)
-countriesDF['countryColor'] = countriesDF['country'].apply( lambda x: "#{:02x}{:02x}{:02x}".format(random.randint(0, 256),random.randint(0, 256),random.randint(0, 256)))
+countriesDF['countryColor'] = countriesDF['country'].apply( lambda x: "#{:02x}{:02x}{:02x}".format(random.randint(0, 255),random.randint(0, 255),random.randint(0, 255)))
 countriesDF = countriesDF.sort_values('index', ascending=False)
 axCountries = plt.subplot(gs[0,1])
 axContinents.set_title("Countries", fontsize=24)
 plot = countriesDF.plot.pie(y='index', ax=axCountries, colors=countriesDF['countryColor'],  labels=countriesDF['country'], legend=False, ylabel='')
 
 # ipcc
-ipccDF = newsDf.groupby('ipcc').count()
+ipccDF = newsDfValid.groupby('ipcc').count()
 ipccDF['ipcc'] = ipccDF.index
 print(ipccDF)
-ipccDF['ipccColor'] = ipccDF['ipcc'].apply( lambda x: "#{:02x}{:02x}{:02x}".format(random.randint(0, 256),random.randint(0, 256),random.randint(0, 256)))
+ipccDF['ipccColor'] = ipccDF['ipcc'].apply( lambda x: "#{:02x}{:02x}{:02x}".format(random.randint(0, 255),random.randint(0, 255),random.randint(0, 255)))
 ipccDF = ipccDF.sort_values('index', ascending=False)
 axIpcc = plt.subplot(gs[0,2])
 axIpcc.set_title("Ipcc", fontsize=24)
@@ -118,8 +121,7 @@ plot = ipccDF.plot.pie(y='index', ax=axIpcc, colors=ipccDF['ipccColor'],  labels
 # Topics 
 ##newsDf2 = pd.merge(newsDf, keywordsColorsDF, how='left', left_on=['keyword'], right_on=['keyword'])
 
-newsDf1 = newsDf[newsDf['valid']>0.5]
-topicsDF = newsDf1.groupby('feed').count()
+topicsDF = newsDfValid.groupby('feed').count()
 topicsDF['feed'] = topicsDF.index
 topicsDF['feedColor'] = topicsDF['feed'].apply( lambda x: feedColors[x])
 print(topicsDF)
@@ -130,8 +132,7 @@ axTopics.set_title("Feeds (valid)", fontsize=24)
 plot = topicsDF.plot.pie(y='index', ax=axTopics, colors=topicsDF['feedColor'], labels=topicsDF['feed'],legend=False,ylabel='')
 #plot = topicsDF.plot(kind='pie', y='index', ax=axKeywords, colors='#'+keywordsDF['keywordColor'])
 
-newsDf2 = newsDf[newsDf['valid']<0.5]
-topicsDF = newsDf2.groupby('feed').count()
+topicsDF = newsDfInvalid.groupby('feed').count()
 topicsDF['feed'] = topicsDF.index
 topicsDF['feedColor'] = topicsDF['feed'].apply( lambda x: feedColors[x])
 print(topicsDF)
@@ -144,7 +145,7 @@ if(not topicsDF.empty):
 #plot = topicsDF.plot(kind='pie', y='index', ax=axKeywords, colors='#'+keywordsDF['keywordColor'])
 
 # Keywords
-keywordsDF = newsDf.groupby('topic').count()
+keywordsDF = newsDfValid.groupby('topic').count()
 keywordsDF['extreme'] = keywordsDF.index
 keywordsDF = keywordsDF.dropna()
 keywordsDF['extremeColor'] = keywordsDF['extreme'].apply( lambda x: extremeColors[x])
@@ -509,7 +510,7 @@ def getDay(dateString):
 
 #topics per date
 indexTopics = {}
-for index, column in newsDf.iterrows():
+for index, column in newsDfValid.iterrows():
     dayDate = getDay(column.published)
     if(not dayDate in indexTopics):
         indexTopics[dayDate] = {}
