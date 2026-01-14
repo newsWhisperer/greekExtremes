@@ -9,7 +9,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '41016f45c9',extremes,Precipitation,#d60d2b,cmeter,ελληνοαλβανικές πλημμύρες,2025-12-10T03:45:00+00:00,Albania,0.4615281478714018,2,1,el,MED,Europe
 '0817fc48cb',extremes,Fog,#d60d2b,wmo,ομίχλη θράκι,2025-12-19T03:46:00+00:00,Greece,0.44452609597797,2,1,el,MED,Europe
 '4c7fd8a889',extremes,Fog,#d60d2b,wmo,ομίχλη ανατολική Μακεδονία,2025-12-13T03:38:00+00:00,Greece,0.434402639645436,3,1,el,MED,Europe
-'5ae78b36fe',extremes,Fog,#d60d2b,wmo,ομίχλη δυτική Μακεδονία,2025-12-13T03:38:00+00:00,Greece,0.43311406035607025,3,1,el,MED,Europe
+'5ae78b36fe',extremes,Fog,#d60d2b,wmo,ομίχλη δυτική Μακεδονία,2025-12-13T03:38:00+00:00,Greece,0.4331140603560702,3,1,el,MED,Europe
 'cc10b704a7',extremes,Fog,#d60d2b,wmo,ομίχλη θεσσαλία,2025-12-15T03:54:00+00:00,Greece,0.4327866979813293,3,1,el,MED,Europe
 'bf2b5a5b4b',extremes,Fog,#d60d2b,wmo,ομίχλη Ιόνιον νησιά,2025-12-13T03:38:00+00:00,Greece,0.4310323974511531,3,1,el,MED,Europe
 '0d1e3addbf',extremes,Storm,#b3b2b1,wmo,καταιγίδα Βραζιλία,2025-12-14T03:49:00+00:00,Brazil,0.4066834683357608,1,2,el,SAM,South-America
@@ -20,8 +20,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '8ade601e1d',extremes,Precipitation,#d60d2b,wmo,νεροποντή Νέα Ζηλανδία,2025-12-14T03:49:00+00:00,New Zealand,0.2597761259094667,2,1,el,NZ,Oceania
 'ae340540d6',extremes,Precipitation,#d60d2b,wmo,νεροποντή Αργεντινή,2025-12-14T03:49:00+00:00,Argentina,0.2567373039148942,2,1,el,SES,South-America
 'd0cb3b04e6',extremes,Precipitation,#d60d2b,wmo,βροχόπτωση Ισημερινός,2025-12-19T03:46:00+00:00,Ecuador,0.2565045130922088,2,1,el,NWS,South-America
-'5998b1a528',extremes,Thunderstorm,#53785a,wmo,χαλάζι Σεϋχέλλες,2025-12-16T03:47:00+00:00,Seychelles,0.2564126824865342,1,1,el,EIO,Africa
-'d709206c08',extremes,Storm,#b3b2b1,wmo,καταιγίδα reg. 15 κορδιέρες,2025-12-18T03:44:00+00:00,Chile,0.2563243923944449,1,1,el,SWS,South-America
 'e529bb6ac5',extremes,Precipitation,#d60d2b,wmo,βροχή Αργεντινή,2025-12-16T03:47:00+00:00,Argentina,0.2560472089344592,1,1,el,SES,South-America
 '6560ef8c08',extremes,Storm,#b3b2b1,wmo,καταιγίδα litoral,2025-12-19T03:46:00+00:00,Ecuador,0.2560046145109623,1,1,el,NWS,South-America
 '57401e749f',extremes,Storm,#b3b2b1,wmo,καταιγίδα reg. 11 patagonia subandina norte,2025-12-16T03:47:00+00:00,Chile,0.2557408723648934,1,1,el,SWS,South-America
@@ -29,7 +27,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '703b4e32c2',extremes,Thunderstorm,#53785a,wmo,κακοκαιρία Ισλανδία,2025-12-12T03:45:00+00:00,Iceland,0.2555817374865628,1,1,el,GIC,Europe
 'a6e9427fb1',extremes,Earthquake,#870007,usgs,σεισμός Κολομβία,2025-12-12T03:45:00+00:00,Colombia,0.2555300492344965,1,1,el,NWS,South-America
 '63f0055272',extremes,Thunderstorm,#53785a,wmo,σοβαρός καιρός khâi ma pofadder μποφόρ δυτικά,2025-12-16T03:47:00+00:00,South Africa,0.2554906571668149,1,1,el,WSAF,Africa
-'7198046a6d',extremes,Snow&Ice,#d60d2b,wmo,παγωμένη Ισλανδία,2025-12-18T03:44:00+00:00,Iceland,0.2554446606682028,1,1,el,GIC,Europe
+'7198046a6d',extremes,Snow&Ice,#d60d2b,wmo,παγωμένη Ισλανδία,2025-12-18T03:44:00+00:00,Iceland,0.2554446606682028,2,1,el,GIC,Europe
 '66889dc3f2',extremes,Earthquake,#870007,usgs,σεισμός ollagüe,2025-12-14T03:49:00+00:00,Chile,0.2553475237880265,1,1,el,SWS,South-America
 '44c67905ab',extremes,Flood,#030ba1,wmo,flood clackamas ή marion ή,2025-12-13T03:38:00+00:00,United States,0.2553383185582638,1,1,el,CNA,North-America
 'a8ed721e08',extremes,Fog,#d60d2b,wmo,ομίχλη Ινδία,2025-12-15T03:54:00+00:00,India,0.2552528668939319,1,1,el,SAS,Asia
@@ -42,9 +40,11 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '88f49d6040',extremes,Storm,#b3b2b1,wmo,καταιγίδα zona sur,2025-12-19T03:46:00+00:00,Ecuador,0.218667669676795,2,1,el,NWS,South-America
 'bdc1b5c069',extremes,Storm,#b3b2b1,wmo,καταιγίδα Μπαχρέιν,2025-12-19T03:46:00+00:00,Bahrain,0.2181541511140085,2,1,el,ARP,Asia
 'f3823dead6',extremes,Storm,#b3b2b1,wmo,κύμα καταιγίδας amazonía ecuatoriana,2025-12-18T03:44:00+00:00,Ecuador,0.2181292385787055,2,1,el,NWS,South-America
+'5998b1a528',extremes,Thunderstorm,#53785a,wmo,χαλάζι Σεϋχέλλες,2025-12-16T03:47:00+00:00,Seychelles,0.21795078011355407,2,1,el,EIO,Africa
 '3421a57149',extremes,Storm,#b3b2b1,wmo,καταιγίδα Εκουαδόρ,2025-12-19T03:46:00+00:00,Ecuador,0.217894413515714,2,1,el,NWS,South-America
+'d709206c08',extremes,Storm,#b3b2b1,wmo,καταιγίδα reg. 15 κορδιέρες,2025-12-18T03:44:00+00:00,Chile,0.21787573353527814,2,1,el,SWS,South-America
 '8bc0bfe218',extremes,Precipitation,#d60d2b,wmo,καταρρακτώδης βροχή Βραζιλία,2025-12-18T03:44:00+00:00,Brazil,0.2177472148280708,2,1,el,SAM,South-America
 '1512f21012',extremes,Precipitation,#d60d2b,wmo,κατακρήμνιση litoral,2025-12-18T03:44:00+00:00,Ecuador,0.2177320565694194,2,1,el,NWS,South-America
-'2cfcf7a5d7',extremes,Storm,#b3b2b1,wmo,καταιγίδα مملكة البحرين والمناطق المحيطة بها,2025-12-19T03:46:00+00:00,Bahrain,0.21745192892658702,2,1,el,ARP,Asia
+'2cfcf7a5d7',extremes,Storm,#b3b2b1,wmo,καταιγίδα مملكة البحرين والمناطق المحيطة بها,2025-12-19T03:46:00+00:00,Bahrain,0.217451928926587,2,1,el,ARP,Asia
 'cc845dcf1a',extremes,Landslide,#572c03,wmo,τμήματα κατολίσθησης βράχου rogaland και γιλέκο agder,2025-12-18T03:44:00+00:00,Norway,0.217012561522541,2,1,el,NEU,Europe
-'7c2a177b68',extremes,Wildfire,#d60d2b,wmo,wildfire victoria mallee and wimmera,2025-12-19T03:46:00+00:00,Australia,0.2169384936057455,2,1,el,CAU,Oceania
+'7c2a177b68',extremes,Wildfire,#d60d2b,wmo,wildfire victoria mallee and wimmera,2025-12-19T03:46:00+00:00,Australia,0.18439771956488366,3,1,el,CAU,Oceania
