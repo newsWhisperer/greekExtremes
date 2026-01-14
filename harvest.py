@@ -638,11 +638,12 @@ for m in [0,20,40,60]:
 def inqMailNews():
     foundNew = False
     keyWord = 'veryUnusualAndNeverUsedKeyword'
-
+    '''
     ghToken = os.getenv('EXTREME_GH_TOKEN')
     if(ghToken == 'ghp_1a2b3c4d5e6f7a8b9c0d1e2f3a4b5c6d7e8f'): 
         print('Please set EXTREME_GH_TOKEN in file: mysecrets.py');
         return None
+    '''    
 
     language = os.getenv('EXTREME_LANGUAGE')
     if (language == 'xx'):
@@ -652,7 +653,8 @@ def inqMailNews():
     for currMonth in currentMonths:
        extremesFile = "https://github.com/pg-ufr-news/mailHarvester/blob/main/csv/extreme/"+language+"/news_"+currMonth+".csv?raw=true"
        print(extremesFile)
-       extremesRequest = requests.get(extremesFile, headers={'Accept': 'text/plain', 'Authorization':'token '+ghToken})
+       ##extremesRequest = requests.get(extremesFile, headers={'Accept': 'text/plain', 'Authorization':'token '+ghToken})
+       extremesRequest = requests.get(extremesFile, headers={'Accept': 'text/plain'})
        print(extremesRequest)   
        if(extremesRequest.status_code == 200):
           extremesDf=pd.read_csv(io.StringIO(extremesRequest.content.decode('utf-8')), delimiter=',', index_col='index')
