@@ -434,7 +434,6 @@ def extractData(article, language, keyWord, topic, feed, country, ipcc, continen
     published = '1970-01-01T00:00:00'
     if('publishedAt' in article):    
         published = article['publishedAt']
-          published = '1970-01-01T00:00:00'
     if('published' in article):    
         published = article['published']
     content = article['content']
