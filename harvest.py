@@ -434,6 +434,9 @@ def extractData(article, language, keyWord, topic, feed, country, ipcc, continen
     published = '1970-01-01T00:00:00'
     if('publishedAt' in article):    
         published = article['publishedAt']
+          published = '1970-01-01T00:00:00'
+    if('published' in article):    
+        published = article['published']
     content = article['content']
     hashStr = hashlib.sha256(url.encode()).hexdigest()[:32]
     data = {'url':url, 'valid':0, 'domain':domain,'published':published, 'description':description, 'title':title, 'added':str(dtNow), 'hash':hashStr,
