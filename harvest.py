@@ -11,6 +11,7 @@ import glob
 
 import aiohttp
 import asyncio
+import io
 import requests
 from urllib.parse import urlparse
 import urllib
@@ -34,7 +35,6 @@ from deep_translator import GoogleTranslator
 DATA_PATH = Path.cwd()
 
 dtNow = datetime.datetime.fromtimestamp(int(time.time()), datetime.UTC)
-dtLastMonth = datetime.datetime.fromtimestamp(int(time.time())-60*60*24*30, datetime.UTC)
 ##dtNow = datetime.datetime.fromtimestamp(int(time.time()) )
 
 '''
@@ -50,6 +50,7 @@ def getAge(dateString):
     dateString = dateString[0:19]+'+00:00'
     #dateString
     today = datetime.datetime.now(datetime.UTC)
+    ##today = datetime.datetime.utcnow().replace(tzinfo=None)
     timeDate = -1
     pubDate = None
     try:
@@ -65,6 +66,7 @@ def getAge(dateString):
         e=2   
     if(pubDate):
         timeDate = today - pubDate
+        ##timeDate = today - pubDate.replace(tzinfo=None)
         timeDate = timeDate.days 
     return timeDate
 
@@ -636,14 +638,21 @@ for m in [0,20,40,60]:
 def inqMailNews():
     foundNew = False
     keyWord = 'veryUnusualAndNeverUsedKeyword'
+
+    ghToken = os.getenv('EXTREME_GH_TOKEN')
+    if(ghToken == 'ghp_1a2b3c4d5e6f7a8b9c0d1e2f3a4b5c6d7e8f'): 
+        print('Please set EXTREME_GH_TOKEN in file: mysecrets.py');
+        return None
+
     language = os.getenv('EXTREME_LANGUAGE')
     if (language == 'xx'):
       print('Please set EXTREME_LANGUAGE in file: mysecrets.py');
       return None
+
     for currMonth in currentMonths:
        extremesFile = "https://github.com/pg-ufr-news/mailHarvester/blob/main/csv/extreme/"+language+"/news_"+currMonth+".csv?raw=true"
        print(extremesFile)
-       extremesRequest = requests.get(extremesFile, headers={'Accept': 'text/plain'})
+       extremesRequest = requests.get(extremesFile, headers={'Accept': 'text/plain', 'Authorization':'token '+ghToken})
        print(extremesRequest)   
        if(extremesRequest.status_code == 200):
           extremesDf=pd.read_csv(io.StringIO(extremesRequest.content.decode('utf-8')), delimiter=',', index_col='index')
@@ -655,9 +664,9 @@ def inqMailNews():
           extremesDict = extremesDf.to_dict('index')
           extremesArray = list(extremesDict.values())
           print(extremesArray)
-          checkedArticles = checkArticlesForKeywords(extremesArray, keywordsDF, keywordsNewsDF2, language, keyWord)          
+          checkedArticles = checkArticlesForKeywords(extremesArray, termsDF, keywordsNewsDF2, language, keyWord, '', 'mail', None, None, None)          
           print(checkedArticles)
-          newArticles = filterNewAndArchive(checkedArticles, language, keyWord)    
+          newArticles = filterNewAndArchive(checkedArticles)    
           for data in newArticles:
                     if (dataIsNotBlocked(data)):                    
                         #print(str(keyWord)+': '+str(title)+' '+str(url))

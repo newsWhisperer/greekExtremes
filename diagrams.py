@@ -41,9 +41,9 @@ extremeColors = {'unknown':'#ffffff', 'Thunderstorm':'#53785a', 'Storm':'#222222
 
 topicColors = {'unknown':'#000000', 'Adaptation':'#0000FF', 'Mitigation':'#00FF00', 'Causes':'#00FFFF', 'Impacts':'#FFFF00', 'Hazard':'#FF0000'}
 
-continentColors = {'unknown':'#d60d2b', 'Asia':'#ffff00', 'Europe':'#ff00ff', 'North-America':'#0000ff', 'Africa':'#ff0000', 'South-America':'#00ff00', 'Oceania':'#00ffff'}
+continentColors = {'unknown':'#d60d2b', 'Asia':'#ffff00', 'Europe':'#ff00ff', 'North-America':'#0000ff', 'Africa':'#ff0000', 'South-America':'#00ff00', 'Oceania':'#00ffff', 'Pacific Ocean':'#88ff00', 'Atlantic Ocean':'#00ff88'}
 
-feedColors = {'unknown':'#ffffff', 'mail':'#8888ff', 'meteo':'#008888', 'effis':'#00ff00', 'relief':'#880088', 'edo':'#0000ff', 'fema':'#888800', 'eonet':'#ffff00', 'usgs':'#ffff88', 'eswd':'#ff00ff', 'floodlist':'#ff88ff', 'aidr':'#88ff88', 'random':'#00ffff', 'cmeter':'#ff0088', 'wmo':'#ff0000'}
+feedColors = {'unknown':'#ffffff', 'mail':'#8888ff', 'meteo':'#008888', 'effis':'#00ff00', 'relief':'#880088', 'edo':'#0000ff', 'fema':'#888800', 'eonet':'#ffff00', 'usgs':'#ffff88', 'eswd':'#ff00ff', 'floodlist':'#ff88ff', 'aidr':'#88ff88', 'acwe':'#ff8888', 'random':'#00ffff', 'cmeter':'#ff0088', 'wmo':'#ff0000'}
 
 def getNewsFiles():
     fileName = './cxsv/news_????_??.csv'
@@ -78,6 +78,7 @@ newsDf['description'] = newsDf['description'].fillna('')
 ##newsDf['quote'] = newsDf['quote'].fillna('')
 #newsDf['text'] = newsDf['title'] + ' ' + newsDf['description'] 
 ## newsDf = newsDf[newsDf['valid']>0.5]
+newsDf['en'] = newsDf['en'].fillna('')
 print(newsDf)  
 print(list(newsDf.columns.values))
 newsDfValid = newsDf[newsDf['valid']>0.5]
@@ -105,7 +106,7 @@ print(countriesDF)
 countriesDF['countryColor'] = countriesDF['country'].apply( lambda x: "#{:02x}{:02x}{:02x}".format(random.randint(0, 255),random.randint(0, 255),random.randint(0, 255)))
 countriesDF = countriesDF.sort_values('index', ascending=False)
 axCountries = plt.subplot(gs[0,1])
-axContinents.set_title("Countries", fontsize=24)
+axCountries.set_title("Countries", fontsize=24)
 plot = countriesDF.plot.pie(y='index', ax=axCountries, colors=countriesDF['countryColor'],  labels=countriesDF['country'], legend=False, ylabel='')
 
 # ipcc
@@ -393,7 +394,10 @@ def extractTopPercent(df1, limit=0.95, maxSize=25, counter='count'):
   df2 = df2.sort_values(counter, ascending=False)
   rest = df1[df1['fraction']>limit].sum()
   df2 = df2.head(maxSize)  #todo add to rest...
-  newRow = pd.Series(data={counter:rest, 'fraction':rest/countAll, 'fracSum':1.0}, name='Other')
+  fraction = 0.0
+  if(countAll>0):
+    fraction = rest/countAll
+  newRow = pd.Series(data={counter:rest, 'fraction':fraction, 'fracSum':1.0}, name='Other')
   #df2 = df2.append(newRow, ignore_index=False)
   print(df2[counter])
   #df2 = df2.sort_values([counter], ascending=False)
