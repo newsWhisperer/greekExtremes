@@ -640,12 +640,11 @@ for m in [0,20,40,60]:
 def inqMailNews():
     foundNew = False
     keyWord = 'veryUnusualAndNeverUsedKeyword'
-    '''
+
     ghToken = os.getenv('EXTREME_GH_TOKEN')
     if(ghToken == 'ghp_1a2b3c4d5e6f7a8b9c0d1e2f3a4b5c6d7e8f'): 
         print('Please set EXTREME_GH_TOKEN in file: mysecrets.py');
         return None
-    '''    
 
     language = os.getenv('EXTREME_LANGUAGE')
     if (language == 'xx'):
