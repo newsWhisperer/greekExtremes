@@ -653,10 +653,10 @@ def inqMailNews():
       return None
 
     for currMonth in currentMonths:
-       extremesFile = "https://github.com/pg-ufr-news/mailHarvester/blob/main/csv/extreme/"+language+"/news_"+currMonth+".csv?raw=true"
+       ## extremesFile = "https://github.com/pg-ufr-news/mailHarvester/blob/main/csv/extreme/"+language+"/news_"+currMonth+".csv?raw=true" # raw not working with token
+       extremesFile = "https://raw.githubusercontent.com/pg-ufr-news/mailHarvester/refs/heads/main/csv/extreme/"+language+"/news_"+currMonth+".csv"
        print(extremesFile)
-       ##extremesRequest = requests.get(extremesFile, headers={'Accept': 'text/plain', 'Authorization':'token '+ghToken})
-       extremesRequest = requests.get(extremesFile, headers={'Accept': 'text/plain'})
+       extremesRequest = requests.get(extremesFile, headers={'Accept': 'text/plain', 'Authorization':'token '+ghToken})
        print(extremesRequest)   
        if(extremesRequest.status_code == 200):
           extremesDf=pd.read_csv(io.StringIO(extremesRequest.content.decode('utf-8')), delimiter=',', index_col='index')
