@@ -669,6 +669,7 @@ def inqMailNews():
           print(extremesArray)
           checkedArticles = checkArticlesForKeywords(extremesArray, termsDF, keywordsNewsDF2, language, keyWord, '', 'mail', None, None, None)          
           print(checkedArticles)
+          print('#checked Articles MAIL: '+str(len(checkedArticles)))
           newArticles = filterNewAndArchive(checkedArticles)    
           for data in newArticles:
                     if (dataIsNotBlocked(data)):                    
@@ -802,7 +803,7 @@ def inqRandomNews(maxCount=1):
                   #newLimit = max(currPage+1,limitPages)                
                 print('#found Articles: '+str(len(jsonData['articles'])))
                 checkedArticles = checkArticlesForKeywords(jsonData['articles'], termsDF, keywordsNewsDF2,language, keyWord, topic, feed, country, ipcc, continent)
-                print('#checked Articles: '+str(len(checkedArticles)))
+                print('#checked Articles NEWS: '+str(len(checkedArticles)))
                 print("archive first")
                 newArticles = filterNewAndArchive(checkedArticles)
                 print('#new Articles: '+str(len(newArticles)))
