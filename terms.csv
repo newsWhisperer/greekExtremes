@@ -1,11 +1,12 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
+'648c26f911',extremes,Drought,#edc291,edo,έλλειψη βροχής ελλάδα,2026-01-15T10:57:00+00:00,Greece,0.789320758923659,0,1,el,MED,Europe
 'c9906674b2',extremes,Precipitation,#d60d2b,wmo,κατακρήμνιση Κύπρος,2025-12-09T03:41:00+00:00,Cyprus,0.555707951673672,1,1,el,MED,Europe
 '3dcf00005f',extremes,Drought,#edc291,edo,ξηρασία ελλάδα,2026-01-15T12:14:00+00:00,Greece,0.5253913096929904,1,1,el,MED,Europe
 '5ce15877cd',extremes,Fog,#d60d2b,wmo,ομίχλη ήπειρος,2025-12-11T03:46:00+00:00,Greece,0.5113574806097775,2,1,el,MED,Europe
 '9797aa6299',extremes,Drought,#edc291,edo,έλλειψη βροχής Κύπρος,2025-12-16T03:47:00+00:00,Cyprus,0.5045444387911796,2,1,el,MED,Europe
 '20741ce7eb',extremes,Tsunami,#690191,random,τσουνάμι,2026-01-15T10:39:00+00:00,,0.4998301962723958,1,2,el,,
 '8d4e6fcc3e',extremes,Snow&Ice,#d60d2b,random,χιονοθύελλα,2026-01-15T10:39:00+00:00,,0.4992089666075219,1,2,el,,
-'82d648b882',extremes,Drought,#edc291,random,ξηρασία,2026-01-15T10:39:00+00:00,,0.49895604781910263,1,2,el,,
+'82d648b882',extremes,Drought,#edc291,random,ξηρασία,2026-01-15T10:39:00+00:00,,0.4989560478191026,1,2,el,,
 'f5584b5068',extremes,Fog,#d60d2b,wmo,ομίχλη δυτική στέρεα,2025-12-12T03:45:00+00:00,Greece,0.4961007685912272,2,1,el,MED,Europe
 'c58f3e6e04',extremes,Fog,#d60d2b,wmo,ομίχλη κεντρική μακεδονία,2025-12-11T03:46:00+00:00,Greece,0.4885414910823263,2,1,el,MED,Europe
 '459ec4fcb5',extremes,Fog,#d60d2b,wmo,ομίχλη ανατολική sterea amp evvoia,2025-12-11T03:46:00+00:00,Greece,0.4873054471548402,2,1,el,MED,Europe
@@ -25,9 +26,18 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'ebf0baeb9e',extremes,Drought,#edc291,edo,ξηρασία αλβανία,2026-01-15T10:57:00+00:00,Albania,0.3616195544446514,0,1,el,MED,Europe
 '59b5340b69',extremes,Precipitation,#d60d2b,random,μέτωπο του καιρού,2026-01-15T10:56:00+00:00,,0.3610049868568126,0,1,el,,
 '60a5373b45',extremes,Earthquake,#870007,usgs,σεισμός Κύθηρα,2026-01-15T10:56:00+00:00,Greece,0.3602335187492859,1,1,el,MED,Europe
+'283b154c38',extremes,Wet Spell,#d60d2b,random,βρεγμένο ξόρκι,2026-01-15T12:13:00+00:00,,0.3602027799732853,0,1,el,,
+'ea1c03418f',extremes,Snow&Ice,#d60d2b,random,χιονόνερο,2026-01-15T12:13:00+00:00,,0.3560696110740966,0,1,el,,
 '1c38b19449',extremes,Storm,#b3b2b1,random,μπολ σκόνης,2026-01-15T10:39:00+00:00,,0.3484455631965196,1,1,el,,
 '3fa143a609',extremes,Storm,#b3b2b1,random,χιονοθύελλα σκόνης,2026-01-15T10:39:00+00:00,,0.3484155837900779,1,1,el,,
+'40f675561f',extremes,Heat Wave,#c40202,random,το πιο ζεστό καλοκαίρι,2026-01-15T10:56:00+00:00,,0.34709669002622984,0,1,el,,
+'80462e91eb',extremes,Tropical Cyclone,#4f4f4f,random,κυκλώνας,2026-01-15T10:56:00+00:00,,0.34530689994479846,0,1,el,,
 '7d6aaace1c',extremes,Wildfire,#d60d2b,wmo,πυρκαγιά στην Ινδία,2025-12-19T03:46:00+00:00,India,0.3452454088792543,2,2,el,SAS,Asia
+'55c39b351d',extremes,Storm,#b3b2b1,random,σκόνη διάβολος,2026-01-15T10:56:00+00:00,,0.34341234140124005,0,1,el,,
+'4c8bd3e4d4',extremes,Insect Infestation,#d60d2b,random,ακρίδες,2026-01-15T10:56:00+00:00,,0.3419969009279606,0,1,el,,
+'ea87be5bd8',extremes,Heat Wave,#c40202,random,καυτή θερμοκρασία,2026-01-15T12:13:00+00:00,,0.3378073195500063,0,1,el,,
+'4f9a8ebb25',extremes,Snow&Ice,#d60d2b,random,νυχτερινός παγετός,2026-01-15T10:56:00+00:00,,0.3358596462715496,0,1,el,,
+'ce37661cdd',extremes,Cold Wave,#a7e9fa,random,η πιο κρύα μέρα,2026-01-15T10:56:00+00:00,,0.3353659720171796,0,1,el,,
 '385f9f8a7c',extremes,Fog,#d60d2b,wmo,ομίχλη κυκλάδες,2025-12-19T03:46:00+00:00,Greece,0.3259283558954823,4,1,el,MED,Europe
 '980a973102',extremes,Tropical Cyclone,#4f4f4f,random,κυκλώνας βόμβας,2026-01-15T10:56:00+00:00,,0.3092974987090162,1,1,el,,
 'ab90cfcdd4',extremes,Drought,#edc291,edo,ξηρασία αλβανία,2025-12-15T03:54:00+00:00,Albania,0.2880569838949499,2,1,el,MED,Europe
