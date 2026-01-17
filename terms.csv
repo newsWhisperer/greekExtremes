@@ -1,4 +1,5 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
+'648c26f911',extremes,Drought,#edc291,edo,έλλειψη βροχής ελλάδα,2026-01-15T10:57:00+00:00,Greece,0.789320758923659,0,1,el,MED,Europe
 '3dcf00005f',extremes,Drought,#edc291,edo,ξηρασία ελλάδα,2026-01-15T12:14:00+00:00,Greece,0.5253913096929904,1,1,el,MED,Europe
 '9797aa6299',extremes,Drought,#edc291,edo,έλλειψη βροχής Κύπρος,2025-12-16T03:47:00+00:00,Cyprus,0.5045444387911796,2,1,el,MED,Europe
 '20741ce7eb',extremes,Tsunami,#690191,random,τσουνάμι,2026-01-15T10:39:00+00:00,,0.4998301962723958,1,2,el,,
@@ -32,6 +33,15 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '6f7179aa00',extremes,Volcano,#b83202,eonet,ηφαίστειο Φιλιππίνες,2026-01-15T10:56:00+00:00,Philippines,0.3199774831115323,0,1,el,SEA,Asia
 '7a2481f0b1',extremes,Flood,#030ba1,aidr,ποτάμι που πλημμυρίζει την Αυστραλία,2026-01-15T10:57:00+00:00,Australia,0.3199159511405632,0,1,el,EAU,Oceania
 'ebe314dd99',extremes,Flood,#030ba1,aidr,έντονες βροχοπτώσεις και πλημμύρες Queensland Φεβρουάριος 2020,2026-01-15T10:57:00+00:00,Australia,0.3199146917595632,0,1,el,EAU,Oceania
+'02f56319a7',extremes,Flood,#030ba1,wmo,πλημμύρα αυστραλία,2026-01-15T10:56:00+00:00,Australia,0.3199135658236194,0,1,el,CAU,Oceania
+'3894a694d1',extremes,Flood,#030ba1,aidr,αστραπιαία πλημμύρα Αυστραλία,2026-01-15T10:57:00+00:00,Australia,0.3199061281685654,0,1,el,EAU,Oceania
+'6852666385',extremes,Earthquake,#870007,usgs,σεισμός λιμάνι μαθούριν,2026-01-15T12:13:00+00:00,Mauritius,0.3198614496640228,0,1,el,SIO,Indian Ocean
+'2c38aada07',extremes,Earthquake,#870007,usgs,σεισμός κολχάνη,2026-01-15T12:13:00+00:00,Chile,0.31985962751372576,0,1,el,SWS,South-America
+'3a67915e02',extremes,Earthquake,#870007,usgs,σεισμός Περού,2026-01-15T10:56:00+00:00,Peru,0.3198570624267367,0,1,el,NWS,South-America
+'6bad2a8cbc',extremes,Earthquake,#870007,usgs,σεισμός san agustín de valle fértil,2026-01-15T12:13:00+00:00,Argentina,0.31985378893005517,0,1,el,SES,South-America
+'1a17358ebb',extremes,Tsunami,#690191,usgs,τσουνάμι τομπέλο,2026-01-15T10:56:00+00:00,Indonesia,0.3198470378843532,0,1,el,SEA,Asia
+'26349abe17',extremes,Tsunami,#690191,usgs,σταθμός attu τσουνάμι,2026-01-15T12:13:00+00:00,Alaska,0.31984587829424055,0,1,el,NPO,Pacific Ocean
+'464d595634',extremes,Earthquake,#870007,usgs,σεισμός camiña,2026-01-15T12:13:00+00:00,Chile,0.3198429479823136,0,1,el,SWS,South-America
 '980a973102',extremes,Tropical Cyclone,#4f4f4f,random,κυκλώνας βόμβας,2026-01-15T10:56:00+00:00,,0.3092974987090162,1,1,el,,
 'ebf0baeb9e',extremes,Drought,#edc291,edo,ξηρασία αλβανία,2026-01-15T10:57:00+00:00,Albania,0.3073766212779537,1,1,el,MED,Europe
 '59b5340b69',extremes,Precipitation,#d60d2b,random,μέτωπο του καιρού,2026-01-15T10:56:00+00:00,,0.3068542388282907,1,1,el,,
