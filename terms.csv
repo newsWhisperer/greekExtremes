@@ -24,19 +24,18 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '363ce72927',extremes,Drought,#edc291,edo,ξηρασία αλβανία,2026-01-15T12:14:00+00:00,Albania,0.4050450453017997,2,1,el,MED,Europe
 '5ea4d45f08',extremes,Tropical Cyclone,#4f4f4f,random,στεριά,2026-01-17T03:44:00+00:00,,0.3865098791545205,1,2,el,,
 '469687aa19',extremes,Drought,#edc291,edo,έλλειψη βροχής Αλβανία,2026-01-17T03:44:00+00:00,Albania,0.3860232702312554,1,1,el,MED,Europe
+'8a1a9038c3',extremes,Storm,#b3b2b1,random,χιονοθύελλα,2026-01-15T10:56:00+00:00,,0.37503387527471665,1,2,el,,
 'ce37661cdd',extremes,Cold Wave,#a7e9fa,random,η πιο κρύα μέρα,2026-01-15T10:56:00+00:00,,0.3699294425324122,2,1,el,,
 '1c38b19449',extremes,Storm,#b3b2b1,random,μπολ σκόνης,2026-01-15T10:39:00+00:00,,0.3484455631965196,1,1,el,,
 '3fa143a609',extremes,Storm,#b3b2b1,random,χιονοθύελλα σκόνης,2026-01-15T10:39:00+00:00,,0.3484155837900779,1,1,el,,
 'e0f14a84be',extremes,Tropical Cyclone,#4f4f4f,random,εθνικό κέντρο τυφώνων,2026-01-15T10:39:00+00:00,,0.3475821418682395,1,1,el,,
 '7d6aaace1c',extremes,Wildfire,#d60d2b,wmo,πυρκαγιά στην Ινδία,2025-12-19T03:46:00+00:00,India,0.3452454088792543,2,2,el,SAS,Asia
 '4eacc4be33',extremes,Earthquake,#870007,usgs,σεισμός domokós,2026-01-17T03:44:00+00:00,Greece,0.3428227884366228,1,1,el,MED,Europe
-'8a1a9038c3',extremes,Storm,#b3b2b1,random,χιονοθύελλα,2026-01-15T10:56:00+00:00,,0.3344515297349608,0,1,el,,
 'a4e63fa11b',extremes,Snow&Ice,#d60d2b,random,χειμωνιάτικος,2026-01-17T03:44:00+00:00,,0.3288030269620122,0,1,el,,
 '69791e5a17',extremes,Flood,#030ba1,random,αστραπιαία πλημμύρα,2026-01-17T03:44:00+00:00,,0.3273276085821974,0,1,el,,
 '776fe47817',extremes,Wildfire,#d60d2b,random,πυρκαγιά,2026-01-17T03:44:00+00:00,,0.3226361435783431,0,1,el,,
 '45f861329d',extremes,Landslide,#572c03,aidr,κατολίσθηση λόφους της Αδελαΐδας νότια Αυστραλία,2026-01-15T10:57:00+00:00,Australia,0.3200075473236523,0,1,el,SAU,Oceania
 'a241cba1ba',extremes,Volcano,#b83202,eonet,άμβρυμο ηφαίστειο Βανουάτου,2026-01-15T10:56:00+00:00,Vanuatu,0.3199887686613118,0,1,el,SPO,Oceania
-'7a2481f0b1',extremes,Flood,#030ba1,aidr,ποτάμι που πλημμυρίζει την Αυστραλία,2026-01-15T10:57:00+00:00,Australia,0.3199159511405632,0,1,el,EAU,Oceania
 'ebe314dd99',extremes,Flood,#030ba1,aidr,έντονες βροχοπτώσεις και πλημμύρες Queensland Φεβρουάριος 2020,2026-01-15T10:57:00+00:00,Australia,0.3199146917595632,0,1,el,EAU,Oceania
 '02f56319a7',extremes,Flood,#030ba1,wmo,πλημμύρα αυστραλία,2026-01-15T10:56:00+00:00,Australia,0.3199135658236194,0,1,el,CAU,Oceania
 '3894a694d1',extremes,Flood,#030ba1,aidr,αστραπιαία πλημμύρα Αυστραλία,2026-01-15T10:57:00+00:00,Australia,0.3199061281685654,0,1,el,EAU,Oceania
@@ -62,6 +61,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'ea87be5bd8',extremes,Heat Wave,#c40202,random,καυτή θερμοκρασία,2026-01-15T12:13:00+00:00,,0.2871362216175053,1,1,el,,
 '4f9a8ebb25',extremes,Snow&Ice,#d60d2b,random,νυχτερινός παγετός,2026-01-15T10:56:00+00:00,,0.2854806993308171,1,1,el,,
 '6f7179aa00',extremes,Volcano,#b83202,eonet,ηφαίστειο Φιλιππίνες,2026-01-15T10:56:00+00:00,Philippines,0.2719808606448024,1,1,el,SEA,Asia
+'7a2481f0b1',extremes,Flood,#030ba1,aidr,ποτάμι που πλημμυρίζει την Αυστραλία,2026-01-15T10:57:00+00:00,Australia,0.2719285584694787,1,1,el,EAU,Oceania
 '6852666385',extremes,Earthquake,#870007,usgs,σεισμός λιμάνι μαθούριν,2026-01-15T12:13:00+00:00,Mauritius,0.2718822322144194,1,1,el,SIO,Indian Ocean
 '283b154c38',extremes,Wet Spell,#d60d2b,random,βρεγμένο ξόρκι,2026-01-15T12:13:00+00:00,,0.2602465085306986,2,1,el,,
 'd0cb3b04e6',extremes,Precipitation,#d60d2b,wmo,βροχόπτωση Ισημερινός,2025-12-19T03:46:00+00:00,Ecuador,0.2565045130922088,2,1,el,NWS,South-America
@@ -70,16 +70,8 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '8c64e91fe4',extremes,Precipitation,#d60d2b,wmo,περιοχές βροχόπτωσης των περιοχών lindi και mtwara.,2025-12-18T03:44:00+00:00,Tanzania,0.2557393110654636,1,1,el,SEAF,Africa
 '63f0055272',extremes,Thunderstorm,#53785a,wmo,σοβαρός καιρός khâi ma pofadder μποφόρ δυτικά,2025-12-16T03:47:00+00:00,South Africa,0.2554906571668149,1,1,el,WSAF,Africa
 '7198046a6d',extremes,Snow&Ice,#d60d2b,wmo,παγωμένη Ισλανδία,2025-12-18T03:44:00+00:00,Iceland,0.2554446606682028,2,1,el,GIC,Europe
-'a8ed721e08',extremes,Fog,#d60d2b,wmo,ομίχλη Ινδία,2025-12-15T03:54:00+00:00,India,0.2552528668939319,1,1,el,SAS,Asia
 '0c663115df',extremes,Snow&Ice,#d60d2b,wmo,χιονοστιβάδα Νέα Ζηλανδία,2025-12-18T03:44:00+00:00,New Zealand,0.2552177495059561,1,1,el,NZ,Oceania
 '8d6eb5f6e2',extremes,Precipitation,#d60d2b,wmo,νεροποντή zona sur,2025-12-19T03:46:00+00:00,Ecuador,0.2225087615019164,2,1,el,NWS,South-America
-'bed53cc600',extremes,Precipitation,#d60d2b,wmo,νεροποντή Βραζιλία,2025-12-18T03:44:00+00:00,Brazil,0.2224833242669587,2,1,el,SAM,South-America
 '88f49d6040',extremes,Storm,#b3b2b1,wmo,καταιγίδα zona sur,2025-12-19T03:46:00+00:00,Ecuador,0.218667669676795,2,1,el,NWS,South-America
 'bdc1b5c069',extremes,Storm,#b3b2b1,wmo,καταιγίδα Μπαχρέιν,2025-12-19T03:46:00+00:00,Bahrain,0.2181541511140085,2,1,el,ARP,Asia
-'f3823dead6',extremes,Storm,#b3b2b1,wmo,κύμα καταιγίδας amazonía ecuatoriana,2025-12-18T03:44:00+00:00,Ecuador,0.2181292385787055,2,1,el,NWS,South-America
-'3421a57149',extremes,Storm,#b3b2b1,wmo,καταιγίδα Εκουαδόρ,2025-12-19T03:46:00+00:00,Ecuador,0.217894413515714,2,1,el,NWS,South-America
-'d709206c08',extremes,Storm,#b3b2b1,wmo,καταιγίδα reg. 15 κορδιέρες,2025-12-18T03:44:00+00:00,Chile,0.2178757335352781,2,1,el,SWS,South-America
-'8bc0bfe218',extremes,Precipitation,#d60d2b,wmo,καταρρακτώδης βροχή Βραζιλία,2025-12-18T03:44:00+00:00,Brazil,0.2177472148280708,2,1,el,SAM,South-America
-'1512f21012',extremes,Precipitation,#d60d2b,wmo,κατακρήμνιση litoral,2025-12-18T03:44:00+00:00,Ecuador,0.2177320565694194,2,1,el,NWS,South-America
 '2cfcf7a5d7',extremes,Storm,#b3b2b1,wmo,καταιγίδα مملكة البحرين والمناطق المحيطة بها,2025-12-19T03:46:00+00:00,Bahrain,0.217451928926587,2,1,el,ARP,Asia
-'cc845dcf1a',extremes,Landslide,#572c03,wmo,τμήματα κατολίσθησης βράχου rogaland και γιλέκο agder,2025-12-18T03:44:00+00:00,Norway,0.217012561522541,2,1,el,NEU,Europe
