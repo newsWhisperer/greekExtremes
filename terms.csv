@@ -15,6 +15,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '4c8bd3e4d4',extremes,Insect Infestation,#d60d2b,random,ακρίδες,2026-01-15T10:56:00+00:00,,0.4408473807887665,1,2,el,,
 'c0ea0632ba',extremes,Heat Wave,#c40202,random,θερμότητα,2026-01-15T10:39:00+00:00,,0.4392290329048748,1,2,el,,
 'd7e7f876eb',extremes,Storm,#b3b2b1,wmo,καταιγίδα κρίτη,2026-01-18T03:57:00+00:00,Greece,0.4328032753223412,2,1,el,MED,Europe
+'de3b36bacb',extremes,Thunderstorm,#53785a,random,έντονα καιρικά φαινόμενα,2026-01-20T03:55:00+00:00,,0.43074848074865557,1,2,el,,
 'a4e63fa11b',extremes,Snow&Ice,#d60d2b,random,χειμωνιάτικος,2026-01-17T03:44:00+00:00,,0.4303826629177103,1,2,el,,
 '776fe47817',extremes,Wildfire,#d60d2b,random,πυρκαγιά,2026-01-17T03:44:00+00:00,,0.4291934670415915,1,3,el,,
 '845dd2d698',extremes,Storm,#b3b2b1,random,ανεμοστρόβιλος,2026-01-17T03:44:00+00:00,,0.4283313173314595,1,2,el,,
@@ -37,11 +38,9 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '58a2a6944e',extremes,Storm,#b3b2b1,wmo,καταιγίδα ανατολική Πελοπόννησος,2026-01-18T03:57:00+00:00,Greece,0.3726100695252348,3,1,el,MED,Europe
 'ce37661cdd',extremes,Cold Wave,#a7e9fa,random,η πιο κρύα μέρα,2026-01-15T10:56:00+00:00,,0.3699294425324122,2,1,el,,
 '6b7e025bb3',extremes,Storm,#b3b2b1,random,ανεμοστρόβιλος,2026-01-15T10:56:00+00:00,,0.3692938979395729,2,1,el,,
-'d59a7e48d7',extremes,Drought,#edc291,random,εξατμισοδιαπνοή,2026-01-20T03:55:00+00:00,,0.3682311994791814,0,1,el,,
 'af3396aaaf',extremes,Drought,#edc291,edo,ξηρασία Ελλάδα,2026-01-17T03:44:00+00:00,Greece,0.3677869719719949,2,1,el,MED,Europe
 '1c38b19449',extremes,Storm,#b3b2b1,random,μπολ σκόνης,2026-01-15T10:39:00+00:00,,0.3484455631965196,1,1,el,,
 '3fa143a609',extremes,Storm,#b3b2b1,random,χιονοθύελλα σκόνης,2026-01-15T10:39:00+00:00,,0.3484155837900779,1,1,el,,
-'de3b36bacb',extremes,Thunderstorm,#53785a,random,έντονα καιρικά φαινόμενα,2026-01-20T03:55:00+00:00,,0.3480532759672765,0,1,el,,
 'e0f14a84be',extremes,Tropical Cyclone,#4f4f4f,random,εθνικό κέντρο τυφώνων,2026-01-15T10:39:00+00:00,,0.3475821418682395,1,1,el,,
 '4eacc4be33',extremes,Earthquake,#870007,usgs,σεισμός domokós,2026-01-17T03:44:00+00:00,Greece,0.3428227884366228,1,1,el,MED,Europe
 '5b8cf400f9',extremes,Iceberg,#d60d2b,random,iceberg caving,2026-01-19T04:02:00+00:00,,0.3348794352955919,1,1,el,,
@@ -65,6 +64,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '1133ce1349',extremes,Earthquake,#870007,usgs,σεισμός Κόστα Ρίκα,2026-01-15T12:13:00+00:00,Costa Rica,0.3197730547566457,0,1,el,SCA,South-America
 'c685705bbd',extremes,Earthquake,#870007,usgs,σεισμός Κίνα,2026-01-15T10:56:00+00:00,China,0.3197726066176344,0,1,el,EAS,Asia
 '6bf5e2061d',extremes,Earthquake,#870007,usgs,σεισμός κάστρο,2026-01-15T10:56:00+00:00,New Zealand,0.3197713996694106,0,1,el,NZ,Oceania
+'d59a7e48d7',extremes,Drought,#edc291,random,εξατμισοδιαπνοή,2026-01-20T03:55:00+00:00,,0.31299651955730423,1,1,el,,
 '980a973102',extremes,Tropical Cyclone,#4f4f4f,random,κυκλώνας βόμβας,2026-01-15T10:56:00+00:00,,0.3092974987090162,1,1,el,,
 'ebf0baeb9e',extremes,Drought,#edc291,edo,ξηρασία αλβανία,2026-01-15T10:57:00+00:00,Albania,0.3073766212779537,1,1,el,MED,Europe
 '60a5373b45',extremes,Earthquake,#870007,usgs,σεισμός Κύθηρα,2026-01-15T10:56:00+00:00,Greece,0.306198490936893,2,1,el,MED,Europe
