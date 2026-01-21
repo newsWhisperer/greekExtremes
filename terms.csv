@@ -1,11 +1,11 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'47a71b6762',extremes,Thunderstorm,#53785a,wmo,έντονα καιρικά φαινόμενα στην Ελλάδα,2026-01-21T03:56:00+00:00,Greece,0.7382539423304526,0,1,el,MED,Europe
-'3d78159313',extremes,Thunderstorm,#53785a,wmo,καταιγίδα ελλάδα,2026-01-21T03:56:00+00:00,Greece,0.7255545881557435,0,1,el,MED,Europe
 'b94749b467',extremes,Snow&Ice,#d60d2b,wmo,χιόνι στην Ελλάδα,2026-01-20T03:56:00+00:00,Greece,0.7254411439076665,1,2,el,MED,Europe
 '6fd5acddee',extremes,Storm,#b3b2b1,wmo,καταιγίδα ελλάδα,2026-01-20T03:56:00+00:00,Greece,0.7165049555762187,0,1,el,MED,Europe
 '10a1d9dbe1',extremes,Precipitation,#d60d2b,wmo,βροχόπτωση ελλάδα,2026-01-21T03:56:00+00:00,Greece,0.6954745821257933,0,1,el,MED,Europe
 '08979c65d6',extremes,Snow&Ice,#d60d2b,wmo,παγωμένη Ελλάδα,2026-01-20T03:56:00+00:00,Greece,0.6873077492118013,1,2,el,MED,Europe
 'e17ce8f9be',extremes,Snow&Ice,#d60d2b,wmo,παγετός ελλάδα,2026-01-20T03:56:00+00:00,Greece,0.6793566726526181,0,1,el,MED,Europe
+'3d78159313',extremes,Thunderstorm,#53785a,wmo,καταιγίδα ελλάδα,2026-01-21T03:56:00+00:00,Greece,0.6774714749323819,1,1,el,MED,Europe
+'47a71b6762',extremes,Thunderstorm,#53785a,wmo,έντονα καιρικά φαινόμενα στην Ελλάδα,2026-01-21T03:56:00+00:00,Greece,0.6275158509808847,1,1,el,MED,Europe
 '1caafaca2a',extremes,Storm,#b3b2b1,wmo,κύμα καταιγίδας ελλάδα,2026-01-21T03:56:00+00:00,Greece,0.5873749056396529,1,1,el,MED,Europe
 'c316300df0',extremes,Storm,#b3b2b1,wmo,κύμα καταιγίδας ιοννήσια,2026-01-21T03:56:00+00:00,Greece,0.5738312603427803,1,1,el,MED,Europe
 '1368a0b03f',extremes,Storm,#b3b2b1,wmo,κύμα καταιγίδας θεσσαλία,2026-01-21T03:56:00+00:00,Greece,0.5713441692637209,1,1,el,MED,Europe
@@ -54,7 +54,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'e0f14a84be',extremes,Tropical Cyclone,#4f4f4f,random,εθνικό κέντρο τυφώνων,2026-01-15T10:39:00+00:00,,0.3475821418682395,1,1,el,,
 '4eacc4be33',extremes,Earthquake,#870007,usgs,σεισμός domokós,2026-01-17T03:44:00+00:00,Greece,0.3428227884366228,1,1,el,MED,Europe
 '5b8cf400f9',extremes,Iceberg,#d60d2b,random,iceberg caving,2026-01-19T04:02:00+00:00,,0.3348794352955919,1,1,el,,
-'43165fdae0',extremes,Earthquake,#870007,usgs,σεισμός villa basilio nievas,2026-01-15T12:13:00+00:00,Argentina,0.3198169230889903,0,1,el,SWS,South-America
 '01e4b0cc71',extremes,Earthquake,#870007,usgs,σεισμός kuril’sk,2026-01-15T10:56:00+00:00,Russia,0.3198107857016188,0,1,el,EAS,Asia
 'e1256a9495',extremes,Tsunami,#690191,usgs,τσουνάμι ράντσο viejo,2026-01-15T10:56:00+00:00,Mexico,0.3198089224614129,0,1,el,SCA,North-America
 'f8fc7b9a8d',extremes,Tsunami,#690191,usgs,τσουνάμι γιακουτάτ,2026-01-15T10:56:00+00:00,Canada,0.319808672196729,0,1,el,NWN,North-America
@@ -109,6 +108,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '73d01d320c',extremes,Earthquake,#870007,usgs,σεισμός Αφγανιστάν,2026-01-15T12:13:00+00:00,Afghanistan,0.2718481300815867,1,1,el,WCA,Asia
 'f4e7397282',extremes,Tsunami,#690191,usgs,λιμάνι τσουνάμι Άλσγουορθ,2026-01-15T10:56:00+00:00,United States,0.2718481108233403,1,1,el,NWN,North-America
 '072f41af80',extremes,Earthquake,#870007,usgs,σεισμός aratoca,2026-01-15T10:56:00+00:00,Colombia,0.2718445019598915,1,1,el,NWS,South-America
+'43165fdae0',extremes,Earthquake,#870007,usgs,σεισμός villa basilio nievas,2026-01-15T12:13:00+00:00,Argentina,0.27184438462564176,1,1,el,SWS,South-America
 'e551102071',extremes,Earthquake,#870007,usgs,σεισμός Βανουάτου,2026-01-15T10:56:00+00:00,Vanuatu,0.2718364448910137,1,1,el,SPO,Pacific Ocean
 'f5e86f8f49',extremes,Earthquake,#870007,usgs,σεισμός Σαν Μιγκέλ,2026-01-15T10:56:00+00:00,Ecuador,0.2718355863827519,1,1,el,NWS,South-America
 'e6998a615e',extremes,Earthquake,#870007,usgs,σεισμός murghob,2026-01-15T12:13:00+00:00,Tajikistan,0.2718342128109323,1,1,el,WCA,Asia
