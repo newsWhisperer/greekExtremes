@@ -1,4 +1,6 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
+'648c26f911',extremes,Drought,#edc291,edo,έλλειψη βροχής ελλάδα,2026-01-15T10:57:00+00:00,Greece,0.789320758923659,0,1,el,MED,Europe
+'3b5fd3f9c6',extremes,Thunderstorm,#53785a,wmo,έντονα καιρικά φαινόμενα Κύπρος,2026-01-24T03:48:00+00:00,Cyprus,0.7386217020171584,0,1,el,MED,Europe
 '3d78159313',extremes,Thunderstorm,#53785a,wmo,καταιγίδα ελλάδα,2026-01-21T03:56:00+00:00,Greece,0.6774714749323819,1,1,el,MED,Europe
 '6fd5acddee',extremes,Storm,#b3b2b1,wmo,καταιγίδα ελλάδα,2026-01-20T03:56:00+00:00,Greece,0.6697792872397859,1,1,el,MED,Europe
 '08979c65d6',extremes,Snow&Ice,#d60d2b,wmo,παγωμένη Ελλάδα,2026-01-20T03:56:00+00:00,Greece,0.659511616830031,2,2,el,MED,Europe
@@ -13,6 +15,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'cd28fc481a',extremes,Fog,#d60d2b,wmo,ομίχλη ελλάδα,2026-01-23T04:03:00+00:00,Greece,0.5720920918715593,1,1,el,MED,Europe
 'c3eac47bb6',extremes,Storm,#b3b2b1,wmo,καταιγίδα ανατολική Πελοπόννησος,2026-01-20T03:56:00+00:00,Greece,0.5605059834164232,1,1,el,MED,Europe
 'dfc27fa2c9',extremes,Thunderstorm,#53785a,wmo,χαλάζι σε νησιά βορειοανατολικού Αιγαίου,2026-01-23T04:03:00+00:00,Greece,0.5549635519877677,1,1,el,MED,Europe
+'6e109815e7',extremes,Precipitation,#d60d2b,wmo,βροχόπτωση κεντρική μακεδονία,2026-01-21T03:56:00+00:00,Greece,0.5495087846645917,0,1,el,MED,Europe
 'b8f9601f46',extremes,Precipitation,#d60d2b,wmo,καταρρακτώδης βροχή ανατολική Μακεδονία,2026-01-21T03:56:00+00:00,Greece,0.5295560204391813,1,1,el,MED,Europe
 '4afbdf166e',extremes,Storm,#b3b2b1,wmo,κύμα καταιγίδας δυτική Στερεά,2026-01-21T03:56:00+00:00,Greece,0.527806840750778,1,1,el,MED,Europe
 'edd8cedd5a',extremes,Storm,#b3b2b1,wmo,καταιγίδα κρήτι,2026-01-23T04:03:00+00:00,Greece,0.5212277299649555,1,1,el,MED,Europe
@@ -34,7 +37,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '859043b732',extremes,Thunderstorm,#53785a,wmo,καταιγίδα νησιά βορειοανατολικού Αιγαίου,2026-01-22T03:59:00+00:00,Greece,0.4627559839733683,1,1,el,MED,Europe
 '0a98fdd376',extremes,Snow Avalanche,#deddd5,random,χιονοστιβάδα,2026-01-23T04:02:00+00:00,,0.4626617148148613,1,3,el,,
 '62084daeb0',extremes,Earthquake,#870007,random,σεισμός,2026-01-15T10:39:00+00:00,,0.4623258421641465,1,3,el,,
-'ef54296dab',extremes,Snow&Ice,#d60d2b,random,πάγος,2026-01-23T04:02:00+00:00,,0.46184923739096867,1,2,el,,
+'ef54296dab',extremes,Snow&Ice,#d60d2b,random,πάγος,2026-01-23T04:02:00+00:00,,0.4618492373909686,1,2,el,,
 '82abc377db',extremes,Precipitation,#d60d2b,wmo,βροχή ιοννήσια,2026-01-21T03:56:00+00:00,Greece,0.4584495526855864,2,1,el,MED,Europe
 '560b05d603',extremes,Heat Wave,#c40202,random,κύμα καύσωνα,2026-01-18T03:56:00+00:00,,0.4528020478145248,3,1,el,,
 'cbb1b9d52b',extremes,Precipitation,#d60d2b,wmo,νεροποντή νησιά Δωδεκάνησα,2026-01-22T03:59:00+00:00,Greece,0.4509088416903603,2,1,el,MED,Europe
@@ -43,6 +46,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '3dcf00005f',extremes,Drought,#edc291,edo,ξηρασία ελλάδα,2026-01-15T12:14:00+00:00,Greece,0.4465826132390418,2,1,el,MED,Europe
 '80462e91eb',extremes,Tropical Cyclone,#4f4f4f,random,κυκλώνας,2026-01-15T10:56:00+00:00,,0.4439609099530787,1,2,el,,
 '4c8bd3e4d4',extremes,Insect Infestation,#d60d2b,random,ακρίδες,2026-01-15T10:56:00+00:00,,0.4408473807887665,1,2,el,,
+'9797aa6299',extremes,Drought,#edc291,edo,έλλειψη βροχής Κύπρος,2026-01-24T03:49:00+00:00,Cyprus,0.4395165590691483,0,1,el,MED,Europe
 'c0ea0632ba',extremes,Heat Wave,#c40202,random,θερμότητα,2026-01-15T10:39:00+00:00,,0.4392290329048748,1,2,el,,
 'd7e7f876eb',extremes,Storm,#b3b2b1,wmo,καταιγίδα κρίτη,2026-01-18T03:57:00+00:00,Greece,0.4328032753223412,2,1,el,MED,Europe
 '4130a75ccf',extremes,Thunderstorm,#53785a,wmo,χαλάζι ελλάδα,2026-01-21T03:56:00+00:00,Greece,0.430814020692523,2,1,el,MED,Europe
@@ -64,6 +68,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '363ce72927',extremes,Drought,#edc291,edo,ξηρασία αλβανία,2026-01-15T12:14:00+00:00,Albania,0.4050450453017997,2,1,el,MED,Europe
 '5ea4d45f08',extremes,Tropical Cyclone,#4f4f4f,random,στεριά,2026-01-17T03:44:00+00:00,,0.3865098791545205,1,2,el,,
 '469687aa19',extremes,Drought,#edc291,edo,έλλειψη βροχής Αλβανία,2026-01-17T03:44:00+00:00,Albania,0.3860232702312554,1,1,el,MED,Europe
+'b073fed5b4',extremes,Snow&Ice,#d60d2b,random,παγετός,2026-01-24T03:48:00+00:00,,0.38463385508031883,0,1,el,,
 '8d4e6fcc3e',extremes,Snow&Ice,#d60d2b,random,χιονοθύελλα,2026-01-15T10:39:00+00:00,,0.3837143995553443,4,1,el,,
 'c3d0e3b068',extremes,Snow&Ice,#d60d2b,random,πάγωμα,2026-01-22T03:59:00+00:00,,0.3794137203077339,0,1,el,,
 'b24c0517bf',extremes,Cold Wave,#a7e9fa,random,βυθίσεις υδραργύρου,2026-01-22T03:59:00+00:00,,0.3767178110878088,0,1,el,,
@@ -73,6 +78,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '58a2a6944e',extremes,Storm,#b3b2b1,wmo,καταιγίδα ανατολική Πελοπόννησος,2026-01-18T03:57:00+00:00,Greece,0.3726100695252348,3,1,el,MED,Europe
 '491cc61ca3',extremes,Drought,#edc291,edo,ξηρασία ελλάδα,2026-01-22T04:00:00+00:00,Greece,0.3707399134034952,1,1,el,MED,Europe
 'ce37661cdd',extremes,Cold Wave,#a7e9fa,random,η πιο κρύα μέρα,2026-01-15T10:56:00+00:00,,0.3699294425324122,2,1,el,,
+'8b4587c763',extremes,Storm,#b3b2b1,random,καταιγίδα σκόνης,2026-01-24T03:48:00+00:00,,0.3694329533406308,0,1,el,,
 '6b7e025bb3',extremes,Storm,#b3b2b1,random,ανεμοστρόβιλος,2026-01-15T10:56:00+00:00,,0.3692938979395729,2,1,el,,
 'af3396aaaf',extremes,Drought,#edc291,edo,ξηρασία Ελλάδα,2026-01-17T03:44:00+00:00,Greece,0.3677869719719949,2,1,el,MED,Europe
 '3e2894fd0c',extremes,Iceberg,#d60d2b,random,θαλάσσιος πάγος της Ανταρκτικής,2026-01-21T03:55:00+00:00,,0.3657646127310858,0,1,el,,
@@ -87,6 +93,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '5b8cf400f9',extremes,Iceberg,#d60d2b,random,iceberg caving,2026-01-19T04:02:00+00:00,,0.3348794352955919,1,1,el,,
 '053bb10e09',extremes,Heat Wave,#c40202,random,ινδικό καλοκαίρι,2026-01-23T04:02:00+00:00,,0.3246827185180697,0,1,el,,
 'ab90cfcdd4',extremes,Drought,#edc291,edo,ξηρασία Αλβανία,2026-01-21T03:56:00+00:00,Albania,0.3242195834061254,1,1,el,MED,Europe
+'e4c0eb1729',extremes,Wildfire,#d60d2b,random,πυρκαγιά,2026-01-24T03:48:00+00:00,,0.3208888226590353,0,1,el,,
 'e1256a9495',extremes,Tsunami,#690191,usgs,τσουνάμι ράντσο viejo,2026-01-15T10:56:00+00:00,Mexico,0.3198089224614129,0,1,el,SCA,North-America
 '70773b5956',extremes,Earthquake,#870007,usgs,σεισμός αλάσκα,2026-01-15T10:56:00+00:00,Alaska,0.3198017125682,0,1,el,NWN,North-America
 '957a7a09df',extremes,Earthquake,#870007,usgs,σεισμός σταθμός attu,2026-01-15T10:56:00+00:00,Alaska,0.3197938741364492,0,1,el,NPO,Pacific Ocean
@@ -100,6 +107,9 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '1133ce1349',extremes,Earthquake,#870007,usgs,σεισμός Κόστα Ρίκα,2026-01-15T12:13:00+00:00,Costa Rica,0.3197730547566457,0,1,el,SCA,South-America
 'c685705bbd',extremes,Earthquake,#870007,usgs,σεισμός Κίνα,2026-01-15T10:56:00+00:00,China,0.3197726066176344,0,1,el,EAS,Asia
 '6bf5e2061d',extremes,Earthquake,#870007,usgs,σεισμός κάστρο,2026-01-15T10:56:00+00:00,New Zealand,0.3197713996694106,0,1,el,NZ,Oceania
+'f5afb20efd',extremes,Earthquake,#870007,usgs,σεισμός περιοχή νότιων νησιών σάντουιτς,2026-01-15T10:56:00+00:00,,0.3197666649904967,0,1,el,SOO,Antarctica
+'17c827a010',extremes,Earthquake,#870007,usgs,σεισμός Ιαπωνία,2026-01-15T10:56:00+00:00,Japan,0.3197648775137647,0,1,el,EAS,Asia
+'edcb89e9c3',extremes,Earthquake,#870007,usgs,σεισμός Παπούα Νέα Γουινέα,2026-01-15T10:56:00+00:00,Papua New Guinea,0.3197647017684222,0,1,el,SEA,Asia
 'd59a7e48d7',extremes,Drought,#edc291,random,εξατμισοδιαπνοή,2026-01-20T03:55:00+00:00,,0.3129965195573042,1,1,el,,
 '980a973102',extremes,Tropical Cyclone,#4f4f4f,random,κυκλώνας βόμβας,2026-01-15T10:56:00+00:00,,0.3092974987090162,1,1,el,,
 'ebf0baeb9e',extremes,Drought,#edc291,edo,ξηρασία αλβανία,2026-01-15T10:57:00+00:00,Albania,0.3073766212779537,1,1,el,MED,Europe
