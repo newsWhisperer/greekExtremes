@@ -1,4 +1,5 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
+'648c26f911',extremes,Drought,#edc291,edo,έλλειψη βροχής ελλάδα,2026-01-15T10:57:00+00:00,Greece,0.789320758923659,0,1,el,MED,Europe
 '6fd5acddee',extremes,Storm,#b3b2b1,wmo,καταιγίδα ελλάδα,2026-01-20T03:56:00+00:00,Greece,0.6697792872397859,1,1,el,MED,Europe
 'e17ce8f9be',extremes,Snow&Ice,#d60d2b,wmo,παγετός ελλάδα,2026-01-20T03:56:00+00:00,Greece,0.6554534717547255,1,2,el,MED,Europe
 '3d78159313',extremes,Thunderstorm,#53785a,wmo,καταιγίδα ελλάδα,2026-01-21T03:56:00+00:00,Greece,0.6517508436925246,2,2,el,MED,Europe
@@ -70,6 +71,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '923977770d',extremes,Precipitation,#d60d2b,wmo,βροχή κρίτι,2026-01-21T03:56:00+00:00,Greece,0.3944068560013593,3,1,el,MED,Europe
 '5ea4d45f08',extremes,Tropical Cyclone,#4f4f4f,random,στεριά,2026-01-17T03:44:00+00:00,,0.3865098791545205,1,2,el,,
 '469687aa19',extremes,Drought,#edc291,edo,έλλειψη βροχής Αλβανία,2026-01-17T03:44:00+00:00,Albania,0.3860232702312554,1,1,el,MED,Europe
+'c0ae99f2a9',extremes,Precipitation,#d60d2b,random,έντονη βροχόπτωση,2026-01-25T04:05:00+00:00,,0.3857088866428727,0,1,el,,
 '8d4e6fcc3e',extremes,Snow&Ice,#d60d2b,random,χιονοθύελλα,2026-01-15T10:39:00+00:00,,0.3837143995553443,4,1,el,,
 '8a1a9038c3',extremes,Storm,#b3b2b1,random,χιονοθύελλα,2026-01-15T10:56:00+00:00,,0.3750338752747166,1,2,el,,
 '9797aa6299',extremes,Drought,#edc291,edo,έλλειψη βροχής Κύπρος,2026-01-24T03:49:00+00:00,Cyprus,0.373589075208776,1,1,el,MED,Europe
@@ -116,6 +118,14 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'd920e41c1e',extremes,Earthquake,#870007,usgs,σεισμός μεκ'ελέ,2026-01-15T12:13:00+00:00,Ethiopia,0.3197475341186085,0,1,el,NEAF,Africa
 '29aa7b93c5',extremes,Earthquake,#870007,usgs,σεισμός νότια των νησιών Φίτζι,2026-01-15T10:56:00+00:00,,0.3197461987924075,0,1,el,SPO,Pacific Ocean
 '3e36cbc783',extremes,Earthquake,#870007,usgs,σεισμός la concepción,2026-01-15T12:13:00+00:00,Venezuela,0.3197420361636449,0,1,el,NWS,South-America
+'8bf8909453',extremes,Earthquake,#870007,usgs,σεισμός λεβούκα,2026-01-15T10:56:00+00:00,Fiji,0.3197390800577933,0,1,el,SPO,Pacific Ocean
+'9de3c9007e',extremes,Earthquake,#870007,usgs,σεισμός yakutat,2026-01-15T10:56:00+00:00,Alaska,0.3197345887234546,0,1,el,NWN,North-America
+'2fa9116266',extremes,Earthquake,#870007,usgs,σεισμός λιμάνι Άλσγουορθ,2026-01-15T12:13:00+00:00,United States,0.3197340735312253,0,1,el,NWN,North-America
+'b0d647e9d3',extremes,Earthquake,#870007,usgs,σεισμός νοτιοανατολική ινδική κορυφογραμμή,2026-01-15T10:56:00+00:00,,0.3197330455307343,0,1,el,SOO,Antarctica
+'0f6b56852d',extremes,Earthquake,#870007,usgs,σεισμός baculin,2026-01-15T10:56:00+00:00,Philippines,0.31973083171213906,0,1,el,SEA,Asia
+'80f83e2f4e',extremes,Earthquake,#870007,usgs,σεισμός Βολιβία,2026-01-15T12:13:00+00:00,Bolivia,0.31972829453300444,0,1,el,SES,South-America
+'c797f587a9',extremes,Flood,#030ba1,aidr,πλημμύρα boonah Queensland,2026-01-15T10:57:00+00:00,Australia,0.31972742418184474,0,1,el,EAU,Oceania
+'daed8f4597',extremes,Earthquake,#870007,usgs,σεισμός Σομαλία,2026-01-15T12:13:00+00:00,Somalia,0.31972240885217246,0,1,el,NEAF,Africa
 'd59a7e48d7',extremes,Drought,#edc291,random,εξατμισοδιαπνοή,2026-01-20T03:55:00+00:00,,0.3129965195573042,1,1,el,,
 '980a973102',extremes,Tropical Cyclone,#4f4f4f,random,κυκλώνας βόμβας,2026-01-15T10:56:00+00:00,,0.3092974987090162,1,1,el,,
 'ebf0baeb9e',extremes,Drought,#edc291,edo,ξηρασία αλβανία,2026-01-15T10:57:00+00:00,Albania,0.3073766212779537,1,1,el,MED,Europe
