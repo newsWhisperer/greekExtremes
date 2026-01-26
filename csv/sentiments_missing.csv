@@ -1,212 +1,259 @@
 ,phrase,label,sentiment,subjectivity,language,count
-|,|,CARDINAL,,,en,11.799999999999999
-today,today,DATE,,,en,8.4
-Friday,Friday,DATE,,,en,7.1000000000000005
+|,|,CARDINAL,,,en,14.2
+today,today,DATE,,,en,11.6
+Friday,Friday,DATE,,,en,7.800000000000001
+one,one,CARDINAL,,,en,6.9
+Wednesday,Wednesday,DATE,,,en,6.300000000000001
 Thursday,Thursday,DATE,,,en,5.8
 tomorrow,tomorrow,DATE,,,en,5.500000000000001
+6.8,6.8,CARDINAL,,,en,5.5
 second,second,ORDINAL,,,en,5.1000000000000005
+first,first,ORDINAL,,,en,5.000000000000001
 the next few hours,the next few hours,TIME,,,en,5.0
+Sunday,Sunday,DATE,,,en,4.9
 Bad,Bad,WORK_OF_ART,,,en,4.7
+morning,morning,TIME,,,en,4.699999999999999
+2025,2025,DATE,,,en,4.5
+48 hours,48 hours,TIME,,,en,4.4
+Saturday,Saturday,DATE,,,en,4.4
 Dodecanese,Dodecanese,NORP,,,en,4.300000000000001
 4.1,4.1,CARDINAL,,,en,4.2
-morning,morning,TIME,,,en,3.9999999999999996
+10,10,CARDINAL,,,en,4.1000000000000005
 4.4,4.4,CARDINAL,,,en,3.6999999999999997
+two,two,CARDINAL,,,en,3.6999999999999997
 6.5,6.5,CARDINAL,,,en,3.5
-one,one,CARDINAL,,,en,3.5
-Saturday,Saturday,DATE,,,en,3.5
-first,first,ORDINAL,,,en,3.4000000000000004
 3.5,3.5,CARDINAL,,,en,3.4000000000000004
-10,10,CARDINAL,,,en,3.2
-Christmas,Christmas,DATE,,,en,2.8
+afternoon,afternoon,TIME,,,en,3.4
+Monday,Monday,DATE,,,en,3.3
+Greek,Greek,NORP,,,en,3.0
 7,7,CARDINAL,,,en,2.8
 6.2,6.2,CARDINAL,,,en,2.8
+Christmas,Christmas,DATE,,,en,2.8
 tonight,tonight,TIME,,,en,2.8
 Epirus,Epirus,NORP,,,en,2.7
-2025,2025,DATE,,,en,2.7
-48 hours,48 hours,TIME,,,en,2.6
-New Year's Eve,New Year's Eve,EVENT,,,en,2.6
-Sunday,Sunday,DATE,,,en,2.6
 the morning hours,the morning hours,TIME,,,en,2.6
 November,November,DATE,,,en,2.6
-afternoon,afternoon,TIME,,,en,2.5
-yesterday,yesterday,DATE,,,en,2.5
+New Year's Eve,New Year's Eve,EVENT,,,en,2.6
+Three,Three,CARDINAL,,,en,2.5999999999999996
 night,night,TIME,,,en,2.5
+yesterday,yesterday,DATE,,,en,2.5
 New Year,New Year,EVENT,,,en,2.4
-Wednesday,Wednesday,DATE,,,en,2.4
 5.1,5.1,CARDINAL,,,en,2.3
-Greek,Greek,NORP,,,en,2.1
 three days,three days,DATE,,,en,2.0
-the New Year,the New Year,DATE,,,en,1.9
-eight,eight,CARDINAL,,,en,1.9
-New Year's Day,New Year's Day,EVENT,,,en,1.9
+the coming days,the coming days,DATE,,,en,1.9
 the festive three days - Snow,the festive three days - Snow,DATE,,,en,1.9
+New Year's Day,New Year's Day,EVENT,,,en,1.9
+Agios,Agios,NORP,,,en,1.9
+the New Year,the New Year,DATE,,,en,1.9
+Swiss,Swiss,NORP,,,en,1.9
 2 degrees,2 degrees,QUANTITY,,,en,1.9
-Weather,Weather,WORK_OF_ART,,,en,1.9
+Hundreds,Hundreds,CARDINAL,,,en,1.9
 dozens,dozens,CARDINAL,,,en,1.9
+eight,eight,CARDINAL,,,en,1.9
+Weather,Weather,WORK_OF_ART,,,en,1.9
+thousands,thousands,CARDINAL,,,en,1.9
+three,three,CARDINAL,,,en,1.9
 9,9,CARDINAL,,,en,1.8
-3.6,3.6,CARDINAL,,,en,1.7
-8,8,CARDINAL,,,en,1.7
-Ionian,Ionian,NORP,,,en,1.7
-Monday,Monday,DATE,,,en,1.7
-5,5,CARDINAL,,,en,1.7
 Two,Two,CARDINAL,,,en,1.7
+Five,Five,CARDINAL,,,en,1.7
+zero,zero,CARDINAL,,,en,1.7
 Western,Western,NORP,,,en,1.7
-Tuesday,Tuesday,DATE,,,en,1.7
+3.6,3.6,CARDINAL,,,en,1.7
 3,3,CARDINAL,,,en,1.7
 2026,2026,DATE,,,en,1.7
+8,8,CARDINAL,,,en,1.7
+5,5,CARDINAL,,,en,1.7
+Tuesday,Tuesday,DATE,,,en,1.7
+Ionian,Ionian,NORP,,,en,1.7
+hundreds,hundreds,CARDINAL,,,en,1.6
 One,One,CARDINAL,,,en,1.3
-hundreds,hundreds,CARDINAL,,,en,1.3
+10 degrees,10 degrees,QUANTITY,,,en,1.3
 the last few days,the last few days,DATE,,,en,1.3
 442,442,CARDINAL,,,en,1.3
 At least 23,At least 23,CARDINAL,,,en,1.1
+"Today, Monday, December 29","Today, Monday, December 29",DATE,,,en,1.0
+at least two,at least two,CARDINAL,,,en,1.0
+4,4,CARDINAL,,,en,1.0
+the new year,the new year,DATE,,,en,1.0
+$5 billion,$5 billion,MONEY,,,en,1.0
+Mexico | Earthquake | World,Mexico | Earthquake | World,EVENT,,,en,1.0
+January 21,January 21,DATE,,,en,1.0
+"today, Friday, January 2","today, Friday, January 2",DATE,,,en,1.0
+Italian,Italian,NORP,,,en,1.0
+the early hours of Sunday,the early hours of Sunday,TIME,,,en,1.0
+the old year,the old year,DATE,,,en,1.0
+Heroes' Square,Heroes' Square,FAC,,,en,1.0
+New Year's,New Year's,EVENT,,,en,1.0
+| Weather | Frost | Shelly | Frost | Greece,| Weather | Frost | Shelly | Frost | Greece,WORK_OF_ART,,,en,1.0
+19.3 kilometers,19.3 kilometers,QUANTITY,,,en,1.0
+New Year's Weather | Weather | Bad,New Year's Weather | Weather | Bad,EVENT,,,en,1.0
+the first day,the first day,DATE,,,en,1.0
+year,year,DATE,,,en,1.0
+Over 140 millimeters,Over 140 millimeters,QUANTITY,,,en,1.0
+European,European,NORP,,,en,1.0
+Syntagma Square |,Syntagma Square |,FAC,,,en,1.0
 New Year's Weather,New Year's Weather,EVENT,,,en,1.0
+the last few hours,the last few hours,TIME,,,en,1.0
+2026 - Freezing,2026 - Freezing,QUANTITY,,,en,1.0
+6,6,CARDINAL,,,en,1.0
+5.1 about ten minutes later,5.1 about ten minutes later,TIME,,,en,1.0
 "tomorrow, Wednesday, December 31","tomorrow, Wednesday, December 31",DATE,,,en,1.0
+The New Year's Eve,The New Year's Eve,EVENT,,,en,1.0
+recent years,recent years,DATE,,,en,1.0
+The day of,The day of,DATE,,,en,1.0
+New Year's Weather: Footprint for 2026,New Year's Weather: Footprint for 2026,EVENT,,,en,1.0
 04-01-2026,04-01-2026,DATE,,,en,1.0
 the New Year - See,the New Year - See,EVENT,,,en,1.0
 the beginning of November,the beginning of November,DATE,,,en,1.0
-The New Year's Eve,The New Year's Eve,EVENT,,,en,1.0
-New Year's Weather | Weather | Bad,New Year's Weather | Weather | Bad,EVENT,,,en,1.0
-2026 - Freezing,2026 - Freezing,QUANTITY,,,en,1.0
-the old year,the old year,DATE,,,en,1.0
-6,6,CARDINAL,,,en,1.0
-19.3 kilometers,19.3 kilometers,QUANTITY,,,en,1.0
-year,year,DATE,,,en,1.0
-Syntagma Square |,Syntagma Square |,FAC,,,en,1.0
-the next hours,the next hours,TIME,,,en,1.0
-"Today, Monday, December 29","Today, Monday, December 29",DATE,,,en,1.0
-8 degrees,8 degrees,QUANTITY,,,en,1.0
-Albania: Biblical,Albania: Biblical,WORK_OF_ART,,,en,1.0
-Deadly,Deadly,PRODUCT,,,en,1.0
-Christmas Day,Christmas Day,DATE,,,en,1.0
-the small hours,the small hours,TIME,,,en,1.0
-Attiki,Attiki,PRODUCT,,,en,1.0
-the early afternoon,the early afternoon,TIME,,,en,1.0
-Wednesday afternoon,Wednesday afternoon,TIME,,,en,1.0
-Hundreds,Hundreds,CARDINAL,,,en,1.0
-the coming days,the coming days,DATE,,,en,1.0
-The day of,The day of,DATE,,,en,1.0
-three,three,CARDINAL,,,en,1.0
-"more than 1,600","more than 1,600",CARDINAL,,,en,1.0
-Flight,Flight,PRODUCT,,,en,1.0
-32km,32km,QUANTITY,,,en,1.0
-73km,73km,QUANTITY,,,en,1.0
-the week,the week,DATE,,,en,1.0
-next week,next week,DATE,,,en,1.0
-Vonitsa,Vonitsa,WORK_OF_ART,,,en,1.0
-recent years,recent years,DATE,,,en,1.0
-the first day,the first day,DATE,,,en,1.0
-New Year's Weather: Footprint for 2026,New Year's Weather: Footprint for 2026,EVENT,,,en,1.0
-Five,Five,CARDINAL,,,en,1.0
+Tragedy,Tragedy,WORK_OF_ART,,,en,1.0
+"Today, New Year's Day","Today, New Year's Day",DATE,,,en,1.0
+Eight,Eight,CARDINAL,,,en,1.0
+Europe,Europe,PRODUCT,-0.30277777777777776,0.6388888888888888,en,1.0
+10:18 a.m.,10:18 a.m.,TIME,,,en,1.0
+earlier today,earlier today,TIME,,,en,1.0
+Four,Four,CARDINAL,,,en,1.0
+10 kilometers,10 kilometers,QUANTITY,,,en,1.0
+Penteli,Penteli,NORP,,,en,1.0
+Snow |,Snow |,WORK_OF_ART,,,en,1.0
+winter,winter,DATE,,,en,1.0
+the week | Weather | Cold | Greece,the week | Weather | Cold | Greece,DATE,,,en,1.0
+this weekend,this weekend,DATE,,,en,1.0
+18s,18s,DATE,,,en,1.0
+Weather:,Weather:,WORK_OF_ART,,,en,1.0
+Drama Fort,Drama Fort,FAC,,,en,1.0
+"Saturday, January 10","Saturday, January 10",DATE,,,en,1.0
+last weekend,last weekend,DATE,,,en,1.0
+the age of 50,the age of 50,DATE,,,en,1.0
+Two weeks,Two weeks,DATE,,,en,1.0
+Less than two weeks,Less than two weeks,DATE,,,en,1.0
+10%,10%,PERCENT,,,en,1.0
+17,17,CARDINAL,,,en,1.0
+Iranians,Iranians,NORP,,,en,1.0
+a few kilometers,a few kilometers,QUANTITY,,,en,1.0
+one day,one day,DATE,,,en,1.0
+Tonight,Tonight,TIME,,,en,1.0
+half,half,CARDINAL,,,en,1.0
+a few hours,a few hours,TIME,,,en,1.0
+at least nine,at least nine,CARDINAL,,,en,1.0
+the past week,the past week,DATE,,,en,1.0
+French,French,NORP,,,en,1.0
+75%,75%,PERCENT,,,en,1.0
+recent days,recent days,DATE,,,en,1.0
+20,20,CARDINAL,,,en,1.0
+about ten minutes later,about ten minutes later,TIME,,,en,1.0
+-11 degrees Celsius,-11 degrees Celsius,QUANTITY,,,en,1.0
+Six,Six,CARDINAL,,,en,1.0
+| Netherlands,| Netherlands,DATE,,,en,1.0
+6.7,6.7,CARDINAL,,,en,1.0
+Thursday morning,Thursday morning,TIME,,,en,1.0
+| Weather | Epirus,| Weather | Epirus,WORK_OF_ART,,,en,1.0
+First,First,ORDINAL,,,en,1.0
 this afternoon,this afternoon,TIME,,,en,1.0
 30 thousand,30 thousand,CARDINAL,,,en,1.0
 six,six,CARDINAL,,,en,1.0
-20,20,CARDINAL,,,en,1.0
 At least 28,At least 28,CARDINAL,,,en,1.0
+140km,140km,QUANTITY,,,en,1.0
 the morning,the morning,TIME,,,en,1.0
 "Thursday January 8, 2026","Thursday January 8, 2026",DATE,,,en,1.0
 "yesterday, Thursday, January 8","yesterday, Thursday, January 8",DATE,,,en,1.0
-the National Observatory of Athens,the National Observatory of Athens,FAC,,,en,1.0
-10 km,10 km,QUANTITY,,,en,1.0
+"1,060 meters","1,060 meters",QUANTITY,,,en,1.0
+up to,up to,QUANTITY,,,en,1.0
 77 kilometers,77 kilometers,QUANTITY,,,en,1.0
+9 hours,9 hours,TIME,,,en,1.0
+today | Winter,today | Winter,DATE,,,en,1.0
+| Snow,| Snow,WORK_OF_ART,,,en,1.0
+| Ski,| Ski,EVENT,,,en,1.0
 300 meters,300 meters,QUANTITY,,,en,1.0
-140km,140km,QUANTITY,,,en,1.0
-recent days,recent days,DATE,,,en,1.0
-10 degrees,10 degrees,QUANTITY,,,en,1.0
-75%,75%,PERCENT,,,en,1.0
-10 kilometers,10 kilometers,QUANTITY,,,en,1.0
-Two weeks,Two weeks,DATE,,,en,1.0
-Less than two weeks,Less than two weeks,DATE,,,en,1.0
-First,First,ORDINAL,,,en,1.0
-| Weather | Epirus,| Weather | Epirus,WORK_OF_ART,,,en,1.0
-Thursday morning,Thursday morning,TIME,,,en,1.0
-Mexico | Earthquake | World,Mexico | Earthquake | World,EVENT,,,en,1.0
-"Today, New Year's Day","Today, New Year's Day",DATE,,,en,1.0
-"100,000 tons","100,000 tons",QUANTITY,,,en,1.0
-the new year,the new year,DATE,,,en,1.0
-the spring of 2024,the spring of 2024,DATE,,,en,1.0
-| Weather | Frost | Shelly | Frost | Greece,| Weather | Frost | Shelly | Frost | Greece,WORK_OF_ART,,,en,1.0
-New Year's,New Year's,EVENT,,,en,1.0
-"December 1, 2025","December 1, 2025",DATE,,,en,1.0
-"today, Friday, January 2","today, Friday, January 2",DATE,,,en,1.0
-the early hours of Sunday,the early hours of Sunday,TIME,,,en,1.0
-6.7,6.7,CARDINAL,,,en,1.0
-Heroes' Square,Heroes' Square,FAC,,,en,1.0
-a few days,a few days,DATE,,,en,1.0
-5.1 about ten minutes later,5.1 about ten minutes later,TIME,,,en,1.0
-10:18 a.m.,10:18 a.m.,TIME,,,en,1.0
-about ten minutes later,about ten minutes later,TIME,,,en,1.0
-Six,Six,CARDINAL,,,en,1.0
-Europe,Europe,PRODUCT,-0.30277777777777776,0.6388888888888888,en,1.0
-| Netherlands,| Netherlands,DATE,,,en,1.0
-3.8,3.8,CARDINAL,,,en,1.0
-3 degrees,3 degrees,QUANTITY,,,en,1.0
-Attica Earthquake | Earthquake,Attica Earthquake | Earthquake,EVENT,,,en,1.0
-Greeks,Greeks,NORP,,,en,1.0
+10 km,10 km,QUANTITY,,,en,1.0
+Saudi,Saudi,NORP,,,en,1.0
+the week,the week,DATE,,,en,1.0
 Weather |,Weather |,EVENT,,,en,1.0
-Three days,Three days,DATE,,,en,1.0
-| Weather | Thunderstorms | Hail | Ministry of Civil Protection | Greece,| Weather | Thunderstorms | Hail | Ministry of Civil Protection | Greece,WORK_OF_ART,,,en,1.0
-the next 48 hours,the next 48 hours,TIME,,,en,1.0
-4.8,4.8,CARDINAL,,,en,1.0
-112 rang,112 rang,MONEY,,,en,1.0
-Year,Year,DATE,,,en,1.0
-Google,Google,WORK_OF_ART,,,en,1.0
-Annual,Annual,DATE,,,en,1.0
-265 millimeters,265 millimeters,QUANTITY,,,en,1.0
-two-day,two-day,DATE,,,en,1.0
-112,112,CARDINAL,,,en,1.0
-45 millimeters,45 millimeters,QUANTITY,,,en,1.0
-76 millimeters,76 millimeters,QUANTITY,,,en,1.0
-6 in the afternoon - How,6 in the afternoon - How,TIME,,,en,1.0
-350,350,CARDINAL,,,en,1.0
-daily,daily,DATE,,,en,1.0
-4.3,4.3,CARDINAL,,,en,1.0
-days,days,DATE,,,en,1.0
-the roughest days,the roughest days,DATE,,,en,1.0
-Red Code,Red Code,WORK_OF_ART,,,en,1.0
-Nearly 700,Nearly 700,CARDINAL,,,en,1.0
-Attica:,Attica:,WORK_OF_ART,,,en,1.0
-| Weather |,| Weather |,WORK_OF_ART,,,en,1.0
-1989-91,1989-91,DATE,,,en,1.0
-decades,decades,DATE,,,en,1.0
-almost half,almost half,CARDINAL,,,en,1.0
-Iranian,Iranian,NORP,,,en,1.0
-12 hours,12 hours,TIME,,,en,1.0
-noon,noon,TIME,,,en,1.0
 late afternoon,late afternoon,TIME,,,en,1.0
 200 mm,200 mm,QUANTITY,,,en,1.0
-the last two days,the last two days,DATE,,,en,1.0
-Adel,Adel,PRODUCT,,,en,1.0
 402,402,CARDINAL,,,en,1.0
 the middle of the week,the middle of the week,DATE,,,en,1.0
 3.2,3.2,CARDINAL,,,en,1.0
 5 kilometers,5 kilometers,QUANTITY,,,en,1.0
+"More than 1,000","More than 1,000",CARDINAL,,,en,1.0
 700,700,CARDINAL,,,en,1.0
+Nearly 700,Nearly 700,CARDINAL,,,en,1.0
+the roughest days,the roughest days,DATE,,,en,1.0
+days,days,DATE,,,en,1.0
+Three days,Three days,DATE,,,en,1.0
+Iranian,Iranian,NORP,,,en,1.0
+| Weather | Thunderstorms | Hail | Ministry of Civil Protection | Greece,| Weather | Thunderstorms | Hail | Ministry of Civil Protection | Greece,WORK_OF_ART,,,en,1.0
+the next 48 hours,the next 48 hours,TIME,,,en,1.0
+Year,Year,DATE,,,en,1.0
+Google,Google,WORK_OF_ART,,,en,1.0
+Greeks,Greeks,NORP,,,en,1.0
+Annual,Annual,DATE,,,en,1.0
+two-day,two-day,DATE,,,en,1.0
+45 millimeters,45 millimeters,QUANTITY,,,en,1.0
+76 millimeters,76 millimeters,QUANTITY,,,en,1.0
+6 in the afternoon - How,6 in the afternoon - How,TIME,,,en,1.0
+350,350,CARDINAL,,,en,1.0
+noon,noon,TIME,,,en,1.0
+almost half,almost half,CARDINAL,,,en,1.0
+73km,73km,QUANTITY,,,en,1.0
+an hour,an hour,TIME,,,en,1.0
+the National Observatory of Athens,the National Observatory of Athens,FAC,,,en,1.0
+a few days,a few days,DATE,,,en,1.0
+"December 1, 2025","December 1, 2025",DATE,,,en,1.0
+the spring of 2024,the spring of 2024,DATE,,,en,1.0
+Vonitsa,Vonitsa,WORK_OF_ART,,,en,1.0
+next week,next week,DATE,,,en,1.0
+Albania: Biblical,Albania: Biblical,WORK_OF_ART,,,en,1.0
+Deadly,Deadly,PRODUCT,,,en,1.0
+1 kilometer,1 kilometer,QUANTITY,,,en,1.0
+Attica - Emergency,Attica - Emergency,WORK_OF_ART,,,en,1.0
+about 7:30,about 7:30,TIME,,,en,1.0
+112,112,CARDINAL,,,en,1.0
+decades,decades,DATE,,,en,1.0
+112 rang,112 rang,MONEY,,,en,1.0
+4.8,4.8,CARDINAL,,,en,1.0
+Red Code,Red Code,WORK_OF_ART,,,en,1.0
+Adel,Adel,PRODUCT,,,en,1.0
+the last two days,the last two days,DATE,,,en,1.0
+12 hours,12 hours,TIME,,,en,1.0
+| Weather |,| Weather |,WORK_OF_ART,,,en,1.0
+the next hours,the next hours,TIME,,,en,1.0
+midnight,midnight,TIME,,,en,1.0
+Attica:,Attica:,WORK_OF_ART,,,en,1.0
+1989-91,1989-91,DATE,,,en,1.0
+daily,daily,DATE,,,en,1.0
+4.3,4.3,CARDINAL,,,en,1.0
 about 113 kilometers,about 113 kilometers,QUANTITY,,,en,1.0
-100 millimeters,100 millimeters,QUANTITY,,,en,1.0
-2,2,CARDINAL,,,en,1.0
-53 kilometers,53 kilometers,QUANTITY,,,en,1.0
-Today,Today,DATE,,,en,1.0
-zero,zero,CARDINAL,,,en,1.0
-Cypriot,Cypriot,NORP,,,en,1.0
-The Light of Avgerino,The Light of Avgerino,WORK_OF_ART,,,en,1.0
-1981,1981,DATE,,,en,1.0
-"February 24, 1981","February 24, 1981",DATE,,,en,1.0
-almost midnight,almost midnight,TIME,,,en,1.0
-The Light,The Light,WORK_OF_ART,,,en,1.0
-Agios,Agios,NORP,,,en,1.0
-110,110,CARDINAL,,,en,1.0
+Christmas Day,Christmas Day,DATE,,,en,1.0
 5.1 Richter east,5.1 Richter east,QUANTITY,,,en,1.0
 Statue of Liberty,Statue of Liberty,FAC,,,en,1.0
 more than 90 km,more than 90 km,QUANTITY,,,en,1.0
 the Statue of Liberty,the Statue of Liberty,FAC,,,en,1.0
-midnight,midnight,TIME,,,en,1.0
+3 degrees,3 degrees,QUANTITY,,,en,1.0
 Arabian,Arabian,NORP,,,en,1.0
 "Thursday, December 18","Thursday, December 18",DATE,,,en,1.0
-Saudi,Saudi,NORP,,,en,1.0
-Summer,Summer,DATE,,,en,1.0
-the next few days,the next few days,DATE,,,en,1.0
-1 kilometer,1 kilometer,QUANTITY,,,en,1.0
-19 degrees - Frost,19 degrees - Frost,QUANTITY,,,en,1.0
+2,2,CARDINAL,,,en,1.0
+Attica Earthquake | Earthquake,Attica Earthquake | Earthquake,EVENT,,,en,1.0
+"100,000 tons","100,000 tons",QUANTITY,,,en,1.0
+3.8,3.8,CARDINAL,,,en,1.0
+the small hours,the small hours,TIME,,,en,1.0
+265 millimeters,265 millimeters,QUANTITY,,,en,1.0
+Attiki,Attiki,PRODUCT,,,en,1.0
+the early afternoon,the early afternoon,TIME,,,en,1.0
+Wednesday afternoon,Wednesday afternoon,TIME,,,en,1.0
+8 degrees,8 degrees,QUANTITY,,,en,1.0
+"more than 1,600","more than 1,600",CARDINAL,,,en,1.0
+Flight,Flight,PRODUCT,,,en,1.0
+Winter,Winter,DATE,,,en,1.0
+"More than 1,500","More than 1,500",CARDINAL,,,en,1.0
+"Nearly 7,500","Nearly 7,500",CARDINAL,,,en,1.0
+8 inches,8 inches,QUANTITY,,,en,1.0
+32km,32km,QUANTITY,,,en,1.0
+53 kilometers,53 kilometers,QUANTITY,,,en,1.0
+The Light,The Light,WORK_OF_ART,,,en,1.0
+almost midnight,almost midnight,TIME,,,en,1.0
+"February 24, 1981","February 24, 1981",DATE,,,en,1.0
+100 millimeters,100 millimeters,QUANTITY,,,en,1.0
+110,110,CARDINAL,,,en,1.0
 the National Observatory,the National Observatory,FAC,,,en,1.0
 the afternoon,the afternoon,TIME,,,en,1.0
 | Precipitation,| Precipitation,TIME,,,en,1.0
@@ -214,14 +261,18 @@ the afternoon,the afternoon,TIME,,,en,1.0
 6 kilometers,6 kilometers,QUANTITY,,,en,1.0
 24.3 kilometers,24.3 kilometers,QUANTITY,,,en,1.0
 Indian,Indian,NORP,,,en,1.0
-an hour,an hour,TIME,,,en,1.0
-about 7:30,about 7:30,TIME,,,en,1.0
 one and a half minutes,one and a half minutes,TIME,,,en,1.0
-Attica - Emergency,Attica - Emergency,WORK_OF_ART,,,en,1.0
 about four seconds,about four seconds,TIME,,,en,1.0
 4.1 Richter,4.1 Richter,QUANTITY,,,en,1.0
 ten seconds,ten seconds,TIME,,,en,1.0
 12/12,12/12,CARDINAL,,,en,1.0
 19 degrees,19 degrees,QUANTITY,,,en,1.0
 tomorrow Sunday,tomorrow Sunday,DATE,,,en,1.0
-10%,10%,PERCENT,,,en,1.0
+19 degrees - Frost,19 degrees - Frost,QUANTITY,,,en,1.0
+the next few days,the next few days,DATE,,,en,1.0
+Summer,Summer,DATE,,,en,1.0
+Today,Today,DATE,,,en,1.0
+Cypriot,Cypriot,NORP,,,en,1.0
+The Light of Avgerino,The Light of Avgerino,WORK_OF_ART,,,en,1.0
+1981,1981,DATE,,,en,1.0
+"Wednesday, January 21","Wednesday, January 21",DATE,,,en,1.0
