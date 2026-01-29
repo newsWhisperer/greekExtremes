@@ -1,10 +1,20 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
+'31a102c336',extremes,Precipitation,#d60d2b,wmo,καταρρακτώδης βροχή ελλάδα,2026-01-29T04:19:00+00:00,Greece,0.6561009115734486,0,1,el,MED,Europe
 'f988925370',extremes,Precipitation,#d60d2b,wmo,βροχή ήπειρος,2026-01-21T03:56:00+00:00,Greece,0.6493178576519117,3,2,el,MED,Europe
 'b94749b467',extremes,Snow&Ice,#d60d2b,wmo,χιόνι στην Ελλάδα,2026-01-20T03:56:00+00:00,Greece,0.6430911589076665,1,1,el,MED,Europe
+'7fbbf3063b',extremes,Storm,#b3b2b1,wmo,κύμα καταιγίδας νησιά βορειοανατολικού Αιγαίου,2026-01-21T03:56:00+00:00,Greece,0.641178625129943,0,1,el,MED,Europe
 '08979c65d6',extremes,Snow&Ice,#d60d2b,wmo,παγωμένη Ελλάδα,2026-01-20T03:56:00+00:00,Greece,0.6358849043055264,3,2,el,MED,Europe
+'0534a8b2b7',extremes,Storm,#b3b2b1,wmo,καταιγίδα κύμα ήπειρος,2026-01-29T04:19:00+00:00,Greece,0.6335060136265783,0,1,el,MED,Europe
+'242402785d',extremes,Thunderstorm,#53785a,wmo,καταιγίδα κεντρική μακεδονία,2026-01-29T04:19:00+00:00,Greece,0.6323576251408206,0,1,el,MED,Europe
+'81121a2f89',extremes,Thunderstorm,#53785a,wmo,κακοκαιρία Αττική,2026-01-29T04:19:00+00:00,Greece,0.6305157290513869,0,1,el,MED,Europe
+'3662ca4c1e',extremes,Thunderstorm,#53785a,wmo,έντονα καιρικά φαινόμενα δυτική Πελοπόννησος,2026-01-29T04:19:00+00:00,Greece,0.6282700349573365,0,1,el,MED,Europe
+'250323c948',extremes,Thunderstorm,#53785a,wmo,κακοκαιρία σε νησιά βορειοανατολικού Αιγαίου,2026-01-29T04:19:00+00:00,Greece,0.6270363680865875,0,1,el,MED,Europe
+'5a944cd51d',extremes,Thunderstorm,#53785a,wmo,χαλάζι δυτική Στερεά,2026-01-29T04:19:00+00:00,Greece,0.6254748353738135,0,1,el,MED,Europe
 '47a71b6762',extremes,Thunderstorm,#53785a,wmo,έντονα καιρικά φαινόμενα στην Ελλάδα,2026-01-21T03:56:00+00:00,Greece,0.6214840855711359,4,1,el,MED,Europe
 '6fd5acddee',extremes,Storm,#b3b2b1,wmo,καταιγίδα ελλάδα,2026-01-20T03:56:00+00:00,Greece,0.6202124841538179,2,1,el,MED,Europe
 '2f02ead0d0',extremes,Thunderstorm,#53785a,wmo,κακοκαιρία δυτική Μακεδονία,2026-01-26T04:09:00+00:00,Greece,0.6199631423791467,3,1,el,MED,Europe
+'d6b5f4ab3d',extremes,Storm,#b3b2b1,wmo,καταιγίδα δυτική Μακεδονία,2026-01-29T04:19:00+00:00,Greece,0.6059702679802726,0,1,el,MED,Europe
+'699bcc53a3',extremes,Thunderstorm,#53785a,wmo,καταιγίδα θεσσαλία,2026-01-29T04:19:00+00:00,Greece,0.5942346490069216,0,1,el,MED,Europe
 '10a1d9dbe1',extremes,Precipitation,#d60d2b,wmo,βροχόπτωση ελλάδα,2026-01-21T03:56:00+00:00,Greece,0.5911533948069243,1,1,el,MED,Europe
 '9365e99d90',extremes,Thunderstorm,#53785a,wmo,χαλάζι Δωδεκάνησα,2026-01-22T03:59:00+00:00,Greece,0.5762876986424382,1,1,el,MED,Europe
 '648c26f911',extremes,Drought,#edc291,edo,έλλειψη βροχής ελλάδα,2026-01-15T10:57:00+00:00,Greece,0.5702842483223436,2,1,el,MED,Europe
@@ -233,7 +243,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '526ac614cf',extremes,Earthquake,#870007,usgs,σεισμός saint marie,2026-01-15T12:13:00+00:00,Martinique,0.271687255018003,1,1,el,CAR,North-America
 '909be204f9',extremes,Earthquake,#870007,usgs,σεισμός νοτιοανατολικά των νησιών πίστης,2026-01-15T10:56:00+00:00,,0.271681119031828,1,1,el,SPO,Pacific Ocean
 'f199635353',extremes,Earthquake,#870007,usgs,σεισμός morgaon,2026-01-15T10:56:00+00:00,India,0.2716390553055358,1,1,el,SAS,Asia
-'c42e3feacc',extremes,Earthquake,#870007,usgs,σεισμός βορειοδυτικά των νήσων Κουρίλ,2026-01-15T10:56:00+00:00,,0.27163349073633436,1,1,el,RFE,Asia
+'c42e3feacc',extremes,Earthquake,#870007,usgs,σεισμός βορειοδυτικά των νήσων Κουρίλ,2026-01-15T10:56:00+00:00,,0.2716334907363343,1,1,el,RFE,Asia
 '08226562a9',extremes,Earthquake,#870007,usgs,σεισμός fais,2026-01-15T10:56:00+00:00,Micronesia,0.2716085395687398,1,1,el,NPO,Pacific Ocean
 '43540d11be',extremes,Earthquake,#870007,usgs,σεισμός akkeshi,2026-01-15T10:56:00+00:00,Japan,0.2716056354175713,1,1,el,EAS,Asia
 '0816dd344b',extremes,Earthquake,#870007,usgs,σεισμός λαέ,2026-01-15T10:56:00+00:00,Papua New Guinea,0.2715689707938774,1,1,el,SEA,Asia
