@@ -1,11 +1,11 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
 '81121a2f89',extremes,Thunderstorm,#53785a,wmo,κακοκαιρία Αττική,2026-01-29T04:19:00+00:00,Greece,0.7010512784180736,5,1,el,MED,Europe
+'2f02ead0d0',extremes,Thunderstorm,#53785a,wmo,κακοκαιρία δυτική Μακεδονία,2026-01-26T04:09:00+00:00,Greece,0.6772687010222747,4,2,el,MED,Europe
 'f988925370',extremes,Precipitation,#d60d2b,wmo,βροχή ήπειρος,2026-01-21T03:56:00+00:00,Greece,0.6493178576519117,3,2,el,MED,Europe
 '08979c65d6',extremes,Snow&Ice,#d60d2b,wmo,παγωμένη Ελλάδα,2026-01-20T03:56:00+00:00,Greece,0.6358849043055264,3,2,el,MED,Europe
 '9942e2b4c0',extremes,Precipitation,#d60d2b,wmo,βροχή ελλάδα,2026-01-29T04:19:00+00:00,Greece,0.6322969367164102,2,2,el,MED,Europe
 '47a71b6762',extremes,Thunderstorm,#53785a,wmo,έντονα καιρικά φαινόμενα στην Ελλάδα,2026-01-21T03:56:00+00:00,Greece,0.6214840855711359,4,1,el,MED,Europe
 '6fd5acddee',extremes,Storm,#b3b2b1,wmo,καταιγίδα ελλάδα,2026-01-20T03:56:00+00:00,Greece,0.6202124841538179,2,1,el,MED,Europe
-'2f02ead0d0',extremes,Thunderstorm,#53785a,wmo,κακοκαιρία δυτική Μακεδονία,2026-01-26T04:09:00+00:00,Greece,0.6199631423791467,3,1,el,MED,Europe
 '10a1d9dbe1',extremes,Precipitation,#d60d2b,wmo,βροχόπτωση ελλάδα,2026-01-21T03:56:00+00:00,Greece,0.5911533948069243,1,1,el,MED,Europe
 'b94749b467',extremes,Snow&Ice,#d60d2b,wmo,χιόνι στην Ελλάδα,2026-01-20T03:56:00+00:00,Greece,0.5847275450715166,2,1,el,MED,Europe
 '648c26f911',extremes,Drought,#edc291,edo,έλλειψη βροχής ελλάδα,2026-01-15T10:57:00+00:00,Greece,0.5702842483223436,2,1,el,MED,Europe
@@ -83,7 +83,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '363ce72927',extremes,Drought,#edc291,edo,ξηρασία αλβανία,2026-01-15T12:14:00+00:00,Albania,0.4050450453017997,2,1,el,MED,Europe
 '42bb302a57',extremes,Precipitation,#d60d2b,wmo,βροχόπτωση ανατολική Πελοπόννησος,2026-01-21T03:56:00+00:00,Greece,0.4038495393781135,3,1,el,MED,Europe
 'c4f95855f2',extremes,Precipitation,#d60d2b,wmo,βροχόπτωση ανατολική Μακεδονία,2026-01-30T04:21:00+00:00,Greece,0.4012706835776979,2,1,el,MED,Europe
-'dfc27fa2c9',extremes,Thunderstorm,#53785a,wmo,χαλάζι σε νησιά βορειοανατολικού Αιγαίου,2026-01-23T04:03:00+00:00,Greece,0.40096116631116213,3,1,el,MED,Europe
+'dfc27fa2c9',extremes,Thunderstorm,#53785a,wmo,χαλάζι σε νησιά βορειοανατολικού Αιγαίου,2026-01-23T04:03:00+00:00,Greece,0.4009611663111621,3,1,el,MED,Europe
 '6e109815e7',extremes,Precipitation,#d60d2b,wmo,βροχόπτωση κεντρική μακεδονία,2026-01-21T03:56:00+00:00,Greece,0.3970200969201675,2,1,el,MED,Europe
 'cd17ecbc9b',extremes,Storm,#b3b2b1,wmo,καταιγίδα νησιά βορειοανατολικού Αιγαίου,2026-01-22T03:59:00+00:00,Greece,0.3947454444039914,3,1,el,MED,Europe
 '923977770d',extremes,Precipitation,#d60d2b,wmo,βροχή κρίτι,2026-01-21T03:56:00+00:00,Greece,0.3944068560013593,3,1,el,MED,Europe
@@ -276,7 +276,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '982d97b8ec',extremes,Earthquake,#870007,usgs,σεισμός susanville,2026-01-15T12:13:00+00:00,United States,0.2715730770590041,1,1,el,WNA,North-America
 '0816dd344b',extremes,Earthquake,#870007,usgs,σεισμός λαέ,2026-01-15T10:56:00+00:00,Papua New Guinea,0.2715689707938774,1,1,el,SEA,Asia
 '1a5e4bce35',extremes,Drought,#edc291,edo,έλλειψη βροχής Κουβέιτ,2026-01-15T10:57:00+00:00,Kuwait,0.2715520719008006,1,1,el,ARP,Asia
-'e1559df16c',extremes,Earthquake,#870007,usgs,σεισμός τομπέλο,2026-01-15T10:56:00+00:00,Indonesia,0.27154902187433916,1,1,el,SEA,Asia
+'e1559df16c',extremes,Earthquake,#870007,usgs,σεισμός τομπέλο,2026-01-15T10:56:00+00:00,Indonesia,0.2715490218743391,1,1,el,SEA,Asia
 '958e326b08',extremes,Earthquake,#870007,usgs,σεισμός νησιά Μπονίν περιοχή Ιαπωνία,2026-01-15T10:56:00+00:00,,0.2715410952954409,1,1,el,NPO,Pacific Ocean
 '0ca87424f0',extremes,Drought,#edc291,edo,ξηρασία Μαρόκο,2026-01-15T10:57:00+00:00,Morocco,0.2715361379186661,1,1,el,MED,Africa
 '34799f2163',extremes,Drought,#edc291,edo,"ξηρασία, δημοκρατία του Κονγκό",2026-01-15T10:57:00+00:00,Republic of the Congo,0.2715338497738099,1,1,el,CAF,Africa
