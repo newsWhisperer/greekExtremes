@@ -1,62 +1,92 @@
 ,phrase,label,sentiment,subjectivity,language,count
-NewsIT,NewsIT,ORG,0.027027027027027032,0.10810810810810813,en,3.6999999999999997
+EMY,EMY,ORG,-0.2402644869750133,0.4391281233386497,en,7.599999999999999
+the Fire Department,the Fire Department,ORG,-0.017441860465116282,0.11046511627906977,en,4.3
 EU,EU,ORG,0.027027027027027032,0.08288288288288288,en,3.6999999999999997
-EMY,EMY,ORG,-0.36669727578818484,0.5475971839608202,en,3.3
-Trump,Trump,ORG,0.0,0.0,en,2.8
+NewsIT,NewsIT,ORG,0.027027027027027032,0.10810810810810813,en,3.6999999999999997
 the European Parliament,the European Parliament,ORG,0.03571428571428572,0.10952380952380952,en,2.8
-SBU,SBU,ORG,0.05639097744360902,0.3759398496240602,en,1.9
+Trump,Trump,ORG,0.0,0.0,en,2.8
+Ilissos,Ilissos,ORG,0.03009259259259258,0.26851851851851855,en,2.4
+NHS,NHS,ORG,0.017543859649122834,0.36257309941520466,en,1.9
 Vardousia,Vardousia,ORG,0.0,0.0,en,1.9
 Volkswagen,Volkswagen,ORG,0.0,0.0,en,1.9
+SBU,SBU,ORG,0.05639097744360902,0.3759398496240602,en,1.9
+Menidi,Menidi,ORG,-0.052631578947368425,0.0,en,1.9
+Violanda,Violanda,ORG,-0.052631578947368425,0.14912280701754385,en,1.9
 Google,Google,ORG,0.5486111111111112,0.9375,en,1.8
-NHS,NHS,ORG,0.3,0.0,en,1.0
-Parnitha,Parnitha,ORG,0.21666666666666665,0.0,en,1.0
-Konitsa,Konitsa,ORG,-0.1875,0.0,en,1.0
-Ares-Beaufort,Ares-Beaufort,ORG,0.16,0.0,en,1.0
-Val-d'Isère,Val-d'Isère,ORG,0.16,0.0,en,1.0
-USGS,USGS,ORG,0.0,0.0,en,1.0
-the US Geological Survey,the US Geological Survey,ORG,0.0,0.0,en,1.0
-The Supreme Court,The Supreme Court,ORG,0.0,0.0,en,1.0
-Areios Pagos,Areios Pagos,ORG,0.4,0.0,en,1.0
-| Ministry of Health,| Ministry of Health,ORG,0.3,0.0,en,1.0
-Elbrus,Elbrus,ORG,0.0666666666666667,0.0,en,1.0
-OTA,OTA,ORG,0.13636363636363635,0.0,en,1.0
-the Meteorology Department,the Meteorology Department,ORG,0.0,0.0,en,1.0
-JMA,JMA,ORG,0.0,0.0,en,1.0
+Thrace,Thrace,ORG,-0.0972222222222222,0.0,en,1.8
+Civil Protection,Civil Protection,ORG,-0.6999999999999998,0.0,en,1.0
+The Arson Crime Investigation Service of the Fire Brigade,The Arson Crime Investigation Service of the Fire Brigade,ORG,-0.1,0.0,en,1.0
 The European Parliament,The European Parliament,ORG,0.0,0.0,en,1.0
 the European Union,the European Union,ORG,0.0,0.0,en,1.0
+Astros,Astros,ORG,0.0,0.0,en,1.0
+the Port Department,the Port Department,ORG,-0.16666666666666669,0.0,en,1.0
+Vari - Rushing,Vari - Rushing,ORG,-0.6999999999999998,0.0,en,1.0
+Roma,Roma,ORG,0.0,0.0,en,1.0
 International Trade Committee,International Trade Committee,ORG,0.1,0.0,en,1.0
 INTA,INTA,ORG,0.1,0.0,en,1.0
+Lekanopedi,Lekanopedi,ORG,-0.3,0.0,en,1.0
+Attica | Bad,Attica | Bad,ORG,-0.43333333333333324,0.0,en,1.0
+Spata - Traffic,Spata - Traffic,ORG,-0.6999999999999998,0.0,en,1.0
+Peristeri,Peristeri,ORG,-0.3083333333333333,0.0,en,1.0
 "Byronas, Chalandri","Byronas, Chalandri",ORG,-0.6999999999999998,0.0,en,1.0
-the Meteorological Service,the Meteorological Service,ORG,-0.3499999999999999,0.0,en,1.0
-Mercosur,Mercosur,ORG,0.2,0.0,en,1.0
-the European Court of Justice,the European Court of Justice,ORG,0.0,0.0,en,1.0
-Left,Left,ORG,0.0,0.0,en,1.0
+Violanda Factory,Violanda Factory,ORG,0.0,0.0,en,1.0
+Ambatzoglou,Ambatzoglou,ORG,-0.09999999999999992,0.0,en,1.0
+the Fire Operations Center,the Fire Operations Center,ORG,-0.15833333333333333,0.0,en,1.0
+cloudevo,cloudevo,ORG,0.0,0.0,en,1.0
+the Fire Department - They,the Fire Department - They,ORG,-0.6999999999999998,0.0,en,1.0
+Climate Change,Climate Change,ORG,0.35714285714285715,0.0,en,1.0
+The National Weather Service,The National Weather Service,ORG,-0.2666666666666666,0.0,en,1.0
+Live News,Live News,ORG,-0.18787878787878784,0.0,en,1.0
+Varis-Voulas-Vouliagmenis,Varis-Voulas-Vouliagmenis,ORG,0.15,0.0,en,1.0
 Vari,Vari,ORG,-0.6999999999999998,0.0,en,1.0
-The Seismological Service of the Philippines,The Seismological Service of the Philippines,ORG,0.04999999999999999,0.0,en,1.0
-national Seismological Service,national Seismological Service,ORG,0.3,0.0,en,1.0
-the White House's,the White House's,ORG,0.0,0.0,en,1.0
-the German Research,the German Research,ORG,0.0,0.0,en,1.0
-Florina Bad,Florina Bad,ORG,-0.6999999999999998,0.0,en,1.0
-TarkasGreece,TarkasGreece,ORG,-0.12777777777777777,0.0,en,1.0
-Interior,Interior,ORG,-0.6999999999999998,0.0,en,1.0
-the Fire Department,the Fire Department,ORG,0.15,0.0,en,1.0
-Thrace,Thrace,ORG,-0.17499999999999996,0.0,en,1.0
-Finikounda,Finikounda,ORG,0.0,0.0,en,1.0
-Messinia -,Messinia -,ORG,0.0,0.0,en,1.0
-Adel,Adel,ORG,-0.6999999999999998,0.0,en,1.0
-the national disaster management agency,the national disaster management agency,ORG,0.5,0.0,en,1.0
-eastern,eastern,ORG,-0.2499278499278499,0.0,en,1.0
-Attica - Interministerial,Attica - Interministerial,ORG,-0.44999999999999996,0.0,en,1.0
-The Risk Assessment Committee,The Risk Assessment Committee,ORG,0.0,0.0,en,1.0
-the Geodynamic Institute of,the Geodynamic Institute of,ORG,0.0,0.0,en,1.0
-The Statue of Liberty,The Statue of Liberty,ORG,-0.4,0.0,en,1.0
-Assos,Assos,ORG,0.1,0.0,en,1.0
-Volkswagen Commercial Vehicles,Volkswagen Commercial Vehicles,ORG,-0.1,0.0,en,1.0
-the Ministry of Climate Crisis and Civil Protection,the Ministry of Climate Crisis and Civil Protection,ORG,0.0,0.0,en,1.0
-EMAK,EMAK,ORG,0.0,0.0,en,1.0
+Athens Fire Department,Athens Fire Department,ORG,-0.1,0.0,en,1.0
+the Fire Service,the Fire Service,ORG,0.0,0.0,en,1.0
+Konia - Dead,Konia - Dead,ORG,-0.2,0.0,en,1.0
+Violand biscuit,Violand biscuit,ORG,-0.21666666666666667,0.0,en,1.0
+Left,Left,ORG,0.0,0.0,en,1.0
+Police,Police,ORG,0.0,0.0,en,1.0
+the European Court of Justice,the European Court of Justice,ORG,0.0,0.0,en,1.0
+Mercosur,Mercosur,ORG,0.2,0.0,en,1.0
+the Meteorological Service,the Meteorological Service,ORG,-0.3499999999999999,0.0,en,1.0
+Spyrou Loui - Vehicles,Spyrou Loui - Vehicles,ORG,-0.6999999999999998,0.0,en,1.0
+Konitsa,Konitsa,ORG,-0.1875,0.0,en,1.0
+Elbrus,Elbrus,ORG,0.0666666666666667,0.0,en,1.0
+the Meteorology Department,the Meteorology Department,ORG,0.0,0.0,en,1.0
 Syntagma,Syntagma,ORG,0.13636363636363635,0.0,en,1.0
+EMAK,EMAK,ORG,0.0,0.0,en,1.0
+the Ministry of Climate Crisis and Civil Protection,the Ministry of Climate Crisis and Civil Protection,ORG,0.0,0.0,en,1.0
+Volkswagen Commercial Vehicles,Volkswagen Commercial Vehicles,ORG,-0.1,0.0,en,1.0
+Assos,Assos,ORG,0.1,0.0,en,1.0
+The Statue of Liberty,The Statue of Liberty,ORG,-0.4,0.0,en,1.0
+the Geodynamic Institute of,the Geodynamic Institute of,ORG,0.0,0.0,en,1.0
+The Risk Assessment Committee,The Risk Assessment Committee,ORG,0.0,0.0,en,1.0
+Attica - Interministerial,Attica - Interministerial,ORG,-0.44999999999999996,0.0,en,1.0
+eastern,eastern,ORG,-0.2499278499278499,0.0,en,1.0
+the national disaster management agency,the national disaster management agency,ORG,0.5,0.0,en,1.0
+Adel,Adel,ORG,-0.6999999999999998,0.0,en,1.0
+Messinia -,Messinia -,ORG,0.0,0.0,en,1.0
+Finikounda,Finikounda,ORG,0.0,0.0,en,1.0
+Interior,Interior,ORG,-0.6999999999999998,0.0,en,1.0
+TarkasGreece,TarkasGreece,ORG,-0.12777777777777777,0.0,en,1.0
+Florina Bad,Florina Bad,ORG,-0.6999999999999998,0.0,en,1.0
 the Stavros Niarchos Foundation,the Stavros Niarchos Foundation,ORG,0.06818181818181818,0.0,en,1.0
 SNF,SNF,ORG,0.06818181818181818,0.0,en,1.0
 mercury,mercury,ORG,0.17424242424242423,0.0,en,1.0
+USGS,USGS,ORG,0.0,0.0,en,1.0
+OTA,OTA,ORG,0.13636363636363635,0.0,en,1.0
+| Ministry of Health,| Ministry of Health,ORG,0.3,0.0,en,1.0
 Papigo,Papigo,ORG,-0.6999999999999998,0.0,en,1.0
-Ambatzoglou,Ambatzoglou,ORG,-0.09999999999999992,0.0,en,1.0
+Parnitha,Parnitha,ORG,0.21666666666666665,0.0,en,1.0
+Prespes,Prespes,ORG,-0.3083333333333333,0.0,en,1.0
+Ares-Beaufort,Ares-Beaufort,ORG,0.16,0.0,en,1.0
+Val-d'Isère,Val-d'Isère,ORG,0.16,0.0,en,1.0
+the US Geological Survey,the US Geological Survey,ORG,0.0,0.0,en,1.0
+national Seismological Service,national Seismological Service,ORG,0.3,0.0,en,1.0
+The Supreme Court,The Supreme Court,ORG,0.0,0.0,en,1.0
+Areios Pagos,Areios Pagos,ORG,0.4,0.0,en,1.0
+The Seismological Service of the Philippines,The Seismological Service of the Philippines,ORG,0.04999999999999999,0.0,en,1.0
+JMA,JMA,ORG,0.0,0.0,en,1.0
+the British Met Office,the British Met Office,ORG,0.0,0.0,en,1.0
+the White House's,the White House's,ORG,0.0,0.0,en,1.0
+the German Research,the German Research,ORG,0.0,0.0,en,1.0
+The General Secretariat of Civil Protection,The General Secretariat of Civil Protection,ORG,-0.11011904761904757,0.0,en,1.0
