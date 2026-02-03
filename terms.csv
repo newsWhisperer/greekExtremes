@@ -3,8 +3,8 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '2f02ead0d0',extremes,Thunderstorm,#53785a,wmo,κακοκαιρία δυτική Μακεδονία,2026-01-26T04:09:00+00:00,Greece,0.6772687010222747,4,2,el,MED,Europe
 '81121a2f89',extremes,Thunderstorm,#53785a,wmo,κακοκαιρία Αττική,2026-01-29T04:19:00+00:00,Greece,0.6560813564193267,9,3,el,MED,Europe
 '08979c65d6',extremes,Snow&Ice,#d60d2b,wmo,παγωμένη Ελλάδα,2026-01-20T03:56:00+00:00,Greece,0.6358849043055264,3,2,el,MED,Europe
-'9942e2b4c0',extremes,Precipitation,#d60d2b,wmo,βροχή ελλάδα,2026-01-29T04:19:00+00:00,Greece,0.6322969367164102,2,2,el,MED,Europe
 '6fd5acddee',extremes,Storm,#b3b2b1,wmo,καταιγίδα ελλάδα,2026-01-20T03:56:00+00:00,Greece,0.6202124841538179,2,1,el,MED,Europe
+'9942e2b4c0',extremes,Precipitation,#d60d2b,wmo,βροχή ελλάδα,2026-01-29T04:19:00+00:00,Greece,0.619414415914831,3,2,el,MED,Europe
 '10a1d9dbe1',extremes,Precipitation,#d60d2b,wmo,βροχόπτωση ελλάδα,2026-01-21T03:56:00+00:00,Greece,0.5911533948069243,1,1,el,MED,Europe
 'b94749b467',extremes,Snow&Ice,#d60d2b,wmo,χιόνι στην Ελλάδα,2026-01-20T03:56:00+00:00,Greece,0.5847275450715166,2,1,el,MED,Europe
 '648c26f911',extremes,Drought,#edc291,edo,έλλειψη βροχής ελλάδα,2026-01-15T10:57:00+00:00,Greece,0.5702842483223436,2,1,el,MED,Europe
@@ -127,7 +127,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '474905c6c6',extremes,Drought,#edc291,edo,έλλειψη βροχής Ναμίμπια,2026-01-15T10:57:00+00:00,Namibia,0.3193202536805173,0,1,el,WSAF,Africa
 '68eb7178de',extremes,Earthquake,#870007,usgs,σεισμός yasugichō,2026-01-15T10:56:00+00:00,Japan,0.3193143888043919,0,1,el,EAS,Asia
 '7ae6318c5b',extremes,Earthquake,#870007,usgs,σεισμός σοκτάν,2026-01-15T12:13:00+00:00,Russia,0.3193120962452619,0,1,el,EAS,Asia
-'6cfc55b8b1',extremes,Drought,#edc291,edo,ξηρότητα bonaire άγιος ευστάσιος και σάμπα,2026-01-15T10:57:00+00:00,Bonaire; Saint Eustatius and Saba ,0.31931075145496013,0,1,el,CAR,North-America
+'6cfc55b8b1',extremes,Drought,#edc291,edo,ξηρότητα bonaire άγιος ευστάσιος και σάμπα,2026-01-15T10:57:00+00:00,Bonaire; Saint Eustatius and Saba ,0.3193107514549601,0,1,el,CAR,North-America
 'e5b46f3978',extremes,Drought,#edc291,edo,ξηρασία Αργεντινή,2026-01-15T10:57:00+00:00,Argentina,0.3193104287613515,0,1,el,SES,South-America
 'c92435bdaa',extremes,Drought,#edc291,edo,έλλειψη βροχής Ελ Σαλβαδόρ,2026-01-15T10:57:00+00:00,El Salvador,0.3193080486345296,0,1,el,SCA,North-America
 '7e642c0883',extremes,Drought,#edc291,edo,ξηροψία αγγουίλα,2026-01-15T10:57:00+00:00,Anguilla,0.319298912391842,0,1,el,CAR,North-America
@@ -137,7 +137,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '8d4d1faca9',extremes,Drought,#edc291,edo,έλλειψη βροχής δομίνικα,2026-01-15T10:57:00+00:00,Dominica,0.3192751800628991,0,1,el,CAR,North-America
 'b17a7abcd9',extremes,Drought,#edc291,edo,ξηρασία γρενάδα,2026-01-15T10:57:00+00:00,Grenada,0.3192614350452899,0,1,el,CAR,North-America
 'd3bdc49581',extremes,Drought,#edc291,edo,έλλειψη βροχής Γροιλανδία,2026-01-15T10:57:00+00:00,Greenland,0.3192263277926996,0,1,el,GIC,North-America
-'8ed666f950',extremes,Earthquake,#870007,usgs,σεισμός végueta,2026-01-15T10:56:00+00:00,Peru,0.31920862169994263,0,1,el,NWS,South-America
+'8ed666f950',extremes,Earthquake,#870007,usgs,σεισμός végueta,2026-01-15T10:56:00+00:00,Peru,0.3192086216999426,0,1,el,NWS,South-America
 '9797aa6299',extremes,Drought,#edc291,edo,έλλειψη βροχής Κύπρος,2026-01-24T03:49:00+00:00,Cyprus,0.3175507139274596,2,1,el,MED,Europe
 '8b4587c763',extremes,Storm,#b3b2b1,random,καταιγίδα σκόνης,2026-01-24T03:48:00+00:00,,0.3140180103395362,1,1,el,,
 'd59a7e48d7',extremes,Drought,#edc291,random,εξατμισοδιαπνοή,2026-01-20T03:55:00+00:00,,0.3129965195573042,1,1,el,,
@@ -164,7 +164,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '4f9a8ebb25',extremes,Snow&Ice,#d60d2b,random,νυχτερινός παγετός,2026-01-15T10:56:00+00:00,,0.2854806993308171,1,1,el,,
 '5b8cf400f9',extremes,Iceberg,#d60d2b,random,iceberg caving,2026-01-19T04:02:00+00:00,,0.2846475200012531,2,1,el,,
 'a5ff1cde4a',extremes,Drought,#edc291,random,υγρασία του εδάφους,2026-01-28T03:56:00+00:00,,0.2844684367509023,1,1,el,,
-'69791e5a17',extremes,Flood,#030ba1,random,αστραπιαία πλημμύρα,2026-01-17T03:44:00+00:00,,0.2782284672948678,1,1,el,,
 '053bb10e09',extremes,Heat Wave,#c40202,random,ινδικό καλοκαίρι,2026-01-23T04:02:00+00:00,,0.2759803107403592,1,1,el,,
 'ab90cfcdd4',extremes,Drought,#edc291,edo,ξηρασία Αλβανία,2026-01-21T03:56:00+00:00,Albania,0.2755866458952066,2,1,el,MED,Europe
 '45500dcb47',extremes,Precipitation,#d60d2b,random,ρεκόρ βροχοπτώσεων,2026-01-27T03:58:00+00:00,,0.2737721157248618,2,1,el,,
@@ -321,6 +320,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'a652c78afc',extremes,Drought,#edc291,random,μέγα ξηρασία,2026-01-18T03:56:00+00:00,,0.2555224734711597,2,1,el,,
 '538eadceb4',extremes,Heat Wave,#c40202,random,ήπιος χειμώνας,2026-01-17T03:44:00+00:00,,0.2518970606584956,2,1,el,,
 'ea87be5bd8',extremes,Heat Wave,#c40202,random,καυτή θερμοκρασία,2026-01-15T12:13:00+00:00,,0.2440657883748795,2,1,el,,
+'69791e5a17',extremes,Flood,#030ba1,random,αστραπιαία πλημμύρα,2026-01-17T03:44:00+00:00,,0.2364941972006376,2,1,el,,
 '7a2481f0b1',extremes,Flood,#030ba1,aidr,ποτάμι που πλημμυρίζει την Αυστραλία,2026-01-15T10:57:00+00:00,Australia,0.2311392746990569,2,1,el,EAU,Oceania
 '66889dc3f2',extremes,Earthquake,#870007,usgs,σεισμός ollagüe,2026-01-15T10:56:00+00:00,Chile,0.2310963665696485,2,1,el,SWS,South-America
 '51dfc3f3e1',extremes,Earthquake,#870007,usgs,σεισμός κόκοπο,2026-01-15T10:56:00+00:00,Papua New Guinea,0.2310450639604185,2,1,el,EPO,Pacific Ocean
