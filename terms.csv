@@ -114,6 +114,8 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'f5d9e5945c',extremes,Earthquake,#870007,usgs,σεισμός λιθακιά,2026-01-29T04:18:00+00:00,Greece,0.3398798615064011,2,1,el,MED,Europe
 '469687aa19',extremes,Drought,#edc291,edo,έλλειψη βροχής Αλβανία,2026-01-17T03:44:00+00:00,Albania,0.3281197796965671,2,1,el,MED,Europe
 '8d4d1faca9',extremes,Drought,#edc291,edo,έλλειψη βροχής δομίνικα,2026-01-15T10:57:00+00:00,Dominica,0.3192751800628991,0,1,el,CAR,North-America
+'07babddb74',extremes,Drought,#edc291,edo,ξηρασία sint maarten,2026-01-15T10:57:00+00:00,Sint Maarten,0.31927482846800637,0,1,el,CAR,North-America
+'e9560fc8a0',extremes,Drought,#edc291,edo,ξηρότητα niue,2026-01-15T10:57:00+00:00,Niue,0.31927420700018855,0,1,el,SPO,Oceania
 'b17a7abcd9',extremes,Drought,#edc291,edo,ξηρασία γρενάδα,2026-01-15T10:57:00+00:00,Grenada,0.3192614350452899,0,1,el,CAR,North-America
 '6b46d821ab',extremes,Drought,#edc291,edo,ξηρασία άγιος Βαρθολομαίος,2026-01-15T10:57:00+00:00,Saint Barthelemy,0.3192558238951208,0,1,el,CAR,North-America
 '3ab16eefc6',extremes,Earthquake,#870007,usgs,σεισμός shiojiri,2026-01-15T12:13:00+00:00,Japan,0.3192396439535396,0,1,el,EAS,Asia
@@ -123,6 +125,10 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '3296e9a239',extremes,Flood,#030ba1,aidr,καταρρακτώδης βροχή Αυστραλία,2026-01-15T10:57:00+00:00,Australia,0.3191960948552752,0,1,el,EAU,Oceania
 '707a25fcab',extremes,Earthquake,#870007,usgs,σεισμός sungai penuh,2026-01-15T12:13:00+00:00,Indonesia,0.3191751597122043,0,1,el,SEA,Asia
 '871d9bdd41',extremes,Earthquake,#870007,usgs,σεισμός las vigas,2026-01-15T10:56:00+00:00,Mexico,0.319133079128324,0,1,el,SCA,North-America
+'d8567a337b',extremes,Drought,#edc291,edo,ξηρασία Ιαπωνία,2026-01-15T10:57:00+00:00,Japan,0.31891363279252105,0,1,el,EAS,Asia
+'83f2a9deea',extremes,Drought,#edc291,edo,ξηρασία Γαλλία,2026-01-15T10:57:00+00:00,France,0.31884557886138964,0,1,el,WCE,Europe
+'7afee2724b',extremes,Drought,#edc291,edo,ξηρασία Δανία,2026-01-15T10:57:00+00:00,Denmark,0.3188320882114336,0,1,el,NEU,Europe
+'8bbcf20888',extremes,Drought,#edc291,edo,ξηρασία Ρουμανία,2026-01-15T10:57:00+00:00,Romania,0.3188237017685603,0,1,el,WCE,Europe
 '9797aa6299',extremes,Drought,#edc291,edo,έλλειψη βροχής Κύπρος,2026-01-24T03:49:00+00:00,Cyprus,0.3175507139274596,2,1,el,MED,Europe
 '8b4587c763',extremes,Storm,#b3b2b1,random,καταιγίδα σκόνης,2026-01-24T03:48:00+00:00,,0.3140180103395362,1,1,el,,
 'd59a7e48d7',extremes,Drought,#edc291,random,εξατμισοδιαπνοή,2026-01-20T03:55:00+00:00,,0.3129965195573042,1,1,el,,
@@ -336,4 +342,4 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '3f3ddd0b49',extremes,Earthquake,#870007,usgs,σεισμός Ινδία,2026-01-15T10:56:00+00:00,India,0.2309397959844094,2,1,el,SAS,Asia
 '2725619969',extremes,Earthquake,#870007,usgs,σεισμός hanawa,2026-01-15T12:13:00+00:00,Japan,0.2308644761554368,2,1,el,EAS,Asia
 '1a5e4bce35',extremes,Drought,#edc291,edo,έλλειψη βροχής Κουβέιτ,2026-01-15T10:57:00+00:00,Kuwait,0.2308192611156805,2,1,el,ARP,Asia
-'f9eb244a9a',extremes,Drought,#edc291,edo,έλλειψη βροχής Ιταλία,2026-01-15T10:57:00+00:00,Italy,0.23048687055254702,2,1,el,MED,Europe
+'f9eb244a9a',extremes,Drought,#edc291,edo,έλλειψη βροχής Ιταλία,2026-01-15T10:57:00+00:00,Italy,0.230486870552547,2,1,el,MED,Europe
