@@ -97,6 +97,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '6cd3a5393b',extremes,Storm,#b3b2b1,wmo,κύμα καταιγίδας δυτική Πελοπόννησος,2026-01-26T04:09:00+00:00,Greece,0.384612909199315,3,1,el,MED,Europe
 'cbb1b9d52b',extremes,Precipitation,#d60d2b,wmo,νεροποντή νησιά Δωδεκάνησα,2026-01-22T03:59:00+00:00,Greece,0.3832725154368062,3,1,el,MED,Europe
 'ff620d191d',extremes,Storm,#b3b2b1,wmo,καταιγίδα κεντρική Μακεδονία,2026-01-21T03:56:00+00:00,Greece,0.3827129508130175,3,1,el,MED,Europe
+'95b2881221',extremes,Precipitation,#d60d2b,random,ατμοσφαιρικός ποταμός,2026-02-06T04:27:00+00:00,,0.3815726341990076,0,1,el,,
 'f685d1f47f',extremes,Drought,#edc291,edo,ξηρασία Κύπρος,2026-01-15T10:57:00+00:00,Cyprus,0.3811209486842364,3,1,el,MED,Europe
 'edd8cedd5a',extremes,Storm,#b3b2b1,wmo,καταιγίδα κρήτι,2026-01-23T04:03:00+00:00,Greece,0.3765870348996802,3,1,el,MED,Europe
 '8a1a9038c3',extremes,Storm,#b3b2b1,random,χιονοθύελλα,2026-01-15T10:56:00+00:00,,0.3750338752747166,1,2,el,,
@@ -124,7 +125,12 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '55e8cccd81',extremes,Earthquake,#870007,usgs,σεισμός Σαν Χουάν,2026-01-31T04:16:00+00:00,Peru,0.3155590964946482,0,1,el,SWS,South-America
 '81df5b3034',extremes,Storm,#b3b2b1,aidr,καταιγίδα βόρειο Σίδνεϊ χαλαζόπτωση 2017,2026-01-25T04:06:00+00:00,,0.3154334406132677,0,1,el,EAU,Oceania
 '1a066ba374',extremes,Heat Wave,#c40202,acwe,θερμό ξόρκι Βικτώρια,2026-01-30T04:22:00+00:00,Australia,0.315418814478936,0,1,el,SAU,Oceania
+'65b4a087de',extremes,Earthquake,#870007,usgs,σεισμός qalansīyah,2026-02-05T04:27:00+00:00,Yemen,0.3152494958064409,0,1,el,ARS,Indian Ocean
+'5c82519f0a',extremes,Tropical Cyclone,#4f4f4f,eonet,τροπικός κυκλώνας 17s,2026-01-24T03:48:00+00:00,,0.31523351288374885,0,1,el,NAU,Oceania
 '255621cc4c',extremes,Earthquake,#870007,usgs,σεισμός πανγκούνα,2026-01-31T04:16:00+00:00,Papua New Guinea,0.3152302515713779,0,1,el,EPO,Pacific Ocean
+'6faf696dd9',extremes,Earthquake,#870007,usgs,σεισμός ακουρεύρι,2026-01-25T04:05:00+00:00,Iceland,0.31514837738836027,0,1,el,GIC,Europe
+'57c3ca9f77',extremes,Earthquake,#870007,usgs,σεισμός Ανταρκτική,2026-02-04T04:21:00+00:00,,0.3150962022879079,0,1,el,EAN,
+'5c7fcfcede',extremes,Earthquake,#870007,usgs,σεισμός hihifo,2026-02-05T04:27:00+00:00,Tonga,0.31505699530787634,0,1,el,SPO,Pacific Ocean
 '8b4587c763',extremes,Storm,#b3b2b1,random,καταιγίδα σκόνης,2026-01-24T03:48:00+00:00,,0.3140180103395362,1,1,el,,
 'd59a7e48d7',extremes,Drought,#edc291,random,εξατμισοδιαπνοή,2026-01-20T03:55:00+00:00,,0.3129965195573042,1,1,el,,
 '980a973102',extremes,Tropical Cyclone,#4f4f4f,random,κυκλώνας βόμβας,2026-01-15T10:56:00+00:00,,0.3092974987090162,1,1,el,,
