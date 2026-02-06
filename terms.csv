@@ -22,7 +22,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '9365e99d90',extremes,Thunderstorm,#53785a,wmo,χαλάζι Δωδεκάνησα,2026-01-22T03:59:00+00:00,Greece,0.4898445438460724,2,1,el,MED,Europe
 'a3643d64b0',extremes,Storm,#b3b2b1,wmo,καταιγίδα νησιά Δωδεκάνησα,2026-02-05T04:27:00+00:00,Greece,0.4895166194290475,2,1,el,MED,Europe
 'c316300df0',extremes,Storm,#b3b2b1,wmo,κύμα καταιγίδας ιοννήσια,2026-01-21T03:56:00+00:00,Greece,0.4877565712913632,2,1,el,MED,Europe
-'c58f3e6e04',extremes,Fog,#d60d2b,wmo,ομίχλη κεντρική μακεδονία,2026-02-03T04:27:00+00:00,Greece,0.48562766569096494,2,1,el,MED,Europe
+'c58f3e6e04',extremes,Fog,#d60d2b,wmo,ομίχλη κεντρική μακεδονία,2026-02-03T04:27:00+00:00,Greece,0.4856276656909649,2,1,el,MED,Europe
 '648c26f911',extremes,Drought,#edc291,edo,έλλειψη βροχής ελλάδα,2026-01-15T10:57:00+00:00,Greece,0.484741611073992,3,1,el,MED,Europe
 'b4cd8bfe1e',extremes,ice jam,#d60d2b,random,πλημμύρα,2026-01-23T04:02:00+00:00,,0.48426791314599,1,2,el,,
 '4abd30c9b0',extremes,Storm,#b3b2b1,wmo,καταιγίδα ιοννήσια,2026-01-20T03:56:00+00:00,Greece,0.4834464715440495,2,1,el,MED,Europe
@@ -117,8 +117,14 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'f5d9e5945c',extremes,Earthquake,#870007,usgs,σεισμός λιθακιά,2026-01-29T04:18:00+00:00,Greece,0.3398798615064011,2,1,el,MED,Europe
 '469687aa19',extremes,Drought,#edc291,edo,έλλειψη βροχής Αλβανία,2026-01-17T03:44:00+00:00,Albania,0.3281197796965671,2,1,el,MED,Europe
 '0053afc92f',extremes,Volcano,#b83202,random,λαχάρ,2026-02-05T04:27:00+00:00,,0.3183242775108461,1,1,el,,
+'f9a3abc8c2',extremes,Landslide,#572c03,random,λάσπη,2026-01-17T03:44:00+00:00,,0.3177236538422508,0,1,el,,
 '9797aa6299',extremes,Drought,#edc291,edo,έλλειψη βροχής Κύπρος,2026-01-24T03:49:00+00:00,Cyprus,0.3175507139274596,2,1,el,MED,Europe
+'1405131905',extremes,Thunderstorm,#53785a,random,χαλάζι,2026-01-22T03:59:00+00:00,,0.317221186998045,0,1,el,,
+'f314bb7747',extremes,Flood,#030ba1,aidr,pluvial flooding australia,2026-02-05T04:28:00+00:00,Australia,0.3160616969059588,0,1,el,CAU,Oceania
 '55e8cccd81',extremes,Earthquake,#870007,usgs,σεισμός Σαν Χουάν,2026-01-31T04:16:00+00:00,Peru,0.3155590964946482,0,1,el,SWS,South-America
+'81df5b3034',extremes,Storm,#b3b2b1,aidr,καταιγίδα βόρειο Σίδνεϊ χαλαζόπτωση 2017,2026-01-25T04:06:00+00:00,,0.3154334406132677,0,1,el,EAU,Oceania
+'1a066ba374',extremes,Heat Wave,#c40202,acwe,θερμό ξόρκι Βικτώρια,2026-01-30T04:22:00+00:00,Australia,0.315418814478936,0,1,el,SAU,Oceania
+'255621cc4c',extremes,Earthquake,#870007,usgs,σεισμός πανγκούνα,2026-01-31T04:16:00+00:00,Papua New Guinea,0.3152302515713779,0,1,el,EPO,Pacific Ocean
 '8b4587c763',extremes,Storm,#b3b2b1,random,καταιγίδα σκόνης,2026-01-24T03:48:00+00:00,,0.3140180103395362,1,1,el,,
 'd59a7e48d7',extremes,Drought,#edc291,random,εξατμισοδιαπνοή,2026-01-20T03:55:00+00:00,,0.3129965195573042,1,1,el,,
 '980a973102',extremes,Tropical Cyclone,#4f4f4f,random,κυκλώνας βόμβας,2026-01-15T10:56:00+00:00,,0.3092974987090162,1,1,el,,
@@ -344,7 +350,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '3e36cbc783',extremes,Earthquake,#870007,usgs,σεισμός la concepción,2026-01-15T12:13:00+00:00,Venezuela,0.2310136211282333,2,1,el,NWS,South-America
 '9de3c9007e',extremes,Earthquake,#870007,usgs,σεισμός yakutat,2026-01-15T10:56:00+00:00,Alaska,0.2310082403526959,2,1,el,NWN,North-America
 'd46b5571fa',extremes,Tsunami,#690191,usgs,τσουνάμι Ταϊβάν,2026-01-15T12:13:00+00:00,Taiwan,0.2309854072321682,2,1,el,EAS,Asia
-'da0b9741fb',extremes,Earthquake,#870007,usgs,σεισμός ράντσο viejo,2026-01-15T12:13:00+00:00,Mexico,0.23098240125316977,2,1,el,SCA,North-America
+'da0b9741fb',extremes,Earthquake,#870007,usgs,σεισμός ράντσο viejo,2026-01-15T12:13:00+00:00,Mexico,0.2309824012531697,2,1,el,SCA,North-America
 '17b150a7a2',extremes,Earthquake,#870007,usgs,σεισμός Τανζανία,2026-01-15T10:56:00+00:00,Tanzania,0.2309727550332579,2,1,el,SEAF,Africa
 'cc449c3731',extremes,Earthquake,#870007,usgs,σεισμός περιοχή νησιών Kermadec,2026-01-15T10:56:00+00:00,,0.230966301779353,2,1,el,SPO,Pacific Ocean
 '3f3ddd0b49',extremes,Earthquake,#870007,usgs,σεισμός Ινδία,2026-01-15T10:56:00+00:00,India,0.2309397959844094,2,1,el,SAS,Asia
