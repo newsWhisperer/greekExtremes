@@ -1,5 +1,5 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'15a9c61e3e',extremes,Landslide,#572c03,random,κατολίσθηση,2026-01-15T12:13:00+00:00,,0.5795744108117883,3,3,el,,
+'15a9c61e3e',extremes,Landslide,#572c03,random,κατολίσθηση,2026-01-15T12:13:00+00:00,,0.6112253478263836,4,3,el,,
 '81121a2f89',extremes,Thunderstorm,#53785a,wmo,κακοκαιρία Αττική,2026-01-29T04:19:00+00:00,Greece,0.5792596372156161,13,3,el,MED,Europe
 '2f02ead0d0',extremes,Thunderstorm,#53785a,wmo,κακοκαιρία δυτική Μακεδονία,2026-01-26T04:09:00+00:00,Greece,0.5756784558689334,5,1,el,MED,Europe
 '6b6a4c38b4',extremes,Thunderstorm,#53785a,wmo,έντονα καιρικά φαινόμενα Ήπειρος,2026-02-07T04:19:00+00:00,Greece,0.5736044722830417,2,1,el,MED,Europe
@@ -23,7 +23,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'c0ae99f2a9',extremes,Precipitation,#d60d2b,random,έντονη βροχόπτωση,2026-01-25T04:05:00+00:00,,0.487479764581246,4,2,el,,
 '648c26f911',extremes,Drought,#edc291,edo,έλλειψη βροχής ελλάδα,2026-01-15T10:57:00+00:00,Greece,0.484741611073992,3,1,el,MED,Europe
 'a63515cbd1',extremes,Thunderstorm,#53785a,wmo,καταιγίδα θρακή,2026-02-05T04:27:00+00:00,Greece,0.48369588206073,2,1,el,MED,Europe
-'4abd30c9b0',extremes,Storm,#b3b2b1,wmo,καταιγίδα ιοννήσια,2026-01-20T03:56:00+00:00,Greece,0.4834464715440495,2,1,el,MED,Europe
 '0a98fdd376',extremes,Snow Avalanche,#deddd5,random,χιονοστιβάδα,2026-01-23T04:02:00+00:00,,0.4814954112882842,2,3,el,,
 '4c52e82e04',extremes,Snow&Ice,#d60d2b,wmo,παγωμένη δυτική Πελοπόννησος,2026-01-20T03:56:00+00:00,Greece,0.4775293979464851,2,1,el,MED,Europe
 '20c8ca13a3',extremes,Thunderstorm,#53785a,wmo,κακοκαιρία νησιά Δωδεκάνησα,2026-01-27T03:58:00+00:00,Greece,0.4769593940432002,2,2,el,MED,Europe
@@ -67,6 +66,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '1ce1cfc375',extremes,Storm,#b3b2b1,wmo,καταιγίδα θρακή,2026-01-29T04:19:00+00:00,Greece,0.4124660854745686,2,1,el,MED,Europe
 'cb43c2bb0b',extremes,Heat Wave,#c40202,random,η θερμότερη χρονιά,2026-01-29T04:18:00+00:00,,0.4123432885211062,2,1,el,,
 'b4cd8bfe1e',extremes,ice jam,#d60d2b,random,πλημμύρα,2026-01-23T04:02:00+00:00,,0.4116278911740915,2,1,el,,
+'4abd30c9b0',extremes,Storm,#b3b2b1,wmo,καταιγίδα ιοννήσια,2026-01-20T03:56:00+00:00,Greece,0.41092950081244206,3,1,el,MED,Europe
 'f8289b9d41',extremes,Snow&Ice,#d60d2b,wmo,χιόνι δυτική Στερεά,2026-01-21T03:56:00+00:00,Greece,0.4106223985778702,3,1,el,MED,Europe
 'ee302d9d2d',extremes,Storm,#b3b2b1,wmo,καταιγίδα ανατολική sterea evvoia,2026-01-21T03:56:00+00:00,Greece,0.4080137593900104,3,1,el,MED,Europe
 '363ce72927',extremes,Drought,#edc291,edo,ξηρασία αλβανία,2026-01-15T12:14:00+00:00,Albania,0.4050450453017997,2,1,el,MED,Europe
@@ -123,10 +123,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '2e5aaff2a9',extremes,Precipitation,#d60d2b,wmo,βροχή δυτική Στερεά,2026-02-07T04:19:00+00:00,Greece,0.3347391090963943,2,1,el,MED,Europe
 '469687aa19',extremes,Drought,#edc291,edo,έλλειψη βροχής Αλβανία,2026-01-17T03:44:00+00:00,Albania,0.3281197796965671,2,1,el,MED,Europe
 '9797aa6299',extremes,Drought,#edc291,edo,έλλειψη βροχής Κύπρος,2026-01-24T03:49:00+00:00,Cyprus,0.3175507139274596,2,1,el,MED,Europe
-'af3396aaaf',extremes,Drought,#edc291,edo,ξηρασία Ελλάδα,2026-01-17T03:44:00+00:00,Greece,0.31291895617619564,3,1,el,MED,Europe
-'f7e4598a47',extremes,Tropical Cyclone,#4f4f4f,eonet,τροπικός κυκλώνας ewetse,2026-01-21T03:55:00+00:00,,0.312567970644984,0,1,el,MDG,Africa
-'3e5f311da7',extremes,Drought,#edc291,edo,ξηρασία Σάο Τομέ και Πρίνσιπε,2026-02-05T04:28:00+00:00,Sao Tome and Principe,0.3124906667184254,0,1,el,WAF,Africa
-'51b14c1443',extremes,Flood,#030ba1,aidr,flood geelong victoria 2016,2026-02-07T04:20:00+00:00,Australia,0.3112734591513348,0,1,el,SAU,Oceania
+'af3396aaaf',extremes,Drought,#edc291,edo,ξηρασία Ελλάδα,2026-01-17T03:44:00+00:00,Greece,0.3129189561761956,3,1,el,MED,Europe
 '56dca2743f',extremes,Drought,#edc291,edo,ξηρασία ισημερινή γουινέα,2026-02-06T04:28:00+00:00,Equatorial Guinea,0.3108065060068075,0,1,el,WAF,Africa
 'aa704a9a6b',extremes,Earthquake,#870007,usgs,σεισμός γκίζο,2026-02-02T04:36:00+00:00,Solomon Islands,0.3107219670412271,0,1,el,EPO,Pacific Ocean
 '16aa48504a',extremes,Cold Wave,#a7e9fa,random,σταγόνες υδραργύρου,2026-01-23T04:02:00+00:00,,0.3105291037025085,0,1,el,,
@@ -157,14 +154,12 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '4594f1a372',extremes,Earthquake,#870007,usgs,σεισμός Ιράν,2026-01-15T10:56:00+00:00,Iran,0.2718249744588121,1,1,el,WCA,Asia
 'db2a276fc1',extremes,Earthquake,#870007,usgs,σεισμός aisen,2026-01-15T12:13:00+00:00,Chile,0.2718245100313835,1,1,el,SWS,South-America
 '7e7895dc7a',extremes,Earthquake,#870007,usgs,σεισμός Τατζικιστάν,2026-01-15T10:56:00+00:00,Tajikistan,0.2718240888930743,1,1,el,WCA,Asia
-'85a135fac3',extremes,Earthquake,#870007,usgs,σεισμός ozernovskiy,2026-01-15T10:56:00+00:00,Russia,0.2718194811024073,1,1,el,RFE,Asia
 'f7921ef009',extremes,Earthquake,#870007,usgs,σεισμός vilyuchinsk,2026-01-15T10:56:00+00:00,Russia,0.2718074862869507,1,1,el,RFE,Asia
 '1133ce1349',extremes,Earthquake,#870007,usgs,σεισμός Κόστα Ρίκα,2026-01-15T12:13:00+00:00,Costa Rica,0.2718070965431488,1,1,el,SCA,South-America
 '6bf5e2061d',extremes,Earthquake,#870007,usgs,σεισμός κάστρο,2026-01-15T10:56:00+00:00,New Zealand,0.271805689718999,1,1,el,NZ,Oceania
 'edcb89e9c3',extremes,Earthquake,#870007,usgs,σεισμός Παπούα Νέα Γουινέα,2026-01-15T10:56:00+00:00,Papua New Guinea,0.2717999965031588,1,1,el,SEA,Asia
 '7d79b2a1fb',extremes,Earthquake,#870007,usgs,σεισμός kencong,2026-01-15T12:13:00+00:00,Indonesia,0.2717905854242224,1,1,el,NAU,Oceania
 '3e797c4058',extremes,Earthquake,#870007,usgs,σεισμός Φίτζι,2026-01-15T10:56:00+00:00,Fiji,0.271786553932886,1,1,el,SPO,Pacific Ocean
-'29aa7b93c5',extremes,Earthquake,#870007,usgs,σεισμός νότια των νησιών Φίτζι,2026-01-15T10:56:00+00:00,,0.2717842689735463,1,1,el,SPO,Pacific Ocean
 '8bf8909453',extremes,Earthquake,#870007,usgs,σεισμός λεβούκα,2026-01-15T10:56:00+00:00,Fiji,0.2717782180491243,1,1,el,SPO,Pacific Ocean
 'b0d647e9d3',extremes,Earthquake,#870007,usgs,σεισμός νοτιοανατολική ινδική κορυφογραμμή,2026-01-15T10:56:00+00:00,,0.2717730887011241,1,1,el,SOO,Antarctica
 '0f6b56852d',extremes,Earthquake,#870007,usgs,σεισμός baculin,2026-01-15T10:56:00+00:00,Philippines,0.2717712069553181,1,1,el,SEA,Asia
@@ -224,7 +219,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '49e564d95b',extremes,Drought,#edc291,edo,ξηρασία νησιά Σβάλμπαρντ και Γιαν Μάγιεν,2026-01-15T10:57:00+00:00,Svalbard and Jan Mayen Islands,0.2715001708451968,1,1,el,ARO,Arctica
 '9845e6aafe',extremes,Drought,#edc291,edo,ξηρασία βόρεια νησιά Μαριάνα,2026-01-15T10:57:00+00:00,Northern Mariana Islands,0.2714943265773762,1,1,el,NPO,Pacific Ocean
 '63aea37e6c',extremes,Earthquake,#870007,usgs,σεισμός mutsu,2026-01-15T10:56:00+00:00,Japan,0.2714895119990224,1,1,el,EAS,Asia
-'b5bfafc451',extremes,Drought,#edc291,edo,έλλειψη βροχής Ηνωμένες Πολιτείες μικρά απομακρυσμένα νησιά,2026-01-15T10:57:00+00:00,United States Minor Outlying Islands,0.2714888961554242,1,1,el,WAF,Africa
 '69a64e0e6b',extremes,Drought,#edc291,edo,ξηρασία ιράκ,2026-01-15T10:57:00+00:00,Iraq,0.2714858858789231,1,1,el,WCA,Asia
 'f5090b53e9',extremes,Drought,#edc291,edo,ξηρασία γαλλική πολυνησία,2026-01-15T10:57:00+00:00,French Polynesia,0.2714834200823606,1,1,el,SPO,Pacific Ocean
 '99549776e6',extremes,Drought,#edc291,edo,ξηρασία Παπούα Νέα Γουινέα,2026-01-15T10:57:00+00:00,Papua New Guinea,0.2714822224553413,1,1,el,EPO,Pacific Ocean
@@ -314,8 +308,11 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '06972a2776',extremes,Flood,#030ba1,acwe,αστραπιαία πλημμύρα Νέα Νότια Ουαλία,2026-01-31T04:17:00+00:00,Australia,0.266100968065277,1,1,el,EAU,Oceania
 'd59a7e48d7',extremes,Drought,#edc291,random,εξατμισοδιαπνοή,2026-01-20T03:55:00+00:00,,0.2660470416237085,2,1,el,,
 'a0068b2b6b',extremes,Flood,#030ba1,aidr,βροχοπτώσεις πλημμύρας και πλημμύρες queensland Φεβρουάριος Μάρτιος 2022,2026-02-05T04:28:00+00:00,Australia,0.2658404195608672,1,1,el,EAU,Oceania
+'f7e4598a47',extremes,Tropical Cyclone,#4f4f4f,eonet,τροπικός κυκλώνας ewetse,2026-01-21T03:55:00+00:00,,0.2656827750482364,1,1,el,MDG,Africa
+'3e5f311da7',extremes,Drought,#edc291,edo,ξηρασία Σάο Τομέ και Πρίνσιπε,2026-02-05T04:28:00+00:00,Sao Tome and Principe,0.2656170667106616,1,1,el,WAF,Africa
 '42f9f7020d',extremes,Heat Wave,#c40202,acwe,θερμό ξόρκι Νέα Νότια Ουαλία,2026-02-02T04:37:00+00:00,Australia,0.2655294680960365,1,1,el,EAU,Oceania
 '521b639732',extremes,Tropical Cyclone,#4f4f4f,aidr,κυκλώνας Όσβαλντ Κουίνσλαντ Νέα Νότια Ουαλία 2013,2026-02-05T04:28:00+00:00,Australia,0.2654640637136597,1,1,el,NAU,Oceania
+'51b14c1443',extremes,Flood,#030ba1,aidr,flood geelong victoria 2016,2026-02-07T04:20:00+00:00,Australia,0.2645824402786346,1,1,el,SAU,Oceania
 '3e2894fd0c',extremes,Iceberg,#d60d2b,random,θαλάσσιος πάγος της Ανταρκτικής,2026-01-21T03:55:00+00:00,,0.2642649326982095,2,1,el,,
 '980a973102',extremes,Tropical Cyclone,#4f4f4f,random,κυκλώνας βόμβας,2026-01-15T10:56:00+00:00,,0.2629028739026637,2,1,el,,
 'ebf0baeb9e',extremes,Drought,#edc291,edo,ξηρασία αλβανία,2026-01-15T10:57:00+00:00,Albania,0.2612701280862606,2,1,el,MED,Europe
@@ -334,9 +331,9 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'a5ff1cde4a',extremes,Drought,#edc291,random,υγρασία του εδάφους,2026-01-28T03:56:00+00:00,,0.2417981712382669,2,1,el,,
 '69791e5a17',extremes,Flood,#030ba1,random,αστραπιαία πλημμύρα,2026-01-17T03:44:00+00:00,,0.2364941972006376,2,1,el,,
 '053bb10e09',extremes,Heat Wave,#c40202,random,ινδικό καλοκαίρι,2026-01-23T04:02:00+00:00,,0.2345832641293053,2,1,el,,
-'45f861329d',extremes,Landslide,#572c03,aidr,κατολίσθηση λόφους της Αδελαΐδας νότια Αυστραλία,2026-01-15T10:57:00+00:00,Australia,0.2312054529413387,2,1,el,SAU,Oceania
 '6f60f45443',extremes,Snow&Ice,#d60d2b,cmeter,χειμερινή καταιγίδα της Βόρειας Αμερικής Νέα Υόρκη,2026-01-31T04:17:00+00:00,United States,0.2312054529413387,2,1,el,ENA,North-America
 'f6374995d1',extremes,Tropical Cyclone,#4f4f4f,cmeter,τροπικός κυκλώνας Ιταλία,2026-01-28T03:57:00+00:00,Italy,0.2312054529413387,2,1,el,MED,Europe
+'45f861329d',extremes,Landslide,#572c03,aidr,κατολίσθηση λόφους της Αδελαΐδας νότια Αυστραλία,2026-01-15T10:57:00+00:00,Australia,0.2312054529413387,2,1,el,SAU,Oceania
 '6f7179aa00',extremes,Volcano,#b83202,eonet,ηφαίστειο Φιλιππίνες,2026-01-15T10:56:00+00:00,Philippines,0.231183731548082,2,1,el,SEA,Asia
 '7a2481f0b1',extremes,Flood,#030ba1,aidr,ποτάμι που πλημμυρίζει την Αυστραλία,2026-01-15T10:57:00+00:00,Australia,0.2311392746990569,2,1,el,EAU,Oceania
 'ebe314dd99',extremes,Flood,#030ba1,aidr,έντονες βροχοπτώσεις και πλημμύρες Queensland Φεβρουάριος 2020,2026-01-15T10:57:00+00:00,Australia,0.2311383647962844,2,1,el,EAU,Oceania
@@ -367,6 +364,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '9f3b29621a',extremes,Earthquake,#870007,usgs,σεισμός κεντρική μεσοατλαντική κορυφογραμμή,2026-01-15T10:56:00+00:00,,0.2310572841059993,2,1,el,EAO,Atlantic Ocean
 '957a7a09df',extremes,Earthquake,#870007,usgs,σεισμός σταθμός attu,2026-01-15T10:56:00+00:00,Alaska,0.2310510740635845,2,1,el,NPO,Pacific Ocean
 '8710bd49ea',extremes,Earthquake,#870007,usgs,σεισμός severo kuril'sk,2026-01-15T10:56:00+00:00,Russia,0.2310498410777989,2,1,el,RFE,Asia
+'85a135fac3',extremes,Earthquake,#870007,usgs,σεισμός ozernovskiy,2026-01-15T10:56:00+00:00,Russia,0.23104655893704618,2,1,el,RFE,Asia
 '51dfc3f3e1',extremes,Earthquake,#870007,usgs,σεισμός κόκοπο,2026-01-15T10:56:00+00:00,Papua New Guinea,0.2310450639604185,2,1,el,EPO,Pacific Ocean
 'fc0fd225f3',extremes,Earthquake,#870007,usgs,σεισμός Βιρμανία Μιανμάρ,2026-01-15T12:13:00+00:00,Burma (Myanmar),0.2310449583093914,2,1,el,SAS,Asia
 '066ed457ed',extremes,Earthquake,#870007,usgs,σεισμός βόρεια νησιά Μαριάνα,2026-01-15T12:13:00+00:00,Northern Mariana Islands,0.2310426680769775,2,1,el,NPO,Pacific Ocean
@@ -376,9 +374,10 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '0a2120b175',extremes,Earthquake,#870007,usgs,σεισμός diego de almagro,2026-01-15T10:56:00+00:00,Chile,0.2310227769573228,2,1,el,SWS,South-America
 '6628268bda',extremes,Earthquake,#870007,usgs,σεισμός korla,2026-01-15T10:56:00+00:00,China,0.2310185235177888,2,1,el,ECA,Asia
 'd920e41c1e',extremes,Earthquake,#870007,usgs,σεισμός μεκ'ελέ,2026-01-15T12:13:00+00:00,Ethiopia,0.2310175934006946,2,1,el,NEAF,Africa
+'29aa7b93c5',extremes,Earthquake,#870007,usgs,σεισμός νότια των νησιών Φίτζι,2026-01-15T10:56:00+00:00,,0.23101662862751435,2,1,el,SPO,Pacific Ocean
 '3e36cbc783',extremes,Earthquake,#870007,usgs,σεισμός la concepción,2026-01-15T12:13:00+00:00,Venezuela,0.2310136211282333,2,1,el,NWS,South-America
 '9de3c9007e',extremes,Earthquake,#870007,usgs,σεισμός yakutat,2026-01-15T10:56:00+00:00,Alaska,0.2310082403526959,2,1,el,NWN,North-America
-'2fa9116266',extremes,Earthquake,#870007,usgs,σεισμός λιμάνι Άλσγουορθ,2026-01-15T12:13:00+00:00,United States,0.23100786812631027,2,1,el,NWN,North-America
+'2fa9116266',extremes,Earthquake,#870007,usgs,σεισμός λιμάνι Άλσγουορθ,2026-01-15T12:13:00+00:00,United States,0.2310078681263102,2,1,el,NWN,North-America
 'daed8f4597',extremes,Earthquake,#870007,usgs,σεισμός Σομαλία,2026-01-15T12:13:00+00:00,Somalia,0.2309994403956945,2,1,el,NEAF,Africa
 '0b2fd57376',extremes,Earthquake,#870007,usgs,σεισμός Ταϊβάν,2026-01-15T12:13:00+00:00,Taiwan,0.2309860806507232,2,1,el,EAS,Asia
 'd46b5571fa',extremes,Tsunami,#690191,usgs,τσουνάμι Ταϊβάν,2026-01-15T12:13:00+00:00,Taiwan,0.2309854072321682,2,1,el,EAS,Asia
@@ -391,10 +390,11 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '22045a461a',extremes,Earthquake,#870007,usgs,σεισμός νησιά Izu περιοχή Ιαπωνία,2026-01-15T10:56:00+00:00,,0.2308847285802061,2,1,el,NPO,Pacific Ocean
 '2725619969',extremes,Earthquake,#870007,usgs,σεισμός hanawa,2026-01-15T12:13:00+00:00,Japan,0.2308644761554368,2,1,el,EAS,Asia
 '0816dd344b',extremes,Earthquake,#870007,usgs,σεισμός λαέ,2026-01-15T10:56:00+00:00,Papua New Guinea,0.2308336251747957,2,1,el,SEA,Asia
-'f986f74559',extremes,Earthquake,#870007,usgs,σεισμός yonakuni,2026-01-15T10:56:00+00:00,Japan,0.23082994484660885,2,1,el,EAS,Asia
+'f986f74559',extremes,Earthquake,#870007,usgs,σεισμός yonakuni,2026-01-15T10:56:00+00:00,Japan,0.2308299448466088,2,1,el,EAS,Asia
 '1a5e4bce35',extremes,Drought,#edc291,edo,έλλειψη βροχής Κουβέιτ,2026-01-15T10:57:00+00:00,Kuwait,0.2308192611156805,2,1,el,ARP,Asia
 '06532967b8',extremes,Drought,#edc291,edo,έλλειψη βροχής Βραζιλία,2026-01-15T10:57:00+00:00,Brazil,0.2308004627133839,2,1,el,SAM,South-America
-'5bd3759e67',extremes,Drought,#edc291,edo,ξηρασία wallis και futuna,2026-01-15T10:57:00+00:00,Wallis and Futuna,0.23077458508879617,2,1,el,SPO,Pacific Ocean
+'5bd3759e67',extremes,Drought,#edc291,edo,ξηρασία wallis και futuna,2026-01-15T10:57:00+00:00,Wallis and Futuna,0.2307745850887961,2,1,el,SPO,Pacific Ocean
+'b5bfafc451',extremes,Drought,#edc291,edo,έλλειψη βροχής Ηνωμένες Πολιτείες μικρά απομακρυσμένα νησιά,2026-01-15T10:57:00+00:00,United States Minor Outlying Islands,0.23076556173211057,2,1,el,WAF,Africa
 '3c0d8a70ba',extremes,Earthquake,#870007,usgs,σεισμός finschhafen,2026-01-15T12:13:00+00:00,Papua New Guinea,0.2307622608721354,2,1,el,SEA,Asia
 'e5b46f3978',extremes,Drought,#edc291,edo,ξηρασία Αργεντινή,2026-01-15T10:57:00+00:00,Argentina,0.2307017847800763,2,1,el,SES,South-America
 'f9eb244a9a',extremes,Drought,#edc291,edo,έλλειψη βροχής Ιταλία,2026-01-15T10:57:00+00:00,Italy,0.230486870552547,2,1,el,MED,Europe
