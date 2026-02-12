@@ -1,5 +1,5 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'10a1d9dbe1',extremes,Precipitation,#d60d2b,wmo,βροχόπτωση ελλάδα,2026-01-21T03:56:00+00:00,Greece,0.6236097175628645,7,2,el,MED,Europe
+'10a1d9dbe1',extremes,Precipitation,#d60d2b,wmo,βροχόπτωση ελλάδα,2026-01-21T03:56:00+00:00,Greece,0.6135366067466167,8,2,el,MED,Europe
 '81121a2f89',extremes,Thunderstorm,#53785a,wmo,κακοκαιρία Αττική,2026-01-29T04:19:00+00:00,Greece,0.5792596372156161,13,3,el,MED,Europe
 '2f02ead0d0',extremes,Thunderstorm,#53785a,wmo,κακοκαιρία δυτική Μακεδονία,2026-01-26T04:09:00+00:00,Greece,0.5756784558689334,5,1,el,MED,Europe
 '3d78159313',extremes,Thunderstorm,#53785a,wmo,καταιγίδα ελλάδα,2026-01-21T03:56:00+00:00,Greece,0.5576544517821347,4,2,el,MED,Europe
@@ -224,7 +224,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '76196dc5e1',extremes,Earthquake,#870007,usgs,σεισμός Γουατεμάλα,2026-01-15T12:13:00+00:00,Guatemala,0.2710350063400228,1,1,el,SCA,North-America
 '83f2a9deea',extremes,Drought,#edc291,edo,ξηρασία Γαλλία,2026-01-15T10:57:00+00:00,France,0.2710187420321811,1,1,el,WCE,Europe
 '7afee2724b',extremes,Drought,#edc291,edo,ξηρασία Δανία,2026-01-15T10:57:00+00:00,Denmark,0.2710072749797185,1,1,el,NEU,Europe
-'8bbcf20888',extremes,Drought,#edc291,edo,ξηρασία Ρουμανία,2026-01-15T10:57:00+00:00,Romania,0.2710001465032762,1,1,el,WCE,Europe
 'cf46a8a13c',extremes,Drought,#edc291,edo,ξηρασία Φιλιππίνες,2026-01-15T10:57:00+00:00,Philippines,0.2709472491485465,1,1,el,SEA,Asia
 'c660d659ce',extremes,Tropical Cyclone,#4f4f4f,eonet,τροπικός κυκλώνας φυτεία,2026-01-31T04:16:00+00:00,,0.2709466533893596,1,1,el,ESAF,Africa
 '5b317b7998',extremes,Earthquake,#870007,usgs,σεισμός pondaguitan,2026-01-15T10:56:00+00:00,Philippines,0.2709315457787342,1,1,el,SEA,Asia
@@ -419,4 +418,5 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '6cfc55b8b1',extremes,Drought,#edc291,edo,ξηρότητα bonaire άγιος ευστάσιος και σάμπα,2026-01-15T10:57:00+00:00,Bonaire; Saint Eustatius and Saba ,0.2307020179262086,2,1,el,CAR,North-America
 'e5b46f3978',extremes,Drought,#edc291,edo,ξηρασία Αργεντινή,2026-01-15T10:57:00+00:00,Argentina,0.2307017847800763,2,1,el,SES,South-America
 'f9eb244a9a',extremes,Drought,#edc291,edo,έλλειψη βροχής Ιταλία,2026-01-15T10:57:00+00:00,Italy,0.230486870552547,2,1,el,MED,Europe
+'8bbcf20888',extremes,Drought,#edc291,edo,ξηρασία Ρουμανία,2026-01-15T10:57:00+00:00,Romania,0.23035012452778475,2,1,el,WCE,Europe
 '06972a2776',extremes,Flood,#030ba1,acwe,αστραπιαία πλημμύρα Νέα Νότια Ουαλία,2026-01-31T04:17:00+00:00,Australia,0.2261858228554854,2,1,el,EAU,Oceania
