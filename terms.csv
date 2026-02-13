@@ -139,6 +139,12 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '44211c95de',extremes,Flood,#030ba1,aidr,πλημμυρίζοντας την Αυστραλία,2026-02-05T04:28:00+00:00,Australia,0.3154147599862211,0,1,el,EAU,Oceania
 '54927bfe65',extremes,Flood,#030ba1,random,παράκτια πλημμύρα,2026-02-12T04:36:00+00:00,,0.3153113400631214,0,1,el,,
 'af3396aaaf',extremes,Drought,#edc291,edo,ξηρασία Ελλάδα,2026-01-17T03:44:00+00:00,Greece,0.3129189561761956,3,1,el,MED,Europe
+'ba920c05ae',extremes,Earthquake,#870007,usgs,σεισμός riverton,2026-02-03T04:27:00+00:00,New Zealand,0.3118625577241554,0,1,el,NZ,Oceania
+'1ff36d7a46',extremes,Drought,#edc291,edo,ξηρασία Βέλγιο,2026-02-07T04:19:00+00:00,Belgium,0.31111010751946355,0,1,el,WCE,Europe
+'3c0d8a70ba',extremes,Earthquake,#870007,usgs,σεισμός finschhafen,2026-02-05T04:27:00+00:00,Papua New Guinea,0.31042383923479266,0,1,el,SEA,Oceania
+'9349bd9c5e',extremes,Drought,#edc291,edo,ξηρότητα Ισημερινή Γουινέα,2026-01-26T04:09:00+00:00,Equatorial Guinea,0.3095288911016971,0,1,el,WAF,Africa
+'d3353562c0',extremes,Drought,#edc291,edo,ξηρασία τζιμπουτί,2026-02-06T04:28:00+00:00,Djibouti,0.30895376043996614,0,1,el,NEAF,Africa
+'8ebd9f213e',extremes,Wildfire,#d60d2b,acwe,πυρκαγιά νότια Αυστραλία,2026-01-27T03:59:00+00:00,Australia,0.3089280531027499,0,1,el,SAU,Oceania
 'd5d7a11479',extremes,Drought,#edc291,edo,ξηρασία Κύπρος,2026-01-22T04:00:00+00:00,Cyprus,0.3089080864073801,2,1,el,MED,Europe
 '60a5373b45',extremes,Earthquake,#870007,usgs,σεισμός Κύθηρα,2026-01-15T10:56:00+00:00,Greece,0.306198490936893,2,1,el,MED,Europe
 '10f476720b',extremes,Insect Infestation,#d60d2b,random,ακρίδα,2026-01-26T04:08:00+00:00,,0.2962304529413387,2,1,el,,
@@ -294,9 +300,9 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'a5ff1cde4a',extremes,Drought,#edc291,random,υγρασία του εδάφους,2026-01-28T03:56:00+00:00,,0.2417981712382669,2,1,el,,
 '69791e5a17',extremes,Flood,#030ba1,random,αστραπιαία πλημμύρα,2026-01-17T03:44:00+00:00,,0.2364941972006376,2,1,el,,
 '053bb10e09',extremes,Heat Wave,#c40202,random,ινδικό καλοκαίρι,2026-01-23T04:02:00+00:00,,0.2345832641293053,2,1,el,,
-'f6374995d1',extremes,Tropical Cyclone,#4f4f4f,cmeter,τροπικός κυκλώνας Ιταλία,2026-01-28T03:57:00+00:00,Italy,0.2312054529413387,2,1,el,MED,Europe
-'45f861329d',extremes,Landslide,#572c03,aidr,κατολίσθηση λόφους της Αδελαΐδας νότια Αυστραλία,2026-01-15T10:57:00+00:00,Australia,0.2312054529413387,2,1,el,SAU,Oceania
 '6f60f45443',extremes,Snow&Ice,#d60d2b,cmeter,χειμερινή καταιγίδα της Βόρειας Αμερικής Νέα Υόρκη,2026-01-31T04:17:00+00:00,United States,0.2312054529413387,2,1,el,ENA,North-America
+'45f861329d',extremes,Landslide,#572c03,aidr,κατολίσθηση λόφους της Αδελαΐδας νότια Αυστραλία,2026-01-15T10:57:00+00:00,Australia,0.2312054529413387,2,1,el,SAU,Oceania
+'f6374995d1',extremes,Tropical Cyclone,#4f4f4f,cmeter,τροπικός κυκλώνας Ιταλία,2026-01-28T03:57:00+00:00,Italy,0.2312054529413387,2,1,el,MED,Europe
 'a241cba1ba',extremes,Volcano,#b83202,eonet,άμβρυμο ηφαίστειο Βανουάτου,2026-01-15T10:56:00+00:00,Vanuatu,0.2311918853577977,2,1,el,SPO,Oceania
 '6f7179aa00',extremes,Volcano,#b83202,eonet,ηφαίστειο Φιλιππίνες,2026-01-15T10:56:00+00:00,Philippines,0.231183731548082,2,1,el,SEA,Asia
 '7a2481f0b1',extremes,Flood,#030ba1,aidr,ποτάμι που πλημμυρίζει την Αυστραλία,2026-01-15T10:57:00+00:00,Australia,0.2311392746990569,2,1,el,EAU,Oceania
@@ -418,5 +424,5 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '6cfc55b8b1',extremes,Drought,#edc291,edo,ξηρότητα bonaire άγιος ευστάσιος και σάμπα,2026-01-15T10:57:00+00:00,Bonaire; Saint Eustatius and Saba ,0.2307020179262086,2,1,el,CAR,North-America
 'e5b46f3978',extremes,Drought,#edc291,edo,ξηρασία Αργεντινή,2026-01-15T10:57:00+00:00,Argentina,0.2307017847800763,2,1,el,SES,South-America
 'f9eb244a9a',extremes,Drought,#edc291,edo,έλλειψη βροχής Ιταλία,2026-01-15T10:57:00+00:00,Italy,0.230486870552547,2,1,el,MED,Europe
-'8bbcf20888',extremes,Drought,#edc291,edo,ξηρασία Ρουμανία,2026-01-15T10:57:00+00:00,Romania,0.23035012452778475,2,1,el,WCE,Europe
+'8bbcf20888',extremes,Drought,#edc291,edo,ξηρασία Ρουμανία,2026-01-15T10:57:00+00:00,Romania,0.2303501245277847,2,1,el,WCE,Europe
 '06972a2776',extremes,Flood,#030ba1,acwe,αστραπιαία πλημμύρα Νέα Νότια Ουαλία,2026-01-31T04:17:00+00:00,Australia,0.2261858228554854,2,1,el,EAU,Oceania
