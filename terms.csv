@@ -17,8 +17,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '1caafaca2a',extremes,Storm,#b3b2b1,wmo,κύμα καταιγίδας ελλάδα,2026-01-21T03:56:00+00:00,Greece,0.4992686697937049,2,1,el,MED,Europe
 '5ce15877cd',extremes,Fog,#d60d2b,wmo,ομίχλη ήπειρος,2026-01-23T04:03:00+00:00,Greece,0.49365604720966,2,1,el,MED,Europe
 'e4c0eb1729',extremes,Wildfire,#d60d2b,random,πυρκαγιά,2026-01-24T03:48:00+00:00,,0.4919149767802439,2,3,el,,
-'3cd619cb2e',extremes,Thunderstorm,#53785a,wmo,έντονα καιρικά φαινόμενα δυτική Στερεά,2026-02-11T04:41:00+00:00,Greece,0.4904922451569874,1,1,el,MED,Europe
-'82c2f9a8b1',extremes,Thunderstorm,#53785a,wmo,καταιγίδα kriti,2026-02-11T04:41:00+00:00,Greece,0.488844143323606,1,1,el,MED,Europe
 '6b6a4c38b4',extremes,Thunderstorm,#53785a,wmo,έντονα καιρικά φαινόμενα Ήπειρος,2026-02-07T04:19:00+00:00,Greece,0.4875638014405854,3,1,el,MED,Europe
 'a63515cbd1',extremes,Thunderstorm,#53785a,wmo,καταιγίδα θρακή,2026-02-05T04:27:00+00:00,Greece,0.48369588206073,2,1,el,MED,Europe
 '4c52e82e04',extremes,Snow&Ice,#d60d2b,wmo,παγωμένη δυτική Πελοπόννησος,2026-01-20T03:56:00+00:00,Greece,0.4775293979464851,2,1,el,MED,Europe
@@ -47,18 +45,18 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'c3d0e3b068',extremes,Snow&Ice,#d60d2b,random,πάγωμα,2026-01-22T03:59:00+00:00,,0.4243018422615738,1,2,el,,
 '5ea4d45f08',extremes,Tropical Cyclone,#4f4f4f,random,στεριά,2026-01-17T03:44:00+00:00,,0.4222101369750555,4,1,el,,
 '82d648b882',extremes,Drought,#edc291,random,ξηρασία,2026-01-15T10:39:00+00:00,,0.4212458705493016,3,1,el,,
+'ea1c03418f',extremes,Snow&Ice,#d60d2b,random,χιονόνερο,2026-02-05T04:27:00+00:00,,0.42088853985011826,1,2,el,,
 '3d7c05e35a',extremes,Precipitation,#d60d2b,wmo,καταρρακτώδης βροχή νησιά Δωδεκάνησα,2026-01-26T04:09:00+00:00,Greece,0.4201600790321505,2,1,el,MED,Europe
-'e68b3f4750',extremes,Precipitation,#d60d2b,wmo,βροχή κεντρική Μακεδονία,2026-02-13T04:34:00+00:00,Greece,0.420157151020075,1,1,el,MED,Europe
 '80c06ab8a0',extremes,Cold Wave,#a7e9fa,random,πτώση της θερμοκρασίας,2026-02-12T04:36:00+00:00,,0.4201096671751805,1,3,el,,
 'dfbbaf13dc',extremes,Precipitation,#d60d2b,wmo,βροχή θεσσαλία,2026-02-01T04:41:00+00:00,Greece,0.419964728182051,2,1,el,MED,Europe
-'df06cf30e1',extremes,Precipitation,#d60d2b,wmo,νεροποντή Κυκλάδες,2026-02-12T04:37:00+00:00,Greece,0.4199567127334203,1,1,el,MED,Europe
-'a5936920c0',extremes,Precipitation,#d60d2b,wmo,νεροποντή θεσσαλία,2026-02-12T04:37:00+00:00,Greece,0.4192099853428435,1,1,el,MED,Europe
 '7e303c7e63',extremes,Snow Avalanche,#deddd5,random,χιονοστιβάδα χιονιού,2026-01-20T03:55:00+00:00,,0.4182287093581107,3,2,el,,
 'c585cfd7db',extremes,Thunderstorm,#53785a,wmo,κακοκαιρία ανατολική Πελοπόννησος,2026-01-23T04:03:00+00:00,Greece,0.418036830167431,3,1,el,MED,Europe
 '41b02b5f99',extremes,Precipitation,#d60d2b,wmo,νεροποντή ανατολική στερεά amp Εύβοια,2026-01-29T04:19:00+00:00,Greece,0.4176896297409077,2,1,el,MED,Europe
+'3cd619cb2e',extremes,Thunderstorm,#53785a,wmo,έντονα καιρικά φαινόμενα δυτική Στερεά,2026-02-11T04:41:00+00:00,Greece,0.4169184083834393,2,1,el,MED,Europe
 '9365e99d90',extremes,Thunderstorm,#53785a,wmo,χαλάζι Δωδεκάνησα,2026-01-22T03:59:00+00:00,Greece,0.4163678622691615,3,1,el,MED,Europe
 '3e4b341619',extremes,Storm,#b3b2b1,random,καταιγίδα,2026-01-20T03:55:00+00:00,,0.4162632445657144,1,3,el,,
 'a3643d64b0',extremes,Storm,#b3b2b1,wmo,καταιγίδα νησιά Δωδεκάνησα,2026-02-05T04:27:00+00:00,Greece,0.4160891265146904,3,1,el,MED,Europe
+'82c2f9a8b1',extremes,Thunderstorm,#53785a,wmo,καταιγίδα kriti,2026-02-11T04:41:00+00:00,Greece,0.4155175218250651,2,1,el,MED,Europe
 'c316300df0',extremes,Storm,#b3b2b1,wmo,κύμα καταιγίδας ιοννήσια,2026-01-21T03:56:00+00:00,Greece,0.4145930855976587,3,1,el,MED,Europe
 'dcbdfbc685',extremes,Precipitation,#d60d2b,wmo,βροχόπτωση δυτική sterea,2026-01-28T03:56:00+00:00,Greece,0.4138026347065798,2,1,el,MED,Europe
 '02e04e6077',extremes,Thunderstorm,#53785a,wmo,καταιγίδα epirus,2026-02-11T04:41:00+00:00,Greece,0.4132107256848496,2,1,el,MED,Europe
@@ -72,7 +70,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '4abd30c9b0',extremes,Storm,#b3b2b1,wmo,καταιγίδα ιοννήσια,2026-01-20T03:56:00+00:00,Greece,0.410929500812442,3,1,el,MED,Europe
 '0a98fdd376',extremes,Snow Avalanche,#deddd5,random,χιονοστιβάδα,2026-01-23T04:02:00+00:00,,0.4092714445950416,3,1,el,,
 'ee302d9d2d',extremes,Storm,#b3b2b1,wmo,καταιγίδα ανατολική sterea evvoia,2026-01-21T03:56:00+00:00,Greece,0.4080137593900104,3,1,el,MED,Europe
-'f2948297cc',extremes,Precipitation,#d60d2b,wmo,βροχή Κυκλάδες,2026-02-11T04:41:00+00:00,Greece,0.4076451470578842,1,1,el,MED,Europe
 'e17ac8bae1',extremes,Storm,#b3b2b1,wmo,καταιγίδα ανατολική sterea amp evvoia,2026-02-11T04:41:00+00:00,Greece,0.4068133240096961,2,1,el,MED,Europe
 'f9a3abc8c2',extremes,Landslide,#572c03,random,λάσπη,2026-01-17T03:44:00+00:00,,0.4049683019423837,1,2,el,,
 'c3eac47bb6',extremes,Storm,#b3b2b1,wmo,καταιγίδα ανατολική Πελοπόννησος,2026-01-20T03:56:00+00:00,Greece,0.4049655730183657,3,1,el,MED,Europe
@@ -80,7 +77,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'c4f95855f2',extremes,Precipitation,#d60d2b,wmo,βροχόπτωση ανατολική Μακεδονία,2026-01-30T04:21:00+00:00,Greece,0.4012706835776979,2,1,el,MED,Europe
 'f5584b5068',extremes,Fog,#d60d2b,wmo,ομίχλη δυτική στέρεα,2026-02-03T04:27:00+00:00,Greece,0.4009065242595441,3,1,el,MED,Europe
 '3ba62ce4f2',extremes,Earthquake,#870007,usgs,σεισμός ελλάδα,2026-01-15T10:56:00+00:00,Greece,0.4006954359979432,3,1,el,MED,Europe
-'ea1c03418f',extremes,Snow&Ice,#d60d2b,random,χιονόνερο,2026-02-05T04:27:00+00:00,,0.3983980174707274,0,1,el,,
 'cd17ecbc9b',extremes,Storm,#b3b2b1,wmo,καταιγίδα νησιά βορειοανατολικού Αιγαίου,2026-01-22T03:59:00+00:00,Greece,0.3947454444039914,3,1,el,MED,Europe
 '923977770d',extremes,Precipitation,#d60d2b,wmo,βροχή κρίτι,2026-01-21T03:56:00+00:00,Greece,0.3944068560013593,3,1,el,MED,Europe
 '7fbbf3063b',extremes,Storm,#b3b2b1,wmo,κύμα καταιγίδας νησιά βορειοανατολικού Αιγαίου,2026-01-21T03:56:00+00:00,Greece,0.3937638231579261,3,1,el,MED,Europe
@@ -118,6 +114,9 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '23ad2bb822',extremes,Earthquake,#870007,usgs,σεισμός Ρωσία,2026-01-15T10:56:00+00:00,Russia,0.3587025736856117,2,1,el,EAS,Asia
 'c685705bbd',extremes,Earthquake,#870007,usgs,σεισμός Κίνα,2026-01-15T10:56:00+00:00,China,0.3586632360312409,2,1,el,EAS,Asia
 '997a2e2157',extremes,Earthquake,#870007,usgs,σεισμός Αργεντινή,2026-01-15T10:56:00+00:00,Argentina,0.3586225408497243,2,1,el,SWS,South-America
+'e68b3f4750',extremes,Precipitation,#d60d2b,wmo,βροχή κεντρική Μακεδονία,2026-02-13T04:34:00+00:00,Greece,0.3571335783670637,2,1,el,MED,Europe
+'df06cf30e1',extremes,Precipitation,#d60d2b,wmo,νεροποντή Κυκλάδες,2026-02-12T04:37:00+00:00,Greece,0.35696320582340724,2,1,el,MED,Europe
+'a5936920c0',extremes,Precipitation,#d60d2b,wmo,νεροποντή θεσσαλία,2026-02-12T04:37:00+00:00,Greece,0.35632848754141694,2,1,el,MED,Europe
 '5375aba0f4',extremes,Precipitation,#d60d2b,wmo,βροχόπτωση νησιά βορειοανατολικού Αιγαίου,2026-01-29T04:19:00+00:00,Greece,0.3537220559257008,3,1,el,MED,Europe
 '0639323bb2',extremes,Precipitation,#d60d2b,wmo,καταρρακτώδης βροχή θεσσαλία,2026-02-10T04:43:00+00:00,Greece,0.3531614446004137,2,1,el,MED,Europe
 '8261c5af16',extremes,Thunderstorm,#53785a,wmo,καταιγίδα Κυκλάδες,2026-01-23T04:03:00+00:00,Greece,0.3523635340240145,4,1,el,MED,Europe
@@ -127,6 +126,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '52af874334',extremes,Drought,#edc291,random,ξηρασία,2026-01-21T03:55:00+00:00,,0.3492744637966942,2,1,el,,
 'f8289b9d41',extremes,Snow&Ice,#d60d2b,wmo,χιόνι δυτική Στερεά,2026-01-21T03:56:00+00:00,Greece,0.3490290387911897,4,1,el,MED,Europe
 '3d4dbc8c3b',extremes,Precipitation,#d60d2b,random,δυνατή βροχή,2026-01-17T03:44:00+00:00,,0.3472741072244846,3,1,el,,
+'f2948297cc',extremes,Precipitation,#d60d2b,wmo,βροχή Κυκλάδες,2026-02-11T04:41:00+00:00,Greece,0.34649837499920155,2,1,el,MED,Europe
 '363ce72927',extremes,Drought,#edc291,edo,ξηρασία αλβανία,2026-01-15T12:14:00+00:00,Albania,0.3442882885065297,3,1,el,MED,Europe
 '42bb302a57',extremes,Precipitation,#d60d2b,wmo,βροχόπτωση ανατολική Πελοπόννησος,2026-01-21T03:56:00+00:00,Greece,0.3432721084713965,4,1,el,MED,Europe
 'dfc27fa2c9',extremes,Thunderstorm,#53785a,wmo,χαλάζι σε νησιά βορειοανατολικού Αιγαίου,2026-01-23T04:03:00+00:00,Greece,0.3408169913644877,4,1,el,MED,Europe
@@ -139,7 +139,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '469687aa19',extremes,Drought,#edc291,edo,έλλειψη βροχής Αλβανία,2026-01-17T03:44:00+00:00,Albania,0.3281197796965671,2,1,el,MED,Europe
 '9797aa6299',extremes,Drought,#edc291,edo,έλλειψη βροχής Κύπρος,2026-01-24T03:49:00+00:00,Cyprus,0.3175507139274596,2,1,el,MED,Europe
 'af3396aaaf',extremes,Drought,#edc291,edo,ξηρασία Ελλάδα,2026-01-17T03:44:00+00:00,Greece,0.3129189561761956,3,1,el,MED,Europe
-'ba920c05ae',extremes,Earthquake,#870007,usgs,σεισμός riverton,2026-02-03T04:27:00+00:00,New Zealand,0.3118625577241554,0,1,el,NZ,Oceania
 'edcb89e9c3',extremes,Earthquake,#870007,usgs,σεισμός Παπούα Νέα Γουινέα,2026-02-05T04:27:00+00:00,Papua New Guinea,0.3118484281580209,0,1,el,EPO,Oceania
 '1ff36d7a46',extremes,Drought,#edc291,edo,ξηρασία Βέλγιο,2026-02-07T04:19:00+00:00,Belgium,0.3111101075194635,0,1,el,WCE,Europe
 '3c0d8a70ba',extremes,Earthquake,#870007,usgs,σεισμός finschhafen,2026-02-05T04:27:00+00:00,Papua New Guinea,0.3104238392347926,0,1,el,SEA,Oceania
@@ -267,6 +266,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '42f9f7020d',extremes,Heat Wave,#c40202,acwe,θερμό ξόρκι Νέα Νότια Ουαλία,2026-02-02T04:37:00+00:00,Australia,0.2655294680960365,1,1,el,EAU,Oceania
 '521b639732',extremes,Tropical Cyclone,#4f4f4f,aidr,κυκλώνας Όσβαλντ Κουίνσλαντ Νέα Νότια Ουαλία 2013,2026-02-05T04:28:00+00:00,Australia,0.2654640637136597,1,1,el,NAU,Oceania
 'aef4c7cec9',extremes,Earthquake,#870007,aidr,σεισμός christchurch Νέα Ζηλανδία 2011,2026-01-29T04:19:00+00:00,New Zealand,0.2652394284303015,1,1,el,NZ,Oceania
+'ba920c05ae',extremes,Earthquake,#870007,usgs,σεισμός riverton,2026-02-03T04:27:00+00:00,New Zealand,0.26508317406553206,1,1,el,NZ,Oceania
 '51b14c1443',extremes,Flood,#030ba1,aidr,flood geelong victoria 2016,2026-02-07T04:20:00+00:00,Australia,0.2645824402786346,1,1,el,SAU,Oceania
 '3e2894fd0c',extremes,Iceberg,#d60d2b,random,θαλάσσιος πάγος της Ανταρκτικής,2026-01-21T03:55:00+00:00,,0.2642649326982095,2,1,el,,
 '56dca2743f',extremes,Drought,#edc291,edo,ξηρασία ισημερινή γουινέα,2026-02-06T04:28:00+00:00,Equatorial Guinea,0.2641855301057863,1,1,el,WAF,Africa
@@ -297,9 +297,9 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'a5ff1cde4a',extremes,Drought,#edc291,random,υγρασία του εδάφους,2026-01-28T03:56:00+00:00,,0.2417981712382669,2,1,el,,
 '69791e5a17',extremes,Flood,#030ba1,random,αστραπιαία πλημμύρα,2026-01-17T03:44:00+00:00,,0.2364941972006376,2,1,el,,
 '053bb10e09',extremes,Heat Wave,#c40202,random,ινδικό καλοκαίρι,2026-01-23T04:02:00+00:00,,0.2345832641293053,2,1,el,,
+'6f60f45443',extremes,Snow&Ice,#d60d2b,cmeter,χειμερινή καταιγίδα της Βόρειας Αμερικής Νέα Υόρκη,2026-01-31T04:17:00+00:00,United States,0.2312054529413387,2,1,el,ENA,North-America
 '45f861329d',extremes,Landslide,#572c03,aidr,κατολίσθηση λόφους της Αδελαΐδας νότια Αυστραλία,2026-01-15T10:57:00+00:00,Australia,0.2312054529413387,2,1,el,SAU,Oceania
 'f6374995d1',extremes,Tropical Cyclone,#4f4f4f,cmeter,τροπικός κυκλώνας Ιταλία,2026-01-28T03:57:00+00:00,Italy,0.2312054529413387,2,1,el,MED,Europe
-'6f60f45443',extremes,Snow&Ice,#d60d2b,cmeter,χειμερινή καταιγίδα της Βόρειας Αμερικής Νέα Υόρκη,2026-01-31T04:17:00+00:00,United States,0.2312054529413387,2,1,el,ENA,North-America
 'a241cba1ba',extremes,Volcano,#b83202,eonet,άμβρυμο ηφαίστειο Βανουάτου,2026-01-15T10:56:00+00:00,Vanuatu,0.2311918853577977,2,1,el,SPO,Oceania
 '6f7179aa00',extremes,Volcano,#b83202,eonet,ηφαίστειο Φιλιππίνες,2026-01-15T10:56:00+00:00,Philippines,0.231183731548082,2,1,el,SEA,Asia
 '7a2481f0b1',extremes,Flood,#030ba1,aidr,ποτάμι που πλημμυρίζει την Αυστραλία,2026-01-15T10:57:00+00:00,Australia,0.2311392746990569,2,1,el,EAU,Oceania
