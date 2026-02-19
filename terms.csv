@@ -1,8 +1,8 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'47a71b6762',extremes,Thunderstorm,#53785a,wmo,έντονα καιρικά φαινόμενα στην Ελλάδα,2026-02-15T04:35:00+00:00,Greece,0.6682919329848096,0,1,el,MED,Europe
 '6fd5acddee',extremes,Storm,#b3b2b1,wmo,καταιγίδα ελλάδα,2026-02-10T04:43:00+00:00,Greece,0.655610529770396,1,1,el,MED,Europe
 '81121a2f89',extremes,Thunderstorm,#53785a,wmo,κακοκαιρία Αττική,2026-01-29T04:19:00+00:00,Greece,0.6074367354668997,2,3,el,MED,Europe
 '3ba62ce4f2',extremes,Earthquake,#870007,usgs,σεισμός ελλάδα,2026-02-08T04:43:00+00:00,Greece,0.5755802740136264,1,2,el,MED,Europe
+'47a71b6762',extremes,Thunderstorm,#53785a,wmo,έντονα καιρικά φαινόμενα στην Ελλάδα,2026-02-15T04:35:00+00:00,Greece,0.5681981580370882,1,1,el,MED,Europe
 '3d78159313',extremes,Thunderstorm,#53785a,wmo,καταιγίδα ελλάδα,2026-01-21T03:56:00+00:00,Greece,0.5576544517821347,4,2,el,MED,Europe
 '49c8789d4b',extremes,Storm,#b3b2b1,wmo,κύμα καταιγίδας ανατολική Στερεά Ευβοία,2026-02-18T04:34:00+00:00,Greece,0.5440646824621249,1,1,el,MED,Europe
 'c9906674b2',extremes,Precipitation,#d60d2b,wmo,κατακρήμνιση Κύπρος,2026-02-13T04:34:00+00:00,Cyprus,0.5407713952798149,2,1,el,MED,Europe
@@ -150,7 +150,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '491cc61ca3',extremes,Drought,#edc291,edo,ξηρασία ελλάδα,2026-01-22T04:00:00+00:00,Greece,0.3318646429340253,3,1,el,MED,Europe
 '40f675561f',extremes,Heat Wave,#c40202,random,το πιο ζεστό καλοκαίρι,2026-02-13T04:33:00+00:00,,0.3285518821387494,0,1,el,,
 '469687aa19',extremes,Drought,#edc291,edo,έλλειψη βροχής Αλβανία,2026-01-17T03:44:00+00:00,Albania,0.3281197796965671,2,1,el,MED,Europe
-'ce37661cdd',extremes,Cold Wave,#a7e9fa,random,η πιο κρύα μέρα,2026-02-17T04:30:00+00:00,,0.31949276301475127,0,1,el,,
+'ce37661cdd',extremes,Cold Wave,#a7e9fa,random,η πιο κρύα μέρα,2026-02-17T04:30:00+00:00,,0.3194927630147512,0,1,el,,
 '9797aa6299',extremes,Drought,#edc291,edo,έλλειψη βροχής Κύπρος,2026-01-24T03:49:00+00:00,Cyprus,0.3175507139274596,2,1,el,MED,Europe
 '55c39b351d',extremes,Storm,#b3b2b1,random,σκόνη διάβολος,2026-02-05T04:27:00+00:00,,0.3158292691423238,0,1,el,,
 'eabe6169ab',extremes,Earthquake,#870007,usgs,σεισμός τόνγκα,2026-02-05T04:27:00+00:00,Tonga,0.3154950505913002,0,1,el,SPO,Pacific Ocean
