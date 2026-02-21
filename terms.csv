@@ -118,6 +118,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'a5936920c0',extremes,Precipitation,#d60d2b,wmo,νεροποντή θεσσαλία,2026-02-12T04:37:00+00:00,Greece,0.3563284875414169,2,1,el,MED,Europe
 'f685d1f47f',extremes,Drought,#edc291,edo,ξηρασία Κύπρος,2026-02-05T04:28:00+00:00,Cyprus,0.3563069889369274,2,1,el,MED,Europe
 '20640c5ef0',extremes,Precipitation,#d60d2b,wmo,νεροποντή δυτική Μακεδονία,2026-02-15T04:35:00+00:00,Greece,0.3547284869092288,2,1,el,MED,Europe
+'5b8cf400f9',extremes,Iceberg,#d60d2b,random,iceberg caving,2026-02-09T04:38:00+00:00,,0.3542556549870025,0,1,el,,
 '5375aba0f4',extremes,Precipitation,#d60d2b,wmo,βροχόπτωση νησιά βορειοανατολικού Αιγαίου,2026-01-29T04:19:00+00:00,Greece,0.3537220559257008,3,1,el,MED,Europe
 '0639323bb2',extremes,Precipitation,#d60d2b,wmo,καταρρακτώδης βροχή θεσσαλία,2026-02-10T04:43:00+00:00,Greece,0.3531614446004137,2,1,el,MED,Europe
 '8261c5af16',extremes,Thunderstorm,#53785a,wmo,καταιγίδα Κυκλάδες,2026-01-23T04:03:00+00:00,Greece,0.3523635340240145,4,1,el,MED,Europe
@@ -141,6 +142,10 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '491cc61ca3',extremes,Drought,#edc291,edo,ξηρασία ελλάδα,2026-01-22T04:00:00+00:00,Greece,0.3318646429340253,3,1,el,MED,Europe
 '9797aa6299',extremes,Drought,#edc291,edo,έλλειψη βροχής Κύπρος,2026-01-24T03:49:00+00:00,Cyprus,0.3175507139274596,2,1,el,MED,Europe
 '6b6cc8fad6',extremes,Precipitation,#d60d2b,wmo,βροχόπτωση δυτική Πελοπόννησος,2026-02-16T04:38:00+00:00,Greece,0.3162577306639274,3,1,el,MED,Europe
+'70773b5956',extremes,Earthquake,#870007,usgs,σεισμός αλάσκα,2026-02-05T04:27:00+00:00,Alaska,0.3151227614833083,0,1,el,NPO,Pacific Ocean
+'90e6558608',extremes,Earthquake,#870007,usgs,σεισμός νότια μεσοατλαντική κορυφογραμμή,2026-02-05T04:27:00+00:00,,0.3143907668644234,0,1,el,SAO,Atlantic Ocean
+'53e17b7a15',extremes,Earthquake,#870007,usgs,σεισμός χούμα,2026-02-05T04:27:00+00:00,Tonga,0.31420620164416174,0,1,el,SPO,Pacific Ocean
+'685995fcc4',extremes,Earthquake,#870007,usgs,σεισμός δυτικά του νησιού Macquarie,2026-02-05T04:27:00+00:00,,0.31374787052693415,0,1,el,SOO,Antarctica
 '3571497756',extremes,Precipitation,#d60d2b,wmo,βροχή νησιά Δωδεκάνησα,2026-01-30T04:21:00+00:00,Greece,0.3116210538758972,3,1,el,MED,Europe
 'd5d7a11479',extremes,Drought,#edc291,edo,ξηρασία Κύπρος,2026-01-22T04:00:00+00:00,Cyprus,0.3089080864073801,2,1,el,MED,Europe
 'ebf0baeb9e',extremes,Drought,#edc291,edo,ξηρασία αλβανία,2026-02-07T04:19:00+00:00,Albania,0.3080319335255584,2,1,el,MED,Europe
