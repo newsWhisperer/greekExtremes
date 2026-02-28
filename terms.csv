@@ -126,6 +126,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '62084daeb0',extremes,Earthquake,#870007,random,σεισμός,2026-02-27T04:25:00+00:00,,0.335790480399627,0,1,el,,
 '2e5aaff2a9',extremes,Precipitation,#d60d2b,wmo,βροχή δυτική Στερεά,2026-02-07T04:19:00+00:00,Greece,0.3347391090963943,2,1,el,MED,Europe
 'bbe3e08bff',extremes,Earthquake,#870007,usgs,σεισμός λεβίδιον,2026-02-19T04:31:00+00:00,Greece,0.3340341927651162,2,1,el,MED,Europe
+'8a1a9038c3',extremes,Storm,#b3b2b1,random,χιονοθύελλα,2026-02-10T04:42:00+00:00,,0.3335058014442421,0,1,el,,
 'e4c6e7d8c1',extremes,Earthquake,#870007,usgs,σεισμός ιεράπετρα,2026-02-22T04:30:00+00:00,Greece,0.3332752831172606,2,1,el,MED,Europe
 '10f476720b',extremes,Insect Infestation,#d60d2b,random,ακρίδα,2026-02-19T04:31:00+00:00,,0.3325441202220689,0,1,el,,
 '8455bbe003',extremes,Earthquake,#870007,usgs,σεισμός πύλος,2026-02-20T04:27:00+00:00,Greece,0.3264462067631044,2,1,el,MED,Europe
@@ -170,6 +171,15 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'a1f794d6b8',extremes,Storm,#b3b2b1,wmo,καταιγίδα οράν,2026-02-08T04:43:00+00:00,Algeria,0.305949135432995,0,1,el,SAH,Africa
 '2cfcf7a5d7',extremes,Storm,#b3b2b1,wmo,καταιγίδα مملكة البحرين والمناطق المحيطة بها,2026-02-08T04:43:00+00:00,Bahrain,0.3058710941005423,0,1,el,ARP,Asia
 'f20891ccf9',extremes,Precipitation,#d60d2b,wmo,βροχή νότια Αφρική,2026-02-23T04:37:00+00:00,South Africa,0.3058411582682612,0,1,el,WSAF,Africa
+'453697199c',extremes,Storm,#b3b2b1,wmo,καταιγίδα γκανά,2026-02-17T04:31:00+00:00,Ghana,0.3058068818485187,0,1,el,WAF,Africa
+'dbc72b57f2',extremes,Heat Wave,#c40202,wmo,κύμα καύσωνα περιοχή 1 – σοβαρός,2026-02-17T04:31:00+00:00,Paraguay,0.3057877105283349,0,1,el,SES,South-America
+'01b678efbf',extremes,Heat Wave,#c40202,wmo,κύμα καύσωνα reg. 3 precordillera,2026-02-17T04:31:00+00:00,Chile,0.3057876921280838,0,1,el,SWS,South-America
+'6539cd4b6f',extremes,Precipitation,#d60d2b,wmo,νεροποντή dunedin ανατολικά του Pukerangi,2026-02-17T04:31:00+00:00,New Zealand,0.3057749930565493,0,1,el,NZ,Oceania
+'adacd65a27',extremes,Storm,#b3b2b1,wmo,καταιγίδα Παραγουάη,2026-02-13T04:34:00+00:00,Paraguay,0.3057624660454825,0,1,el,SES,South-America
+'5a5dd83274',extremes,Fog,#d60d2b,wmo,ομίχλη περιοχή Βόλγκογκραντ,2026-02-17T04:31:00+00:00,Russia,0.30575907417544135,0,1,el,ESB,Europe
+'c27e209239',extremes,Precipitation,#d60d2b,wmo,βροχή maeneo machache ya mkoa wa ruvuma.,2026-02-26T04:29:00+00:00,Tanzania,0.3056889736854329,0,1,el,SEAF,Africa
+'9fb2a0ec0f',extremes,Precipitation,#d60d2b,wmo,καταρρακτώδης βροχή maeneo machache ya mkoa wa ruvuma.,2026-02-22T04:30:00+00:00,Tanzania,0.3056451524245608,0,1,el,SEAF,Africa
+'97a5343951',extremes,Precipitation,#d60d2b,wmo,βροχή Σεϋχέλλες,2026-02-16T04:38:00+00:00,Seychelles,0.30563633133167634,0,1,el,EIO,Africa
 'f8a513bf41',extremes,Tropical Cyclone,#4f4f4f,random,medicane,2026-02-11T04:41:00+00:00,,0.3009203989211476,1,1,el,,
 'c4f1f0cbf9',extremes,Iceberg,#d60d2b,random,iceberg arctis,2026-02-14T04:21:00+00:00,,0.2874597063607129,1,1,el,,
 '4efc1e509e',extremes,Snow Avalanche,#deddd5,wmo,χιονοστιβάδα γαλλία,2026-02-05T04:27:00+00:00,France,0.2869330821865961,2,2,el,WCE,Europe
