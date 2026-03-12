@@ -37,7 +37,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '595acbcf9f',extremes,Heat Wave,#c40202,random,η πιο ζεστή μέρα,2026-02-15T04:34:00+00:00,,0.4081645208513904,2,1,el,,
 '45480a05ce',extremes,Tropical Cyclone,#4f4f4f,random,τυφώνας,2026-02-26T04:28:00+00:00,,0.4070623872279066,2,2,el,,
 '9797aa6299',extremes,Drought,#edc291,edo,έλλειψη βροχής Κύπρος,2026-02-15T04:35:00+00:00,Cyprus,0.4055900428251219,2,1,el,MED,Europe
-'5ea4d45f08',extremes,Tropical Cyclone,#4f4f4f,random,στεριά,2026-02-06T04:27:00+00:00,,0.3980451698488623,3,2,el,,
 'e593608bfa',extremes,Snow&Ice,#d60d2b,random,χιόνι,2026-03-06T04:20:00+00:00,,0.3952510921374064,1,3,el,,
 'd7e7f876eb',extremes,Storm,#b3b2b1,wmo,καταιγίδα κρίτη,2026-02-16T04:38:00+00:00,Greece,0.3932117500731031,3,1,el,MED,Europe
 '49c8789d4b',extremes,Storm,#b3b2b1,wmo,κύμα καταιγίδας ανατολική Στερεά Ευβοία,2026-02-18T04:34:00+00:00,Greece,0.3930867330788852,3,1,el,MED,Europe
@@ -68,6 +67,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'f988925370',extremes,Precipitation,#d60d2b,wmo,βροχή ήπειρος,2026-02-15T04:35:00+00:00,Greece,0.3572664223395481,2,1,el,MED,Europe
 'e68b3f4750',extremes,Precipitation,#d60d2b,wmo,βροχή κεντρική Μακεδονία,2026-02-13T04:34:00+00:00,Greece,0.3571335783670637,2,1,el,MED,Europe
 'd5d7a11479',extremes,Drought,#edc291,edo,ξηρασία Κύπρος,2026-02-13T04:34:00+00:00,Cyprus,0.357125184637994,2,1,el,MED,Europe
+'5ea4d45f08',extremes,Tropical Cyclone,#4f4f4f,random,στεριά,2026-02-06T04:27:00+00:00,,0.3569781530557435,4,2,el,,
 'df06cf30e1',extremes,Precipitation,#d60d2b,wmo,νεροποντή Κυκλάδες,2026-02-12T04:37:00+00:00,Greece,0.3569632058234072,2,1,el,MED,Europe
 'a5936920c0',extremes,Precipitation,#d60d2b,wmo,νεροποντή θεσσαλία,2026-02-12T04:37:00+00:00,Greece,0.3563284875414169,2,1,el,MED,Europe
 '23ad2bb822',extremes,Earthquake,#870007,usgs,σεισμός Ρωσία,2026-02-05T04:27:00+00:00,Russia,0.3552968890920592,2,2,el,NPO,Pacific Ocean
