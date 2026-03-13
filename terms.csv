@@ -101,6 +101,12 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '8455bbe003',extremes,Earthquake,#870007,usgs,σεισμός πύλος,2026-02-20T04:27:00+00:00,Greece,0.3264462067631044,2,1,el,MED,Europe
 'cbb1b9d52b',extremes,Precipitation,#d60d2b,wmo,νεροποντή νησιά Δωδεκάνησα,2026-02-17T04:31:00+00:00,Greece,0.3256178372482328,3,1,el,MED,Europe
 '82d648b882',extremes,Drought,#edc291,random,ξηρασία,2026-02-08T04:43:00+00:00,,0.3190456951912414,2,1,el,,
+'6bfd73020a',extremes,Tropical Cyclone,#4f4f4f,eonet,τροπικός κυκλώνας 26s,2026-03-07T04:12:00+00:00,,0.31544182195904896,0,1,el,NAU,Oceania
+'0d261f252d',extremes,Storm,#b3b2b1,random,χειμωνιάτικη θύελλα,2026-03-11T04:21:00+00:00,,0.3106407652393128,0,1,el,,
+'6c6666b2af',extremes,Precipitation,#d60d2b,wmo,βροχόπτωση Αργεντινή,2026-02-27T04:26:00+00:00,Argentina,0.30647476621763614,0,1,el,SES,South-America
+'bed53cc600',extremes,Precipitation,#d60d2b,wmo,νεροποντή Βραζιλία,2026-02-25T04:32:00+00:00,Brazil,0.306210022618449,0,1,el,SAM,South-America
+'80a1b6ba6b',extremes,Drought,#edc291,edo,ξηρασία βέλγιο,2026-03-02T04:27:00+00:00,Belgium,0.30585738335506507,0,1,el,WCE,Europe
+'3894a694d1',extremes,Flood,#030ba1,aidr,αστραπιαία πλημμύρα Αυστραλία,2026-02-26T04:29:00+00:00,Australia,0.30571616925696143,0,1,el,EAU,Oceania
 'cb43c2bb0b',extremes,Heat Wave,#c40202,random,η θερμότερη χρονιά,2026-03-12T04:25:00+00:00,,0.3030936944496941,1,1,el,,
 '6e109815e7',extremes,Precipitation,#d60d2b,wmo,βροχόπτωση κεντρική μακεδονία,2026-02-15T04:35:00+00:00,Greece,0.2974186638880393,3,1,el,MED,Europe
 'ab90cfcdd4',extremes,Drought,#edc291,edo,ξηρασία αλβανία,2026-02-13T04:34:00+00:00,Albania,0.2969855393877539,2,1,el,MED,Europe
