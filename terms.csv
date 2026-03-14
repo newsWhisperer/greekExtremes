@@ -60,6 +60,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'b1d56de062',extremes,Snow&Ice,#d60d2b,random,παγετός,2026-02-16T04:37:00+00:00,,0.3619754383655234,2,1,el,,
 '59b529f428',extremes,Thunderstorm,#53785a,random,χαλαζόπτωση,2026-03-05T04:23:00+00:00,,0.3605894121964594,1,2,el,,
 '0a98fdd376',extremes,Snow Avalanche,#deddd5,random,χιονοστιβάδα,2026-02-22T04:30:00+00:00,,0.3601314219326105,2,2,el,,
+'6b7e025bb3',extremes,Storm,#b3b2b1,random,ανεμοστρόβιλος,2026-03-14T04:22:00+00:00,,0.35992204873097305,0,1,el,,
 'f685d1f47f',extremes,Drought,#edc291,edo,ξηρασία Κύπρος,2026-02-28T04:07:00+00:00,Cyprus,0.3577538631642634,2,1,el,MED,Europe
 'f988925370',extremes,Precipitation,#d60d2b,wmo,βροχή ήπειρος,2026-02-15T04:35:00+00:00,Greece,0.3572664223395481,2,1,el,MED,Europe
 'e68b3f4750',extremes,Precipitation,#d60d2b,wmo,βροχή κεντρική Μακεδονία,2026-02-13T04:34:00+00:00,Greece,0.3571335783670637,2,1,el,MED,Europe
@@ -86,6 +87,8 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '980a973102',extremes,Tropical Cyclone,#4f4f4f,random,κυκλώνας βόμβας,2026-03-07T04:12:00+00:00,,0.3268135428483948,1,1,el,,
 '8455bbe003',extremes,Earthquake,#870007,usgs,σεισμός πύλος,2026-02-20T04:27:00+00:00,Greece,0.3264462067631044,2,1,el,MED,Europe
 'cbb1b9d52b',extremes,Precipitation,#d60d2b,wmo,νεροποντή νησιά Δωδεκάνησα,2026-02-17T04:31:00+00:00,Greece,0.3256178372482328,3,1,el,MED,Europe
+'93f18e9364',extremes,Heat Wave,#c40202,wmo,κύμα καύσωνα Αργεντινή,2026-03-03T04:27:00+00:00,Argentina,0.3084851982500523,0,1,el,SES,South-America
+'4d9577e33d',extremes,Volcano,#b83202,random,ηφαίστειο,2026-02-26T04:28:00+00:00,,0.30566530186824326,0,1,el,,
 'cb43c2bb0b',extremes,Heat Wave,#c40202,random,η θερμότερη χρονιά,2026-03-12T04:25:00+00:00,,0.3030936944496941,1,1,el,,
 '469687aa19',extremes,Drought,#edc291,edo,έλλειψη βροχής Αλβανία,2026-03-01T04:35:00+00:00,Albania,0.2980403477248541,2,1,el,MED,Europe
 'b8f9601f46',extremes,Precipitation,#d60d2b,wmo,καταρρακτώδης βροχή ανατολική Μακεδονία,2026-02-13T04:34:00+00:00,Greece,0.2978861471262295,3,1,el,MED,Europe
@@ -280,12 +283,12 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '27ff8af872',extremes,Drought,#edc291,edo,ξηρασία Δανία,2026-02-16T04:38:00+00:00,Denmark,0.2237211135502185,2,1,el,NEU,Europe
 'a1fcc33dde',extremes,Drought,#edc291,edo,ξηρασία Χονγκ Κονγκ,2026-02-25T04:33:00+00:00,Hong Kong,0.2237075210222458,2,1,el,EAS,Asia
 '96f0408faf',extremes,Drought,#edc291,edo,ξηρασία λεττονία,2026-02-25T04:33:00+00:00,Latvia,0.2226902399831792,2,1,el,WCE,Europe
-'8e12d8e374',extremes,Heat Wave,#c40202,wmo,κύμα καύσωνα resistencia y alrededores,2026-02-17T04:31:00+00:00,Argentina,0.22260059104018848,2,1,el,SES,South-America
+'8e12d8e374',extremes,Heat Wave,#c40202,wmo,κύμα καύσωνα resistencia y alrededores,2026-02-17T04:31:00+00:00,Argentina,0.2226005910401884,2,1,el,SES,South-America
 '29d2fdd6ce',extremes,Precipitation,#d60d2b,wmo,καταρρακτώδης βροχή Νέα Ζηλανδία,2026-02-13T04:34:00+00:00,New Zealand,0.2224768819785903,2,1,el,NZ,Oceania
 'cf4f19d972',extremes,Cold Wave,#a7e9fa,wmo,παγωμένη Σαουδική Αραβία,2026-02-28T04:07:00+00:00,Saudi Arabia,0.2215900252914802,2,1,el,ARP,Asia
 '8abdb9b5f3',extremes,Landslide,#572c03,wmo,κατολίσθηση βράχου Νορβηγία,2026-02-25T04:32:00+00:00,Norway,0.221518835093244,2,1,el,NEU,Europe
 'dbc72b57f2',extremes,Heat Wave,#c40202,wmo,κύμα καύσωνα περιοχή 1 – σοβαρός,2026-02-17T04:31:00+00:00,Paraguay,0.2209316208567219,2,1,el,SES,South-America
-'6539cd4b6f',extremes,Precipitation,#d60d2b,wmo,νεροποντή dunedin ανατολικά του Pukerangi,2026-02-17T04:31:00+00:00,New Zealand,0.22092243248335686,2,1,el,NZ,Oceania
+'6539cd4b6f',extremes,Precipitation,#d60d2b,wmo,νεροποντή dunedin ανατολικά του Pukerangi,2026-02-17T04:31:00+00:00,New Zealand,0.2209224324833568,2,1,el,NZ,Oceania
 'afc393e166',extremes,Precipitation,#d60d2b,wmo,βροχόπτωση νότια Αφρική,2026-02-23T04:37:00+00:00,South Africa,0.2203597112743427,2,1,el,WSAF,Africa
 'd2e515b87c',extremes,Flood,#030ba1,cmeter,πλημμύρα Κολομβία,2026-02-22T04:31:00+00:00,Colombia,0.190185449788754,3,1,el,NWS,South-America
 '395db40dcf',extremes,Heat Wave,#c40202,wmo,κύμα καύσωνα corrientes y alrededores,2026-02-18T04:34:00+00:00,Argentina,0.1895185870397081,3,1,el,SES,South-America
