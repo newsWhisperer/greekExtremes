@@ -36,13 +36,14 @@ if(not os.path.exists(DATA_PATH / 'csv')):
 
 extremeColors = {'unknown':'#ffffff', 'Thunderstorm':'#53785a', 'Storm':'#222222', 'Storm Surge':'#834fa1', 'Flash Flood':'#0245d8', 'Precipitation':'#608D3A', 'Wet Spell':'#22e91f',
                'Tsunami':'#690191',  'Landslide':'#1C4840', 'Cold Wave':'#a7e9fa', 'Heat Wave':'#d85212', 'Iceberg':'#02b5b8',
-                 'Snow Avalanche':'#deddd5', 'Wildfire':'#fa0007', 'Fog':'#535271', 'Snow&Ice':'#dedde5', 'Flood':'#030ba1', 'Drought':'#572c03', 'Tropical Cyclone':'#4f7fbf', 'Volcano':'#b83202', 'Earthquake':'#870047', 'invalid':'#555555', 'Insect Infestation':'#333333', 'ice jam':'#02b5b8'}
+                 'Snow Avalanche':'#deddd5', 'Wildfire':'#fa0007', 'Fog':'#535271', 'Snow&Ice':'#dedde5', 'Flood':'#030ba1', 'Drought':'#572c03', 'Tropical Cyclone':'#4f7fbf', 'Volcano':'#b83202', 'Earthquake':'#870047', 'invalid':'#555555'  
+               }
 
 topicColors = {'unknown':'#000000', 'Adaptation':'#0000FF', 'Mitigation':'#00FF00', 'Causes':'#00FFFF', 'Impacts':'#FFFF00', 'Hazard':'#FF0000'}
 
-continentColors = {'unknown':'#d60d2b', 'Asia':'#ffff00', 'Europe':'#ff00ff', 'North-America':'#0000ff', 'Africa':'#ff0000', 'South-America':'#00ff00', 'Oceania':'#00ffff', 'Pacific Ocean':'#88ff00', 'Atlantic Ocean':'#00ff88', 'Antarctica':'#ff00ff', 'Indian Ocean':'#8800ff'}
+continentColors = {'unknown':'#d60d2b', 'Asia':'#ffff00', 'Europe':'#ff00ff', 'North-America':'#0000ff', 'Africa':'#ff0000', 'South-America':'#00ff00', 'Oceania':'#00ffff', 'Pacific Ocean':'#88ff00', 'Atlantic Ocean':'#00ff88'}
 
-feedColors = {'unknown':'#ffffff', 'mail':'#8888ff', 'meteo':'#008888', 'effis':'#00ff00', 'relief':'#880088', 'edo':'#0000ff', 'fema':'#888800', 'eonet':'#ffff00', 'usgs':'#ffff88', 'eswd':'#ff00ff', 'floodlist':'#ff88ff', 'aidr':'#88ff88', 'acwe':'#ff8888', 'random':'#00ffff', 'cmeter':'#ff0088', 'wmo':'#ff0000', 'emdat':'#ff8800'}
+feedColors = {'unknown':'#ffffff', 'mail':'#8888ff', 'meteo':'#008888', 'effis':'#00ff00', 'relief':'#880088', 'edo':'#0000ff', 'fema':'#888800', 'eonet':'#ffff00', 'usgs':'#ffff88', 'eswd':'#ff00ff', 'floodlist':'#ff88ff', 'aidr':'#88ff88', 'acwe':'#ff8888', 'random':'#00ffff', 'cmeter':'#ff0088', 'wmo':'#ff0000'}
 
 def getNewsFiles():
     fileName = './cxsv/news_????_??.csv'
@@ -86,7 +87,7 @@ newsDf[newsDf['valid']>0.5]['extreme'] = 'invalid'
 
 # Topics & Keywords
 fig = plt.figure(figsize=(18, 12), constrained_layout=True)
-gs = gridspec.GridSpec(3, 3, figure=fig)
+gs = gridspec.GridSpec(2, 3, figure=fig)
 
 # Continents
 continentsDF = newsDfValid.groupby('continent').count()
@@ -154,44 +155,6 @@ axKeywords = plt.subplot(gs[1,2])
 axKeywords.set_title("Extremes", fontsize=24)
 plot = keywordsDF.plot.pie(y='index', ax=axKeywords, colors=keywordsDF['extremeColor'], labels=keywordsDF['extreme'],legend=False,ylabel='')
 #plot = topicsDF.plot(kind='pie', y='index', ax=axKeywords, colors='#'+keywordsDF['keywordColor'])
-
-# Terms 
-##newsDf2 = pd.merge(newsDf, keywordsColorsDF, how='left', left_on=['keyword'], right_on=['keyword'])
-
-topicsDF = newsDfValid.groupby('term').count()
-topicsDF['term'] = topicsDF.index
-##topicsDF['feedColor'] = topicsDF['feed'].apply( lambda x: feedColors[x])
-print(topicsDF)
-#print(topicsDF['feedColor'])
-topicsDF = topicsDF.sort_values('index', ascending=False)
-axTopics = plt.subplot(gs[2,0])
-axTopics.set_title("Terms (valid)", fontsize=24)
-plot = topicsDF.plot.pie(y='index', ax=axTopics, labels=topicsDF['term'],legend=False,ylabel='')
-#plot = topicsDF.plot(kind='pie', y='index', ax=axKeywords, colors='#'+keywordsDF['keywordColor'])
-
-topicsDF = newsDfInvalid.groupby('term').count()
-topicsDF['term'] = topicsDF.index
-#topicsDF['feedColor'] = topicsDF['feed'].apply( lambda x: feedColors[x])
-print(topicsDF)
-#print(topicsDF['feedColor'])
-topicsDF = topicsDF.sort_values('index', ascending=False)
-axTopics = plt.subplot(gs[2,1])
-axTopics.set_title("Terms (invalid)", fontsize=24)
-if(not topicsDF.empty):
-  plot = topicsDF.plot.pie(y='index', ax=axTopics, labels=topicsDF['term'],legend=False,ylabel='')
-#plot = topicsDF.plot(kind='pie', y='index', ax=axKeywords, colors='#'+keywordsDF['keywordColor'])
-
-# all
-keywordsDF = newsDf.groupby('term').count()
-keywordsDF['term'] = keywordsDF.index
-keywordsDF = keywordsDF.dropna()
-#keywordsDF['extremeColor'] = keywordsDF['extreme'].apply( lambda x: extremeColors[x])
-keywordsDF = keywordsDF.sort_values('index', ascending=False)
-axKeywords = plt.subplot(gs[2,2])
-axKeywords.set_title("Terms (all)", fontsize=24)
-plot = keywordsDF.plot.pie(y='index', ax=axKeywords, labels=keywordsDF['term'],legend=False,ylabel='')
-#plot = topicsDF.plot(kind='pie', y='index', ax=axKeywords, colors='#'+keywordsDF['keywordColor'])
-
 
 
 plt.savefig(DATA_PATH / 'img' / 'keywords_pie_all.png', dpi=300)
@@ -429,17 +392,14 @@ def extractTopPercent(df1, limit=0.95, maxSize=25, counter='count'):
       df1.loc[index,'fracSum'] = fracSum 
   df2 = df1[df1['fracSum']<=limit] 
   df2 = df2.sort_values(counter, ascending=False)
-  df3 = df1.select_dtypes(include=['number'])
-  ##print(['df3',df3])
-  rest = df3[df3['fraction']>limit].sum()
+  rest = df1[df1['fraction']>limit].sum()
   df2 = df2.head(maxSize)  #todo add to rest...
   fraction = 0.0
   if(countAll>0):
-    print(['fraction', rest, countAll])
     fraction = rest/countAll
   newRow = pd.Series(data={counter:rest, 'fraction':fraction, 'fracSum':1.0}, name='Other')
   #df2 = df2.append(newRow, ignore_index=False)
-  ##print(df2[counter])
+  print(df2[counter])
   #df2 = df2.sort_values([counter], ascending=False)
   return df2  
 
