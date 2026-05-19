@@ -86,7 +86,7 @@ newsDf[newsDf['valid']>0.5]['extreme'] = 'invalid'
 
 # Topics & Keywords
 fig = plt.figure(figsize=(18, 12), constrained_layout=True)
-gs = gridspec.GridSpec(2, 3, figure=fig)
+gs = gridspec.GridSpec(3, 3, figure=fig)
 
 # Continents
 continentsDF = newsDfValid.groupby('continent').count()
@@ -154,6 +154,44 @@ axKeywords = plt.subplot(gs[1,2])
 axKeywords.set_title("Extremes", fontsize=24)
 plot = keywordsDF.plot.pie(y='index', ax=axKeywords, colors=keywordsDF['extremeColor'], labels=keywordsDF['extreme'],legend=False,ylabel='')
 #plot = topicsDF.plot(kind='pie', y='index', ax=axKeywords, colors='#'+keywordsDF['keywordColor'])
+
+# Terms 
+##newsDf2 = pd.merge(newsDf, keywordsColorsDF, how='left', left_on=['keyword'], right_on=['keyword'])
+
+topicsDF = newsDfValid.groupby('term').count()
+topicsDF['term'] = topicsDF.index
+##topicsDF['feedColor'] = topicsDF['feed'].apply( lambda x: feedColors[x])
+print(topicsDF)
+#print(topicsDF['feedColor'])
+topicsDF = topicsDF.sort_values('index', ascending=False)
+axTopics = plt.subplot(gs[2,0])
+axTopics.set_title("Terms (valid)", fontsize=24)
+plot = topicsDF.plot.pie(y='index', ax=axTopics, labels=topicsDF['term'],legend=False,ylabel='')
+#plot = topicsDF.plot(kind='pie', y='index', ax=axKeywords, colors='#'+keywordsDF['keywordColor'])
+
+topicsDF = newsDfInvalid.groupby('term').count()
+topicsDF['term'] = topicsDF.index
+#topicsDF['feedColor'] = topicsDF['feed'].apply( lambda x: feedColors[x])
+print(topicsDF)
+#print(topicsDF['feedColor'])
+topicsDF = topicsDF.sort_values('index', ascending=False)
+axTopics = plt.subplot(gs[2,1])
+axTopics.set_title("Terms (invalid)", fontsize=24)
+if(not topicsDF.empty):
+  plot = topicsDF.plot.pie(y='index', ax=axTopics, labels=topicsDF['feed'],legend=False,ylabel='')
+#plot = topicsDF.plot(kind='pie', y='index', ax=axKeywords, colors='#'+keywordsDF['keywordColor'])
+
+# all
+keywordsDF = newsDf.groupby('term').count()
+keywordsDF['term'] = keywordsDF.index
+keywordsDF = keywordsDF.dropna()
+#keywordsDF['extremeColor'] = keywordsDF['extreme'].apply( lambda x: extremeColors[x])
+keywordsDF = keywordsDF.sort_values('index', ascending=False)
+axKeywords = plt.subplot(gs[2,2])
+axKeywords.set_title("Terms (all)", fontsize=24)
+plot = keywordsDF.plot.pie(y='index', ax=axKeywords, labels=keywordsDF['extreme'],legend=False,ylabel='')
+#plot = topicsDF.plot(kind='pie', y='index', ax=axKeywords, colors='#'+keywordsDF['keywordColor'])
+
 
 
 plt.savefig(DATA_PATH / 'img' / 'keywords_pie_all.png', dpi=300)
