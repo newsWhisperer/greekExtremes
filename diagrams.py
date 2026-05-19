@@ -178,7 +178,7 @@ topicsDF = topicsDF.sort_values('index', ascending=False)
 axTopics = plt.subplot(gs[2,1])
 axTopics.set_title("Terms (invalid)", fontsize=24)
 if(not topicsDF.empty):
-  plot = topicsDF.plot.pie(y='index', ax=axTopics, labels=topicsDF['feed'],legend=False,ylabel='')
+  plot = topicsDF.plot.pie(y='index', ax=axTopics, labels=topicsDF['term'],legend=False,ylabel='')
 #plot = topicsDF.plot(kind='pie', y='index', ax=axKeywords, colors='#'+keywordsDF['keywordColor'])
 
 # all
@@ -189,7 +189,7 @@ keywordsDF = keywordsDF.dropna()
 keywordsDF = keywordsDF.sort_values('index', ascending=False)
 axKeywords = plt.subplot(gs[2,2])
 axKeywords.set_title("Terms (all)", fontsize=24)
-plot = keywordsDF.plot.pie(y='index', ax=axKeywords, labels=keywordsDF['extreme'],legend=False,ylabel='')
+plot = keywordsDF.plot.pie(y='index', ax=axKeywords, labels=keywordsDF['term'],legend=False,ylabel='')
 #plot = topicsDF.plot(kind='pie', y='index', ax=axKeywords, colors='#'+keywordsDF['keywordColor'])
 
 
