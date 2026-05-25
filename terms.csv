@@ -1,6 +1,7 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
 '4130a75ccf',extremes,Thunderstorm,#53785a,wmo,χαλάζι ελλάδα,2026-05-13T06:03:00+00:00,Greece,0.6183828601554578,2,2,el,MED,Europe
 '3ba62ce4f2',extremes,Earthquake,#870007,usgs,σεισμός ελλάδα,2026-05-01T05:54:00+00:00,Greece,0.6110277549647877,1,3,el,MED,Europe
+'ebf0baeb9e',extremes,Drought,#edc291,edo,ξηρασία αλβανία,2026-05-17T06:01:00+00:00,Albania,0.6002903835325374,0,1,el,MED,Europe
 '40f675561f',extremes,Heat Wave,#c40202,random,το πιο ζεστό καλοκαίρι,2026-05-22T06:31:00+00:00,,0.5660119503765173,2,2,el,,
 '3b5fd3f9c6',extremes,Thunderstorm,#53785a,wmo,έντονα καιρικά φαινόμενα Κύπρος,2026-05-03T05:44:00+00:00,Cyprus,0.534922481238959,2,1,el,MED,Europe
 '454d379110',extremes,Thunderstorm,#53785a,wmo,καταιγίδα Κύπρος,2026-05-23T05:53:00+00:00,Cyprus,0.523995981232721,2,1,el,MED,Europe
@@ -86,14 +87,19 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '9f05eaaf90',extremes,Drought,#edc291,edo,ξηρασία Ισλανδία,2026-05-21T06:35:00+00:00,Iceland,0.3083985333345354,0,1,el,GIC,Europe
 'f89b96cf78',extremes,Drought,#edc291,edo,ξηρασία τσεχία,2026-05-06T05:43:00+00:00,Czechia,0.3082675137688788,0,1,el,WCE,Europe
 '3f340afd02',extremes,Precipitation,#d60d2b,wmo,καταρρακτώδης βροχή Εκουαδόρ,2026-05-23T05:53:00+00:00,Ecuador,0.3074010252881586,0,1,el,NWS,South-America
+'9801f8158e',extremes,Precipitation,#d60d2b,wmo,βροχή Ισημερινός,2026-05-18T06:38:00+00:00,Ecuador,0.3072401619742098,0,1,el,NWS,South-America
+'ce4931e51e',extremes,Flood,#030ba1,wmo,αστραπιαία πλημμύρα νότια αυστραλιανή κολπίσκο,2026-05-23T05:53:00+00:00,Australia,0.3053434298198413,0,1,el,CAU,Oceania
 'cb43c2bb0b',extremes,Heat Wave,#c40202,random,η θερμότερη χρονιά,2026-05-14T06:02:00+00:00,,0.305305419071204,1,1,el,,
+'907a393546',extremes,Precipitation,#d60d2b,wmo,νεροποντή naujaat,2026-05-24T06:22:00+00:00,Canada,0.3051208638353802,0,1,el,NEN,North-America
+'be647fc7a4',extremes,Storm,#b3b2b1,wmo,κύμα καταιγίδας Εκουαδόρ,2026-05-21T06:35:00+00:00,Ecuador,0.3046638275385823,0,1,el,NWS,South-America
 'bdc1b5c069',extremes,Storm,#b3b2b1,wmo,καταιγίδα Μπαχρέιν,2026-05-17T06:01:00+00:00,Bahrain,0.3041728208060811,0,1,el,ARP,Asia
+'e6e3ef6e92',extremes,Storm,#b3b2b1,wmo,κύμα καταιγίδας Νιγηρία,2026-05-24T06:22:00+00:00,Nigeria,0.30414762966400666,0,1,el,WAF,Africa
 '0b8f5a0e51',extremes,Iceberg,#d60d2b,random,παγόβουνο Ανταρκτική,2026-04-23T05:16:00+00:00,,0.3017193410972954,2,1,el,,
 'e593608bfa',extremes,Snow&Ice,#d60d2b,random,χιόνι,2026-05-10T05:51:00+00:00,,0.300216579096878,1,1,el,,
 'c0ae99f2a9',extremes,Precipitation,#d60d2b,random,έντονη βροχόπτωση,2026-04-28T05:44:00+00:00,,0.2982323421765468,2,2,el,,
 '845dd2d698',extremes,Storm,#b3b2b1,random,ανεμοστρόβιλος,2026-05-19T06:33:00+00:00,,0.2969611531386404,1,1,el,,
 '949744e3e5',extremes,Earthquake,#870007,usgs,σεισμός σητεία,2026-04-25T05:00:00+00:00,Greece,0.2965224194553018,3,1,el,MED,Europe
-'d2b5043a66',extremes,Cold Wave,#a7e9fa,random,χαμηλότερη ελάχιστη θερμοκρασία,2026-05-14T06:02:00+00:00,,0.29295100307561855,1,1,el,,
+'d2b5043a66',extremes,Cold Wave,#a7e9fa,random,χαμηλότερη ελάχιστη θερμοκρασία,2026-05-14T06:02:00+00:00,,0.2929510030756185,1,1,el,,
 'cd1306e1a5',extremes,Earthquake,#870007,usgs,σεισμός κεντρί,2026-04-25T05:00:00+00:00,Greece,0.2907794957859579,3,1,el,MED,Europe
 '633ed59c63',extremes,Iceberg,#d60d2b,random,πάγος της Αρκτικής θάλασσας,2026-05-06T05:43:00+00:00,,0.2895090567343825,2,1,el,,
 '457b20ae06',extremes,Earthquake,#870007,usgs,σεισμός κέφαλος,2026-05-11T06:14:00+00:00,Greece,0.2863405465779329,3,1,el,MED,Europe
