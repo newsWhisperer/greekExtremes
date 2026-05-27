@@ -10,6 +10,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '47a71b6762',extremes,Thunderstorm,#53785a,wmo,έντονα καιρικά φαινόμενα στην Ελλάδα,2026-05-14T06:02:00+00:00,Greece,0.4717295503771979,2,1,el,MED,Europe
 '9ba71973b1',extremes,Thunderstorm,#53785a,wmo,χαλάζι δυτική Πελοπόννησος,2026-05-25T06:53:00+00:00,Greece,0.45916167031379,2,1,el,MED,Europe
 '41889f3e2c',extremes,Thunderstorm,#53785a,wmo,χαλάζι ανατολική Πελοπόννησος,2026-05-22T06:32:00+00:00,Greece,0.4537951391861379,2,1,el,MED,Europe
+'7978d58b02',extremes,Precipitation,#d60d2b,wmo,βροχή Βραζιλία,2026-05-01T05:54:00+00:00,Brazil,0.44791759142928533,3,2,el,SAM,South-America
 '595acbcf9f',extremes,Heat Wave,#c40202,random,η πιο ζεστή μέρα,2026-05-17T06:01:00+00:00,,0.4453021815730725,1,2,el,,
 '43d8582040',extremes,Storm,#b3b2b1,wmo,κύμα καταιγίδας ανατολική Μακεδονία,2026-05-21T06:35:00+00:00,Greece,0.4421973580829048,2,1,el,MED,Europe
 '58a2a6944e',extremes,Storm,#b3b2b1,wmo,καταιγίδα ανατολική Πελοπόννησος,2026-05-25T06:53:00+00:00,Greece,0.4413844974978962,2,1,el,MED,Europe
@@ -60,7 +61,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '3cd619cb2e',extremes,Thunderstorm,#53785a,wmo,έντονα καιρικά φαινόμενα δυτική Στερεά,2026-05-22T06:32:00+00:00,Greece,0.3534337363375414,2,1,el,MED,Europe
 '55eeb8184c',extremes,Thunderstorm,#53785a,wmo,κακοκαιρία θράκη,2026-05-14T06:02:00+00:00,Greece,0.3529069992281705,2,1,el,MED,Europe
 'e4c0eb1729',extremes,Wildfire,#d60d2b,random,πυρκαγιά,2026-04-18T04:56:00+00:00,,0.3513598054680895,4,3,el,,
-'7978d58b02',extremes,Precipitation,#d60d2b,wmo,βροχή Βραζιλία,2026-05-01T05:54:00+00:00,Brazil,0.3503147957991592,2,1,el,SAM,South-America
 '491cc61ca3',extremes,Drought,#edc291,edo,ξηρασία ελλάδα,2026-05-17T06:01:00+00:00,Greece,0.349743873284825,2,1,el,MED,Europe
 '496fb54323',extremes,Precipitation,#d60d2b,wmo,κατακρήμνιση kriti,2026-05-03T05:44:00+00:00,Greece,0.3477355450749985,3,1,el,MED,Europe
 '0b2fd57376',extremes,Earthquake,#870007,usgs,σεισμός Ταϊβάν,2026-05-05T05:28:00+00:00,Taiwan,0.3463454251648127,2,2,el,EAS,Asia
@@ -85,7 +85,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'e593608bfa',extremes,Snow&Ice,#d60d2b,random,χιόνι,2026-05-10T05:51:00+00:00,,0.300216579096878,1,1,el,,
 'c0ae99f2a9',extremes,Precipitation,#d60d2b,random,έντονη βροχόπτωση,2026-04-28T05:44:00+00:00,,0.2982323421765468,2,2,el,,
 '845dd2d698',extremes,Storm,#b3b2b1,random,ανεμοστρόβιλος,2026-05-19T06:33:00+00:00,,0.2969611531386404,1,1,el,,
-'5a944cd51d',extremes,Thunderstorm,#53785a,wmo,χαλάζι δυτική Στερεά,2026-05-24T06:22:00+00:00,Greece,0.29190465840693375,3,1,el,MED,Europe
+'5a944cd51d',extremes,Thunderstorm,#53785a,wmo,χαλάζι δυτική Στερεά,2026-05-24T06:22:00+00:00,Greece,0.2919046584069337,3,1,el,MED,Europe
 '68ec31b616',extremes,Thunderstorm,#53785a,wmo,χαλάζι ανατολική Μακεδονία,2026-05-14T06:02:00+00:00,Greece,0.2912443634201259,3,1,el,MED,Europe
 '633ed59c63',extremes,Iceberg,#d60d2b,random,πάγος της Αρκτικής θάλασσας,2026-05-06T05:43:00+00:00,,0.2895090567343825,2,1,el,,
 'ce37661cdd',extremes,Cold Wave,#a7e9fa,random,η πιο κρύα μέρα,2026-05-26T06:31:00+00:00,,0.2879370297755826,2,1,el,,
@@ -132,7 +132,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'a4cf1e9346',extremes,Storm,#b3b2b1,wmo,καταιγίδα κατάρ,2026-05-19T06:33:00+00:00,Qatar,0.2588021283040311,1,1,el,ARP,Asia
 '3421a57149',extremes,Storm,#b3b2b1,wmo,καταιγίδα Εκουαδόρ,2026-05-18T06:38:00+00:00,Ecuador,0.2587913177864091,1,1,el,NWS,South-America
 '84a92d2d97',extremes,Precipitation,#d60d2b,wmo,νεροποντή Ταϊλάνδη,2026-05-11T06:14:00+00:00,Thailand,0.2587737172818665,1,1,el,SEA,Asia
-'9e020e244e',extremes,Drought,#edc291,edo,ξηρασία Πολωνία,2026-05-23T05:53:00+00:00,Poland,0.25859619899262737,1,1,el,WCE,Europe
+'9e020e244e',extremes,Drought,#edc291,edo,ξηρασία Πολωνία,2026-05-23T05:53:00+00:00,Poland,0.2585961989926273,1,1,el,WCE,Europe
 'bdc1b5c069',extremes,Storm,#b3b2b1,wmo,καταιγίδα Μπαχρέιν,2026-05-17T06:01:00+00:00,Bahrain,0.2585468976851689,1,1,el,ARP,Asia
 'e537c7081f',extremes,Thunderstorm,#53785a,wmo,καταιγίδα Χονγκ Κονγκ,2026-05-19T06:33:00+00:00,Hong Kong,0.258324459394482,1,1,el,EAS,Asia
 '9c373151bb',extremes,Storm,#b3b2b1,wmo,καταιγίδα περιοχή 1 – σφοδρή,2026-05-17T06:01:00+00:00,Paraguay,0.2581216169314901,1,1,el,SES,South-America
