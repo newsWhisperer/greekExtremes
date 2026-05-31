@@ -5,8 +5,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '40f675561f',extremes,Heat Wave,#c40202,random,το πιο ζεστό καλοκαίρι,2026-05-22T06:31:00+00:00,,0.4962835672206068,6,1,el,,
 '10a1d9dbe1',extremes,Precipitation,#d60d2b,wmo,βροχόπτωση ελλάδα,2026-05-19T06:33:00+00:00,Greece,0.4929984403719307,1,1,el,MED,Europe
 '59b529f428',extremes,Thunderstorm,#53785a,random,χαλαζόπτωση,2026-05-07T05:46:00+00:00,,0.4894966217700867,1,2,el,,
-'f881445b97',extremes,Thunderstorm,#53785a,wmo,χαλάζι ήπειρος,2026-05-31T06:40:00+00:00,Greece,0.4892387799730942,0,1,el,MED,Europe
-'3d78159313',extremes,Thunderstorm,#53785a,wmo,καταιγίδα ελλάδα,2026-05-22T06:32:00+00:00,Greece,0.4717529116403728,1,1,el,MED,Europe
 '47a71b6762',extremes,Thunderstorm,#53785a,wmo,έντονα καιρικά φαινόμενα στην Ελλάδα,2026-05-14T06:02:00+00:00,Greece,0.4717295503771979,2,1,el,MED,Europe
 '4130a75ccf',extremes,Thunderstorm,#53785a,wmo,χαλάζι ελλάδα,2026-05-13T06:03:00+00:00,Greece,0.4667318002123182,4,1,el,MED,Europe
 '9ba71973b1',extremes,Thunderstorm,#53785a,wmo,χαλάζι δυτική Πελοπόννησος,2026-05-25T06:53:00+00:00,Greece,0.45916167031379,2,1,el,MED,Europe
@@ -27,11 +25,13 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'b4cd8bfe1e',extremes,ice jam,#d60d2b,random,πλημμύρα,2026-05-19T06:33:00+00:00,,0.4193581474971437,1,2,el,,
 '0534a8b2b7',extremes,Storm,#b3b2b1,wmo,καταιγίδα κύμα ήπειρος,2026-05-14T06:02:00+00:00,Greece,0.4189402384339513,2,1,el,MED,Europe
 '7fbbf3063b',extremes,Storm,#b3b2b1,wmo,κύμα καταιγίδας νησιά βορειοανατολικού Αιγαίου,2026-05-02T05:24:00+00:00,Greece,0.4186525709324182,2,1,el,MED,Europe
+'f881445b97',extremes,Thunderstorm,#53785a,wmo,χαλάζι ήπειρος,2026-05-31T06:40:00+00:00,Greece,0.41585296297713004,1,1,el,MED,Europe
 'ef54296dab',extremes,Snow&Ice,#d60d2b,random,πάγος,2026-05-07T05:46:00+00:00,,0.4087372002749809,2,3,el,,
 '0639323bb2',extremes,Precipitation,#d60d2b,wmo,καταρρακτώδης βροχή θεσσαλία,2026-05-23T05:53:00+00:00,Greece,0.4073471564271973,2,1,el,MED,Europe
 '9797aa6299',extremes,Drought,#edc291,edo,έλλειψη βροχής Κύπρος,2026-05-25T06:53:00+00:00,Cyprus,0.4053934254032958,2,1,el,MED,Europe
 '4d9577e33d',extremes,Volcano,#b83202,random,ηφαίστειο,2026-05-21T06:34:00+00:00,,0.4016653703927666,0,1,el,,
-'283b154c38',extremes,Wet Spell,#d60d2b,random,βρεγμένο ξόρκι,2026-05-31T06:40:00+00:00,,0.39922267128205285,0,1,el,,
+'3d78159313',extremes,Thunderstorm,#53785a,wmo,καταιγίδα ελλάδα,2026-05-22T06:32:00+00:00,Greece,0.4014400198943169,2,1,el,MED,Europe
+'283b154c38',extremes,Wet Spell,#d60d2b,random,βρεγμένο ξόρκι,2026-05-31T06:40:00+00:00,,0.3992226712820528,0,1,el,,
 '469687aa19',extremes,Drought,#edc291,edo,έλλειψη βροχής Αλβανία,2026-05-01T05:54:00+00:00,Albania,0.3954911925336373,2,1,el,MED,Europe
 '80c06ab8a0',extremes,Cold Wave,#a7e9fa,random,πτώση της θερμοκρασίας,2026-04-18T04:56:00+00:00,,0.393261397224778,3,3,el,,
 '8857ea7399',extremes,Precipitation,#d60d2b,wmo,κατακρήμνιση ανατολική sterea amp evvoia,2026-05-19T06:33:00+00:00,Greece,0.3923464879950454,2,1,el,MED,Europe
