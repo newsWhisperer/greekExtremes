@@ -78,11 +78,9 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'f9a3abc8c2',extremes,Landslide,#572c03,random,λάσπη,2026-05-05T05:28:00+00:00,,0.3138500650486726,2,1,el,,
 'a63515cbd1',extremes,Thunderstorm,#53785a,wmo,καταιγίδα θρακή,2026-05-21T06:35:00+00:00,Greece,0.3097277497773,3,1,el,MED,Europe
 'f66badfb62',extremes,Thunderstorm,#53785a,wmo,καταιγίδα ανατολική Μακεδονία,2026-05-13T06:03:00+00:00,Greece,0.3085035278476108,3,1,el,MED,Europe
-'700ffc8c1c',extremes,Precipitation,#d60d2b,wmo,βροχόπτωση δυτικά νότια των Χοκίτικα,2026-05-29T06:38:00+00:00,New Zealand,0.3052275046037253,0,1,el,NZ,Oceania
 '1af32d0d90',extremes,Precipitation,#d60d2b,wmo,βροχή Καναδάς,2026-05-15T06:09:00+00:00,Canada,0.3041603950034258,0,1,el,NEN,North-America
 'd2793b8bae',extremes,Drought,#edc291,edo,ξηρασία νότιο Σουδάν,2026-05-16T05:40:00+00:00,South Sudan,0.3034083632211343,0,1,el,NEAF,Africa
 '20741ce7eb',extremes,Tsunami,#690191,random,τσουνάμι,2026-05-07T05:46:00+00:00,,0.3026805915723476,2,1,el,,
-'f37139fe2d',extremes,Landslide,#572c03,random,κατολίσθηση,2026-05-30T06:01:00+00:00,,0.2991935348578505,2,2,el,,
 'c0ae99f2a9',extremes,Precipitation,#d60d2b,random,έντονη βροχόπτωση,2026-04-28T05:44:00+00:00,,0.2982323421765468,2,2,el,,
 '491cc61ca3',extremes,Drought,#edc291,edo,ξηρασία ελλάδα,2026-05-17T06:01:00+00:00,Greece,0.2974323072921012,3,1,el,MED,Europe
 '5a944cd51d',extremes,Thunderstorm,#53785a,wmo,χαλάζι δυτική Στερεά,2026-05-24T06:22:00+00:00,Greece,0.2919046584069337,3,1,el,MED,Europe
@@ -98,7 +96,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '457b20ae06',extremes,Earthquake,#870007,usgs,σεισμός κέφαλος,2026-05-11T06:14:00+00:00,Greece,0.2863405465779329,3,1,el,MED,Europe
 'af3396aaaf',extremes,Drought,#edc291,edo,ξηρασία Ελλάδα,2026-05-12T05:53:00+00:00,Greece,0.2859660270432888,3,1,el,MED,Europe
 '538eadceb4',extremes,Heat Wave,#c40202,random,ήπιος χειμώνας,2026-05-12T05:52:00+00:00,,0.2845598852159955,2,1,el,,
-'ccefefc59e',extremes,Drought,#edc291,random,αστραπιαία ξηρασία,2026-05-22T06:31:00+00:00,,0.28374346989721483,1,1,el,,
+'ccefefc59e',extremes,Drought,#edc291,random,αστραπιαία ξηρασία,2026-05-22T06:31:00+00:00,,0.2837434698972148,1,1,el,,
 '45480a05ce',extremes,Tropical Cyclone,#4f4f4f,random,τυφώνας,2026-05-03T05:43:00+00:00,,0.2816469049972344,2,1,el,,
 '54927bfe65',extremes,Flood,#030ba1,random,παράκτια πλημμύρα,2026-05-13T06:02:00+00:00,,0.2804898361944962,2,1,el,,
 'b1d56de062',extremes,Snow&Ice,#d60d2b,random,παγετός,2026-05-21T06:34:00+00:00,,0.2787454845455303,2,1,el,,
@@ -125,6 +123,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'ce4931e51e',extremes,Flood,#030ba1,wmo,αστραπιαία πλημμύρα νότια αυστραλιανή κολπίσκο,2026-05-23T05:53:00+00:00,Australia,0.2595419153468651,1,1,el,CAU,Oceania
 '2fb9bcabc4',extremes,Drought,#edc291,edo,ξηρασία Εσθονία,2026-05-17T06:01:00+00:00,Estonia,0.2595141144717272,1,1,el,NEU,Europe
 'cb43c2bb0b',extremes,Heat Wave,#c40202,random,η θερμότερη χρονιά,2026-05-14T06:02:00+00:00,,0.2595096062105234,2,1,el,,
+'700ffc8c1c',extremes,Precipitation,#d60d2b,wmo,βροχόπτωση δυτικά νότια των Χοκίτικα,2026-05-29T06:38:00+00:00,New Zealand,0.2594433789131665,1,1,el,NZ,Oceania
 'c22c0da855',extremes,Precipitation,#d60d2b,wmo,βροχόπτωση Καναδάς,2026-05-19T06:33:00+00:00,Canada,0.2593667947842379,1,1,el,NEN,North-America
 '907a393546',extremes,Precipitation,#d60d2b,wmo,νεροποντή naujaat,2026-05-24T06:22:00+00:00,Canada,0.2593527342600731,1,1,el,NEN,North-America
 'e8573dc87f',extremes,Snow&Ice,#d60d2b,wmo,πάγωμα puvirnituq inukjuak,2026-05-17T06:01:00+00:00,Canada,0.259239098400375,1,1,el,NEN,North-America
@@ -159,6 +158,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '87ba69f7f2',extremes,Storm,#b3b2b1,wmo,κύμα καταιγίδας Μαλδίβες,2026-05-02T05:24:00+00:00,Maldives,0.2566298817001954,1,1,el,EIO,Indian Ocean
 '5f3d8bb0dd',extremes,Drought,#edc291,edo,"ξηρασία, δημοκρατική δημοκρατία του Κονγκό",2026-05-02T05:24:00+00:00,Democratic Republic of the Congo,0.2564688795285728,1,1,el,CAF,Africa
 'e593608bfa',extremes,Snow&Ice,#d60d2b,random,χιόνι,2026-05-10T05:51:00+00:00,,0.2563842122323463,2,1,el,,
+'f37139fe2d',extremes,Landslide,#572c03,random,κατολίσθηση,2026-05-30T06:01:00+00:00,,0.25461453462917294,3,2,el,,
 '52af874334',extremes,Drought,#edc291,random,ξηρασία,2026-05-07T05:46:00+00:00,,0.2492887968943351,2,1,el,,
 'd2b5043a66',extremes,Cold Wave,#a7e9fa,random,χαμηλότερη ελάχιστη θερμοκρασία,2026-05-14T06:02:00+00:00,,0.2490083526142757,2,1,el,,
 '8447ef896b',extremes,Snow&Ice,#d60d2b,random,λάσπη χιονιού,2026-05-06T05:43:00+00:00,,0.2477086616604324,2,1,el,,
