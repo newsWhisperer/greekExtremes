@@ -28,7 +28,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '7fbbf3063b',extremes,Storm,#b3b2b1,wmo,κύμα καταιγίδας νησιά βορειοανατολικού Αιγαίου,2026-05-02T05:24:00+00:00,Greece,0.4186525709324182,2,1,el,MED,Europe
 'ef54296dab',extremes,Snow&Ice,#d60d2b,random,πάγος,2026-05-07T05:46:00+00:00,,0.4087372002749809,2,3,el,,
 '9797aa6299',extremes,Drought,#edc291,edo,έλλειψη βροχής Κύπρος,2026-05-25T06:53:00+00:00,Cyprus,0.4053934254032958,2,1,el,MED,Europe
-'4d9577e33d',extremes,Volcano,#b83202,random,ηφαίστειο,2026-05-21T06:34:00+00:00,,0.4029157148338516,1,1,el,,
+'4d9577e33d',extremes,Volcano,#b83202,random,ηφαίστειο,2026-05-21T06:34:00+00:00,,0.4039785076087738,2,1,el,,
 '3d78159313',extremes,Thunderstorm,#53785a,wmo,καταιγίδα ελλάδα,2026-05-22T06:32:00+00:00,Greece,0.4014400198943169,2,1,el,MED,Europe
 '469687aa19',extremes,Drought,#edc291,edo,έλλειψη βροχής Αλβανία,2026-05-01T05:54:00+00:00,Albania,0.3954911925336373,2,1,el,MED,Europe
 'deaa4b70a0',extremes,Storm,#b3b2b1,random,αμμοθύελλα,2026-05-15T06:09:00+00:00,,0.3946667745299175,2,2,el,,
@@ -43,7 +43,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'fa9e452d04',extremes,Precipitation,#d60d2b,random,καταιγίδα,2026-05-25T06:52:00+00:00,,0.3798786524628413,2,2,el,,
 '03c0651f87',extremes,Thunderstorm,#53785a,wmo,χαλάζι Ιόνια νησιά,2026-05-02T05:24:00+00:00,Greece,0.3778867687131698,2,1,el,MED,Europe
 '43d8582040',extremes,Storm,#b3b2b1,wmo,κύμα καταιγίδας ανατολική Μακεδονία,2026-05-21T06:35:00+00:00,Greece,0.375867754370469,3,1,el,MED,Europe
-'a5ff1cde4a',extremes,Drought,#edc291,random,υγρασία του εδάφους,2026-06-02T07:08:00+00:00,,0.37422875168302233,0,1,el,,
 '699bcc53a3',extremes,Thunderstorm,#53785a,wmo,καταιγίδα θεσσαλία,2026-05-25T06:53:00+00:00,Greece,0.3731751329667973,2,1,el,MED,Europe
 'ea87be5bd8',extremes,Heat Wave,#c40202,random,καυτή θερμοκρασία,2026-05-25T06:52:00+00:00,,0.3690725151934499,2,1,el,,
 '899b6cb615',extremes,Storm,#b3b2b1,wmo,καταιγίδα κυκλάδες,2026-05-03T05:44:00+00:00,Greece,0.3678612133614097,3,1,el,MED,Europe
@@ -76,10 +75,10 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '3e4b341619',extremes,Storm,#b3b2b1,random,καταιγίδα,2026-05-20T06:32:00+00:00,,0.3269578297016802,1,2,el,,
 'e4c6e7d8c1',extremes,Earthquake,#870007,usgs,σεισμός ιεράπετρα,2026-05-12T05:52:00+00:00,Greece,0.3223958749034539,2,1,el,MED,Europe
 'ab90cfcdd4',extremes,Drought,#edc291,edo,ξηρασία αλβανία,2026-05-03T05:44:00+00:00,Albania,0.3217558749918215,2,1,el,MED,Europe
-'f685d1f47f',extremes,Drought,#edc291,edo,ξηρασία Κύπρος,2026-05-05T05:29:00+00:00,Cyprus,0.3157499592711507,6,2,el,MED,Europe
+'a5ff1cde4a',extremes,Drought,#edc291,random,υγρασία του εδάφους,2026-06-02T07:08:00+00:00,,0.31809443893056893,1,1,el,,
 'f9a3abc8c2',extremes,Landslide,#572c03,random,λάσπη,2026-05-05T05:28:00+00:00,,0.3138500650486726,2,1,el,,
 'd587c21e0d',extremes,Tropical Cyclone,#4f4f4f,random,τυφώνας,2026-05-01T05:54:00+00:00,,0.313305712613664,2,1,el,,
-'6eff66ea81',extremes,Drought,#edc291,edo,ξηρότητα μπρουνέι,2026-06-02T07:08:00+00:00,Brunei,0.31000930415164496,0,1,el,SEA,Asia
+'6eff66ea81',extremes,Drought,#edc291,edo,ξηρότητα μπρουνέι,2026-06-02T07:08:00+00:00,Brunei,0.3100093041516449,0,1,el,SEA,Asia
 'a63515cbd1',extremes,Thunderstorm,#53785a,wmo,καταιγίδα θρακή,2026-05-21T06:35:00+00:00,Greece,0.3097277497773,3,1,el,MED,Europe
 'f66badfb62',extremes,Thunderstorm,#53785a,wmo,καταιγίδα ανατολική Μακεδονία,2026-05-13T06:03:00+00:00,Greece,0.3085035278476108,3,1,el,MED,Europe
 '700ffc8c1c',extremes,Precipitation,#d60d2b,wmo,βροχόπτωση δυτικά νότια των Χοκίτικα,2026-05-29T06:38:00+00:00,New Zealand,0.3052275046037253,0,1,el,NZ,Oceania
@@ -162,8 +161,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '87ba69f7f2',extremes,Storm,#b3b2b1,wmo,κύμα καταιγίδας Μαλδίβες,2026-05-02T05:24:00+00:00,Maldives,0.2566298817001954,1,1,el,EIO,Indian Ocean
 '5f3d8bb0dd',extremes,Drought,#edc291,edo,"ξηρασία, δημοκρατική δημοκρατία του Κονγκό",2026-05-02T05:24:00+00:00,Democratic Republic of the Congo,0.2564688795285728,1,1,el,CAF,Africa
 'e593608bfa',extremes,Snow&Ice,#d60d2b,random,χιόνι,2026-05-10T05:51:00+00:00,,0.2563842122323463,2,1,el,,
-'ccefefc59e',extremes,Drought,#edc291,random,αστραπιαία ξηρασία,2026-05-02T05:23:00+00:00,,0.2561548218773528,2,1,el,,
-'c948617fef',extremes,Heat Wave,#c40202,random,ακραία έκθεση στη ζέστη,2026-05-02T05:23:00+00:00,,0.2522716383423901,2,1,el,,
 '52af874334',extremes,Drought,#edc291,random,ξηρασία,2026-05-07T05:46:00+00:00,,0.2492887968943351,2,1,el,,
 'd2b5043a66',extremes,Cold Wave,#a7e9fa,random,χαμηλότερη ελάχιστη θερμοκρασία,2026-05-14T06:02:00+00:00,,0.2490083526142757,2,1,el,,
 '8447ef896b',extremes,Snow&Ice,#d60d2b,random,λάσπη χιονιού,2026-05-06T05:43:00+00:00,,0.2477086616604324,2,1,el,,
