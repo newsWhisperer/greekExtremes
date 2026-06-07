@@ -1,4 +1,5 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
+'469687aa19',extremes,Drought,#edc291,edo,έλλειψη βροχής Αλβανία,2026-05-22T06:32:00+00:00,Albania,0.5179304860646028,0,1,el,MED,Europe
 '6fd5acddee',extremes,Storm,#b3b2b1,wmo,καταιγίδα ελλάδα,2026-05-29T06:38:00+00:00,Greece,0.5146716554350971,2,1,el,MED,Europe
 '3ba62ce4f2',extremes,Earthquake,#870007,usgs,σεισμός ελλάδα,2026-05-01T05:54:00+00:00,Greece,0.497653143962059,3,2,el,MED,Europe
 '59b529f428',extremes,Thunderstorm,#53785a,random,χαλαζόπτωση,2026-05-07T05:46:00+00:00,,0.4928723085045736,2,2,el,,
@@ -79,6 +80,9 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '7dd1d91d4a',extremes,Thunderstorm,#53785a,wmo,κακές καιρικές συνθήκες Καναδάς,2026-05-30T06:01:00+00:00,Canada,0.3071003025994993,0,1,el,NEN,North-America
 '628c73fc75',extremes,Drought,#edc291,edo,ξηρασία Πολωνία,2026-05-25T06:53:00+00:00,Poland,0.3058849596463933,0,1,el,WCE,Europe
 '29d2fdd6ce',extremes,Precipitation,#d60d2b,wmo,καταρρακτώδης βροχή Νέα Ζηλανδία,2026-05-30T06:01:00+00:00,New Zealand,0.3055851211242469,0,1,el,NZ,Oceania
+'8adbdb9546',extremes,Thunderstorm,#53785a,wmo,χαλάζι Καναδάς,2026-05-25T06:53:00+00:00,Canada,0.30520237200007594,0,1,el,NEN,North-America
+'0d1e3addbf',extremes,Storm,#b3b2b1,wmo,καταιγίδα Βραζιλία,2026-05-22T06:32:00+00:00,Brazil,0.30475319583949,0,1,el,SAM,South-America
+'7941ab1629',extremes,Snow&Ice,#d60d2b,wmo,χιόνι Βραζιλία,2026-05-19T06:33:00+00:00,Brazil,0.3042407519763586,0,1,el,SAM,South-America
 '20741ce7eb',extremes,Tsunami,#690191,random,τσουνάμι,2026-05-07T05:46:00+00:00,,0.3026805915723476,2,1,el,,
 'f4e1bf0fdf',extremes,Flood,#030ba1,random,ξέσπασμα λίμνης παγετώνων,2026-06-04T07:06:00+00:00,,0.2978186499413199,1,1,el,,
 '491cc61ca3',extremes,Drought,#edc291,edo,ξηρασία ελλάδα,2026-05-17T06:01:00+00:00,Greece,0.2974323072921012,3,1,el,MED,Europe
