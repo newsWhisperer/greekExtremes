@@ -97,7 +97,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '538eadceb4',extremes,Heat Wave,#c40202,random,ήπιος χειμώνας,2026-06-08T07:13:00+00:00,,0.3069971794247236,1,1,el,,
 'a0fea22150',extremes,Heat Wave,#c40202,acwe,καύσωνας Νέα Νότια Ουαλία,2026-05-29T06:39:00+00:00,Australia,0.306340854515742,0,1,el,EAU,Oceania
 'f8714a698d',extremes,Precipitation,#d60d2b,wmo,νεροποντή Εκουαδόρ,2026-05-30T06:01:00+00:00,Ecuador,0.3057629227076989,0,1,el,NWS,South-America
-'9790df1d1c',extremes,Thunderstorm,#53785a,wmo,κακοκαιρία θεσσαλία,2026-06-04T07:06:00+00:00,Greece,0.30548826041466465,3,1,el,MED,Europe
+'9790df1d1c',extremes,Thunderstorm,#53785a,wmo,κακοκαιρία θεσσαλία,2026-06-04T07:06:00+00:00,Greece,0.3054882604146646,3,1,el,MED,Europe
 '23ce7b59e3',extremes,Storm,#b3b2b1,wmo,καταιγίδα μάλαμπα σέφα και επαρχία τάφεα,2026-06-14T07:07:00+00:00,Vanuatu,0.3048967886244316,0,1,el,SPO,Oceania
 '8b27d7924c',extremes,Precipitation,#d60d2b,wmo,καταρρακτώδης βροχή béchar,2026-06-14T07:07:00+00:00,Algeria,0.3045467118216011,0,1,el,SAH,Africa
 '4e1d59e985',extremes,Precipitation,#d60d2b,wmo,βροχή βουλγαρία,2026-06-12T07:05:00+00:00,Bulgaria,0.3038038725650579,0,1,el,MED,Europe
@@ -106,10 +106,16 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'e528d858c2',extremes,Snow&Ice,#d60d2b,wmo,παγετός Βραζιλία,2026-05-21T06:35:00+00:00,Brazil,0.3019834550583949,0,1,el,SAM,South-America
 '8ebd9f213e',extremes,Wildfire,#d60d2b,acwe,πυρκαγιά νότια Αυστραλία,2026-06-15T08:36:00+00:00,Australia,0.3018995314907622,0,1,el,CAU,Oceania
 'd1d9cf4e58',extremes,Snow&Ice,#d60d2b,wmo,παγωμένη Αργεντινή,2026-05-26T06:31:00+00:00,Argentina,0.3018912544458504,0,1,el,SES,South-America
+'1c7749f12f',extremes,Storm,#b3b2b1,wmo,καταιγίδα Σεϋχέλλες,2026-06-15T08:36:00+00:00,Seychelles,0.30183219607309536,0,1,el,EIO,Africa
 '766190540a',extremes,Storm,#b3b2b1,wmo,κύμα καταιγίδας Τανζανία,2026-06-14T07:07:00+00:00,Tanzania,0.3018026800763709,0,1,el,SEAF,Africa
+'560d242cd5',extremes,Storm,#b3b2b1,wmo,καταιγίδα Καναδάς,2026-06-15T08:36:00+00:00,Canada,0.3016821740705887,0,1,el,NEN,North-America
+'44d9ac0858',extremes,Earthquake,#870007,usgs,σεισμός papa‘ikou,2026-06-15T08:36:00+00:00,Hawaii,0.30159619676985855,0,1,el,NPO,Pacific Ocean
 '03f33e230d',extremes,Earthquake,#870007,usgs,σεισμός χιλή,2026-06-06T06:08:00+00:00,Chile,0.301596100162072,0,1,el,SWS,South-America
 '6018dbdbc5',extremes,Flood,#030ba1,wmo,flashflood ψαλίδι κολπίσκος κοντά στο Mcauley,2026-06-13T06:38:00+00:00,Canada,0.3015954591768003,0,1,el,NEN,North-America
 '0514da3654',extremes,Snow&Ice,#d60d2b,wmo,ice brazil,2026-05-22T06:32:00+00:00,Brazil,0.3015563031300498,0,1,el,SAM,South-America
+'3421a57149',extremes,Storm,#b3b2b1,wmo,καταιγίδα Εκουαδόρ,2026-06-08T07:13:00+00:00,Ecuador,0.3015330944970031,0,1,el,NWS,South-America
+'4c1d7f8a34',extremes,Wildfire,#d60d2b,wmo,δασική πυρκαγιά περιοχή Αρχάγγελσκ,2026-06-10T06:49:00+00:00,Russia,0.30144146681474115,0,1,el,ESB,Europe
+'8768fed4c8',extremes,Wildfire,#d60d2b,wmo,wildfire περιοχή Kemerovo,2026-06-03T07:23:00+00:00,Russia,0.3013612181081352,0,1,el,ESB,Europe
 '734861543c',extremes,Storm,#b3b2b1,wmo,κύμα καταιγίδας región amazónica,2026-06-13T06:38:00+00:00,Ecuador,0.3013570608998453,0,1,el,NWS,South-America
 'c88b43e0ba',extremes,Snow&Ice,#d60d2b,wmo,παγετός Αργεντινή,2026-06-09T06:32:00+00:00,Argentina,0.3013415686908535,0,1,el,SES,South-America
 '869ff000f5',extremes,Precipitation,#d60d2b,wmo,βροχή μπελίζ,2026-06-11T07:14:00+00:00,Belize,0.3012865105781053,0,1,el,SCA,North-America
@@ -117,11 +123,13 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '95b5264574',extremes,Heat Wave,#c40202,wmo,κύμα καύσωνα Καναδάς,2026-06-09T06:32:00+00:00,Canada,0.3012357555038304,0,1,el,NEN,North-America
 'f497a982c3',extremes,Storm,#b3b2b1,wmo,κύμα καταιγίδας νησιά του Σολομώντα,2026-06-09T06:32:00+00:00,Solomon Islands,0.3012127618326192,0,1,el,EPO,Oceania
 '3bacdb81c7',extremes,Flood,#030ba1,wmo,flashflood καναδάς,2026-05-28T06:38:00+00:00,Canada,0.3011714481068441,0,1,el,NEN,North-America
+'f760624a54',extremes,Earthquake,#870007,usgs,σεισμός vallenar,2026-06-12T07:05:00+00:00,Chile,0.30116983366891,0,1,el,SWS,South-America
 '1c0214d974',extremes,Storm,#b3b2b1,wmo,καταιγίδα νότια Αφρική,2026-06-03T07:23:00+00:00,South Africa,0.3011639531079541,0,1,el,WSAF,Africa
 'dbcb53ece4',extremes,Snow&Ice,#d60d2b,wmo,χιόνι Καναδάς,2026-06-13T06:38:00+00:00,Canada,0.3011625950309901,0,1,el,NEN,North-America
 '95694d19cf',extremes,Earthquake,#870007,usgs,σεισμός Υεμένη,2026-06-01T07:30:00+00:00,Yemen,0.3011575322060412,0,1,el,NEAF,Africa
 '0b40d28ca0',extremes,Snow&Ice,#d60d2b,wmo,πάγος Καναδάς,2026-05-22T06:32:00+00:00,Canada,0.3011566017354719,0,1,el,NEN,North-America
 'ed5655acf2',extremes,Flood,#030ba1,wmo,πλημμύρα νότια αυστραλία warburton,2026-05-29T06:38:00+00:00,Australia,0.3011420358517032,0,1,el,CAU,Oceania
+'406b2198bd',extremes,Precipitation,#d60d2b,wmo,νεροποντή región amazónica,2026-06-15T08:36:00+00:00,Ecuador,0.30108773487204776,0,1,el,NWS,South-America
 '0ebdc15703',extremes,Earthquake,#870007,usgs,σεισμός kahaluu keauhou,2026-06-03T07:22:00+00:00,Hawaii,0.3010736733373217,0,1,el,NPO,Pacific Ocean
 'a53b782c59',extremes,Snow&Ice,#d60d2b,wmo,παγωμένος Καναδάς,2026-05-24T06:22:00+00:00,Canada,0.301065406631007,0,1,el,NEN,North-America
 '2433af70de',extremes,Storm,#b3b2b1,wmo,κύμα καταιγίδας Μπελίζ,2026-06-12T07:05:00+00:00,Belize,0.3010572736878001,0,1,el,SCA,North-America
@@ -139,11 +147,13 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'd77b825e5b',extremes,Flood,#030ba1,wmo,πλημμύρα Καναδάς,2026-06-09T06:32:00+00:00,Canada,0.3007909919386571,0,1,el,NEN,North-America
 'f8bd5aec38',extremes,Storm,#b3b2b1,wmo,καταιγίδα νάπο,2026-06-10T06:49:00+00:00,Ecuador,0.3007881187054997,0,1,el,NWS,South-America
 '3a54defe28',extremes,Wildfire,#d60d2b,wmo,wildfire Moscow,2026-06-11T07:14:00+00:00,Russia,0.3007854859006829,0,1,el,ESB,Europe
+'1878bbb853',extremes,Wildfire,#d60d2b,wmo,δασική πυρκαγιά δημοκρατία του Ταταρστάν,2026-06-13T06:38:00+00:00,Russia,0.3007802057584675,0,1,el,ESB,Europe
 '22828af238',extremes,Wildfire,#d60d2b,cmeter,wildfire london,2026-06-02T07:08:00+00:00,France,0.3007404841295101,0,1,el,,
 '8472a870e0',extremes,Snow&Ice,#d60d2b,wmo,παγωμένη Ισλανδία,2026-05-28T06:38:00+00:00,Iceland,0.3007390498819242,0,1,el,GIC,Europe
 'eeacc80474',extremes,Storm,#b3b2b1,wmo,καταιγίδα Βανουάτου,2026-06-10T06:49:00+00:00,Vanuatu,0.300706042522162,0,1,el,SPO,Oceania
 '0b472ebc54',extremes,Storm,#b3b2b1,wmo,κύμα καταιγίδας cañar y azuay,2026-06-10T06:49:00+00:00,Ecuador,0.300692077732662,0,1,el,NWS,South-America
 '9511bd27df',extremes,Flood,#030ba1,wmo,flashflood νότια αυστραλία warburton,2026-06-04T07:06:00+00:00,Australia,0.3006895810189118,0,1,el,CAU,Oceania
+'d5197c0b14',extremes,Wildfire,#d60d2b,wmo,wildfire περιοχή saratov,2026-05-28T06:38:00+00:00,Russia,0.3006779985413808,0,1,el,ESB,Europe
 '1ec98711db',extremes,Snow&Ice,#d60d2b,wmo,χιόνι Ισλανδία,2026-05-29T06:38:00+00:00,Iceland,0.300652266777572,0,1,el,GIC,Europe
 'c2ab86656b',extremes,Snow&Ice,#d60d2b,wmo,πάγος Λεσότο,2026-06-03T07:23:00+00:00,Lesotho,0.3006249433966227,0,1,el,ESAF,Africa
 '491cc61ca3',extremes,Drought,#edc291,edo,ξηρασία ελλάδα,2026-05-17T06:01:00+00:00,Greece,0.2974323072921012,3,1,el,MED,Europe
@@ -168,7 +178,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'b8eb47bf7f',extremes,Heat Wave,#c40202,random,θόλος θερμότητας,2026-05-16T05:40:00+00:00,,0.2666582215906389,2,1,el,,
 'd59a7e48d7',extremes,Drought,#edc291,random,εξατμισοδιαπνοή,2026-05-26T06:31:00+00:00,,0.2665943497400583,2,1,el,,
 'ab5d1234a0',extremes,Flood,#030ba1,aidr,flood hobart flash flooding tasmania 2018,2026-06-01T07:30:00+00:00,Australia,0.2653215733898572,1,1,el,SAU,Oceania
-'18c7025363',extremes,Thunderstorm,#53785a,wmo,χαλάζι θρακί,2026-06-03T07:23:00+00:00,Greece,0.26513147598751724,4,1,el,MED,Europe
+'18c7025363',extremes,Thunderstorm,#53785a,wmo,χαλάζι θρακί,2026-06-03T07:23:00+00:00,Greece,0.2651314759875172,4,1,el,MED,Europe
 '806dd08d67',extremes,Flood,#030ba1,acwe,πλημμυρίζοντας βικτωρία,2026-06-15T08:36:00+00:00,Australia,0.2649509740894119,1,1,el,SAU,Oceania
 'a7dd063fa4',extremes,Heat Wave,#c40202,cmeter,ευρωπαϊκός καύσωνας Μπορντό,2026-05-30T06:01:00+00:00,France,0.2643331395347574,1,1,el,,
 '980a973102',extremes,Tropical Cyclone,#4f4f4f,random,κυκλώνας βόμβας,2026-06-14T07:06:00+00:00,,0.2642505157676378,2,1,el,,
