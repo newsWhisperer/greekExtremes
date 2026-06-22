@@ -1,693 +1,909 @@
 ,phrase,label,sentiment,subjectivity,language,count
-today,today,DATE,,,en,134.10000000000036
-|,|,CARDINAL,,,en,115.50000000000028
-two,two,CARDINAL,,,en,52.299999999999955
-tomorrow,tomorrow,DATE,,,en,51.09999999999996
-Friday,Friday,DATE,,,en,49.29999999999997
-Saturday,Saturday,DATE,,,en,46.999999999999986
-Sunday,Sunday,DATE,,,en,44.79999999999998
+today,today,DATE,,,en,135.00000000000037
+|,|,CARDINAL,,,en,118.9000000000003
+two,two,CARDINAL,,,en,57.99999999999996
+Friday,Friday,DATE,,,en,51.39999999999996
+tomorrow,tomorrow,DATE,,,en,51.399999999999956
+Saturday,Saturday,DATE,,,en,48.79999999999998
+Sunday,Sunday,DATE,,,en,46.399999999999984
 Thursday,Thursday,DATE,,,en,42.49999999999997
-one,one,CARDINAL,,,en,39.999999999999964
-Today,Today,DATE,,,en,37.59999999999998
+one,one,CARDINAL,,,en,40.89999999999996
+Today,Today,DATE,,,en,38.999999999999986
 Two,Two,CARDINAL,,,en,37.09999999999997
+Monday,Monday,DATE,,,en,36.59999999999999
 Bad,Bad,WORK_OF_ART,,,en,35.99999999999999
-Monday,Monday,DATE,,,en,35.899999999999984
-first,first,ORDINAL,,,en,33.19999999999999
-Epirus,Epirus,NORP,,,en,31.89999999999998
-noon,noon,TIME,,,en,31.499999999999975
+first,first,ORDINAL,,,en,33.89999999999999
+noon,noon,TIME,,,en,33.299999999999976
+Epirus,Epirus,NORP,,,en,32.79999999999998
 yesterday,yesterday,DATE,,,en,29.799999999999983
+Tuesday,Tuesday,DATE,,,en,28.299999999999986
 Iranian,Iranian,NORP,,,en,27.499999999999986
-Tuesday,Tuesday,DATE,,,en,27.399999999999988
 African,African,NORP,,,en,26.0
+10,10,CARDINAL,,,en,23.99999999999999
 6,6,CARDINAL,,,en,22.79999999999999
-10,10,CARDINAL,,,en,22.39999999999999
-7,7,CARDINAL,,,en,21.999999999999993
-Wednesday,Wednesday,DATE,,,en,21.89999999999999
-3,3,CARDINAL,,,en,20.799999999999997
-One,One,CARDINAL,,,en,20.699999999999996
-4,4,CARDINAL,,,en,20.699999999999992
-morning,morning,TIME,,,en,19.499999999999996
-Russian,Russian,NORP,,,en,19.499999999999996
-three,three,CARDINAL,,,en,19.299999999999997
-afternoon,afternoon,TIME,,,en,19.099999999999998
+Wednesday,Wednesday,DATE,,,en,22.79999999999999
+7,7,CARDINAL,,,en,22.699999999999992
+One,One,CARDINAL,,,en,21.599999999999994
+3,3,CARDINAL,,,en,21.499999999999996
+Ukrainian,Ukrainian,NORP,,,en,21.499999999999993
+4,4,CARDINAL,,,en,21.39999999999999
+three,three,CARDINAL,,,en,20.899999999999995
+Russian,Russian,NORP,,,en,20.399999999999995
+morning,morning,TIME,,,en,20.399999999999995
+afternoon,afternoon,TIME,,,en,19.999999999999996
 second,second,ORDINAL,,,en,18.7
+Greek,Greek,NORP,,,en,18.599999999999998
+4.8,4.8,CARDINAL,,,en,17.599999999999998
+3.6,3.6,CARDINAL,,,en,17.500000000000004
+3.5,3.5,CARDINAL,,,en,17.5
 5,5,CARDINAL,,,en,17.2
 2025,2025,DATE,,,en,17.1
-Greek,Greek,NORP,,,en,16.5
+the weekend,the weekend,DATE,,,en,16.6
 winter,winter,DATE,,,en,16.200000000000003
 Weather,Weather,WORK_OF_ART,,,en,16.000000000000004
-the weekend,the weekend,DATE,,,en,15.700000000000001
-4.8,4.8,CARDINAL,,,en,14.899999999999999
+night,night,TIME,,,en,14.799999999999999
 Dodecanese,Dodecanese,NORP,,,en,14.400000000000002
-Ukrainian,Ukrainian,NORP,,,en,14.300000000000002
+the next few days,the next few days,DATE,,,en,14.200000000000003
 9,9,CARDINAL,,,en,14.100000000000003
-3.5,3.5,CARDINAL,,,en,14.100000000000001
 the next few hours,the next few hours,TIME,,,en,13.700000000000001
-night,night,TIME,,,en,13.4
-the next few days,the next few days,DATE,,,en,13.300000000000002
+Three,Three,CARDINAL,,,en,13.200000000000001
 Weather:,Weather:,WORK_OF_ART,,,en,13.100000000000001
-Three,Three,CARDINAL,,,en,12.3
+4.2,4.2,CARDINAL,,,en,12.900000000000002
+French,French,NORP,,,en,12.500000000000002
 8,8,CARDINAL,,,en,12.200000000000003
 112,112,CARDINAL,,,en,12.2
+5.3,5.3,CARDINAL,,,en,11.999999999999998
 7.4,7.4,CARDINAL,,,en,11.800000000000002
 Ionian,Ionian,NORP,-1.1281233386496543,2.408692185007974,en,11.000000000000002
-French,French,NORP,,,en,10.900000000000002
 Santorini,Santorini,NORP,-0.14302248677248675,0.7784942680776014,en,10.699999999999998
-4.2,4.2,CARDINAL,,,en,10.200000000000001
-Israeli,Israeli,NORP,,,en,10.000000000000002
+five,five,CARDINAL,,,en,10.3
 May,May,DATE,,,en,10.000000000000002
-5.3,5.3,CARDINAL,,,en,9.9
+Israeli,Israeli,NORP,,,en,10.000000000000002
+3.9,3.9,CARDINAL,,,en,9.999999999999998
+evening,evening,TIME,,,en,9.8
 48 hours,48 hours,TIME,,,en,9.600000000000001
 4.3,4.3,CARDINAL,,,en,9.5
-4.1,4.1,CARDINAL,,,en,9.3
+2026,2026,DATE,,,en,9.400000000000002
 this morning,this morning,TIME,,,en,9.3
-evening,evening,TIME,,,en,9.100000000000001
-3.9,3.9,CARDINAL,,,en,9.1
+4.1,4.1,CARDINAL,,,en,9.3
 4.4,4.4,CARDINAL,,,en,9.0
+Four,Four,CARDINAL,,,en,8.900000000000002
 the last few days,the last few days,DATE,,,en,8.8
-five,five,CARDINAL,,,en,8.700000000000001
+3.8,3.8,CARDINAL,,,en,8.100000000000001
 Tomorrow,Tomorrow,DATE,,,en,8.1
+four,four,CARDINAL,,,en,8.0
 tonight,tonight,TIME,,,en,8.0
 the morning,the morning,TIME,,,en,8.0
-2026,2026,DATE,,,en,7.600000000000001
-the afternoon,the afternoon,TIME,,,en,7.300000000000001
-12,12,CARDINAL,,,en,7.300000000000001
+year,year,DATE,,,en,7.900000000000001
+Weather today:,Weather today:,WORK_OF_ART,,,en,7.6000000000000005
+5 kilometers,5 kilometers,QUANTITY,,,en,7.300000000000001
 Easter,Easter,EVENT,0.3444805194805195,0.7272727272727274,en,7.300000000000001
+12,12,CARDINAL,,,en,7.300000000000001
+the afternoon,the afternoon,TIME,,,en,7.300000000000001
 May Day,May Day,DATE,,,en,7.200000000000001
 thousands,thousands,CARDINAL,,,en,7.200000000000001
+midday,midday,TIME,,,en,7.100000000000001
 7.8,7.8,CARDINAL,,,en,7.1000000000000005
-year,year,DATE,,,en,7.000000000000001
-Weather today:,Weather today:,WORK_OF_ART,,,en,6.9
+5.1,5.1,CARDINAL,,,en,7.1000000000000005
 Tonight,Tonight,TIME,,,en,6.800000000000001
-3.6,3.6,CARDINAL,,,en,6.700000000000001
+2,2,CARDINAL,,,en,6.700000000000001
 the morning hours,the morning hours,TIME,,,en,6.600000000000001
-5 kilometers,5 kilometers,QUANTITY,,,en,6.6000000000000005
-Swiss,Swiss,NORP,,,en,6.4
 Wednesday night,Wednesday night,TIME,,,en,6.4
+Swiss,Swiss,NORP,,,en,6.4
+3.7,3.7,CARDINAL,,,en,6.300000000000001
 5.7,5.7,CARDINAL,,,en,6.3
-midday,midday,TIME,,,en,6.200000000000001
 the coming days,the coming days,DATE,,,en,6.2
+5.2,5.2,CARDINAL,,,en,6.1000000000000005
 American,American,NORP,,,en,6.1
+17,17,CARDINAL,,,en,6.0
 the last 24 hours,the last 24 hours,TIME,,,en,5.900000000000001
 4.6,4.6,CARDINAL,,,en,5.800000000000001
-four,four,CARDINAL,,,en,5.7
-3.7,3.7,CARDINAL,,,en,5.6000000000000005
+six,six,CARDINAL,,,en,5.6
 6.4,6.4,CARDINAL,,,en,5.5
-6.8,6.8,CARDINAL,,,en,5.5
 seven,seven,CARDINAL,,,en,5.5
+6.8,6.8,CARDINAL,,,en,5.5
+Attica,Attica,WORK_OF_ART,-0.008414516307877524,0.016989022477783597,en,5.300000000000001
 6.5,6.5,CARDINAL,,,en,5.300000000000001
-Attica,Attica,WORK_OF_ART,-0.008485487452277124,0.017132314180284672,en,5.300000000000001
-30,30,CARDINAL,,,en,5.3
 the evening,the evening,TIME,,,en,5.3
 11,11,CARDINAL,,,en,5.3
-17,17,CARDINAL,,,en,5.3
+30,30,CARDINAL,,,en,5.3
 Clean Monday,Clean Monday,EVENT,,,en,5.2
-2,2,CARDINAL,,,en,5.1000000000000005
 Italian,Italian,NORP,,,en,5.1000000000000005
-5.1,5.1,CARDINAL,,,en,5.0
+1,1,CARDINAL,,,en,5.1
+Turkish,Turkish,NORP,,,en,5.1
+eight,eight,CARDINAL,,,en,4.9
 recent years,recent years,DATE,,,en,4.8999999999999995
-six,six,CARDINAL,,,en,4.8999999999999995
 the National Observatory of Athens,the National Observatory of Athens,FAC,,,en,4.800000000000001
 daily,daily,DATE,,,en,4.7
-dozens,dozens,CARDINAL,,,en,4.6
 summer,summer,DATE,,,en,4.6
-the early hours of Sunday,the early hours of Sunday,TIME,,,en,4.6
-16,16,CARDINAL,,,en,4.6
 millions,millions,CARDINAL,,,en,4.6
+dozens,dozens,CARDINAL,,,en,4.6
+the early hours of Monday,the early hours of Monday,TIME,,,en,4.6
 half,half,CARDINAL,,,en,4.6
-3.8,3.8,CARDINAL,,,en,4.5
-5.2,5.2,CARDINAL,,,en,4.5
+16,16,CARDINAL,,,en,4.6
+the early hours of Sunday,the early hours of Sunday,TIME,,,en,4.6
+the early hours of Thursday,the early hours of Thursday,TIME,,,en,4.6
 a few hours,a few hours,TIME,,,en,4.5
 34,34,CARDINAL,,,en,4.4
 the early hours,the early hours,TIME,,,en,4.4
-1,1,CARDINAL,,,en,4.3999999999999995
 European,European,NORP,,,en,4.3999999999999995
+the end of the week,the end of the week,DATE,,,en,4.3999999999999995
+British,British,NORP,,,en,4.3
+Five,Five,CARDINAL,,,en,4.2
+4.7,4.7,CARDINAL,,,en,4.2
 this year,this year,DATE,,,en,4.2
 the last few hours,the last few hours,TIME,,,en,4.2
-Five,Five,CARDINAL,,,en,4.2
-eight,eight,CARDINAL,,,en,4.2
+Strovolos,Strovolos,NORP,,,en,4.2
 21,21,CARDINAL,,,en,4.2
-4.7,4.7,CARDINAL,,,en,4.2
 at least two,at least two,CARDINAL,,,en,4.199999999999999
 Agios,Agios,NORP,,,en,4.1
+tomorrow Monday,tomorrow Monday,DATE,,,en,4.0
+26,26,CARDINAL,,,en,4.0
+the World Cup,the World Cup,EVENT,,,en,3.8
 3.3,3.3,CARDINAL,,,en,3.8
 5.9,5.9,CARDINAL,,,en,3.8
-Turkish,Turkish,NORP,,,en,3.6999999999999997
-7.5,7.5,CARDINAL,,,en,3.6999999999999997
-| War,| War,EVENT,,,en,3.6999999999999997
-20,20,CARDINAL,,,en,3.6999999999999997
-the early hours of Thursday,the early hours of Thursday,TIME,,,en,3.6999999999999997
+Japanese,Japanese,NORP,,,en,3.6999999999999997
+four months,four months,DATE,,,en,3.6999999999999997
+At least 13,At least 13,CARDINAL,,,en,3.6999999999999997
 the Ionian Road,the Ionian Road,FAC,,,en,3.6999999999999997
+7.5,7.5,CARDINAL,,,en,3.6999999999999997
+this weekend,this weekend,DATE,,,en,3.6999999999999997
+38,38,CARDINAL,,,en,3.6999999999999997
+33,33,CARDINAL,,,en,3.6999999999999997
+up to 3 meters,up to 3 meters,QUANTITY,,,en,3.6999999999999997
+| War,| War,EVENT,,,en,3.6999999999999997
 Asian,Asian,NORP,,,en,3.6999999999999997
 the morning and evening hours,the morning and evening hours,TIME,,,en,3.6999999999999997
-At least 13,At least 13,CARDINAL,,,en,3.6999999999999997
+20,20,CARDINAL,,,en,3.6999999999999997
 days,days,DATE,,,en,3.6999999999999997
-Japanese,Japanese,NORP,,,en,3.6999999999999997
-up to 3 meters,up to 3 meters,QUANTITY,,,en,3.6999999999999997
-this weekend,this weekend,DATE,,,en,3.6999999999999997
-the early hours of Monday,the early hours of Monday,TIME,,,en,3.6999999999999997
-38,38,CARDINAL,,,en,3.6999999999999997
-four months,four months,DATE,,,en,3.6999999999999997
 Holy Week,Holy Week,DATE,,,en,3.6999999999999997
-the end of the week,the end of the week,DATE,,,en,3.6999999999999997
-three days,three days,DATE,,,en,3.6
 decades,decades,DATE,,,en,3.6
-British,British,NORP,,,en,3.6
+three days,three days,DATE,,,en,3.6
 up to,up to,QUANTITY,,,en,3.5999999999999996
 zero,zero,CARDINAL,,,en,3.5999999999999996
-31 degrees,31 degrees,QUANTITY,,,en,3.5
-4.5,4.5,CARDINAL,,,en,3.5
 New Year's Eve,New Year's Eve,EVENT,,,en,3.5
+31 degrees,31 degrees,QUANTITY,,,en,3.5
 2015,2015,DATE,,,en,3.5
 the three days,the three days,DATE,,,en,3.5
+4.5,4.5,CARDINAL,,,en,3.5
 | Weather | Bad,| Weather | Bad,WORK_OF_ART,,,en,3.4000000000000004
-10%,10%,PERCENT,,,en,3.3
-tomorrow Monday,tomorrow Monday,DATE,,,en,3.3
 10 kilometers,10 kilometers,QUANTITY,,,en,3.3
+10%,10%,PERCENT,,,en,3.3
 200,200,CARDINAL,,,en,3.3
-Dozens,Dozens,CARDINAL,,,en,3.3
+34 degrees,34 degrees,QUANTITY,,,en,3.3
 5 km,5 km,QUANTITY,,,en,3.3
-26,26,CARDINAL,,,en,3.3
+Dozens,Dozens,CARDINAL,,,en,3.3
+4th,4th,ORDINAL,,,en,3.3
 Attiki,Attiki,PRODUCT,,,en,3.2
-Ten,Ten,CARDINAL,,,en,3.1
 Up to,Up to,CARDINAL,,,en,3.1
-| Earthquake |,| Earthquake |,DATE,,,en,3.0999999999999996
+Ten,Ten,CARDINAL,,,en,3.1
+6.9,6.9,CARDINAL,,,en,3.0999999999999996
 Paramythia,Paramythia,NORP,,,en,3.0999999999999996
+5.2 Richter,5.2 Richter,QUANTITY,,,en,3.0999999999999996
 Chinese,Chinese,NORP,,,en,3.0999999999999996
+3.2,3.2,CARDINAL,,,en,3.0999999999999996
 November 17,November 17,DATE,,,en,3.0999999999999996
 6 kilometers,6 kilometers,QUANTITY,,,en,3.0999999999999996
-5.2 Richter,5.2 Richter,QUANTITY,,,en,3.0999999999999996
-100,100,CARDINAL,,,en,2.8
-billions of dollars,billions of dollars,MONEY,,,en,2.8
-Strovolos,Strovolos,NORP,,,en,2.8
-EMY | Weather | Rains,EMY | Weather | Rains,WORK_OF_ART,,,en,2.8
-Crans,Crans,NORP,,,en,2.8
-6.3,6.3,CARDINAL,,,en,2.8
-Three days,Three days,DATE,,,en,2.8
-80%,80%,PERCENT,,,en,2.8
-6pm,6pm,TIME,,,en,2.8
-Kuwaiti,Kuwaiti,NORP,,,en,2.8
-the month of May,the month of May,DATE,,,en,2.8
-the Cup,the Cup,EVENT,,,en,2.8
-Easter Sunday,Easter Sunday,DATE,,,en,2.8
-Democrats,Democrats,NORP,,,en,2.8
-"2,300","2,300",CARDINAL,,,en,2.8
-27 degrees,27 degrees,QUANTITY,,,en,2.8
-an hour,an hour,TIME,,,en,2.8
-The Wire,The Wire,WORK_OF_ART,,,en,2.8
-21:00,21:00,TIME,,,en,2.8
-2003,2003,DATE,,,en,2.8
-Indian,Indian,NORP,,,en,2.8
-the season,the season,DATE,,,en,2.8
-the New Year,the New Year,DATE,,,en,2.8
-at least 200,at least 200,CARDINAL,,,en,2.8
-The week,The week,DATE,,,en,2.8
-46,46,CARDINAL,,,en,2.8
-Americans,Americans,NORP,,,en,2.8
-three months,three months,DATE,,,en,2.8
-"850,000","850,000",CARDINAL,,,en,2.8
-some fifty kilometers,some fifty kilometers,QUANTITY,,,en,2.8
-minutes,minutes,TIME,,,en,2.8
-ten,ten,CARDINAL,,,en,2.8
-Cypriot,Cypriot,NORP,,,en,2.8
-the year,the year,DATE,,,en,2.8
-Hundreds,Hundreds,CARDINAL,,,en,2.8
-Christmas,Christmas,DATE,,,en,2.8
-33,33,CARDINAL,,,en,2.8
-the next 24 hours,the next 24 hours,TIME,,,en,2.8
-the midday hours,the midday hours,TIME,,,en,2.8
+| Earthquake |,| Earthquake |,DATE,,,en,3.0999999999999996
+15,15,CARDINAL,,,en,2.8999999999999995
+6.7,6.7,CARDINAL,,,en,2.8
 recent days,recent days,DATE,,,en,2.8
 6.2,6.2,CARDINAL,,,en,2.8
+Crans,Crans,NORP,,,en,2.8
+the season,the season,DATE,,,en,2.8
+2003,2003,DATE,,,en,2.8
+some fifty kilometers,some fifty kilometers,QUANTITY,,,en,2.8
+21:00,21:00,TIME,,,en,2.8
+Indian,Indian,NORP,,,en,2.8
+the New Year,the New Year,DATE,,,en,2.8
+the next 24 hours,the next 24 hours,TIME,,,en,2.8
+the month of May,the month of May,DATE,,,en,2.8
+EMY | Weather | Rains,EMY | Weather | Rains,WORK_OF_ART,,,en,2.8
+at least 200,at least 200,CARDINAL,,,en,2.8
+Christmas,Christmas,DATE,,,en,2.8
+the midday hours,the midday hours,TIME,,,en,2.8
+the Cup,the Cup,EVENT,,,en,2.8
+Democrats,Democrats,NORP,,,en,2.8
+Three days,Three days,DATE,,,en,2.8
+The week,The week,DATE,,,en,2.8
+46,46,CARDINAL,,,en,2.8
+27 degrees,27 degrees,QUANTITY,,,en,2.8
+6.3,6.3,CARDINAL,,,en,2.8
+three months,three months,DATE,,,en,2.8
+80%,80%,PERCENT,,,en,2.8
+billions of dollars,billions of dollars,MONEY,,,en,2.8
+ten,ten,CARDINAL,,,en,2.8
+Hundreds,Hundreds,CARDINAL,,,en,2.8
+100,100,CARDINAL,,,en,2.8
+6pm,6pm,TIME,,,en,2.8
+minutes,minutes,TIME,,,en,2.8
+Americans,Americans,NORP,,,en,2.8
+Cypriot,Cypriot,NORP,,,en,2.8
+Kuwaiti,Kuwaiti,NORP,,,en,2.8
+The Wire,The Wire,WORK_OF_ART,,,en,2.8
+"2,300","2,300",CARDINAL,,,en,2.8
+an hour,an hour,TIME,,,en,2.8
+the year,the year,DATE,,,en,2.8
+Easter Sunday,Easter Sunday,DATE,,,en,2.8
+"850,000","850,000",CARDINAL,,,en,2.8
 24 hours,24 hours,TIME,,,en,2.7
-March,March,DATE,,,en,2.7
 February,February,DATE,,,en,2.7
-4th,4th,ORDINAL,,,en,2.6
+March,March,DATE,,,en,2.7
 Halloween,Halloween,DATE,,,en,2.6
-The end of yesterday's,The end of yesterday's,DATE,,,en,2.6
-21.1.26,21.1.26,CARDINAL,,,en,2.6
-33 degrees,33 degrees,QUANTITY,,,en,2.6
 4.9,4.9,CARDINAL,,,en,2.6
-weekend,weekend,DATE,,,en,2.6
-November,November,DATE,,,en,2.6
 "today, Wednesday","today, Wednesday",DATE,,,en,2.6
-midnight,midnight,TIME,,,en,2.6
+weekend,weekend,DATE,,,en,2.6
+33 degrees,33 degrees,QUANTITY,,,en,2.6
+21.1.26,21.1.26,CARDINAL,,,en,2.6
+The end of yesterday's,The end of yesterday's,DATE,,,en,2.6
+November,November,DATE,,,en,2.6
 the next hours,the next hours,TIME,,,en,2.6
 a few days,a few days,DATE,,,en,2.6
+midnight,midnight,TIME,,,en,2.6
 the last two days,the last two days,DATE,,,en,2.6
-15,15,CARDINAL,,,en,2.5999999999999996
-14,14,CARDINAL,,,en,2.5999999999999996
-"today, Thursday","today, Thursday",DATE,,,en,2.5999999999999996
-At least 25,At least 25,CARDINAL,,,en,2.5999999999999996
-5.8,5.8,CARDINAL,,,en,2.5999999999999996
-last night,last night,TIME,,,en,2.5999999999999996
+Six,Six,CARDINAL,,,en,2.6
 18,18,CARDINAL,,,en,2.5999999999999996
+third,third,ORDINAL,,,en,2.5999999999999996
+last night,last night,TIME,,,en,2.5999999999999996
+5.8,5.8,CARDINAL,,,en,2.5999999999999996
+31,31,CARDINAL,,,en,2.5999999999999996
+At least 25,At least 25,CARDINAL,,,en,2.5999999999999996
+"today, Thursday","today, Thursday",DATE,,,en,2.5999999999999996
+2nd,2nd,ORDINAL,,,en,2.5999999999999996
+14,14,CARDINAL,,,en,2.5999999999999996
 next week,next week,DATE,,,en,2.5
-Hindu,Hindu,NORP,,,en,2.4
 5.5,5.5,CARDINAL,,,en,2.4
-New Year,New Year,EVENT,,,en,2.4
-Hydra,Hydra,FAC,,,en,2.4
 62,62,CARDINAL,,,en,2.4
-the National Observatory,the National Observatory,FAC,,,en,2.4
+North Evia,North Evia,FAC,0.12037037037037036,0.382716049382716,en,2.4
+New Year,New Year,EVENT,,,en,2.4
 the night,the night,TIME,,,en,2.4
-35th,35th,ORDINAL,,,en,2.4
-3.2,3.2,CARDINAL,,,en,2.4
 3.4,3.4,CARDINAL,,,en,2.4
+Hindu,Hindu,NORP,,,en,2.4
+Methoni,Methoni,FAC,0.11111111111111112,0.2638888888888889,en,2.4
+Hydra,Hydra,FAC,,,en,2.4
+the National Observatory,the National Observatory,FAC,,,en,2.4
+Serbian,Serbian,NORP,,,en,2.4
+35th,35th,ORDINAL,,,en,2.4
 10 degrees,10 degrees,QUANTITY,,,en,2.2
 First,First,ORDINAL,,,en,2.2
 At least six,At least six,CARDINAL,,,en,2.1999999999999997
 Thousands,Thousands,CARDINAL,,,en,2.1999999999999997
-2nd,2nd,ORDINAL,,,en,1.9
-18 degrees,18 degrees,QUANTITY,,,en,1.9
-the early morning hours,the early morning hours,TIME,,,en,1.9
-tomorrow Friday,tomorrow Friday,DATE,,,en,1.9
-43rd,43rd,ORDINAL,,,en,1.9
-early morning,early morning,TIME,,,en,1.9
-170,170,CARDINAL,,,en,1.9
-80,80,CARDINAL,,,en,1.9
-At least 200,At least 200,CARDINAL,,,en,1.9
-another two years,another two years,DATE,,,en,1.9
-Pakistani,Pakistani,NORP,,,en,1.9
-weekly,weekly,DATE,,,en,1.9
-more than 100,more than 100,CARDINAL,,,en,1.9
-Corinthian,Corinthian,NORP,,,en,1.9
-31,31,CARDINAL,,,en,1.9
-6.1,6.1,CARDINAL,,,en,1.9
-tens of millions,tens of millions,MONEY,,,en,1.9
-Saudi,Saudi,NORP,,,en,1.9
-Tens of millions,Tens of millions,CARDINAL,,,en,1.9
-6%,6%,PERCENT,,,en,1.9
-Tragedy,Tragedy,WORK_OF_ART,,,en,1.9
-At least 8,At least 8,CARDINAL,,,en,1.9
+50,50,CARDINAL,,,en,1.9
+Agia Pelagia,Agia Pelagia,FAC,,,en,1.9
+29,29,CARDINAL,,,en,1.9
+at least 15,at least 15,CARDINAL,,,en,1.9
 up to 95%,up to 95%,PERCENT,,,en,1.9
-Second,Second,ORDINAL,,,en,1.9
-Tens of thousands,Tens of thousands,CARDINAL,,,en,1.9
-"today, Monday","today, Monday",DATE,,,en,1.9
-Somalis,Somalis,NORP,,,en,1.9
+more than 3%,more than 3%,PERCENT,,,en,1.9
 2000,2000,DATE,,,en,1.9
-51,51,CARDINAL,,,en,1.9
-Cup,Cup,EVENT,,,en,1.9
-the festive three days - Snow,the festive three days - Snow,DATE,,,en,1.9
-1.3 meters,1.3 meters,QUANTITY,,,en,1.9
-7.1,7.1,CARDINAL,,,en,1.9
-years,years,DATE,,,en,1.9
-2027,2027,DATE,,,en,1.9
-"06:00 on April 8, 2026","06:00 on April 8, 2026",TIME,,,en,1.9
+2019,2019,DATE,,,en,1.9
 550,550,CARDINAL,,,en,1.9
-06:00,06:00,TIME,,,en,1.9
-at least 52,at least 52,CARDINAL,,,en,1.9
+"30,000","30,000",CARDINAL,,,en,1.9
 tomorrow -,tomorrow -,TIME,,,en,1.9
 At least 4,At least 4,CARDINAL,,,en,1.9
+Iraqi,Iraqi,NORP,,,en,1.9
+Saturday night,Saturday night,TIME,,,en,1.9
+at least 52,at least 52,CARDINAL,,,en,1.9
 PASOK,PASOK,DATE,,,en,1.9
-Ilion,Ilion,FAC,,,en,1.9
-ninth,ninth,ORDINAL,,,en,1.9
+twenty,twenty,CARDINAL,,,en,1.9
+At least 8,At least 8,CARDINAL,,,en,1.9
+At least 10,At least 10,CARDINAL,,,en,1.9
+80,80,CARDINAL,,,en,1.9
+hundreds of thousands,hundreds of thousands,CARDINAL,,,en,1.9
+"06:00 on April 8, 2026","06:00 on April 8, 2026",TIME,,,en,1.9
+a few minutes,a few minutes,TIME,,,en,1.9
+"April 7, 2026","April 7, 2026",DATE,,,en,1.9
+more than 100,more than 100,CARDINAL,,,en,1.9
+the age of 62,the age of 62,DATE,,,en,1.9
+06:00,06:00,TIME,,,en,1.9
+Airbnb,Airbnb,NORP,,,en,1.9
+7.3,7.3,CARDINAL,,,en,1.9
+tens of millions,tens of millions,MONEY,,,en,1.9
+At least ten,At least ten,CARDINAL,,,en,1.9
+another two years,another two years,DATE,,,en,1.9
+fourth,fourth,ORDINAL,,,en,1.9
+Tens of millions,Tens of millions,CARDINAL,,,en,1.9
+"39,300","39,300",CARDINAL,,,en,1.9
+20/3/2026,20/3/2026,CARDINAL,,,en,1.9
+Saudi,Saudi,NORP,,,en,1.9
 41,41,CARDINAL,,,en,1.9
+Violanda,Violanda,WORK_OF_ART,,,en,1.9
+one year,one year,DATE,,,en,1.9
+last week,last week,DATE,,,en,1.9
+April,April,DATE,,,en,1.9
+6%,6%,PERCENT,,,en,1.9
+18:00 in the afternoon,18:00 in the afternoon,TIME,,,en,1.9
+24,24,CARDINAL,,,en,1.9
+late at night,late at night,TIME,,,en,1.9
+51,51,CARDINAL,,,en,1.9
+the New Democracy,the New Democracy,LAW,,,en,1.9
+Cuban,Cuban,NORP,,,en,1.9
+Somalis,Somalis,NORP,,,en,1.9
+Tens of thousands,Tens of thousands,CARDINAL,,,en,1.9
+42,42,CARDINAL,,,en,1.9
+the previous days,the previous days,DATE,,,en,1.9
+weekly,weekly,DATE,,,en,1.9
+Cup,Cup,EVENT,,,en,1.9
+#,#,TIME,,,en,1.9
+4.6 Richter | Earthquake,4.6 Richter | Earthquake,TIME,,,en,1.9
+170,170,CARDINAL,,,en,1.9
+400 meters,400 meters,QUANTITY,,,en,1.9
+up to 5 years,up to 5 years,DATE,,,en,1.9
+the early hours of Tuesday,the early hours of Tuesday,TIME,,,en,1.9
+tomorrow morning,tomorrow morning,TIME,,,en,1.9
+"2,925 euros","2,925 euros",MONEY,,,en,1.9
+4%,4%,PERCENT,,,en,1.9
+7.7,7.7,CARDINAL,,,en,1.9
+the Platron - Trooditissa road,the Platron - Trooditissa road,FAC,,,en,1.9
+the day,the day,DATE,,,en,1.9
 5.6,5.6,CARDINAL,,,en,1.9
-10 cm,10 cm,QUANTITY,,,en,1.9
-29,29,CARDINAL,,,en,1.9
-Flight,Flight,PRODUCT,,,en,1.9
-Good Friday,Good Friday,DATE,,,en,1.9
+6.1,6.1,CARDINAL,,,en,1.9
+ninth,ninth,ORDINAL,,,en,1.9
 Pyrgos,Pyrgos,NORP,0.0,0.06250000000000001,en,1.9
 Monday |,Monday |,DATE,,,en,1.9
+10 cm,10 cm,QUANTITY,,,en,1.9
 Chios,Chios,NORP,0.0261437908496732,0.05882352941176469,en,1.9
-"April 7, 2026","April 7, 2026",DATE,,,en,1.9
-Saturday night,Saturday night,TIME,,,en,1.9
-one year,one year,DATE,,,en,1.9
-Airbnb,Airbnb,NORP,,,en,1.9
-"39,300","39,300",CARDINAL,,,en,1.9
-29.1 kilometers,29.1 kilometers,QUANTITY,,,en,1.9
-hundreds of thousands,hundreds of thousands,CARDINAL,,,en,1.9
-Agia Pelagia,Agia Pelagia,FAC,,,en,1.9
-fourth,fourth,ORDINAL,,,en,1.9
-Iraqi,Iraqi,NORP,,,en,1.9
-more than 3%,more than 3%,PERCENT,,,en,1.9
-Violanda,Violanda,WORK_OF_ART,,,en,1.9
-At least ten,At least ten,CARDINAL,,,en,1.9
-At least 10,At least 10,CARDINAL,,,en,1.9
-at least 15,at least 15,CARDINAL,,,en,1.9
-Sanazzaro,Sanazzaro,NORP,,,en,1.9
-last week,last week,DATE,,,en,1.9
-17:00 in the afternoon,17:00 in the afternoon,TIME,,,en,1.9
-the age of 62,the age of 62,DATE,,,en,1.9
-50,50,CARDINAL,,,en,1.9
-"30,000","30,000",CARDINAL,,,en,1.9
-the Platron - Trooditissa road,the Platron - Trooditissa road,FAC,,,en,1.9
-2 degrees,2 degrees,QUANTITY,,,en,1.9
-the hottest day,the hottest day,DATE,,,en,1.9
-4.6 Richter | Earthquake,4.6 Richter | Earthquake,TIME,,,en,1.9
-300 meters,300 meters,QUANTITY,,,en,1.9
-up to 5 years,up to 5 years,DATE,,,en,1.9
-late at night,late at night,TIME,,,en,1.9
-Four,Four,CARDINAL,,,en,1.9
-Penteli,Penteli,NORP,,,en,1.9
-Eight,Eight,CARDINAL,,,en,1.9
-20/3/2026,20/3/2026,CARDINAL,,,en,1.9
-24,24,CARDINAL,,,en,1.9
-Cuban,Cuban,NORP,,,en,1.9
-Mikrospilia,Mikrospilia,NORP,0.054761904761904755,0.7206349206349205,en,1.9
 week,week,DATE,,,en,1.9
-the day,the day,DATE,,,en,1.9
-10 km,10 km,QUANTITY,,,en,1.9
-Christidis,Christidis,PRODUCT,,,en,1.9
-400 meters,400 meters,QUANTITY,,,en,1.9
-autumn than summer,autumn than summer,DATE,,,en,1.9
-15 kilometers,15 kilometers,QUANTITY,,,en,1.9
-"2,925 euros","2,925 euros",MONEY,,,en,1.9
-the previous days,the previous days,DATE,,,en,1.9
-third,third,ORDINAL,,,en,1.9
-The USS Gerald R. Ford,The USS Gerald R. Ford,PRODUCT,,,en,1.9
-4%,4%,PERCENT,,,en,1.9
-the New Democracy,the New Democracy,LAW,,,en,1.9
-7.7,7.7,CARDINAL,,,en,1.9
-the evening hours,the evening hours,TIME,,,en,1.9
-New Year's Day,New Year's Day,EVENT,,,en,1.9
-7.3,7.3,CARDINAL,,,en,1.9
-tomorrow morning,tomorrow morning,TIME,,,en,1.9
-twenty,twenty,CARDINAL,,,en,1.9
-April,April,DATE,,,en,1.9
+17:00 in the afternoon,17:00 in the afternoon,TIME,,,en,1.9
 Greeks,Greeks,NORP,,,en,1.9
-6.7,6.7,CARDINAL,,,en,1.9
+years,years,DATE,,,en,1.9
+2027,2027,DATE,,,en,1.9
+7.1,7.1,CARDINAL,,,en,1.9
+the evening hours,the evening hours,TIME,,,en,1.9
 13,13,CARDINAL,,,en,1.9
+Ilion,Ilion,FAC,,,en,1.9
+29.1 kilometers,29.1 kilometers,QUANTITY,,,en,1.9
+the early morning hours,the early morning hours,TIME,,,en,1.9
+"today, Monday","today, Monday",DATE,,,en,1.9
+"today, Tuesday","today, Tuesday",DATE,,,en,1.9
+"Tuesday, June 16, 2026","Tuesday, June 16, 2026",DATE,,,en,1.9
+1.3 meters,1.3 meters,QUANTITY,,,en,1.9
+Christidis,Christidis,PRODUCT,,,en,1.9
+Corinthian,Corinthian,NORP,,,en,1.9
+the festive three days - Snow,the festive three days - Snow,DATE,,,en,1.9
+Sanazzaro,Sanazzaro,NORP,,,en,1.9
 29/5/2026,29/5/2026,CARDINAL,,,en,1.9
-the early hours of Tuesday,the early hours of Tuesday,TIME,,,en,1.9
-2019,2019,DATE,,,en,1.9
-31/1/26,31/1/26,CARDINAL,,,en,1.8
+Mikrospilia,Mikrospilia,NORP,0.054761904761904755,0.7206349206349205,en,1.9
+15 kilometers,15 kilometers,QUANTITY,,,en,1.9
+Pakistani,Pakistani,NORP,,,en,1.9
+Good Friday,Good Friday,DATE,,,en,1.9
+300 meters,300 meters,QUANTITY,,,en,1.9
+2 degrees,2 degrees,QUANTITY,,,en,1.9
+At least 200,At least 200,CARDINAL,,,en,1.9
+Second,Second,ORDINAL,,,en,1.9
+the hottest day,the hottest day,DATE,,,en,1.9
+New Year's Day,New Year's Day,EVENT,,,en,1.9
+"May 23, 2026","May 23, 2026",DATE,,,en,1.9
+Flight,Flight,PRODUCT,,,en,1.9
+tomorrow Friday,tomorrow Friday,DATE,,,en,1.9
+early morning,early morning,TIME,,,en,1.9
+18 degrees,18 degrees,QUANTITY,,,en,1.9
+Tragedy,Tragedy,WORK_OF_ART,,,en,1.9
+Eight,Eight,CARDINAL,,,en,1.9
+The USS Gerald R. Ford,The USS Gerald R. Ford,PRODUCT,,,en,1.9
+autumn than summer,autumn than summer,DATE,,,en,1.9
+Penteli,Penteli,NORP,,,en,1.9
+43rd,43rd,ORDINAL,,,en,1.9
+10 km,10 km,QUANTITY,,,en,1.9
+Red Code,Red Code,WORK_OF_ART,,,en,1.8
 Over 140mm,Over 140mm,QUANTITY,,,en,1.8
 Aegean,Aegean,NORP,-0.00588235294117647,0.034313725490196095,en,1.8
-Apocalypse,Apocalypse,WORK_OF_ART,,,en,1.8
-Weather today,Weather today,WORK_OF_ART,,,en,1.8
-Deadly,Deadly,PRODUCT,,,en,1.8
 30 to 60 days,30 to 60 days,DATE,,,en,1.8
-The last Sunday,The last Sunday,DATE,,,en,1.8
+Apocalypse,Apocalypse,WORK_OF_ART,,,en,1.8
+31/1/26,31/1/26,CARDINAL,,,en,1.8
 4/6/2026,4/6/2026,CARDINAL,,,en,1.8
+The last Sunday,The last Sunday,DATE,,,en,1.8
+the last decades,the last decades,DATE,,,en,1.8
+Weather today,Weather today,WORK_OF_ART,,,en,1.8
 "1,500","1,500",CARDINAL,,,en,1.8
+Deadly,Deadly,PRODUCT,,,en,1.8
 Halloween Sunday,Halloween Sunday,DATE,,,en,1.8
-Red Code,Red Code,WORK_OF_ART,,,en,1.8
-tomorrow Sunday,tomorrow Sunday,DATE,,,en,1.7
-26 kilometers,26 kilometers,QUANTITY,,,en,1.7
-tens of thousands,tens of thousands,CARDINAL,,,en,1.7
-22,22,CARDINAL,,,en,1.7
+5.3 Richter,5.3 Richter,MONEY,,,en,1.7
+Iranians,Iranians,NORP,,,en,1.7
+Erminio,Erminio,WORK_OF_ART,,,en,1.7
+Thessaloniki - Snowfall,Thessaloniki - Snowfall,EVENT,,,en,1.7
+today Sunday,today Sunday,DATE,,,en,1.7
+Several hours,Several hours,TIME,,,en,1.7
+almost half,almost half,CARDINAL,,,en,1.7
 At least 22,At least 22,CARDINAL,,,en,1.7
+Evia |,Evia |,PRODUCT,,,en,1.7
+at least 25,at least 25,CARDINAL,,,en,1.7
+one day,one day,DATE,,,en,1.7
+Kalamata-Sparti highway,Kalamata-Sparti highway,FAC,,,en,1.7
+28,28,CARDINAL,,,en,1.7
+9 kilometers,9 kilometers,QUANTITY,,,en,1.7
+29 degrees,29 degrees,QUANTITY,,,en,1.7
+"July 23, 2018","July 23, 2018",DATE,,,en,1.7
+82 mm,82 mm,QUANTITY,,,en,1.7
+the early hours of the morning,the early hours of the morning,TIME,,,en,1.7
+Theodoriana Arta,Theodoriana Arta,FAC,,,en,1.7
+ELAS,ELAS,WORK_OF_ART,,,en,1.7
+350,350,CARDINAL,,,en,1.7
+30 degrees,30 degrees,QUANTITY,,,en,1.7
+Tselentis,Tselentis,NORP,,,en,1.7
+June,June,DATE,,,en,1.7
+22,22,CARDINAL,,,en,1.7
 Estia,Estia,WORK_OF_ART,,,en,1.7
 recent decades,recent decades,DATE,,,en,1.7
-29 degrees,29 degrees,QUANTITY,,,en,1.7
-9 kilometers,9 kilometers,QUANTITY,,,en,1.7
-February 2019,February 2019,DATE,,,en,1.7
-Weather |,Weather |,EVENT,,,en,1.7
-Iranians,Iranians,NORP,,,en,1.7
-20 km,20 km,QUANTITY,,,en,1.7
-Thessaloniki - Snowfall,Thessaloniki - Snowfall,EVENT,,,en,1.7
-"July 23, 2018","July 23, 2018",DATE,,,en,1.7
-North Evia,North Evia,FAC,0.1911764705882353,0.4607843137254902,en,1.7
-Winter,Winter,DATE,,,en,1.7
-at least 25,at least 25,CARDINAL,,,en,1.7
-Kalamata-Sparti highway,Kalamata-Sparti highway,FAC,,,en,1.7
-"200,000","200,000",CARDINAL,,,en,1.7
 2024,2024,DATE,,,en,1.7
-today Sunday,today Sunday,DATE,,,en,1.7
+82,82,CARDINAL,,,en,1.7
 Weather | Bad,Weather | Bad,EVENT,,,en,1.7
-30 degrees,30 degrees,QUANTITY,,,en,1.7
-Six,Six,CARDINAL,,,en,1.7
+Weather |,Weather |,EVENT,,,en,1.7
+20 km,20 km,QUANTITY,,,en,1.7
+tomorrow Sunday,tomorrow Sunday,DATE,,,en,1.7
+911,911,CARDINAL,,,en,1.7
+English,English,LANGUAGE,,,en,1.7
+"200,000","200,000",CARDINAL,,,en,1.7
+Western,Western,NORP,,,en,1.7
+Tsunami,Tsunami,WORK_OF_ART,,,en,1.7
+February 2019,February 2019,DATE,,,en,1.7
+nine,nine,CARDINAL,,,en,1.7
+11 km,11 km,QUANTITY,,,en,1.7
+Winter,Winter,DATE,,,en,1.7
+tens of thousands,tens of thousands,CARDINAL,,,en,1.7
+26 kilometers,26 kilometers,QUANTITY,,,en,1.7
+War,War,WORK_OF_ART,,,en,1.7
 "6,000","6,000",CARDINAL,,,en,1.7
 this afternoon,this afternoon,TIME,,,en,1.7
-the World Cup,the World Cup,EVENT,,,en,1.7
-350,350,CARDINAL,,,en,1.7
-82 mm,82 mm,QUANTITY,,,en,1.7
-Western,Western,NORP,,,en,1.7
-War,War,WORK_OF_ART,,,en,1.7
-Tselentis,Tselentis,NORP,,,en,1.7
-one day,one day,DATE,,,en,1.7
-28,28,CARDINAL,,,en,1.7
-Theodoriana Arta,Theodoriana Arta,FAC,,,en,1.7
-almost half,almost half,CARDINAL,,,en,1.7
-nine,nine,CARDINAL,,,en,1.7
-the early hours of the morning,the early hours of the morning,TIME,,,en,1.7
-5.3 Richter,5.3 Richter,MONEY,,,en,1.7
-Erminio,Erminio,WORK_OF_ART,,,en,1.7
-11 km,11 km,QUANTITY,,,en,1.7
-82,82,CARDINAL,,,en,1.7
-Tsunami,Tsunami,WORK_OF_ART,,,en,1.7
 hundreds,hundreds,CARDINAL,,,en,1.6
-the last 135 years,the last 135 years,DATE,,,en,1.3
 60 and 57,60 and 57,DATE,,,en,1.3
+the last 135 years,the last 135 years,DATE,,,en,1.3
+late evening,late evening,TIME,,,en,1.3
 Almost 1 billion,Almost 1 billion,CARDINAL,,,en,1.3
 442,442,CARDINAL,,,en,1.3
-late evening,late evening,TIME,,,en,1.3
 another 2 months,another 2 months,DATE,,,en,1.1
 At least 23,At least 23,CARDINAL,,,en,1.1
-the last decades,the last decades,DATE,,,en,1.1
-Sunny Easter,Sunny Easter,WORK_OF_ART,,,en,1.0
-early April,early April,DATE,,,en,1.0
-Several hours,Several hours,TIME,,,en,1.0
-Patagonian,Patagonian,NORP,,,en,1.0
-onwards,onwards,TIME,,,en,1.0
-approximately 20:34 tonight,approximately 20:34 tonight,TIME,,,en,1.0
-M. Tuesday,M. Tuesday,EVENT,,,en,1.0
-January,January,DATE,,,en,1.0
-Patra - NAFTEMPORIKI,Patra - NAFTEMPORIKI,WORK_OF_ART,,,en,1.0
-21.8 km,21.8 km,QUANTITY,,,en,1.0
-"1,000 years","1,000 years",DATE,,,en,1.0
-10/04,10/04,CARDINAL,,,en,1.0
-last Saturday,last Saturday,DATE,,,en,1.0
-August,August,DATE,,,en,1.0
-more than 40%,more than 40%,PERCENT,,,en,1.0
-Earlier this morning,Earlier this morning,TIME,,,en,1.0
-| Molotov | World,| Molotov | World,WORK_OF_ART,,,en,1.0
-Sabic,Sabic,NORP,,,en,1.0
-04.07,04.07,CARDINAL,,,en,1.0
-Buongiorno,Buongiorno,WORK_OF_ART,,,en,1.0
-| Weather |,| Weather |,WORK_OF_ART,,,en,1.0
-303,303,CARDINAL,,,en,1.0
-Oil Storm –,Oil Storm –,WORK_OF_ART,,,en,1.0
-more than 50%,more than 50%,PERCENT,,,en,1.0
-Android Ultra,Android Ultra,PRODUCT,,,en,1.0
-"Today, Easter Sunday","Today, Easter Sunday",DATE,,,en,1.0
-190 meters,190 meters,QUANTITY,,,en,1.0
-2 km,2 km,QUANTITY,,,en,1.0
-"About 1,500","About 1,500",CARDINAL,,,en,1.0
-"1,150","1,150",CARDINAL,,,en,1.0
-12.9 km,12.9 km,QUANTITY,,,en,1.0
-eight-year-old,eight-year-old,DATE,,,en,1.0
-five-year,five-year,DATE,,,en,1.0
-5 Years,5 Years,DATE,,,en,1.0
-up to 5 years - ...,up to 5 years - ...,DATE,,,en,1.0
-up to five years,up to five years,DATE,,,en,1.0
-| Earthquake | Laconia | Greece,| Earthquake | Laconia | Greece,EVENT,,,en,1.0
-the last days,the last days,DATE,,,en,1.0
-"over 3,400 meters","over 3,400 meters",QUANTITY,,,en,1.0
-December 13,December 13,DATE,,,en,1.0
-10:48,10:48,TIME,,,en,1.0
-about one,about one,CARDINAL,,,en,1.0
-Nine,Nine,CARDINAL,,,en,1.0
-4 km,4 km,QUANTITY,,,en,1.0
-05:26 (Sunday,05:26 (Sunday,DATE,,,en,1.0
-Magyar -,Magyar -,NORP,,,en,1.0
-Hungarian,Hungarian,NORP,,,en,1.0
-centuries,centuries,DATE,,,en,1.0
-two kilometers,two kilometers,QUANTITY,,,en,1.0
-Platform X,Platform X,FAC,,,en,1.0
-"today, Maundy Thursday","today, Maundy Thursday",DATE,,,en,1.0
-2.35 pm,2.35 pm,TIME,,,en,1.0
-Five-Year,Five-Year,DATE,,,en,1.0
-the 440 kg,the 440 kg,QUANTITY,,,en,1.0
-five years,five years,DATE,,,en,1.0
-at least 18,at least 18,CARDINAL,,,en,1.0
-8:59 a.m.,8:59 a.m.,TIME,,,en,1.0
-around 11:00 p.m.,around 11:00 p.m.,TIME,,,en,1.0
-cyclone - Thousands,cyclone - Thousands,CARDINAL,,,en,1.0
-130km/h,130km/h,QUANTITY,,,en,1.0
-04:58,04:58,TIME,,,en,1.0
-the remaining days,the remaining days,DATE,,,en,1.0
-5 years,5 years,DATE,,,en,1.0
-Holy Saturday - With,Holy Saturday - With,EVENT,,,en,1.0
-Easter Monday,Easter Monday,DATE,,,en,1.0
-the beginning of spring,the beginning of spring,DATE,,,en,1.0
-5 degrees,5 degrees,QUANTITY,,,en,1.0
-thousands of meters,thousands of meters,QUANTITY,,,en,1.0
-12.3 kilometers,12.3 kilometers,QUANTITY,,,en,1.0
-Iran - Fire,Iran - Fire,FAC,,,en,1.0
-the following day,the following day,DATE,,,en,1.0
-LNG facilities,LNG facilities,FAC,,,en,1.0
-6:01 a.m.,6:01 a.m.,TIME,,,en,1.0
-the International Airport,the International Airport,FAC,,,en,1.0
-the Kuwait International Airport,the Kuwait International Airport,FAC,,,en,1.0
-Regular Congress,Regular Congress,EVENT,,,en,1.0
+early afternoon,early afternoon,TIME,,,en,1.0
 the second day,the second day,DATE,,,en,1.0
-"Saturday, March 28","Saturday, March 28",DATE,,,en,1.0
-Baltic,Baltic,NORP,,,en,1.0
-Mauritanian,Mauritanian,NORP,,,en,1.0
+| Landslide |,| Landslide |,DATE,,,en,1.0
+150 meters,150 meters,QUANTITY,,,en,1.0
+"Late in the afternoon of Sunday, April 19","Late in the afternoon of Sunday, April 19",TIME,,,en,1.0
+the last hours,the last hours,TIME,,,en,1.0
+8.6 km,8.6 km,QUANTITY,,,en,1.0
+"At least 1,000","At least 1,000",CARDINAL,,,en,1.0
+Regular Congress,Regular Congress,EVENT,,,en,1.0
+"tomorrow, Friday, April 17","tomorrow, Friday, April 17",DATE,,,en,1.0
+Shanghai Fashion Week,Shanghai Fashion Week,EVENT,,,en,1.0
+Larisa |,Larisa |,LAW,,,en,1.0
+the USS Gerald R. Ford's,the USS Gerald R. Ford's,PRODUCT,,,en,1.0
+the 440 kg,the 440 kg,QUANTITY,,,en,1.0
+Five-Year,Five-Year,DATE,,,en,1.0
+5.6 kilometers,5.6 kilometers,QUANTITY,,,en,1.0
+Baghdad airport,Baghdad airport,FAC,,,en,1.0
+Holy Saturday,Holy Saturday,FAC,,,en,1.0
+Freezing,Freezing,WORK_OF_ART,,,en,1.0
+3m,3m,QUANTITY,,,en,1.0
+January,January,DATE,,,en,1.0
+8 m,8 m,QUANTITY,,,en,1.0
+Wheel of Fortune | Telegame | Car |,Wheel of Fortune | Telegame | Car |,PRODUCT,,,en,1.0
+"About 1,500","About 1,500",CARDINAL,,,en,1.0
+more than 50%,more than 50%,PERCENT,,,en,1.0
+Just twenty-four hours,Just twenty-four hours,TIME,,,en,1.0
+the International Airport,the International Airport,FAC,,,en,1.0
+2/4,2/4,CARDINAL,,,en,1.0
+the Kuwait International Airport,the Kuwait International Airport,FAC,,,en,1.0
+Oblast,Oblast,NORP,,,en,1.0
+"tomorrow, Saturday, April 18","tomorrow, Saturday, April 18",DATE,,,en,1.0
+Bad weather Deborah: Increased risk for,Bad weather Deborah: Increased risk for,WORK_OF_ART,,,en,1.0
+the Beogradska Arena,the Beogradska Arena,FAC,,,en,1.0
+Vysotsk,Vysotsk,NORP,,,en,1.0
+Weather today: Rain,Weather today: Rain,WORK_OF_ART,,,en,1.0
+12.3 kilometers,12.3 kilometers,QUANTITY,,,en,1.0
+the early hours of Saturday,the early hours of Saturday,TIME,,,en,1.0
+WRC,WRC,WORK_OF_ART,,,en,1.0
+March 8th,March 8th,DATE,,,en,1.0
+177 km,177 km,QUANTITY,,,en,1.0
+eastern,eastern,NORP,,,en,1.0
+up to 10,up to 10,CARDINAL,,,en,1.0
+Downpour,Downpour,FAC,,,en,1.0
 "Techblog.gr
 ","Techblog.gr
 ",PRODUCT,,,en,1.0
+25 miles,25 miles,QUANTITY,,,en,1.0
+at least one,at least one,CARDINAL,,,en,1.0
+"over 500,000","over 500,000",CARDINAL,,,en,1.0
+Halkidiki,Halkidiki,NORP,,,en,1.0
+The X-Files,The X-Files,WORK_OF_ART,,,en,1.0
+Heraklion - African,Heraklion - African,NORP,,,en,1.0
+5.22 pm,5.22 pm,TIME,,,en,1.0
 11 am,11 am,TIME,,,en,1.0
-the Presidential Palace,the Presidential Palace,FAC,,,en,1.0
-Bad weather Deborah: Increased risk for,Bad weather Deborah: Increased risk for,WORK_OF_ART,,,en,1.0
-402,402,CARDINAL,,,en,1.0
-"about 700,000 barrels","about 700,000 barrels",QUANTITY,,,en,1.0
-125%,125%,PERCENT,,,en,1.0
-| Landslide |,| Landslide |,DATE,,,en,1.0
-12 weeks,12 weeks,DATE,,,en,1.0
-Erminio | Halkidiki | Hail | Greece,Erminio | Halkidiki | Hail | Greece,PRODUCT,,,en,1.0
-Euro-Russian,Euro-Russian,NORP,,,en,1.0
-3.9 Richter | Earthquake,3.9 Richter | Earthquake,TIME,,,en,1.0
-Freezes,Freezes,WORK_OF_ART,,,en,1.0
-two-year,two-year,DATE,,,en,1.0
-AMD,AMD,PRODUCT,,,en,1.0
-up to 15%,up to 15%,PERCENT,,,en,1.0
-1 month,1 month,DATE,,,en,1.0
-the first half,the first half,DATE,,,en,1.0
-the Telekom Center,the Telekom Center,FAC,,,en,1.0
-Israelis,Israelis,NORP,,,en,1.0
-the early hours of Sunday morning,the early hours of Sunday morning,TIME,,,en,1.0
-Precipitation | Thunderstorms | Greece,Precipitation | Thunderstorms | Greece,EVENT,,,en,1.0
-The Invisible Shock of Plastics:,The Invisible Shock of Plastics:,WORK_OF_ART,,,en,1.0
+78,78,CARDINAL,,,en,1.0
+one and 6 months,one and 6 months,DATE,,,en,1.0
+the following day,the following day,DATE,,,en,1.0
+"Saturday, March 28","Saturday, March 28",DATE,,,en,1.0
+approximately 65 km,approximately 65 km,QUANTITY,,,en,1.0
 12.5 kilometers,12.5 kilometers,QUANTITY,,,en,1.0
-the USS Gerald R. Ford's,the USS Gerald R. Ford's,PRODUCT,,,en,1.0
-Fuel Pass,Fuel Pass,PRODUCT,,,en,1.0
-about 1.55 degrees Celsius,about 1.55 degrees Celsius,QUANTITY,,,en,1.0
-Tomorrow morning,Tomorrow morning,TIME,,,en,1.0
-10 am,10 am,TIME,,,en,1.0
-Liosion | Fire |,Liosion | Fire |,PRODUCT,,,en,1.0
-26 cm,26 cm,QUANTITY,,,en,1.0
-30 cm,30 cm,QUANTITY,,,en,1.0
-| Auction,| Auction,TIME,,,en,1.0
-2015-2025,2015-2025,DATE,,,en,1.0
-Millions,Millions,CARDINAL,,,en,1.0
-Up to 50mm,Up to 50mm,QUANTITY,,,en,1.0
-"5,500","5,500",CARDINAL,,,en,1.0
-St. James' Park,St. James' Park,FAC,,,en,1.0
-Turkey: Video,Turkey: Video,WORK_OF_ART,,,en,1.0
-Georgian,Georgian,NORP,,,en,1.0
-Cold,Cold,WORK_OF_ART,,,en,1.0
-Heraklion | Parade,Heraklion | Parade,EVENT,,,en,1.0
-about fifteen minutes,about fifteen minutes,TIME,,,en,1.0
-Just twenty-four hours,Just twenty-four hours,TIME,,,en,1.0
-the afternoon of March 25,the afternoon of March 25,TIME,,,en,1.0
-Wheel of Fortune | Telegame | Car |,Wheel of Fortune | Telegame | Car |,PRODUCT,,,en,1.0
-about 5%,about 5%,PERCENT,,,en,1.0
-27/3/2026,27/3/2026,DATE,,,en,1.0
-"Wednesday, April 1 and Thursday, April 2","Wednesday, April 1 and Thursday, April 2",DATE,,,en,1.0
-"March 15, 2026","March 15, 2026",DATE,,,en,1.0
-the middle of the week,the middle of the week,DATE,,,en,1.0
-Bulgarian,Bulgarian,NORP,,,en,1.0
-March 25,March 25,DATE,,,en,1.0
-our national holiday,our national holiday,DATE,,,en,1.0
-the old days,the old days,DATE,,,en,1.0
-21.08 in the evening,21.08 in the evening,TIME,,,en,1.0
-Kary | Earthquake,Kary | Earthquake,FAC,,,en,1.0
-8 kilometers,8 kilometers,QUANTITY,,,en,1.0
-Volos,Volos,NORP,-0.0392156862745098,0.0784313725490196,en,1.0
-the very next hours,the very next hours,TIME,,,en,1.0
-the Easter PM,the Easter PM,FAC,,,en,1.0
-Pederacies,Pederacies,WORK_OF_ART,,,en,1.0
-Oblast,Oblast,NORP,,,en,1.0
-October 1991,October 1991,DATE,,,en,1.0
-6th,6th,ORDINAL,,,en,1.0
-New Democracy,New Democracy,EVENT,,,en,1.0
-the Holy Week,the Holy Week,DATE,,,en,1.0
-Holy Saturday,Holy Saturday,FAC,,,en,1.0
-Freezing,Freezing,WORK_OF_ART,,,en,1.0
-early afternoon,early afternoon,TIME,,,en,1.0
-eleven,eleven,CARDINAL,,,en,1.0
+7.6,7.6,CARDINAL,,,en,1.0
+"more than 9,000","more than 9,000",CARDINAL,,,en,1.0
 | PPC,| PPC,DATE,,,en,1.0
+"at least 1,000","at least 1,000",CARDINAL,,,en,1.0
 20%,20%,PERCENT,,,en,1.0
-WRC,WRC,WORK_OF_ART,,,en,1.0
-1989-91,1989-91,DATE,,,en,1.0
-March 8th,March 8th,DATE,,,en,1.0
-177 km,177 km,QUANTITY,,,en,1.0
-over twenty meters,over twenty meters,QUANTITY,,,en,1.0
-7:20 am,7:20 am,TIME,,,en,1.0
-up to 2 years,up to 2 years,DATE,,,en,1.0
+224,224,CARDINAL,,,en,1.0
+21 km,21 km,QUANTITY,,,en,1.0
+April 18,April 18,DATE,,,en,1.0
+8 months,8 months,DATE,,,en,1.0
+56,56,CARDINAL,,,en,1.0
+about 120 km,about 120 km,QUANTITY,,,en,1.0
+Turkish Cypriot,Turkish Cypriot,NORP,,,en,1.0
+5 am,5 am,TIME,,,en,1.0
+Mauritanian,Mauritanian,NORP,,,en,1.0
+the Presidential Palace,the Presidential Palace,FAC,,,en,1.0
+"today, Saturday","today, Saturday",DATE,,,en,1.0
+Fuel Pass,Fuel Pass,PRODUCT,,,en,1.0
+125%,125%,PERCENT,,,en,1.0
+five years,five years,DATE,,,en,1.0
+two-year,two-year,DATE,,,en,1.0
+Euro-Russian,Euro-Russian,NORP,,,en,1.0
 M. Week - Uncertainty,M. Week - Uncertainty,FAC,,,en,1.0
-about 20 years old,about 20 years old,DATE,,,en,1.0
-4/6,4/6,CARDINAL,,,en,1.0
-Scandinavian,Scandinavian,NORP,,,en,1.0
-Maundy Thursday,Maundy Thursday,DATE,,,en,1.0
-Holy Wednesday,Holy Wednesday,FAC,,,en,1.0
-Attica:,Attica:,WORK_OF_ART,,,en,1.0
+2.35 pm,2.35 pm,TIME,,,en,1.0
+two kilometers,two kilometers,QUANTITY,,,en,1.0
+| Earthquake | Laconia | Greece,| Earthquake | Laconia | Greece,EVENT,,,en,1.0
+Nine,Nine,CARDINAL,,,en,1.0
+3.9 Richter | Earthquake,3.9 Richter | Earthquake,TIME,,,en,1.0
+"1,000 years","1,000 years",DATE,,,en,1.0
+centuries,centuries,DATE,,,en,1.0
 | Turkey | Sports,| Turkey | Sports,WORK_OF_ART,,,en,1.0
-6 km,6 km,QUANTITY,,,en,1.0
+Freezes,Freezes,WORK_OF_ART,,,en,1.0
 Cheskaris,Cheskaris,NORP,,,en,1.0
+Erminio - Tsatraphyllias,Erminio - Tsatraphyllias,PRODUCT,,,en,1.0
+the beginning of spring,the beginning of spring,DATE,,,en,1.0
+AMD,AMD,PRODUCT,,,en,1.0
+12 weeks,12 weeks,DATE,,,en,1.0
+4 km,4 km,QUANTITY,,,en,1.0
 overnight,overnight,TIME,,,en,1.0
 five-month,five-month,DATE,,,en,1.0
 5 months,5 months,DATE,,,en,1.0
 five months,five months,DATE,,,en,1.0
+about one,about one,CARDINAL,,,en,1.0
 13 cm,13 cm,QUANTITY,,,en,1.0
-Halkidiki,Halkidiki,NORP,,,en,1.0
-5.22 pm,5.22 pm,TIME,,,en,1.0
-Shanghai Fashion Week,Shanghai Fashion Week,EVENT,,,en,1.0
-Erminio - Storms,Erminio - Storms,NORP,,,en,1.0
-200 mm,200 mm,QUANTITY,,,en,1.0
-up to 10,up to 10,CARDINAL,,,en,1.0
-New EMY,New EMY,LAW,,,en,1.0
-Crete | Bad,Crete | Bad,EVENT,,,en,1.0
-Ierapetra,Ierapetra,NORP,,,en,1.0
-the early hours of the day,the early hours of the day,TIME,,,en,1.0
-this season,this season,DATE,,,en,1.0
-The X-Files,The X-Files,WORK_OF_ART,,,en,1.0
-More than 50 million euros,More than 50 million euros,MONEY,,,en,1.0
-Erminio - Tsatraphyllias,Erminio - Tsatraphyllias,PRODUCT,,,en,1.0
-a few hours 3 months,a few hours 3 months,TIME,,,en,1.0
-the Moon - The …,the Moon - The …,FAC,,,en,1.0
-Artemis,Artemis,FAC,,,en,1.0
+the last days,the last days,DATE,,,en,1.0
+up to 15%,up to 15%,PERCENT,,,en,1.0
+6 km,6 km,QUANTITY,,,en,1.0
+5 degrees,5 degrees,QUANTITY,,,en,1.0
+Erminio | Halkidiki | Hail | Greece,Erminio | Halkidiki | Hail | Greece,PRODUCT,,,en,1.0
+Easter Monday,Easter Monday,DATE,,,en,1.0
+4/6,4/6,CARDINAL,,,en,1.0
+at least 18,at least 18,CARDINAL,,,en,1.0
+Earlier this morning,Earlier this morning,TIME,,,en,1.0
 | Overdue,| Overdue,DATE,,,en,1.0
-approximately 65 km,approximately 65 km,QUANTITY,,,en,1.0
-late afternoon,late afternoon,TIME,,,en,1.0
-about 120 km,about 120 km,QUANTITY,,,en,1.0
-at least one,at least one,CARDINAL,,,en,1.0
-7.6,7.6,CARDINAL,,,en,1.0
-Heraklion - African,Heraklion - African,NORP,,,en,1.0
-Downpour,Downpour,FAC,,,en,1.0
-eastern,eastern,NORP,,,en,1.0
-Turkish Cypriot,Turkish Cypriot,NORP,,,en,1.0
-2/4,2/4,CARDINAL,,,en,1.0
-8 m,8 m,QUANTITY,,,en,1.0
+Sabic,Sabic,NORP,,,en,1.0
+04.07,04.07,CARDINAL,,,en,1.0
+up to 2 years,up to 2 years,DATE,,,en,1.0
+Buongiorno,Buongiorno,WORK_OF_ART,,,en,1.0
+last Saturday,last Saturday,DATE,,,en,1.0
+Pederacies,Pederacies,WORK_OF_ART,,,en,1.0
+about 20 years old,about 20 years old,DATE,,,en,1.0
+Oil Storm –,Oil Storm –,WORK_OF_ART,,,en,1.0
+the Easter PM,the Easter PM,FAC,,,en,1.0
+Artemis,Artemis,FAC,,,en,1.0
+a few hours 3 months,a few hours 3 months,TIME,,,en,1.0
+2 km,2 km,QUANTITY,,,en,1.0
+21.8 km,21.8 km,QUANTITY,,,en,1.0
+Scandinavian,Scandinavian,NORP,,,en,1.0
+Maundy Thursday,Maundy Thursday,DATE,,,en,1.0
+approximately 20:34 tonight,approximately 20:34 tonight,TIME,,,en,1.0
+M. Tuesday,M. Tuesday,EVENT,,,en,1.0
+Patra - NAFTEMPORIKI,Patra - NAFTEMPORIKI,WORK_OF_ART,,,en,1.0
+eight-year-old,eight-year-old,DATE,,,en,1.0
+the Moon - The …,the Moon - The …,FAC,,,en,1.0
+Holy Wednesday,Holy Wednesday,FAC,,,en,1.0
+the very next hours,the very next hours,TIME,,,en,1.0
+04:58,04:58,TIME,,,en,1.0
+7:20 am,7:20 am,TIME,,,en,1.0
+Holy Saturday - With,Holy Saturday - With,EVENT,,,en,1.0
+12.9 km,12.9 km,QUANTITY,,,en,1.0
+thousands of meters,thousands of meters,QUANTITY,,,en,1.0
+The Invisible Shock of Plastics:,The Invisible Shock of Plastics:,WORK_OF_ART,,,en,1.0
+130km/h,130km/h,QUANTITY,,,en,1.0
+Platform X,Platform X,FAC,,,en,1.0
+New Democracy,New Democracy,EVENT,,,en,1.0
+Crete | Bad,Crete | Bad,EVENT,,,en,1.0
+1 month,1 month,DATE,,,en,1.0
+10:48,10:48,TIME,,,en,1.0
+05:26 (Sunday,05:26 (Sunday,DATE,,,en,1.0
+Magyar -,Magyar -,NORP,,,en,1.0
+Iran - Fire,Iran - Fire,FAC,,,en,1.0
+Hungarian,Hungarian,NORP,,,en,1.0
+Baltic,Baltic,NORP,,,en,1.0
+"about 700,000 barrels","about 700,000 barrels",QUANTITY,,,en,1.0
+around 11:00 p.m.,around 11:00 p.m.,TIME,,,en,1.0
+New EMY,New EMY,LAW,,,en,1.0
+LNG facilities,LNG facilities,FAC,,,en,1.0
+December 13,December 13,DATE,,,en,1.0
+"over 3,400 meters","over 3,400 meters",QUANTITY,,,en,1.0
+up to five years,up to five years,DATE,,,en,1.0
+up to 5 years - ...,up to 5 years - ...,DATE,,,en,1.0
+5 Years,5 Years,DATE,,,en,1.0
+five-year,five-year,DATE,,,en,1.0
+6:01 a.m.,6:01 a.m.,TIME,,,en,1.0
+the Holy Week,the Holy Week,DATE,,,en,1.0
+5 years,5 years,DATE,,,en,1.0
+8:59 a.m.,8:59 a.m.,TIME,,,en,1.0
+cyclone - Thousands,cyclone - Thousands,CARDINAL,,,en,1.0
+Ierapetra,Ierapetra,NORP,,,en,1.0
+the first half,the first half,DATE,,,en,1.0
+10/04,10/04,CARDINAL,,,en,1.0
+the remaining days,the remaining days,DATE,,,en,1.0
+the Telekom Center,the Telekom Center,FAC,,,en,1.0
+More than 50 million euros,More than 50 million euros,MONEY,,,en,1.0
+"today, Maundy Thursday","today, Maundy Thursday",DATE,,,en,1.0
+onwards,onwards,TIME,,,en,1.0
+this season,this season,DATE,,,en,1.0
+Patagonian,Patagonian,NORP,,,en,1.0
+Israelis,Israelis,NORP,,,en,1.0
+early April,early April,DATE,,,en,1.0
+the early hours of Sunday morning,the early hours of Sunday morning,TIME,,,en,1.0
+eleven,eleven,CARDINAL,,,en,1.0
+Sunny Easter,Sunny Easter,WORK_OF_ART,,,en,1.0
+Erminio - Storms,Erminio - Storms,NORP,,,en,1.0
+"Today, Easter Sunday","Today, Easter Sunday",DATE,,,en,1.0
+190 meters,190 meters,QUANTITY,,,en,1.0
+over twenty meters,over twenty meters,QUANTITY,,,en,1.0
+October 1991,October 1991,DATE,,,en,1.0
+Android Ultra,Android Ultra,PRODUCT,,,en,1.0
+more than 40%,more than 40%,PERCENT,,,en,1.0
+August,August,DATE,,,en,1.0
+6th,6th,ORDINAL,,,en,1.0
+| Molotov | World,| Molotov | World,WORK_OF_ART,,,en,1.0
+the early hours of the day,the early hours of the day,TIME,,,en,1.0
+Precipitation | Thunderstorms | Greece,Precipitation | Thunderstorms | Greece,EVENT,,,en,1.0
+303,303,CARDINAL,,,en,1.0
+"1,150","1,150",CARDINAL,,,en,1.0
 Italy | Bad,Italy | Bad,EVENT,,,en,1.0
-Baghdad airport,Baghdad airport,FAC,,,en,1.0
-Serbian,Serbian,NORP,,,en,1.0
-the Beogradska Arena,the Beogradska Arena,FAC,,,en,1.0
-8 months,8 months,DATE,,,en,1.0
-one and 6 months,one and 6 months,DATE,,,en,1.0
-Larisa |,Larisa |,LAW,,,en,1.0
-April 2026,April 2026,DATE,,,en,1.0
-"tomorrow, Friday, April 17","tomorrow, Friday, April 17",DATE,,,en,1.0
-5pm on the same day,5pm on the same day,TIME,,,en,1.0
-599,599,MONEY,,,en,1.0
-the Xbox Series S,the Xbox Series S,EVENT,,,en,1.0
-"May 23, 2026","May 23, 2026",DATE,,,en,1.0
-10-15 degrees,10-15 degrees,QUANTITY,,,en,1.0
-38 degrees,38 degrees,QUANTITY,,,en,1.0
-9.1 kilometers,9.1 kilometers,QUANTITY,,,en,1.0
-the German Cup,the German Cup,EVENT,,,en,1.0
-Bayern Munich,Bayern Munich,FAC,,,en,1.0
-Olympic Stadium,Olympic Stadium,FAC,,,en,1.0
-tonight Tonight,tonight Tonight,TIME,,,en,1.0
-German Cup,German Cup,EVENT,,,en,1.0
-of the Cup,of the Cup,WORK_OF_ART,,,en,1.0
-11:00 a.m. to 5:00 p.m.,11:00 a.m. to 5:00 p.m.,TIME,,,en,1.0
-Ukraine | War,Ukraine | War,EVENT,,,en,1.0
-IAEA,IAEA,NORP,,,en,1.0
-549,549,MONEY,,,en,1.0
+March 1965,March 1965,DATE,,,en,1.0
+Four months,Four months,DATE,,,en,1.0
+Richter | Earthquake,Richter | Earthquake,FAC,,,en,1.0
+EMY | Weather | Heat,EMY | Weather | Heat,WORK_OF_ART,,,en,1.0
+3/6/2026,3/6/2026,CARDINAL,,,en,1.0
+1900,1900,DATE,,,en,1.0
+127km/h,127km/h,QUANTITY,,,en,1.0
+Kilauea Volcano Erupts,Kilauea Volcano Erupts,FAC,,,en,1.0
+around 17:00,around 17:00,TIME,,,en,1.0
+10 km | Earthquake,10 km | Earthquake,TIME,,,en,1.0
+3.5 Richter,3.5 Richter,QUANTITY,,,en,1.0
+Over 800,Over 800,CARDINAL,,,en,1.0
+India | Sandstorm | World,India | Sandstorm | World,EVENT,,,en,1.0
+200 meters,200 meters,QUANTITY,,,en,1.0
+less than a year,less than a year,DATE,,,en,1.0
+Roma,Roma,NORP,,,en,1.0
+May 30,May 30,DATE,,,en,1.0
+"tomorrow, Saturday","tomorrow, Saturday",DATE,,,en,1.0
+July 2018,July 2018,DATE,,,en,1.0
+104,104,CARDINAL,,,en,1.0
+| Summer,| Summer,DATE,,,en,1.0
+Friday |,Friday |,DATE,,,en,1.0
+2/6/2026,2/6/2026,CARDINAL,,,en,1.0
+the Zografou Cemetery,the Zografou Cemetery,FAC,,,en,1.0
+Papazachos,Papazachos,WORK_OF_ART,,,en,1.0
+35,35,CARDINAL,,,en,1.0
+6-8/06,6-8/06,DATE,,,en,1.0
+Typhoon Jangmi,Typhoon Jangmi,EVENT,0.2,0.5583333333333333,en,1.0
+late May to early June 2026,late May to early June 2026,DATE,,,en,1.0
+The hour,The hour,TIME,,,en,1.0
+Thursday night,Thursday night,TIME,,,en,1.0
+Ioannina |,Ioannina |,EVENT,,,en,1.0
+Areopagits,Areopagits,NORP,,,en,1.0
+October,October,DATE,,,en,1.0
+4.6.26,4.6.26,CARDINAL,,,en,1.0
+"Today, Thursday","Today, Thursday",DATE,,,en,1.0
+Katseli,Katseli,NORP,-0.053763440860215055,0.10752688172043011,en,1.0
+Twelve,Twelve,CARDINAL,,,en,1.0
+monthly,monthly,DATE,,,en,1.0
+approximately 350 thousand,approximately 350 thousand,CARDINAL,,,en,1.0
+"May 29, 2026","May 29, 2026",DATE,,,en,1.0
+| Eye | Tragedy,| Eye | Tragedy,WORK_OF_ART,,,en,1.0
+Mexico: Video,Mexico: Video,WORK_OF_ART,,,en,1.0
 349,349,MONEY,,,en,1.0
-| National Observatory,| National Observatory,FAC,,,en,1.0
-five days,five days,DATE,,,en,1.0
-the Holy Spirit,the Holy Spirit,WORK_OF_ART,,,en,1.0
-| Fire | Factory,| Fire | Factory,MONEY,,,en,1.0
-Rare,Rare,WORK_OF_ART,,,en,1.0
-the spring of 2024,the spring of 2024,DATE,,,en,1.0
-| Earthquake | Ilia,| Earthquake | Ilia,DATE,,,en,1.0
-Ephyra Ilia,Ephyra Ilia,FAC,,,en,1.0
-Seven,Seven,CARDINAL,,,en,1.0
-Sixty to seventy millimeters,Sixty to seventy millimeters,QUANTITY,,,en,1.0
 10 degrees Celsius,10 degrees Celsius,QUANTITY,,,en,1.0
-Vonitsa,Vonitsa,WORK_OF_ART,,,en,1.0
 the summer,the summer,DATE,,,en,1.0
 2004,2004,DATE,,,en,1.0
 ​​800 square meters,​​800 square meters,QUANTITY,,,en,1.0
 1st,1st,ORDINAL,,,en,1.0
-79,79,CARDINAL,,,en,1.0
-winter |,winter |,DATE,,,en,1.0
-the last hours,the last hours,TIME,,,en,1.0
-Loutra Afroditis-Fontana Amorosa,Loutra Afroditis-Fontana Amorosa,PRODUCT,,,en,1.0
+Sixty to seventy millimeters,Sixty to seventy millimeters,QUANTITY,,,en,1.0
+| National Observatory,| National Observatory,FAC,,,en,1.0
+549,549,MONEY,,,en,1.0
+five days,five days,DATE,,,en,1.0
+599,599,MONEY,,,en,1.0
+the Xbox Series S,the Xbox Series S,EVENT,,,en,1.0
+20:37,20:37,TIME,,,en,1.0
+10-15 degrees,10-15 degrees,QUANTITY,,,en,1.0
+38 degrees,38 degrees,QUANTITY,,,en,1.0
+9.1 kilometers,9.1 kilometers,QUANTITY,,,en,1.0
+12.7 kilometers,12.7 kilometers,QUANTITY,,,en,1.0
+Seven,Seven,CARDINAL,,,en,1.0
+Ephyra Ilia,Ephyra Ilia,FAC,,,en,1.0
+73,73,CARDINAL,,,en,1.0
+| Fire | Factory,| Fire | Factory,MONEY,,,en,1.0
+Tropaia,Tropaia,WORK_OF_ART,,,en,1.0
+Arcadia: Heavy hail,Arcadia: Heavy hail,WORK_OF_ART,,,en,1.0
+28/05/2026,28/05/2026,ORDINAL,,,en,1.0
+Palestinians,Palestinians,NORP,,,en,1.0
+| Economy,| Economy,WORK_OF_ART,,,en,1.0
+600%,600%,PERCENT,,,en,1.0
+the Holy Spirit,the Holy Spirit,WORK_OF_ART,,,en,1.0
+May day,May day,DATE,,,en,1.0
+| Earthquake | Ilia,| Earthquake | Ilia,DATE,,,en,1.0
+Chaos in X after Tsipras,Chaos in X after Tsipras,WORK_OF_ART,,,en,1.0
+Rare,Rare,WORK_OF_ART,,,en,1.0
+Heat Dome,Heat Dome,WORK_OF_ART,,,en,1.0
+"about 27,000","about 27,000",CARDINAL,,,en,1.0
+101.3 kilometers,101.3 kilometers,QUANTITY,,,en,1.0
+yesterday Monday,yesterday Monday,DATE,,,en,1.0
+about thirty kilometers,about thirty kilometers,QUANTITY,,,en,1.0
+several seconds,several seconds,TIME,,,en,1.0
+almost every summer,almost every summer,DATE,,,en,1.0
+Bayern Munich,Bayern Munich,FAC,,,en,1.0
+the Panhellenic Games,the Panhellenic Games,EVENT,,,en,1.0
+"Monday, June 15, 2026","Monday, June 15, 2026",DATE,,,en,1.0
+early Monday,early Monday,TIME,,,en,1.0
+2:20 p.m.,2:20 p.m.,TIME,,,en,1.0
+| Fire | Fire Department,| Fire | Fire Department,MONEY,,,en,1.0
+shortly after midnight,shortly after midnight,TIME,,,en,1.0
+at least 20,at least 20,CARDINAL,,,en,1.0
+about 10,about 10,CARDINAL,,,en,1.0
+a few minutes ago,a few minutes ago,TIME,,,en,1.0
+"Sunday, June 14, 2026","Sunday, June 14, 2026",DATE,,,en,1.0
+"Thursday, June 18 and Friday, June 19","Thursday, June 18 and Friday, June 19",DATE,,,en,1.0
+"today, Sunday, June 14, 2026","today, Sunday, June 14, 2026",DATE,,,en,1.0
+16th,16th,ORDINAL,,,en,1.0
+"Saturday, June 13, 2026","Saturday, June 13, 2026",DATE,,,en,1.0
+"Over 4,000","Over 4,000",CARDINAL,,,en,1.0
+the Panathinaikos hotel,the Panathinaikos hotel,FAC,,,en,1.0
+23,23,CARDINAL,,,en,1.0
+| Fire,| Fire,DATE,,,en,1.0
+Evzonon Street,Evzonon Street,FAC,,,en,1.0
+Monday afternoon,Monday afternoon,TIME,,,en,1.0
+Monday night,Monday night,TIME,,,en,1.0
+| Tropical Storm | Texas,| Tropical Storm | Texas,WORK_OF_ART,,,en,1.0
+"Saturday, June 20, 2026","Saturday, June 20, 2026",DATE,,,en,1.0
+Alarm,Alarm,PRODUCT,,,en,1.0
+"Friday, June 19, 2026","Friday, June 19, 2026",DATE,,,en,1.0
+the Archaeological Site of Ancient Messina,the Archaeological Site of Ancient Messina,FAC,,,en,1.0
+"Tuesday, June 16","Tuesday, June 16",DATE,,,en,1.0
+the Archaeological Site,the Archaeological Site,FAC,,,en,1.0
+the Port of Larnaca,the Port of Larnaca,FAC,,,en,1.0
+between 12 and 25 cm,between 12 and 25 cm,QUANTITY,,,en,1.0
+21:32,21:32,CARDINAL,,,en,1.0
+the Fire Stations,the Fire Stations,PRODUCT,,,en,1.0
+​​the Tseri ring road,​​the Tseri ring road,FAC,,,en,1.0
+​​the Tseri,​​the Tseri,FAC,,,en,1.0
+around 1:30 in the morning,around 1:30 in the morning,TIME,,,en,1.0
+Early morning,Early morning,TIME,,,en,1.0
+At least one,At least one,CARDINAL,,,en,1.0
+an entire year,an entire year,DATE,,,en,1.0
+25,25,CARDINAL,,,en,1.0
+Shakira,Shakira,EVENT,,,en,1.0
+16:00,16:00,TIME,,,en,1.0
+one-meter,one-meter,QUANTITY,,,en,1.0
+Earthquake 3.6,Earthquake 3.6,LAW,,,en,1.0
+"the evening of Monday, June 8, 2026","the evening of Monday, June 8, 2026",TIME,,,en,1.0
+five to 45 years,five to 45 years,DATE,,,en,1.0
+more than 200,more than 200,CARDINAL,,,en,1.0
+At least 32,At least 32,CARDINAL,,,en,1.0
+Stratos Avenue,Stratos Avenue,FAC,,,en,1.0
+at least five,at least five,CARDINAL,,,en,1.0
+up to 1.4 meters,up to 1.4 meters,QUANTITY,,,en,1.0
+"Monday, June 8, 2026","Monday, June 8, 2026",DATE,,,en,1.0
+Philippine,Philippine,NORP,,,en,1.0
+Lake Evia,Lake Evia,FAC,,,en,1.0
+Prokopio Evia -,Prokopio Evia -,FAC,,,en,1.0
+03:00 Greek time,03:00 Greek time,TIME,,,en,1.0
+"today, Sunday","today, Sunday",DATE,,,en,1.0
+7/6,7/6,CARDINAL,,,en,1.0
+"Sunday, June 7, 2026","Sunday, June 7, 2026",DATE,,,en,1.0
+Prokopio Evia,Prokopio Evia,FAC,,,en,1.0
+North Evia | Autopsies,North Evia | Autopsies,WORK_OF_ART,,,en,1.0
+"Friday, June 12, 2026","Friday, June 12, 2026",DATE,,,en,1.0
+up to 55 km/h,up to 55 km/h,QUANTITY,,,en,1.0
+today Friday,today Friday,DATE,,,en,1.0
+| Thunderstorm Warning |,| Thunderstorm Warning |,WORK_OF_ART,,,en,1.0
+| Evia,| Evia,FAC,,,en,1.0
+the new week,the new week,DATE,,,en,1.0
+73 kilometers,73 kilometers,QUANTITY,,,en,1.0
+32 degrees,32 degrees,QUANTITY,,,en,1.0
+| Weather of Tsatraphyllia,| Weather of Tsatraphyllia,WORK_OF_ART,,,en,1.0
+Hurricane Cristina,Hurricane Cristina,EVENT,,,en,1.0
+Instagram,Instagram,WORK_OF_ART,,,en,1.0
+June 8,June 8,DATE,,,en,1.0
+| Weather phenomena,| Weather phenomena,WORK_OF_ART,,,en,1.0
+"4,000 euros","4,000 euros",MONEY,,,en,1.0
+11:00 in the morning,11:00 in the morning,TIME,,,en,1.0
+Central American,Central American,NORP,,,en,1.0
+Tropical Storm Christina,Tropical Storm Christina,PRODUCT,,,en,1.0
+Albania: Chaos,Albania: Chaos,WORK_OF_ART,,,en,1.0
+the German Cup,the German Cup,EVENT,,,en,1.0
+Olympic Stadium,Olympic Stadium,FAC,,,en,1.0
+3 km,3 km,QUANTITY,,,en,1.0
+the day of May Day,the day of May Day,DATE,,,en,1.0
+only 4 kilometers,only 4 kilometers,QUANTITY,,,en,1.0
+Area 51,Area 51,FAC,,,en,1.0
+past 24 hours,past 24 hours,TIME,,,en,1.0
+At least 17,At least 17,CARDINAL,,,en,1.0
+June 2025,June 2025,DATE,,,en,1.0
+more than 10 consecutive months,more than 10 consecutive months,DATE,,,en,1.0
+30/4/2026,30/4/2026,CARDINAL,,,en,1.0
+the next few months,the next few months,DATE,,,en,1.0
+Fri,Fri,WORK_OF_ART,,,en,1.0
+thousands of years,thousands of years,DATE,,,en,1.0
+Weather Forecast |,Weather Forecast |,WORK_OF_ART,,,en,1.0
+spring,spring,DATE,,,en,1.0
+the afternoon of Tuesday,the afternoon of Tuesday,TIME,,,en,1.0
+More than 30,More than 30,CARDINAL,,,en,1.0
+At least seven,At least seven,CARDINAL,,,en,1.0
+April 16,April 16,DATE,,,en,1.0
+7 m,7 m,QUANTITY,,,en,1.0
+"winter today, Friday","winter today, Friday",DATE,,,en,1.0
+May 1,May 1,DATE,,,en,1.0
+a week,a week,DATE,,,en,1.0
+over 70%,over 70%,PERCENT,,,en,1.0
+03-05-2026,03-05-2026,DATE,,,en,1.0
+May 4,May 4,DATE,,,en,1.0
+"tomorrow, Monday","tomorrow, Monday",DATE,,,en,1.0
+Kampanaki,Kampanaki,WORK_OF_ART,,,en,1.0
+five minutes,five minutes,TIME,,,en,1.0
+Heraklion - Ships,Heraklion - Ships,EVENT,,,en,1.0
+the beginning of the week,the beginning of the week,DATE,,,en,1.0
+around 15 cents/kWh,around 15 cents/kWh,MONEY,,,en,1.0
+May Days,May Days,DATE,,,en,1.0
+Up to five centimeters,Up to five centimeters,QUANTITY,,,en,1.0
+40km,40km,QUANTITY,,,en,1.0
+about 53km,about 53km,QUANTITY,,,en,1.0
+97km,97km,QUANTITY,,,en,1.0
+May Day |,May Day |,DATE,,,en,1.0
+Attica | Weather | Rains |,Attica | Weather | Rains |,FAC,,,en,1.0
+the last 10 years,the last 10 years,DATE,,,en,1.0
+snow | Snowstorm,snow | Snowstorm,WORK_OF_ART,,,en,1.0
+several centimeters,several centimeters,QUANTITY,,,en,1.0
+5 pm,5 pm,TIME,,,en,1.0
+"Wednesday, tomorrow Thursday","Wednesday, tomorrow Thursday",DATE,,,en,1.0
+November 2025,November 2025,DATE,,,en,1.0
+a few hours - From,a few hours - From,TIME,,,en,1.0
+April 2026,April 2026,DATE,,,en,1.0
+the end of the winter season Cinema | Cinema | Cinema,the end of the winter season Cinema | Cinema | Cinema,DATE,,,en,1.0
+23/4/2026,23/4/2026,CARDINAL,,,en,1.0
+pro-Iranian,pro-Iranian,NORP,,,en,1.0
+last summer's,last summer's,DATE,,,en,1.0
+more than 40,more than 40,CARDINAL,,,en,1.0
+7 kilometers,7 kilometers,QUANTITY,,,en,1.0
+over 40,over 40,CARDINAL,,,en,1.0
+thousands of euros,thousands of euros,MONEY,,,en,1.0
+128,128,CARDINAL,,,en,1.0
+Thessaloniki-Kilkis,Thessaloniki-Kilkis,NORP,0.0,0.0,en,1.0
+the two or three days,the two or three days,DATE,,,en,1.0
+| Pelion,| Pelion,DATE,,,en,1.0
+"yesterday, April 20, 2026","yesterday, April 20, 2026",DATE,,,en,1.0
+November 4,November 4,DATE,,,en,1.0
+half-meter,half-meter,QUANTITY,,,en,1.0
+Just hours,Just hours,TIME,,,en,1.0
+Soccer Cup,Soccer Cup,EVENT,,,en,1.0
+20-21 degrees,20-21 degrees,QUANTITY,,,en,1.0
+five kilometers,five kilometers,QUANTITY,,,en,1.0
+millions of years,millions of years,DATE,,,en,1.0
+Methana |,Methana |,PRODUCT,,,en,1.0
+"100,000 years","100,000 years",DATE,,,en,1.0
+around 02:00,around 02:00,TIME,,,en,1.0
+hundred years,hundred years,DATE,,,en,1.0
+Romanian,Romanian,NORP,,,en,1.0
+06:30 in the morning,06:30 in the morning,TIME,,,en,1.0
+our 100 years,our 100 years,DATE,,,en,1.0
+the Greek Cup,the Greek Cup,EVENT,,,en,1.0
+"62,000","62,000",CARDINAL,,,en,1.0
+Earlier in the morning,Earlier in the morning,TIME,,,en,1.0
+June 2024,June 2024,DATE,,,en,1.0
+as much as 1.1%,as much as 1.1%,PERCENT,,,en,1.0
+"10,000 euros","10,000 euros",MONEY,,,en,1.0
+13:00,13:00,TIME,,,en,1.0
+December,December,DATE,,,en,1.0
+tonight Tonight,tonight Tonight,TIME,,,en,1.0
+the first days of,the first days of,DATE,,,en,1.0
+"May 15, 2026","May 15, 2026",DATE,,,en,1.0
+about $250 billion,about $250 billion,MONEY,,,en,1.0
+Belgian,Belgian,NORP,,,en,1.0
+$250 billion,$250 billion,MONEY,,,en,1.0
+Respite,Respite,WORK_OF_ART,,,en,1.0
+Turkey | Tornado | Injury,Turkey | Tornado | Injury,WORK_OF_ART,,,en,1.0
+Menemeni,Menemeni,NORP,,,en,1.0
+Izmir,Izmir,NORP,,,en,1.0
+India | Storm | World,India | Storm | World,EVENT,,,en,1.0
 March to June |,March to June |,DATE,,,en,1.0
 midday onwards,midday onwards,TIME,,,en,1.0
 "3,791","3,791",CARDINAL,,,en,1.0
@@ -696,823 +912,684 @@ Storm,Storm,WORK_OF_ART,,,en,1.0
 Liosion Street,Liosion Street,FAC,,,en,1.0
 100 km,100 km,QUANTITY,,,en,1.0
 "70,000","70,000",CARDINAL,,,en,1.0
-12/5/2026,12/5/2026,CARDINAL,,,en,1.0
-The hottest day of the year,The hottest day of the year,DATE,,,en,1.0
-15.7 km,15.7 km,QUANTITY,,,en,1.0
-"October 31, 2026","October 31, 2026",DATE,,,en,1.0
-"More than 39,000","More than 39,000",CARDINAL,,,en,1.0
-Albania: Biblical,Albania: Biblical,WORK_OF_ART,,,en,1.0
-277,277,CARDINAL,,,en,1.0
-India | Storm | World,India | Storm | World,EVENT,,,en,1.0
-Izmir,Izmir,NORP,,,en,1.0
-Menemeni,Menemeni,NORP,,,en,1.0
+Bakara,Bakara,FAC,,,en,1.0
+26 degrees,26 degrees,QUANTITY,,,en,1.0
 Grenfell Tower,Grenfell Tower,FAC,,,en,1.0
+winter |,winter |,DATE,,,en,1.0
+German Cup,German Cup,EVENT,,,en,1.0
+of the Cup,of the Cup,WORK_OF_ART,,,en,1.0
+11:00 a.m. to 5:00 p.m.,11:00 a.m. to 5:00 p.m.,TIME,,,en,1.0
+Ukraine | War,Ukraine | War,EVENT,,,en,1.0
+IAEA,IAEA,NORP,,,en,1.0
+79,79,CARDINAL,,,en,1.0
+5pm on the same day,5pm on the same day,TIME,,,en,1.0
+a night,a night,TIME,,,en,1.0
+57,57,CARDINAL,,,en,1.0
+the Pontian Genocide,the Pontian Genocide,EVENT,,,en,1.0
+Loutra Afroditis-Fontana Amorosa,Loutra Afroditis-Fontana Amorosa,PRODUCT,,,en,1.0
 "36,000 euros","36,000 euros",MONEY,,,en,1.0
 September,September,DATE,,,en,1.0
 Early June,Early June,DATE,,,en,1.0
 3 years,3 years,DATE,,,en,1.0
 | Hydra | Geodynamic Institute,| Hydra | Geodynamic Institute,FAC,,,en,1.0
-57,57,CARDINAL,,,en,1.0
-26 degrees,26 degrees,QUANTITY,,,en,1.0
-Turkey | Tornado | Injury,Turkey | Tornado | Injury,WORK_OF_ART,,,en,1.0
-Bakara,Bakara,FAC,,,en,1.0
-"May 15, 2026","May 15, 2026",DATE,,,en,1.0
-about $250 billion,about $250 billion,MONEY,,,en,1.0
-Belgian,Belgian,NORP,,,en,1.0
-$250 billion,$250 billion,MONEY,,,en,1.0
-Respite,Respite,WORK_OF_ART,,,en,1.0
-600%,600%,PERCENT,,,en,1.0
-| Economy,| Economy,WORK_OF_ART,,,en,1.0
-Palestinians,Palestinians,NORP,,,en,1.0
-28/05/2026,28/05/2026,ORDINAL,,,en,1.0
-03:00 Greek time,03:00 Greek time,TIME,,,en,1.0
-"today, Sunday","today, Sunday",DATE,,,en,1.0
-7/6,7/6,CARDINAL,,,en,1.0
-"Sunday, June 7, 2026","Sunday, June 7, 2026",DATE,,,en,1.0
-Evia |,Evia |,PRODUCT,,,en,1.0
-almost every summer,almost every summer,DATE,,,en,1.0
-Richter | Earthquake,Richter | Earthquake,FAC,,,en,1.0
-several seconds,several seconds,TIME,,,en,1.0
-"December 1, 2025","December 1, 2025",DATE,,,en,1.0
-Papazachos,Papazachos,WORK_OF_ART,,,en,1.0
-35,35,CARDINAL,,,en,1.0
-6-8/06,6-8/06,DATE,,,en,1.0
-Typhoon Jangmi,Typhoon Jangmi,EVENT,0.2,0.5583333333333333,en,1.0
-late May to early June 2026,late May to early June 2026,DATE,,,en,1.0
-The hour,The hour,TIME,,,en,1.0
-Prokopio Evia -,Prokopio Evia -,FAC,,,en,1.0
-Lake Evia,Lake Evia,FAC,,,en,1.0
-Philippine,Philippine,NORP,,,en,1.0
-Earthquake 3.6,Earthquake 3.6,LAW,,,en,1.0
-the new week,the new week,DATE,,,en,1.0
-32 degrees,32 degrees,QUANTITY,,,en,1.0
-| Weather of Tsatraphyllia,| Weather of Tsatraphyllia,WORK_OF_ART,,,en,1.0
-| Weather phenomena,| Weather phenomena,WORK_OF_ART,,,en,1.0
-"Monday, June 8, 2026","Monday, June 8, 2026",DATE,,,en,1.0
-Prokopio Evia,Prokopio Evia,FAC,,,en,1.0
-"the evening of Monday, June 8, 2026","the evening of Monday, June 8, 2026",TIME,,,en,1.0
-up to 1.4 meters,up to 1.4 meters,QUANTITY,,,en,1.0
-five to 45 years,five to 45 years,DATE,,,en,1.0
-more than 200,more than 200,CARDINAL,,,en,1.0
-At least 32,At least 32,CARDINAL,,,en,1.0
-Stratos Avenue,Stratos Avenue,FAC,,,en,1.0
-at least five,at least five,CARDINAL,,,en,1.0
-one-meter,one-meter,QUANTITY,,,en,1.0
-Thursday night,Thursday night,TIME,,,en,1.0
-the Zografou Cemetery,the Zografou Cemetery,FAC,,,en,1.0
-Ioannina |,Ioannina |,EVENT,,,en,1.0
-"tomorrow, Saturday","tomorrow, Saturday",DATE,,,en,1.0
-Over 800,Over 800,CARDINAL,,,en,1.0
-India | Sandstorm | World,India | Sandstorm | World,EVENT,,,en,1.0
-200 meters,200 meters,QUANTITY,,,en,1.0
-less than a year,less than a year,DATE,,,en,1.0
-Roma,Roma,NORP,,,en,1.0
-May 30,May 30,DATE,,,en,1.0
-July 2018,July 2018,DATE,,,en,1.0
-10 km | Earthquake,10 km | Earthquake,TIME,,,en,1.0
-104,104,CARDINAL,,,en,1.0
-| Eye | Tragedy,| Eye | Tragedy,WORK_OF_ART,,,en,1.0
-Mexico: Video,Mexico: Video,WORK_OF_ART,,,en,1.0
-73,73,CARDINAL,,,en,1.0
-Tropaia,Tropaia,WORK_OF_ART,,,en,1.0
-Arcadia: Heavy hail,Arcadia: Heavy hail,WORK_OF_ART,,,en,1.0
-3.5 Richter,3.5 Richter,QUANTITY,,,en,1.0
-around 17:00,around 17:00,TIME,,,en,1.0
-October,October,DATE,,,en,1.0
-Areopagits,Areopagits,NORP,,,en,1.0
-4.6.26,4.6.26,CARDINAL,,,en,1.0
-"Today, Thursday","Today, Thursday",DATE,,,en,1.0
-Katseli,Katseli,NORP,-0.053763440860215055,0.10752688172043011,en,1.0
-Twelve,Twelve,CARDINAL,,,en,1.0
-monthly,monthly,DATE,,,en,1.0
-approximately 350 thousand,approximately 350 thousand,CARDINAL,,,en,1.0
-2/6/2026,2/6/2026,CARDINAL,,,en,1.0
-Kilauea Volcano Erupts,Kilauea Volcano Erupts,FAC,,,en,1.0
-Friday |,Friday |,DATE,,,en,1.0
-| Summer,| Summer,DATE,,,en,1.0
-EMY | Weather | Heat,EMY | Weather | Heat,WORK_OF_ART,,,en,1.0
-34 degrees,34 degrees,QUANTITY,,,en,1.0
-1900,1900,DATE,,,en,1.0
-127km/h,127km/h,QUANTITY,,,en,1.0
-333,333,PRODUCT,,,en,1.0
-almost 300,almost 300,CARDINAL,,,en,1.0
-149.7 km,149.7 km,QUANTITY,,,en,1.0
-7 m,7 m,QUANTITY,,,en,1.0
-June 2024,June 2024,DATE,,,en,1.0
-as much as 1.1%,as much as 1.1%,PERCENT,,,en,1.0
-"10,000 euros","10,000 euros",MONEY,,,en,1.0
-06:30 in the morning,06:30 in the morning,TIME,,,en,1.0
-half-meter,half-meter,QUANTITY,,,en,1.0
-7 kilometers,7 kilometers,QUANTITY,,,en,1.0
-November 4,November 4,DATE,,,en,1.0
-November 2025,November 2025,DATE,,,en,1.0
-a few hours - From,a few hours - From,TIME,,,en,1.0
-112 rang,112 rang,MONEY,,,en,1.0
-74,74,CARDINAL,,,en,1.0
-the end of the winter season Cinema | Cinema | Cinema,the end of the winter season Cinema | Cinema | Cinema,DATE,,,en,1.0
-23/4/2026,23/4/2026,CARDINAL,,,en,1.0
-pro-Iranian,pro-Iranian,NORP,,,en,1.0
-last summer's,last summer's,DATE,,,en,1.0
-Earlier in the morning,Earlier in the morning,TIME,,,en,1.0
-"62,000","62,000",CARDINAL,,,en,1.0
-the Greek Cup,the Greek Cup,EVENT,,,en,1.0
-millions of years,millions of years,DATE,,,en,1.0
-snow | Snowstorm,snow | Snowstorm,WORK_OF_ART,,,en,1.0
-several centimeters,several centimeters,QUANTITY,,,en,1.0
-5 pm,5 pm,TIME,,,en,1.0
-Just hours,Just hours,TIME,,,en,1.0
-20-21 degrees,20-21 degrees,QUANTITY,,,en,1.0
-five kilometers,five kilometers,QUANTITY,,,en,1.0
-Methana |,Methana |,PRODUCT,,,en,1.0
-about 7:30,about 7:30,TIME,,,en,1.0
-"100,000 years","100,000 years",DATE,,,en,1.0
-around 02:00,around 02:00,TIME,,,en,1.0
-hundred years,hundred years,DATE,,,en,1.0
-Soccer Cup,Soccer Cup,EVENT,,,en,1.0
-Romanian,Romanian,NORP,,,en,1.0
-our 100 years,our 100 years,DATE,,,en,1.0
-"Wednesday, tomorrow Thursday","Wednesday, tomorrow Thursday",DATE,,,en,1.0
-more than 40,more than 40,CARDINAL,,,en,1.0
-over 40,over 40,CARDINAL,,,en,1.0
-the early hours of Saturday,the early hours of Saturday,TIME,,,en,1.0
-5 am,5 am,TIME,,,en,1.0
-78,78,CARDINAL,,,en,1.0
-25 miles,25 miles,QUANTITY,,,en,1.0
-"over 500,000","over 500,000",CARDINAL,,,en,1.0
-18:00 in the afternoon,18:00 in the afternoon,TIME,,,en,1.0
-Vysotsk,Vysotsk,NORP,,,en,1.0
-Weather today: Rain,Weather today: Rain,WORK_OF_ART,,,en,1.0
-21 km,21 km,QUANTITY,,,en,1.0
-April 18,April 18,DATE,,,en,1.0
-"today, Saturday","today, Saturday",DATE,,,en,1.0
-56,56,CARDINAL,,,en,1.0
-224,224,CARDINAL,,,en,1.0
-"tomorrow, Saturday, April 18","tomorrow, Saturday, April 18",DATE,,,en,1.0
-8.6 km,8.6 km,QUANTITY,,,en,1.0
-#,#,TIME,,,en,1.0
-"at least 1,000","at least 1,000",CARDINAL,,,en,1.0
-thousands of euros,thousands of euros,MONEY,,,en,1.0
-Four months,Four months,DATE,,,en,1.0
-128,128,CARDINAL,,,en,1.0
-Thessaloniki-Kilkis,Thessaloniki-Kilkis,NORP,0.0,0.0,en,1.0
-the two or three days,the two or three days,DATE,,,en,1.0
-| Pelion,| Pelion,DATE,,,en,1.0
-"yesterday, April 20, 2026","yesterday, April 20, 2026",DATE,,,en,1.0
-3 km,3 km,QUANTITY,,,en,1.0
-5.6 kilometers,5.6 kilometers,QUANTITY,,,en,1.0
-"more than 9,000","more than 9,000",CARDINAL,,,en,1.0
-3m,3m,QUANTITY,,,en,1.0
-Adel,Adel,PRODUCT,,,en,1.0
-12 hours,12 hours,TIME,,,en,1.0
-150 meters,150 meters,QUANTITY,,,en,1.0
-"Late in the afternoon of Sunday, April 19","Late in the afternoon of Sunday, April 19",TIME,,,en,1.0
-"At least 1,000","At least 1,000",CARDINAL,,,en,1.0
-Attica - Emergency,Attica - Emergency,WORK_OF_ART,,,en,1.0
-April 16,April 16,DATE,,,en,1.0
-haitai,haitai,PRODUCT,,,en,1.0
-At least seven,At least seven,CARDINAL,,,en,1.0
+12/5/2026,12/5/2026,CARDINAL,,,en,1.0
+The hottest day of the year,The hottest day of the year,DATE,,,en,1.0
+15.7 km,15.7 km,QUANTITY,,,en,1.0
+"2,407 meters","2,407 meters",QUANTITY,,,en,1.0
+Winter in May,Winter in May,WORK_OF_ART,,,en,1.0
+Parnitha,Parnitha,WORK_OF_ART,0.03989361702127659,0.10638297872340426,en,1.0
+15 minutes,15 minutes,TIME,,,en,1.0
+early Sunday morning,early Sunday morning,TIME,,,en,1.0
 5:00 p.m.,5:00 p.m.,TIME,,,en,1.0
 9:00 a.m.,9:00 a.m.,TIME,,,en,1.0
 First Sunday of May,First Sunday of May,DATE,,,en,1.0
-"2,407 meters","2,407 meters",QUANTITY,,,en,1.0
-1 kilometer,1 kilometer,QUANTITY,,,en,1.0
 New snowfall,New snowfall,EVENT,,,en,1.0
+h2,h2,PRODUCT,,,en,1.0
 two hours,two hours,TIME,,,en,1.0
-March 1965,March 1965,DATE,,,en,1.0
+27/3/2026,27/3/2026,DATE,,,en,1.0
 1965,1965,DATE,,,en,1.0
 Parnithos Avenue,Parnithos Avenue,FAC,,,en,1.0
 A few minutes,A few minutes,TIME,,,en,1.0
 a month before summer,a month before summer,DATE,,,en,1.0
 the last month of Spring,the last month of Spring,DATE,,,en,1.0
-the first days of,the first days of,DATE,,,en,1.0
-December,December,DATE,,,en,1.0
-early Sunday morning,early Sunday morning,TIME,,,en,1.0
-15 minutes,15 minutes,TIME,,,en,1.0
-Parnitha,Parnitha,WORK_OF_ART,0.03989361702127659,0.10638297872340426,en,1.0
-the Eiffel Tower - ',the Eiffel Tower - ',FAC,,,en,1.0
-Almost a month,Almost a month,DATE,,,en,1.0
+10 centimeters,10 centimeters,QUANTITY,,,en,1.0
+a few hours ago,a few hours ago,TIME,,,en,1.0
+"October 31, 2026","October 31, 2026",DATE,,,en,1.0
 decade,decade,DATE,,,en,1.0
+"More than 39,000","More than 39,000",CARDINAL,,,en,1.0
+277,277,CARDINAL,,,en,1.0
+333,333,PRODUCT,,,en,1.0
+almost 300,almost 300,CARDINAL,,,en,1.0
+149.7 km,149.7 km,QUANTITY,,,en,1.0
+haitai,haitai,PRODUCT,,,en,1.0
+Almost a month,Almost a month,DATE,,,en,1.0
 recent hours,recent hours,TIME,,,en,1.0
+The year summer,The year summer,DATE,,,en,1.0
 | Indonesia,| Indonesia,TIME,,,en,1.0
 North Halmachera,North Halmachera,NORP,,,en,1.0
 last Saturday |,last Saturday |,DATE,,,en,1.0
+the Eiffel Tower - ',the Eiffel Tower - ',FAC,,,en,1.0
 almost 500 meters,almost 500 meters,QUANTITY,,,en,1.0
-Winter in May,Winter in May,WORK_OF_ART,,,en,1.0
 1816,1816,DATE,,,en,1.0
 every morning,every morning,TIME,,,en,1.0
-The year summer,The year summer,DATE,,,en,1.0
-a few hours ago,a few hours ago,TIME,,,en,1.0
-h2,h2,PRODUCT,,,en,1.0
-10 centimeters,10 centimeters,QUANTITY,,,en,1.0
-the day of May Day,the day of May Day,DATE,,,en,1.0
-five minutes,five minutes,TIME,,,en,1.0
-Heraklion - Ships,Heraklion - Ships,EVENT,,,en,1.0
-30/4/2026,30/4/2026,CARDINAL,,,en,1.0
-only 4 kilometers,only 4 kilometers,QUANTITY,,,en,1.0
-Area 51,Area 51,FAC,,,en,1.0
-past 24 hours,past 24 hours,TIME,,,en,1.0
-At least 17,At least 17,CARDINAL,,,en,1.0
-June 2025,June 2025,DATE,,,en,1.0
-more than 10 consecutive months,more than 10 consecutive months,DATE,,,en,1.0
-the next few months,the next few months,DATE,,,en,1.0
-May 1,May 1,DATE,,,en,1.0
-Fri,Fri,WORK_OF_ART,,,en,1.0
-thousands of years,thousands of years,DATE,,,en,1.0
-Weather Forecast |,Weather Forecast |,WORK_OF_ART,,,en,1.0
-spring,spring,DATE,,,en,1.0
-the afternoon of Tuesday,the afternoon of Tuesday,TIME,,,en,1.0
-More than 30,More than 30,CARDINAL,,,en,1.0
-"winter today, Friday","winter today, Friday",DATE,,,en,1.0
-a week,a week,DATE,,,en,1.0
-13:00,13:00,TIME,,,en,1.0
-around 15 cents/kWh,around 15 cents/kWh,MONEY,,,en,1.0
-03-05-2026,03-05-2026,DATE,,,en,1.0
-May 4,May 4,DATE,,,en,1.0
-"tomorrow, Monday","tomorrow, Monday",DATE,,,en,1.0
-Kampanaki,Kampanaki,WORK_OF_ART,,,en,1.0
-the beginning of the week,the beginning of the week,DATE,,,en,1.0
-over 70%,over 70%,PERCENT,,,en,1.0
-Up to five centimeters,Up to five centimeters,QUANTITY,,,en,1.0
-May Days,May Days,DATE,,,en,1.0
-40km,40km,QUANTITY,,,en,1.0
-about 53km,about 53km,QUANTITY,,,en,1.0
-97km,97km,QUANTITY,,,en,1.0
-May Day |,May Day |,DATE,,,en,1.0
-Attica | Weather | Rains |,Attica | Weather | Rains |,FAC,,,en,1.0
-the last 10 years,the last 10 years,DATE,,,en,1.0
-the 21st century,the 21st century,DATE,,,en,1.0
-The sunny days of spring,The sunny days of spring,DATE,,,en,1.0
-March 8,March 8,DATE,,,en,1.0
-"Over 800,000","Over 800,000",CARDINAL,,,en,1.0
-Severe Weather Kristin: Rain,Severe Weather Kristin: Rain,WORK_OF_ART,,,en,1.0
-29.01.2026,29.01.2026,CARDINAL,,,en,1.0
-"around 3,000","around 3,000",CARDINAL,,,en,1.0
-150 km per hour,150 km per hour,QUANTITY,,,en,1.0
-Portuguese,Portuguese,NORP,,,en,1.0
-8 inches,8 inches,QUANTITY,,,en,1.0
-More than 50,More than 50,CARDINAL,,,en,1.0
-Michalis,Michalis,NORP,,,en,1.0
-32km,32km,QUANTITY,,,en,1.0
-Polar,Polar,NORP,,,en,1.0
-73km,73km,QUANTITY,,,en,1.0
-| Weather | Clouds,| Weather | Clouds,WORK_OF_ART,,,en,1.0
-39 Km,39 Km,QUANTITY,,,en,1.0
-Storm Chandra,Storm Chandra,FAC,,,en,1.0
-the next period,the next period,DATE,,,en,1.0
-"Nearly 7,500","Nearly 7,500",CARDINAL,,,en,1.0
-"about 1,100","about 1,100",CARDINAL,,,en,1.0
-Red Code - Live,Red Code - Live,PRODUCT,,,en,1.0
-Christmas Eve,Christmas Eve,DATE,,,en,1.0
-Monolitho,Monolitho,NORP,,,en,1.0
-Megalochori,Megalochori,NORP,0.0,0.0,en,1.0
-"more than 1,600","more than 1,600",CARDINAL,,,en,1.0
-at least 24 hours,at least 24 hours,TIME,,,en,1.0
-next few hours,next few hours,TIME,,,en,1.0
-Falasarna | Earthquake |,Falasarna | Earthquake |,FAC,,,en,1.0
-last 24 hours,last 24 hours,TIME,,,en,1.0
-many hours,many hours,TIME,,,en,1.0
-four kilometers,four kilometers,QUANTITY,,,en,1.0
-20 years ago,20 years ago,DATE,,,en,1.0
-Varda,Varda,LANGUAGE,,,en,1.0
-"More than 1,500","More than 1,500",CARDINAL,,,en,1.0
-Bad weather Kristin hits,Bad weather Kristin hits,WORK_OF_ART,,,en,1.0
-"about 10,000","about 10,000",CARDINAL,,,en,1.0
-17 years,17 years,DATE,,,en,1.0
-8 degrees,8 degrees,QUANTITY,,,en,1.0
-"670,000","670,000",CARDINAL,,,en,1.0
-"15,000","15,000",CARDINAL,,,en,1.0
-"900,000","900,000",CARDINAL,,,en,1.0
+about 5%,about 5%,PERCENT,,,en,1.0
+the US Embassy,the US Embassy,FAC,,,en,1.0
+"Wednesday, April 1 and Thursday, April 2","Wednesday, April 1 and Thursday, April 2",DATE,,,en,1.0
+"478,000 acres","478,000 acres",QUANTITY,,,en,1.0
+-46 degrees - 16,-46 degrees - 16,QUANTITY,,,en,1.0
+"Wednesday, January 28","Wednesday, January 28",DATE,,,en,1.0
+"January 23, 2026","January 23, 2026",DATE,,,en,1.0
+20-22 January 2026,20-22 January 2026,DATE,,,en,1.0
+"Wednesday, January 21","Wednesday, January 21",DATE,,,en,1.0
+January 21,January 21,DATE,,,en,1.0
+summers and fewer days,summers and fewer days,DATE,,,en,1.0
+30 years,30 years,DATE,,,en,1.0
+61,61,CARDINAL,,,en,1.0
+the first year,the first year,DATE,,,en,1.0
+the last 30 years,the last 30 years,DATE,,,en,1.0
+the past year,the past year,DATE,,,en,1.0
+19,19,CARDINAL,,,en,1.0
+Mt Maunganui,Mt Maunganui,FAC,,,en,1.0
+"more than 1,500","more than 1,500",CARDINAL,,,en,1.0
+1500,1500,CARDINAL,,,en,1.0
+150 million,150 million,CARDINAL,,,en,1.0
+-46 degrees,-46 degrees,QUANTITY,,,en,1.0
+48 hour,48 hour,TIME,,,en,1.0
+Monday - Tuesday,Monday - Tuesday,DATE,,,en,1.0
 "nearly 10,000","nearly 10,000",CARDINAL,,,en,1.0
 Jan. 25,Jan. 25,DATE,,,en,1.0
 "More than 670,000","More than 670,000",CARDINAL,,,en,1.0
 "10,000","10,000",CARDINAL,,,en,1.0
+"670,000","670,000",CARDINAL,,,en,1.0
 late last night,late last night,TIME,,,en,1.0
-some 25 kilometers,some 25 kilometers,QUANTITY,,,en,1.0
 "At least 14,800","At least 14,800",CARDINAL,,,en,1.0
 "More than 600,000","More than 600,000",CARDINAL,,,en,1.0
-"Today, Monday, December 29","Today, Monday, December 29",DATE,,,en,1.0
 Saturday to Monday,Saturday to Monday,DATE,,,en,1.0
 "at least 14,800","at least 14,800",CARDINAL,,,en,1.0
 "130,000","130,000",CARDINAL,,,en,1.0
-the week,the week,DATE,,,en,1.0
-"Today, Monday 26/1/2026","Today, Monday 26/1/2026",DATE,,,en,1.0
-hottest day,hottest day,DATE,,,en,1.0
-11%,11%,PERCENT,,,en,1.0
-Attica - Successive,Attica - Successive,EVENT,,,en,1.0
-a month,a month,DATE,,,en,1.0
-Around 20,Around 20,CARDINAL,,,en,1.0
-"1,000","1,000",CARDINAL,,,en,1.0
-Wednesday 4 February,Wednesday 4 February,DATE,,,en,1.0
-the last three days,the last three days,DATE,,,en,1.0
-last year,last year,DATE,,,en,1.0
-26/1/2026,26/1/2026,CARDINAL,,,en,1.0
-1/3,1/3,CARDINAL,,,en,1.0
-more than a million,more than a million,CARDINAL,,,en,1.0
-at least ten,at least ten,CARDINAL,,,en,1.0
-Vouliagmenis avenue,Vouliagmenis avenue,FAC,,,en,1.0
-Vouliagmenis Avenue,Vouliagmenis Avenue,FAC,,,en,1.0
-12:00 - 26,12:00 - 26,TIME,,,en,1.0
-Red Code 9,Red Code 9,EVENT,,,en,1.0
-Dymaion Lake - Emergency,Dymaion Lake - Emergency,FAC,,,en,1.0
+Indonesian,Indonesian,NORP,,,en,1.0
 at least 10,at least 10,CARDINAL,,,en,1.0
-Sunday morning,Sunday morning,TIME,,,en,1.0
-a 1920s,a 1920s,DATE,,,en,1.0
-Bad Weather - Giorgos Tsatrafillias: Rains,Bad Weather - Giorgos Tsatrafillias: Rains,WORK_OF_ART,,,en,1.0
-"today, Tuesday","today, Tuesday",DATE,,,en,1.0
-Attica Earthquake | Earthquake,Attica Earthquake | Earthquake,EVENT,,,en,1.0
-Chiknopempti | Change,Chiknopempti | Change,WORK_OF_ART,,,en,1.0
-last July,last July,DATE,,,en,1.0
-"100,000 tons","100,000 tons",QUANTITY,,,en,1.0
-the next 20 days,the next 20 days,DATE,,,en,1.0
-44 kilometers,44 kilometers,QUANTITY,,,en,1.0
-the Winter Olympics,the Winter Olympics,EVENT,,,en,1.0
-about 400 meters,about 400 meters,QUANTITY,,,en,1.0
-Hungarians,Hungarians,NORP,,,en,1.0
-Parikiakia,Parikiakia,WORK_OF_ART,,,en,1.0
-"January 16, 2026","January 16, 2026",DATE,,,en,1.0
-"Thursday, December 18","Thursday, December 18",DATE,,,en,1.0
-early in the morning,early in the morning,TIME,,,en,1.0
-Christmas Day,Christmas Day,DATE,,,en,1.0
-the Statue of Liberty,the Statue of Liberty,FAC,,,en,1.0
-France | Bad,France | Bad,EVENT,,,en,1.0
-6.21 miles,6.21 miles,QUANTITY,,,en,1.0
-6.6,6.6,CARDINAL,,,en,1.0
-Storm Nils,Storm Nils,WORK_OF_ART,,,en,1.0
-"about 850,000","about 850,000",CARDINAL,,,en,1.0
-more than 100 miles per hour,more than 100 miles per hour,QUANTITY,,,en,1.0
-3 degrees,3 degrees,QUANTITY,,,en,1.0
-05:30,05:30,TIME,,,en,1.0
-1.25,1.25,CARDINAL,,,en,1.0
-the late afternoon,the late afternoon,TIME,,,en,1.0
-the beginning of the day,the beginning of the day,DATE,,,en,1.0
-Arabian,Arabian,NORP,,,en,1.0
-at least 31,at least 31,CARDINAL,,,en,1.0
-9 degrees,9 degrees,QUANTITY,,,en,1.0
-Cypriots,Cypriots,NORP,,,en,1.0
-30cm,30cm,QUANTITY,,,en,1.0
+about 80,about 80,CARDINAL,,,en,1.0
+every day,every day,DATE,,,en,1.0
+"Over 1,500","Over 1,500",CARDINAL,,,en,1.0
+40,40,CARDINAL,,,en,1.0
+120 km,120 km,QUANTITY,,,en,1.0
+earlier today,earlier today,TIME,,,en,1.0
+early Wednesday,early Wednesday,TIME,,,en,1.0
+Spetses | Rain | Center,Spetses | Rain | Center,FAC,,,en,1.0
+10:00 in the morning,10:00 in the morning,TIME,,,en,1.0
+11:00 a.m.,11:00 a.m.,TIME,,,en,1.0
+11:00 to 14:00,11:00 to 14:00,TIME,,,en,1.0
+Thodoris,Thodoris,WORK_OF_ART,,,en,1.0
+every 6 hours,every 6 hours,TIME,,,en,1.0
+1963,1963,DATE,,,en,1.0
+661,661,CARDINAL,,,en,1.0
+-11 degrees Celsius,-11 degrees Celsius,QUANTITY,,,en,1.0
+"1,060 meters","1,060 meters",QUANTITY,,,en,1.0
+9 hours,9 hours,TIME,,,en,1.0
+"tomorrow, Wednesday 21-01-2026","tomorrow, Wednesday 21-01-2026",DATE,,,en,1.0
+36 hours,36 hours,TIME,,,en,1.0
+"yesterday, Monday","yesterday, Monday",DATE,,,en,1.0
+"Saturday, January 24","Saturday, January 24",DATE,,,en,1.0
+Kallidromou Street,Kallidromou Street,FAC,,,en,1.0
+Over 140 millimeters,Over 140 millimeters,QUANTITY,,,en,1.0
+Wednesday - Papagou,Wednesday - Papagou,DATE,,,en,1.0
+"Drowning""","Drowning""",WORK_OF_ART,,,en,1.0
+many years ago,many years ago,DATE,,,en,1.0
+Wednesday | Attica | Bad,Wednesday | Attica | Bad,DATE,,,en,1.0
+Kostis,Kostis,NORP,,,en,1.0
+Only a few hours,Only a few hours,TIME,,,en,1.0
+Southern,Southern,NORP,,,en,1.0
+Half,Half,CARDINAL,,,en,1.0
+Attica - Live,Attica - Live,FAC,,,en,1.0
+Venizelos |,Venizelos |,LAW,,,en,1.0
+17:15,17:15,TIME,,,en,1.0
+12 midnight,12 midnight,TIME,,,en,1.0
+670,670,CARDINAL,,,en,1.0
+Second day,Second day,DATE,,,en,1.0
+the afternoon of Wednesday,the afternoon of Wednesday,TIME,,,en,1.0
+More than 20,More than 20,CARDINAL,,,en,1.0
+At least 50,At least 50,CARDINAL,,,en,1.0
+"900,000","900,000",CARDINAL,,,en,1.0
+"15,000","15,000",CARDINAL,,,en,1.0
+some 25 kilometers,some 25 kilometers,QUANTITY,,,en,1.0
 40cm,40cm,QUANTITY,,,en,1.0
-Wednesday afternoon,Wednesday afternoon,TIME,,,en,1.0
-the early afternoon,the early afternoon,TIME,,,en,1.0
-0° Celsius,0° Celsius,QUANTITY,,,en,1.0
-about 14km,about 14km,QUANTITY,,,en,1.0
-hours,hours,TIME,,,en,1.0
-3.2.26,3.2.26,CARDINAL,,,en,1.0
-200 meter,200 meter,QUANTITY,,,en,1.0
 At least 6,At least 6,CARDINAL,,,en,1.0
-| Thunderstorms | Winds | Greece,| Thunderstorms | Winds | Greece,EVENT,,,en,1.0
 200km/h,200km/h,QUANTITY,,,en,1.0
 last Wednesday,last Wednesday,DATE,,,en,1.0
 billions of euros,billions of euros,MONEY,,,en,1.0
 Geotechnicians,Geotechnicians,NORP,,,en,1.0
 the 127th kilometer,the 127th kilometer,FAC,,,en,1.0
 the National Highway of Chios - Kardamylon,the National Highway of Chios - Kardamylon,FAC,,,en,1.0
-10.8 kilometers,10.8 kilometers,QUANTITY,,,en,1.0
-the small hours,the small hours,TIME,,,en,1.0
-Sky,Sky,WORK_OF_ART,,,en,1.0
-afternoon hours,afternoon hours,TIME,,,en,1.0
-Precipitation |,Precipitation |,EVENT,,,en,1.0
-114 millimeters,114 millimeters,QUANTITY,,,en,1.0
-6/2/2026,6/2/2026,CARDINAL,,,en,1.0
+Dymaion Lake - Emergency,Dymaion Lake - Emergency,FAC,,,en,1.0
+"Today, Monday 26/1/2026","Today, Monday 26/1/2026",DATE,,,en,1.0
+Red Code 9,Red Code 9,EVENT,,,en,1.0
+Monolitho,Monolitho,NORP,,,en,1.0
+Megalochori,Megalochori,NORP,0.0,0.0,en,1.0
+at least 24 hours,at least 24 hours,TIME,,,en,1.0
+next few hours,next few hours,TIME,,,en,1.0
+Red Code - Live,Red Code - Live,PRODUCT,,,en,1.0
+Falasarna | Earthquake |,Falasarna | Earthquake |,FAC,,,en,1.0
+200 meter,200 meter,QUANTITY,,,en,1.0
+3.2.26,3.2.26,CARDINAL,,,en,1.0
+hours,hours,TIME,,,en,1.0
+about 14km,about 14km,QUANTITY,,,en,1.0
 Irish,Irish,NORP,,,en,1.0
 Tower | Bad,Tower | Bad,EVENT,,,en,1.0
 Pyrgos Tower,Pyrgos Tower,FAC,,,en,1.0
+afternoon hours,afternoon hours,TIME,,,en,1.0
 the 82nd kilometer,the 82nd kilometer,QUANTITY,,,en,1.0
-8:50,8:50,TIME,,,en,1.0
 the next two days,the next two days,DATE,,,en,1.0
-Corfu,Corfu,WORK_OF_ART,-0.027450980392156852,0.026143790849673196,en,1.0
+Corfu,Corfu,WORK_OF_ART,-0.025641025641025626,0.02442002442002441,en,1.0
 several hours,several hours,TIME,,,en,1.0
 sixty-year-old,sixty-year-old,DATE,,,en,1.0
 Iberian,Iberian,NORP,,,en,1.0
 24bn,24bn,MONEY,,,en,1.0
-Indonesian,Indonesian,NORP,,,en,1.0
-about 80,about 80,CARDINAL,,,en,1.0
-Twenty-five,Twenty-five,CARDINAL,,,en,1.0
-08 degrees,08 degrees,QUANTITY,,,en,1.0
-6 to 8 degrees,6 to 8 degrees,QUANTITY,,,en,1.0
-last weekend,last weekend,DATE,,,en,1.0
-| Weather | Frost | Shelly | Frost | Greece,| Weather | Frost | Shelly | Frost | Greece,WORK_OF_ART,,,en,1.0
-the past week,the past week,DATE,,,en,1.0
-at least nine,at least nine,CARDINAL,,,en,1.0
-New Year's,New Year's,EVENT,,,en,1.0
-06,06,CARDINAL,,,en,1.0
-Cyprus - Cold,Cyprus - Cold,EVENT,,,en,1.0
--16.3 degrees,-16.3 degrees,QUANTITY,,,en,1.0
-a few kilometers,a few kilometers,QUANTITY,,,en,1.0
-Tuesday 1/20,Tuesday 1/20,DATE,,,en,1.0
+8:50,8:50,TIME,,,en,1.0
+| Thunderstorms | Winds | Greece,| Thunderstorms | Winds | Greece,EVENT,,,en,1.0
+10.8 kilometers,10.8 kilometers,QUANTITY,,,en,1.0
+0° Celsius,0° Celsius,QUANTITY,,,en,1.0
+many hours,many hours,TIME,,,en,1.0
+four kilometers,four kilometers,QUANTITY,,,en,1.0
+20 years ago,20 years ago,DATE,,,en,1.0
+17 years,17 years,DATE,,,en,1.0
+Attica - Successive,Attica - Successive,EVENT,,,en,1.0
+a month,a month,DATE,,,en,1.0
+Around 20,Around 20,CARDINAL,,,en,1.0
+"1,000","1,000",CARDINAL,,,en,1.0
+Wednesday 4 February,Wednesday 4 February,DATE,,,en,1.0
+the last three days,the last three days,DATE,,,en,1.0
+11%,11%,PERCENT,,,en,1.0
+last year,last year,DATE,,,en,1.0
+1/3,1/3,CARDINAL,,,en,1.0
+more than a million,more than a million,CARDINAL,,,en,1.0
+at least ten,at least ten,CARDINAL,,,en,1.0
+Vouliagmenis avenue,Vouliagmenis avenue,FAC,,,en,1.0
+Vouliagmenis Avenue,Vouliagmenis Avenue,FAC,,,en,1.0
+12:00 - 26,12:00 - 26,TIME,,,en,1.0
+26/1/2026,26/1/2026,CARDINAL,,,en,1.0
+hottest day,hottest day,DATE,,,en,1.0
+"about 1,100","about 1,100",CARDINAL,,,en,1.0
+Varda,Varda,LANGUAGE,,,en,1.0
+"about 10,000","about 10,000",CARDINAL,,,en,1.0
+Bad weather Kristin hits,Bad weather Kristin hits,WORK_OF_ART,,,en,1.0
+last 24 hours,last 24 hours,TIME,,,en,1.0
+Michalis,Michalis,NORP,,,en,1.0
+the next period,the next period,DATE,,,en,1.0
+Severe Weather Kristin: Rain,Severe Weather Kristin: Rain,WORK_OF_ART,,,en,1.0
+29.01.2026,29.01.2026,CARDINAL,,,en,1.0
+"around 3,000","around 3,000",CARDINAL,,,en,1.0
+150 km per hour,150 km per hour,QUANTITY,,,en,1.0
+Portuguese,Portuguese,NORP,,,en,1.0
+"Over 800,000","Over 800,000",CARDINAL,,,en,1.0
+More than 50,More than 50,CARDINAL,,,en,1.0
+Polar,Polar,NORP,,,en,1.0
+| Weather | Clouds,| Weather | Clouds,WORK_OF_ART,,,en,1.0
+39 Km,39 Km,QUANTITY,,,en,1.0
+Storm Chandra,Storm Chandra,FAC,,,en,1.0
+Wednesday - EMY's,Wednesday - EMY's,DATE,,,en,1.0
+Tzoumerka,Tzoumerka,NORP,0.0,0.08130081300813008,en,1.0
+114 millimeters,114 millimeters,QUANTITY,,,en,1.0
+almost midnight,almost midnight,TIME,,,en,1.0
+3 degrees,3 degrees,QUANTITY,,,en,1.0
+the Statue of Liberty,the Statue of Liberty,FAC,,,en,1.0
+more than 90 km,more than 90 km,QUANTITY,,,en,1.0
+Statue of Liberty,Statue of Liberty,FAC,,,en,1.0
+5.1 Richter east,5.1 Richter east,QUANTITY,,,en,1.0
+53 kilometers,53 kilometers,QUANTITY,,,en,1.0
+The Light,The Light,WORK_OF_ART,,,en,1.0
+"February 24, 1981","February 24, 1981",DATE,,,en,1.0
+about four seconds,about four seconds,TIME,,,en,1.0
+1981,1981,DATE,,,en,1.0
+The Light of Avgerino,The Light of Avgerino,WORK_OF_ART,,,en,1.0
+Summer,Summer,DATE,,,en,1.0
+19 degrees - Frost,19 degrees - Frost,QUANTITY,,,en,1.0
+19 degrees,19 degrees,QUANTITY,,,en,1.0
+12/12,12/12,CARDINAL,,,en,1.0
+ten seconds,ten seconds,TIME,,,en,1.0
+Arabian,Arabian,NORP,,,en,1.0
+"Thursday, December 18","Thursday, December 18",DATE,,,en,1.0
+Attica Earthquake | Earthquake,Attica Earthquake | Earthquake,EVENT,,,en,1.0
+"100,000 tons","100,000 tons",QUANTITY,,,en,1.0
+the old year,the old year,DATE,,,en,1.0
+"Today, Monday, December 29","Today, Monday, December 29",DATE,,,en,1.0
+the week,the week,DATE,,,en,1.0
+73km,73km,QUANTITY,,,en,1.0
+32km,32km,QUANTITY,,,en,1.0
+8 inches,8 inches,QUANTITY,,,en,1.0
+"Nearly 7,500","Nearly 7,500",CARDINAL,,,en,1.0
+"More than 1,500","More than 1,500",CARDINAL,,,en,1.0
+"more than 1,600","more than 1,600",CARDINAL,,,en,1.0
+Christmas Eve,Christmas Eve,DATE,,,en,1.0
+8 degrees,8 degrees,QUANTITY,,,en,1.0
+Wednesday afternoon,Wednesday afternoon,TIME,,,en,1.0
+the early afternoon,the early afternoon,TIME,,,en,1.0
+the small hours,the small hours,TIME,,,en,1.0
+Christmas Day,Christmas Day,DATE,,,en,1.0
+4.1 Richter,4.1 Richter,QUANTITY,,,en,1.0
+one and a half minutes,one and a half minutes,TIME,,,en,1.0
+600 meters,600 meters,QUANTITY,,,en,1.0
+Adel,Adel,PRODUCT,,,en,1.0
+402,402,CARDINAL,,,en,1.0
+200 mm,200 mm,QUANTITY,,,en,1.0
+late afternoon,late afternoon,TIME,,,en,1.0
+1989-91,1989-91,DATE,,,en,1.0
+Attica:,Attica:,WORK_OF_ART,,,en,1.0
+| Weather |,| Weather |,WORK_OF_ART,,,en,1.0
+12 hours,12 hours,TIME,,,en,1.0
+112 rang,112 rang,MONEY,,,en,1.0
+24.3 kilometers,24.3 kilometers,QUANTITY,,,en,1.0
+about 7:30,about 7:30,TIME,,,en,1.0
+Attica - Emergency,Attica - Emergency,WORK_OF_ART,,,en,1.0
+1 kilometer,1 kilometer,QUANTITY,,,en,1.0
+Albania: Biblical,Albania: Biblical,WORK_OF_ART,,,en,1.0
+Vonitsa,Vonitsa,WORK_OF_ART,,,en,1.0
+the spring of 2024,the spring of 2024,DATE,,,en,1.0
+"December 1, 2025","December 1, 2025",DATE,,,en,1.0
+the middle of the week,the middle of the week,DATE,,,en,1.0
+"More than 1,000","More than 1,000",CARDINAL,,,en,1.0
+700,700,CARDINAL,,,en,1.0
+Nearly 700,Nearly 700,CARDINAL,,,en,1.0
+| Precipitation,| Precipitation,TIME,,,en,1.0
+110,110,CARDINAL,,,en,1.0
+100 millimeters,100 millimeters,QUANTITY,,,en,1.0
+265 millimeters,265 millimeters,QUANTITY,,,en,1.0
+about 113 kilometers,about 113 kilometers,QUANTITY,,,en,1.0
+6 in the afternoon - How,6 in the afternoon - How,TIME,,,en,1.0
+76 millimeters,76 millimeters,QUANTITY,,,en,1.0
+45 millimeters,45 millimeters,QUANTITY,,,en,1.0
+two-day,two-day,DATE,,,en,1.0
+Annual,Annual,DATE,,,en,1.0
+Google,Google,WORK_OF_ART,,,en,1.0
+Year,Year,DATE,,,en,1.0
+the next 48 hours,the next 48 hours,TIME,,,en,1.0
+| Weather | Thunderstorms | Hail | Ministry of Civil Protection | Greece,| Weather | Thunderstorms | Hail | Ministry of Civil Protection | Greece,WORK_OF_ART,,,en,1.0
+the roughest days,the roughest days,DATE,,,en,1.0
+New Year's Weather | Weather | Bad,New Year's Weather | Weather | Bad,EVENT,,,en,1.0
+the beginning of November,the beginning of November,DATE,,,en,1.0
+the New Year - See,the New Year - See,EVENT,,,en,1.0
+"Saturday, January 10","Saturday, January 10",DATE,,,en,1.0
 Four-day,Four-day,DATE,,,en,1.0
 cold weekend,cold weekend,DATE,,,en,1.0
 the second half of January | Weather,the second half of January | Weather,DATE,,,en,1.0
-the new year,the new year,DATE,,,en,1.0
-last Sunday night,last Sunday night,TIME,,,en,1.0
 Less than two weeks,Less than two weeks,DATE,,,en,1.0
-At least 21,At least 21,CARDINAL,,,en,1.0
-Wednesday - EMY's,Wednesday - EMY's,DATE,,,en,1.0
-120 km,120 km,QUANTITY,,,en,1.0
-Tzoumerka,Tzoumerka,NORP,0.0,0.08130081300813008,en,1.0
-600 meters,600 meters,QUANTITY,,,en,1.0
+Two weeks,Two weeks,DATE,,,en,1.0
+the age of 50,the age of 50,DATE,,,en,1.0
+January 18,January 18,DATE,,,en,1.0
+Drama Fort,Drama Fort,FAC,,,en,1.0
+04-01-2026,04-01-2026,DATE,,,en,1.0
+18s,18s,DATE,,,en,1.0
+the National Observatory of Athens / meteo.gr,the National Observatory of Athens / meteo.gr,FAC,,,en,1.0
+the week | Weather | Cold | Greece,the week | Weather | Cold | Greece,DATE,,,en,1.0
+Snow |,Snow |,WORK_OF_ART,,,en,1.0
+75%,75%,PERCENT,,,en,1.0
+140km,140km,QUANTITY,,,en,1.0
+77 kilometers,77 kilometers,QUANTITY,,,en,1.0
+Tuesday 1/20,Tuesday 1/20,DATE,,,en,1.0
+a few kilometers,a few kilometers,QUANTITY,,,en,1.0
+06,06,CARDINAL,,,en,1.0
+08 degrees,08 degrees,QUANTITY,,,en,1.0
 Gul Plaza,Gul Plaza,FAC,,,en,1.0
 at least 21,at least 21,CARDINAL,,,en,1.0
+At least 21,At least 21,CARDINAL,,,en,1.0
 more than 60,more than 60,CARDINAL,,,en,1.0
-around 8 pm,around 8 pm,TIME,,,en,1.0
-"Today, New Year's Day","Today, New Year's Day",DATE,,,en,1.0
 today | Winter,today | Winter,DATE,,,en,1.0
 | Snow,| Snow,WORK_OF_ART,,,en,1.0
 | Ski,| Ski,EVENT,,,en,1.0
-the first day,the first day,DATE,,,en,1.0
 Today Monday,Today Monday,DATE,,,en,1.0
-annual,annual,DATE,,,en,1.0
-Two weeks,Two weeks,DATE,,,en,1.0
-"yesterday, Monday","yesterday, Monday",DATE,,,en,1.0
-Europe,Europe,PRODUCT,-0.022427983539094642,0.04732510288065842,en,1.0
-77 kilometers,77 kilometers,QUANTITY,,,en,1.0
-about ten minutes later,about ten minutes later,TIME,,,en,1.0
+around 8 pm,around 8 pm,TIME,,,en,1.0
+last Sunday night,last Sunday night,TIME,,,en,1.0
+Cyprus - Cold,Cyprus - Cold,EVENT,,,en,1.0
+6 to 8 degrees,6 to 8 degrees,QUANTITY,,,en,1.0
+last weekend,last weekend,DATE,,,en,1.0
+the past week,the past week,DATE,,,en,1.0
+at least nine,at least nine,CARDINAL,,,en,1.0
 the next few days -,the next few days -,DATE,,,en,1.0
 7-8 degrees - Thodoris Kolidas,7-8 degrees - Thodoris Kolidas,QUANTITY,,,en,1.0
 "yesterday, Thursday, January 8","yesterday, Thursday, January 8",DATE,,,en,1.0
+"today, Friday, January 2","today, Friday, January 2",DATE,,,en,1.0
+annual,annual,DATE,,,en,1.0
+-16.3 degrees,-16.3 degrees,QUANTITY,,,en,1.0
+New Year's,New Year's,EVENT,,,en,1.0
+| Weather | Frost | Shelly | Frost | Greece,| Weather | Frost | Shelly | Frost | Greece,WORK_OF_ART,,,en,1.0
+the new year,the new year,DATE,,,en,1.0
+the first day,the first day,DATE,,,en,1.0
+"Today, New Year's Day","Today, New Year's Day",DATE,,,en,1.0
+New Year's Weather: Footprint for 2026,New Year's Weather: Footprint for 2026,EVENT,,,en,1.0
+The day of,The day of,DATE,,,en,1.0
+2026 - Freezing,2026 - Freezing,QUANTITY,,,en,1.0
+New Year's Weather,New Year's Weather,EVENT,,,en,1.0
+Syntagma Square |,Syntagma Square |,FAC,,,en,1.0
+The New Year's Eve,The New Year's Eve,EVENT,,,en,1.0
+19.3 kilometers,19.3 kilometers,QUANTITY,,,en,1.0
+"tomorrow, Wednesday, December 31","tomorrow, Wednesday, December 31",DATE,,,en,1.0
+months,months,DATE,,,en,1.0
+Mexico | Earthquake | World,Mexico | Earthquake | World,EVENT,,,en,1.0
 "Thursday January 8, 2026","Thursday January 8, 2026",DATE,,,en,1.0
+$5 billion,$5 billion,MONEY,,,en,1.0
 At least 28,At least 28,CARDINAL,,,en,1.0
-140km,140km,QUANTITY,,,en,1.0
-| Netherlands,| Netherlands,DATE,,,en,1.0
-Thursday morning,Thursday morning,TIME,,,en,1.0
 two days,two days,DATE,,,en,1.0
 Two months',Two months',DATE,,,en,1.0
-| Weather | Epirus,| Weather | Epirus,WORK_OF_ART,,,en,1.0
+30 thousand,30 thousand,CARDINAL,,,en,1.0
 44C,44C,CARDINAL,,,en,1.0
+| Weather | Epirus,| Weather | Epirus,WORK_OF_ART,,,en,1.0
+Thursday morning,Thursday morning,TIME,,,en,1.0
+| Netherlands,| Netherlands,DATE,,,en,1.0
+Europe,Europe,PRODUCT,-0.016366366366366365,0.03453453453453453,en,1.0
+about ten minutes later,about ten minutes later,TIME,,,en,1.0
 10:18 a.m.,10:18 a.m.,TIME,,,en,1.0
 5.1 about ten minutes later,5.1 about ten minutes later,TIME,,,en,1.0
-the age of 50,the age of 50,DATE,,,en,1.0
-Mexico | Earthquake | World,Mexico | Earthquake | World,EVENT,,,en,1.0
-January 18,January 18,DATE,,,en,1.0
-months,months,DATE,,,en,1.0
-"today, Friday, January 2","today, Friday, January 2",DATE,,,en,1.0
-"Saturday, January 10","Saturday, January 10",DATE,,,en,1.0
-Drama Fort,Drama Fort,FAC,,,en,1.0
-18s,18s,DATE,,,en,1.0
-the National Observatory of Athens / meteo.gr,the National Observatory of Athens / meteo.gr,FAC,,,en,1.0
-75%,75%,PERCENT,,,en,1.0
-$5 billion,$5 billion,MONEY,,,en,1.0
-the week | Weather | Cold | Greece,the week | Weather | Cold | Greece,DATE,,,en,1.0
-sunniest year,sunniest year,DATE,,,en,1.0
-Snow |,Snow |,WORK_OF_ART,,,en,1.0
-The hottest year,The hottest year,DATE,,,en,1.0
 Heroes' Square,Heroes' Square,FAC,,,en,1.0
-"Saturday, January 24","Saturday, January 24",DATE,,,en,1.0
-New Year's Weather: Footprint for 2026,New Year's Weather: Footprint for 2026,EVENT,,,en,1.0
-every day,every day,DATE,,,en,1.0
-the New Year - See,the New Year - See,EVENT,,,en,1.0
-the past year,the past year,DATE,,,en,1.0
-19,19,CARDINAL,,,en,1.0
-Mt Maunganui,Mt Maunganui,FAC,,,en,1.0
-"more than 1,500","more than 1,500",CARDINAL,,,en,1.0
-1500,1500,CARDINAL,,,en,1.0
-"Over 1,500","Over 1,500",CARDINAL,,,en,1.0
-61,61,CARDINAL,,,en,1.0
-the first year,the first year,DATE,,,en,1.0
-40,40,CARDINAL,,,en,1.0
-661,661,CARDINAL,,,en,1.0
-04-01-2026,04-01-2026,DATE,,,en,1.0
-many years ago,many years ago,DATE,,,en,1.0
-Wednesday | Attica | Bad,Wednesday | Attica | Bad,DATE,,,en,1.0
-Kostis,Kostis,NORP,,,en,1.0
-the last 30 years,the last 30 years,DATE,,,en,1.0
-30 years,30 years,DATE,,,en,1.0
-Southern,Southern,NORP,,,en,1.0
-"Wednesday, January 28","Wednesday, January 28",DATE,,,en,1.0
-Monday - Tuesday,Monday - Tuesday,DATE,,,en,1.0
-48 hour,48 hour,TIME,,,en,1.0
-the old year,the old year,DATE,,,en,1.0
--46 degrees,-46 degrees,QUANTITY,,,en,1.0
-150 million,150 million,CARDINAL,,,en,1.0
--46 degrees - 16,-46 degrees - 16,QUANTITY,,,en,1.0
-"January 23, 2026","January 23, 2026",DATE,,,en,1.0
-"478,000 acres","478,000 acres",QUANTITY,,,en,1.0
-New Year's Weather | Weather | Bad,New Year's Weather | Weather | Bad,EVENT,,,en,1.0
-20-22 January 2026,20-22 January 2026,DATE,,,en,1.0
-the beginning of November,the beginning of November,DATE,,,en,1.0
-"Wednesday, January 21","Wednesday, January 21",DATE,,,en,1.0
-January 21,January 21,DATE,,,en,1.0
-summers and fewer days,summers and fewer days,DATE,,,en,1.0
-Only a few hours,Only a few hours,TIME,,,en,1.0
-Half,Half,CARDINAL,,,en,1.0
-36 hours,36 hours,TIME,,,en,1.0
-every 6 hours,every 6 hours,TIME,,,en,1.0
-New Year's Weather,New Year's Weather,EVENT,,,en,1.0
-10:00 in the morning,10:00 in the morning,TIME,,,en,1.0
-11:00 a.m.,11:00 a.m.,TIME,,,en,1.0
-11:00 to 14:00,11:00 to 14:00,TIME,,,en,1.0
-Thodoris,Thodoris,WORK_OF_ART,,,en,1.0
-2026 - Freezing,2026 - Freezing,QUANTITY,,,en,1.0
-The day of,The day of,DATE,,,en,1.0
-early Wednesday,early Wednesday,TIME,,,en,1.0
-earlier today,earlier today,TIME,,,en,1.0
-1963,1963,DATE,,,en,1.0
--11 degrees Celsius,-11 degrees Celsius,QUANTITY,,,en,1.0
-"1,060 meters","1,060 meters",QUANTITY,,,en,1.0
-9 hours,9 hours,TIME,,,en,1.0
-"tomorrow, Wednesday 21-01-2026","tomorrow, Wednesday 21-01-2026",DATE,,,en,1.0
-Spetses | Rain | Center,Spetses | Rain | Center,FAC,,,en,1.0
-Kallidromou Street,Kallidromou Street,FAC,,,en,1.0
-Attica - Live,Attica - Live,FAC,,,en,1.0
-Second day,Second day,DATE,,,en,1.0
-Venizelos |,Venizelos |,LAW,,,en,1.0
-17:15,17:15,TIME,,,en,1.0
-"tomorrow, Wednesday, December 31","tomorrow, Wednesday, December 31",DATE,,,en,1.0
-19.3 kilometers,19.3 kilometers,QUANTITY,,,en,1.0
-12 midnight,12 midnight,TIME,,,en,1.0
-670,670,CARDINAL,,,en,1.0
-The New Year's Eve,The New Year's Eve,EVENT,,,en,1.0
-Over 140 millimeters,Over 140 millimeters,QUANTITY,,,en,1.0
-Syntagma Square |,Syntagma Square |,FAC,,,en,1.0
-the afternoon of Wednesday,the afternoon of Wednesday,TIME,,,en,1.0
-More than 20,More than 20,CARDINAL,,,en,1.0
-At least 50,At least 50,CARDINAL,,,en,1.0
-"Drowning""","Drowning""",WORK_OF_ART,,,en,1.0
-Wednesday - Papagou,Wednesday - Papagou,DATE,,,en,1.0
-6 o'clock this morning,6 o'clock this morning,TIME,,,en,1.0
-6 o'clock,6 o'clock,TIME,,,en,1.0
-Arta highway,Arta highway,FAC,,,en,1.0
+The hottest year,The hottest year,DATE,,,en,1.0
+sunniest year,sunniest year,DATE,,,en,1.0
+6/2/2026,6/2/2026,CARDINAL,,,en,1.0
+Precipitation |,Precipitation |,EVENT,,,en,1.0
+"March 15, 2026","March 15, 2026",DATE,,,en,1.0
+SKAI,SKAI,WORK_OF_ART,,,en,1.0
+| Winter,| Winter,DATE,,,en,1.0
+Pindos,Pindos,NORP,,,en,1.0
+Last winter,Last winter,DATE,,,en,1.0
+Glasgow - Railway,Glasgow - Railway,FAC,,,en,1.0
+Victorian Station,Victorian Station,FAC,,,en,1.0
+Glasgow Central Station,Glasgow Central Station,FAC,,,en,1.0
+05:32,05:32,DATE,,,en,1.0
+| Earthquake | Earthquake,| Earthquake | Earthquake,WORK_OF_ART,,,en,1.0
 Tropical Storm,Tropical Storm,WORK_OF_ART,,,en,1.0
-6 in the afternoon - How,6 in the afternoon - How,TIME,,,en,1.0
+"the early hours of Sunday, March 8, 2026","the early hours of Sunday, March 8, 2026",TIME,,,en,1.0
+Aqdasiyeh,Aqdasiyeh,NORP,,,en,1.0
+06:30 on Saturday morning,06:30 on Saturday morning,TIME,,,en,1.0
 At least four,At least four,CARDINAL,,,en,1.0
 07:40,07:40,TIME,,,en,1.0
 this moment,this moment,TIME,,,en,1.0
 More than 10,More than 10,CARDINAL,,,en,1.0
-"today, Saturday, March 7","today, Saturday, March 7",DATE,,,en,1.0
-"tomorrow, Saturday, March 7","tomorrow, Saturday, March 7",DATE,,,en,1.0
-76 millimeters,76 millimeters,QUANTITY,,,en,1.0
-several billions,several billions,CARDINAL,,,en,1.0
-the end of the year,the end of the year,DATE,,,en,1.0
-156 kilometers,156 kilometers,QUANTITY,,,en,1.0
-7-8/3,7-8/3,DATE,,,en,1.0
-Spring days,Spring days,DATE,,,en,1.0
-about 113 kilometers,about 113 kilometers,QUANTITY,,,en,1.0
-06:30 on Saturday morning,06:30 on Saturday morning,TIME,,,en,1.0
-Aqdasiyeh,Aqdasiyeh,NORP,,,en,1.0
-Coltan Rumbaya,Coltan Rumbaya,FAC,,,en,1.0
-Last winter,Last winter,DATE,,,en,1.0
-about 10 km,about 10 km,QUANTITY,,,en,1.0
-Annual,Annual,DATE,,,en,1.0
-two-day,two-day,DATE,,,en,1.0
 "55,000","55,000",MONEY,,,en,1.0
-| Winter,| Winter,DATE,,,en,1.0
-Pindos,Pindos,NORP,,,en,1.0
-Glasgow - Railway,Glasgow - Railway,FAC,,,en,1.0
-"the early hours of Sunday, March 8, 2026","the early hours of Sunday, March 8, 2026",TIME,,,en,1.0
-Victorian Station,Victorian Station,FAC,,,en,1.0
-Glasgow Central Station,Glasgow Central Station,FAC,,,en,1.0
-45 millimeters,45 millimeters,QUANTITY,,,en,1.0
-05:32,05:32,DATE,,,en,1.0
-SKAI,SKAI,WORK_OF_ART,,,en,1.0
-| Earthquake | Earthquake,| Earthquake | Earthquake,WORK_OF_ART,,,en,1.0
-70,70,CARDINAL,,,en,1.0
-the Trade Agreement,the Trade Agreement,LAW,,,en,1.0
-the Ruwais Industrial Complex,the Ruwais Industrial Complex,FAC,,,en,1.0
-MacBook Pro,MacBook Pro,PRODUCT,,,en,1.0
-about five kilometers,about five kilometers,QUANTITY,,,en,1.0
-January 25,January 25,DATE,,,en,1.0
-400,400,CARDINAL,,,en,1.0
-Sahara,Sahara,FAC,0.0,0.0,en,1.0
-up to 160 kilometers,up to 160 kilometers,QUANTITY,,,en,1.0
-March 4,March 4,DATE,,,en,1.0
-110,110,CARDINAL,,,en,1.0
-Dubai International Airport,Dubai International Airport,FAC,,,en,1.0
-the first days,the first days,DATE,,,en,1.0
-six kilometers,six kilometers,QUANTITY,,,en,1.0
-fifth,fifth,ORDINAL,,,en,1.0
-Bible,Bible,WORK_OF_ART,,,en,1.0
-Iran | USA,Iran | USA,EVENT,,,en,1.0
-the last minute,the last minute,TIME,,,en,1.0
-Android,Android,PRODUCT,,,en,1.0
-Iran | World,Iran | World,EVENT,,,en,1.0
-Thursday 5/3,Thursday 5/3,DATE,,,en,1.0
-138,138,CARDINAL,,,en,1.0
-19:26,19:26,CARDINAL,,,en,1.0
-"Today, Wednesday","Today, Wednesday",DATE,,,en,1.0
-Fujairah ATP Challenger,Fujairah ATP Challenger,FAC,,,en,1.0
-more than 4%,more than 4%,PERCENT,,,en,1.0
-free fall,free fall,DATE,,,en,1.0
-Persian | Shipping | Attack,Persian | Shipping | Attack,EVENT,,,en,1.0
-only 28,only 28,CARDINAL,,,en,1.0
-the Messolonghi hospital,the Messolonghi hospital,FAC,,,en,1.0
-265 millimeters,265 millimeters,QUANTITY,,,en,1.0
-Iran | Guards of the Revolution | World,Iran | Guards of the Revolution | World,EVENT,,,en,1.0
-the US Embassy,the US Embassy,FAC,,,en,1.0
-Boiling,Boiling,PRODUCT,,,en,1.0
-F-16s,F-16s,PRODUCT,,,en,1.0
-100 millimeters,100 millimeters,QUANTITY,,,en,1.0
+about 10 km,about 10 km,QUANTITY,,,en,1.0
 414 km,414 km,QUANTITY,,,en,1.0
-a State of Emergency - Damage,a State of Emergency - Damage,EVENT,,,en,1.0
-About ten hectares,About ten hectares,QUANTITY,,,en,1.0
-the USS Gerald Ford,the USS Gerald Ford,PRODUCT,,,en,1.0
-Argos-Corinth highway,Argos-Corinth highway,FAC,,,en,1.0
-"today, Thursday 19 March 2026","today, Thursday 19 March 2026",DATE,,,en,1.0
-Oscars,Oscars,PRODUCT,,,en,1.0
-700,700,CARDINAL,,,en,1.0
-Nearly 700,Nearly 700,CARDINAL,,,en,1.0
-the roughest days,the roughest days,DATE,,,en,1.0
-60 days,60 days,DATE,,,en,1.0
-192,192,CARDINAL,,,en,1.0
-centuries-old,centuries-old,DATE,,,en,1.0
-Olympus,Olympus,PRODUCT,,,en,1.0
-| Weather | Thunderstorms | Hail | Ministry of Civil Protection | Greece,| Weather | Thunderstorms | Hail | Ministry of Civil Protection | Greece,WORK_OF_ART,,,en,1.0
-"Tomorrow, Wednesday","Tomorrow, Wednesday",DATE,,,en,1.0
-Grand Central Terminal - Watch,Grand Central Terminal - Watch,FAC,,,en,1.0
-today Tuesday,today Tuesday,DATE,,,en,1.0
-| Argolida | Traffic,| Argolida | Traffic,FAC,,,en,1.0
-"More than 1,000","More than 1,000",CARDINAL,,,en,1.0
-an estimated two million,an estimated two million,CARDINAL,,,en,1.0
-About 170,About 170,CARDINAL,,,en,1.0
-Italy | Avalanche | Dead | Tyrol | World,Italy | Avalanche | Dead | Tyrol | World,EVENT,,,en,1.0
-10:00,10:00,TIME,,,en,1.0
-between 35 and 50 millimeters,between 35 and 50 millimeters,QUANTITY,,,en,1.0
-17 degrees,17 degrees,QUANTITY,,,en,1.0
-12 kilometers,12 kilometers,QUANTITY,,,en,1.0
-1:31 am,1:31 am,TIME,,,en,1.0
-60,60,CARDINAL,,,en,1.0
-| Properties | Economy,| Properties | Economy,WORK_OF_ART,,,en,1.0
-Around 170,Around 170,CARDINAL,,,en,1.0
-140 km,140 km,QUANTITY,,,en,1.0
-Tenerife: Snow on the Teide,Tenerife: Snow on the Teide,WORK_OF_ART,,,en,1.0
-11.05,11.05,CARDINAL,,,en,1.0
-thunderbolt,thunderbolt,PRODUCT,,,en,1.0
-Over 50,Over 50,CARDINAL,,,en,1.0
-Day Parade,Day Parade,EVENT,,,en,1.0
-19 years,19 years,DATE,,,en,1.0
-1 pm,1 pm,TIME,,,en,1.0
-4.8 Richter,4.8 Richter,MONEY,,,en,1.0
-30 thousand,30 thousand,CARDINAL,,,en,1.0
+the Ruwais Industrial Complex,the Ruwais Industrial Complex,FAC,,,en,1.0
+The sunny days of spring,The sunny days of spring,DATE,,,en,1.0
 Ilias Tower,Ilias Tower,FAC,,,en,1.0
-Google,Google,WORK_OF_ART,,,en,1.0
 56 kilometers,56 kilometers,QUANTITY,,,en,1.0
 03:35,03:35,TIME,,,en,1.0
 Rome International Airport,Rome International Airport,FAC,,,en,1.0
+4.8 Richter,4.8 Richter,MONEY,,,en,1.0
 Armaments,Armaments,WORK_OF_ART,,,en,1.0
-80 kilometers,80 kilometers,QUANTITY,,,en,1.0
 next Monday,next Monday,DATE,,,en,1.0
 March 12,March 12,DATE,,,en,1.0
 December 2024,December 2024,DATE,,,en,1.0
 163,163,CARDINAL,,,en,1.0
 87,87,CARDINAL,,,en,1.0
 Gulf Arab,Gulf Arab,NORP,,,en,1.0
-Year,Year,DATE,,,en,1.0
+1 pm,1 pm,TIME,,,en,1.0
+a State of Emergency - Damage,a State of Emergency - Damage,EVENT,,,en,1.0
+"today, Saturday, March 7","today, Saturday, March 7",DATE,,,en,1.0
+"tomorrow, Saturday, March 7","tomorrow, Saturday, March 7",DATE,,,en,1.0
+the Morning Edition of ASTRA,the Morning Edition of ASTRA,TIME,,,en,1.0
+Sahara,Sahara,FAC,0.0,0.0,en,1.0
+the Messolonghi hospital,the Messolonghi hospital,FAC,,,en,1.0
+Iran | World,Iran | World,EVENT,,,en,1.0
+Dubai International Airport,Dubai International Airport,FAC,,,en,1.0
+Android,Android,PRODUCT,,,en,1.0
+about five kilometers,about five kilometers,QUANTITY,,,en,1.0
+January 25,January 25,DATE,,,en,1.0
+400,400,CARDINAL,,,en,1.0
+up to 160 kilometers,up to 160 kilometers,QUANTITY,,,en,1.0
+several billions,several billions,CARDINAL,,,en,1.0
+March 4,March 4,DATE,,,en,1.0
+MacBook Pro,MacBook Pro,PRODUCT,,,en,1.0
+the first days,the first days,DATE,,,en,1.0
+six kilometers,six kilometers,QUANTITY,,,en,1.0
+fifth,fifth,ORDINAL,,,en,1.0
+Bible,Bible,WORK_OF_ART,,,en,1.0
+Iran | USA,Iran | USA,EVENT,,,en,1.0
+F-16s,F-16s,PRODUCT,,,en,1.0
+Boiling,Boiling,PRODUCT,,,en,1.0
+Iran | Guards of the Revolution | World,Iran | Guards of the Revolution | World,EVENT,,,en,1.0
+only 28,only 28,CARDINAL,,,en,1.0
+the end of the year,the end of the year,DATE,,,en,1.0
+156 kilometers,156 kilometers,QUANTITY,,,en,1.0
+7-8/3,7-8/3,DATE,,,en,1.0
+Spring days,Spring days,DATE,,,en,1.0
+70,70,CARDINAL,,,en,1.0
+Coltan Rumbaya,Coltan Rumbaya,FAC,,,en,1.0
+the Trade Agreement,the Trade Agreement,LAW,,,en,1.0
+Thursday 5/3,Thursday 5/3,DATE,,,en,1.0
+19:26,19:26,CARDINAL,,,en,1.0
+"Today, Wednesday","Today, Wednesday",DATE,,,en,1.0
+Fujairah ATP Challenger,Fujairah ATP Challenger,FAC,,,en,1.0
+more than 4%,more than 4%,PERCENT,,,en,1.0
+free fall,free fall,DATE,,,en,1.0
+Persian | Shipping | Attack,Persian | Shipping | Attack,EVENT,,,en,1.0
+138,138,CARDINAL,,,en,1.0
+80 kilometers,80 kilometers,QUANTITY,,,en,1.0
 the next day,the next day,DATE,,,en,1.0
+11 kilometers,11 kilometers,QUANTITY,,,en,1.0
+the 21st century,the 21st century,DATE,,,en,1.0
+2015-2025,2015-2025,DATE,,,en,1.0
+Up to 50mm,Up to 50mm,QUANTITY,,,en,1.0
+"5,500","5,500",CARDINAL,,,en,1.0
+St. James' Park,St. James' Park,FAC,,,en,1.0
+Turkey: Video,Turkey: Video,WORK_OF_ART,,,en,1.0
+Georgian,Georgian,NORP,,,en,1.0
+Cold,Cold,WORK_OF_ART,,,en,1.0
+74,74,CARDINAL,,,en,1.0
+13.8 kilometers,13.8 kilometers,QUANTITY,,,en,1.0
+March 8,March 8,DATE,,,en,1.0
+Twenty-five,Twenty-five,CARDINAL,,,en,1.0
+Italy | Avalanche | Dead | Tyrol | World,Italy | Avalanche | Dead | Tyrol | World,EVENT,,,en,1.0
+10:00,10:00,TIME,,,en,1.0
+between 35 and 50 millimeters,between 35 and 50 millimeters,QUANTITY,,,en,1.0
+17 degrees,17 degrees,QUANTITY,,,en,1.0
+12 kilometers,12 kilometers,QUANTITY,,,en,1.0
+about 1.55 degrees Celsius,about 1.55 degrees Celsius,QUANTITY,,,en,1.0
+| Auction,| Auction,TIME,,,en,1.0
+30 cm,30 cm,QUANTITY,,,en,1.0
+26 cm,26 cm,QUANTITY,,,en,1.0
+the afternoon of March 25,the afternoon of March 25,TIME,,,en,1.0
+Bulgarian,Bulgarian,NORP,,,en,1.0
+our national holiday,our national holiday,DATE,,,en,1.0
+the old days,the old days,DATE,,,en,1.0
+21.08 in the evening,21.08 in the evening,TIME,,,en,1.0
+Kary | Earthquake,Kary | Earthquake,FAC,,,en,1.0
+8 kilometers,8 kilometers,QUANTITY,,,en,1.0
+Volos,Volos,NORP,-0.0392156862745098,0.0784313725490196,en,1.0
+March 25,March 25,DATE,,,en,1.0
+about fifteen minutes,about fifteen minutes,TIME,,,en,1.0
+Millions,Millions,CARDINAL,,,en,1.0
+Heraklion | Parade,Heraklion | Parade,EVENT,,,en,1.0
+Tomorrow morning,Tomorrow morning,TIME,,,en,1.0
+10 am,10 am,TIME,,,en,1.0
+Liosion | Fire |,Liosion | Fire |,PRODUCT,,,en,1.0
+1:31 am,1:31 am,TIME,,,en,1.0
+About 170,About 170,CARDINAL,,,en,1.0
+60,60,CARDINAL,,,en,1.0
+today Tuesday,today Tuesday,DATE,,,en,1.0
+an estimated two million,an estimated two million,CARDINAL,,,en,1.0
+19 years,19 years,DATE,,,en,1.0
 Reunion,Reunion,EVENT,,,en,1.0
-9.3 miles,9.3 miles,QUANTITY,,,en,1.0
 the Piton de la Fournaise,the Piton de la Fournaise,FAC,,,en,1.0
 4.1 Richter | Earthquake,4.1 Richter | Earthquake,QUANTITY,,,en,1.0
 USS Gerald Ford,USS Gerald Ford,PRODUCT,,,en,1.0
 more than a day,more than a day,DATE,,,en,1.0
 30 hours,30 hours,TIME,,,en,1.0
 today |,today |,DATE,,,en,1.0
+9.3 miles,9.3 miles,QUANTITY,,,en,1.0
 95 kilometers,95 kilometers,QUANTITY,,,en,1.0
-11 kilometers,11 kilometers,QUANTITY,,,en,1.0
 12.2 kilometers,12.2 kilometers,QUANTITY,,,en,1.0
 16 kilometers,16 kilometers,QUANTITY,,,en,1.0
-the next 48 hours,the next 48 hours,TIME,,,en,1.0
 5 km | Earthquake |,5 km | Earthquake |,TIME,,,en,1.0
 16 km South-South-East,16 km South-South-East,QUANTITY,,,en,1.0
-13.8 kilometers,13.8 kilometers,QUANTITY,,,en,1.0
-the Morning Edition of ASTRA,the Morning Edition of ASTRA,TIME,,,en,1.0
+Day Parade,Day Parade,EVENT,,,en,1.0
+Grand Central Terminal - Watch,Grand Central Terminal - Watch,FAC,,,en,1.0
+Around 170,Around 170,CARDINAL,,,en,1.0
+"Tomorrow, Wednesday","Tomorrow, Wednesday",DATE,,,en,1.0
+140 km,140 km,QUANTITY,,,en,1.0
+Tenerife: Snow on the Teide,Tenerife: Snow on the Teide,WORK_OF_ART,,,en,1.0
+11.05,11.05,CARDINAL,,,en,1.0
+thunderbolt,thunderbolt,PRODUCT,,,en,1.0
+Over 50,Over 50,CARDINAL,,,en,1.0
+| Properties | Economy,| Properties | Economy,WORK_OF_ART,,,en,1.0
+192,192,CARDINAL,,,en,1.0
+| Argolida | Traffic,| Argolida | Traffic,FAC,,,en,1.0
+Argos-Corinth highway,Argos-Corinth highway,FAC,,,en,1.0
+"today, Thursday 19 March 2026","today, Thursday 19 March 2026",DATE,,,en,1.0
+Oscars,Oscars,PRODUCT,,,en,1.0
+the USS Gerald Ford,the USS Gerald Ford,PRODUCT,,,en,1.0
+60 days,60 days,DATE,,,en,1.0
+centuries-old,centuries-old,DATE,,,en,1.0
+Olympus,Olympus,PRODUCT,,,en,1.0
+the last minute,the last minute,TIME,,,en,1.0
 the next 10 days,the next 10 days,DATE,,,en,1.0
-"tomorrow, Thursday, February 26","tomorrow, Thursday, February 26",DATE,,,en,1.0
-400m,400m,QUANTITY,,,en,1.0
+Sky,Sky,WORK_OF_ART,,,en,1.0
+half a meter,half a meter,QUANTITY,,,en,1.0
+24 hour,24 hour,TIME,,,en,1.0
+Naxos | Civil Protection |,Naxos | Civil Protection |,EVENT,,,en,1.0
+EMY | Weather | Rains | Thunderstorms,EMY | Weather | Rains | Thunderstorms,PRODUCT,,,en,1.0
+the previous two days,the previous two days,DATE,,,en,1.0
+16/2/2026,16/2/2026,CARDINAL,,,en,1.0
+13:01 and two,13:01 and two,CARDINAL,,,en,1.0
+half to a meter,half to a meter,QUANTITY,,,en,1.0
+tomorrow Tuesday,tomorrow Tuesday,DATE,,,en,1.0
+Taman,Taman,NORP,0.0,0.0,en,1.0
+Thessaloniki | Landslide | Rainfall | Greece,Thessaloniki | Landslide | Rainfall | Greece,EVENT,,,en,1.0
+Ferto,Ferto,WORK_OF_ART,,,en,1.0
+Hurricane Akylas,Hurricane Akylas,EVENT,,,en,1.0
+La Louviere | Sports,La Louviere | Sports,WORK_OF_ART,,,en,1.0
+La Louviere | Snow | Belgium | Anderlecht,La Louviere | Snow | Belgium | Anderlecht,WORK_OF_ART,,,en,1.0
+10 km | Russia,10 km | Russia,TIME,,,en,1.0
+"Today, Sunday, February 15","Today, Sunday, February 15",DATE,,,en,1.0
+the dawn of Tuesday,the dawn of Tuesday,TIME,,,en,1.0
+16/02/206,16/02/206,CARDINAL,,,en,1.0
+almost 24 hours,almost 24 hours,TIME,,,en,1.0
+8 km,8 km,QUANTITY,,,en,1.0
+the early hours of Wednesday,the early hours of Wednesday,TIME,,,en,1.0
+"today, Wednesday, February 18","today, Wednesday, February 18",DATE,,,en,1.0
 15 km,15 km,QUANTITY,,,en,1.0
 5:25 pm,5:25 pm,TIME,,,en,1.0
 the tourist season,the tourist season,DATE,,,en,1.0
 hour,hour,TIME,,,en,1.0
-1981,1981,DATE,,,en,1.0
 Kilauea Volcano,Kilauea Volcano,FAC,,,en,1.0
+400m,400m,QUANTITY,,,en,1.0
 the National Observatory of Athens |,the National Observatory of Athens |,FAC,,,en,1.0
-The Light of Avgerino,The Light of Avgerino,WORK_OF_ART,,,en,1.0
 "21,000","21,000",CARDINAL,,,en,1.0
 "More than 21,000","More than 21,000",CARDINAL,,,en,1.0
 one year later,one year later,DATE,,,en,1.0
 Le Constellation',Le Constellation',WORK_OF_ART,,,en,1.0
 29.8 km | Earthquake,29.8 km | Earthquake,QUANTITY,,,en,1.0
 Nestani,Nestani,NORP,,,en,1.0
-"today, Wednesday, February 18","today, Wednesday, February 18",DATE,,,en,1.0
-Summer,Summer,DATE,,,en,1.0
-"February 24, 1981","February 24, 1981",DATE,,,en,1.0
-Norwegians,Norwegians,NORP,,,en,1.0
-19 degrees,19 degrees,QUANTITY,,,en,1.0
-early Friday,early Friday,DATE,,,en,1.0
-Filiatra,Filiatra,NORP,,,en,1.0
-| Avalanche | Italy | Skier | Children | World,| Avalanche | Italy | Skier | Children | World,WORK_OF_ART,,,en,1.0
-Humidity | Rains | Water | Greece,Humidity | Rains | Water | Greece,EVENT,,,en,1.0
-7 to 28 cm,7 to 28 cm,QUANTITY,,,en,1.0
-80 tons,80 tons,QUANTITY,,,en,1.0
-the early hours of Wednesday,the early hours of Wednesday,TIME,,,en,1.0
-19 degrees - Frost,19 degrees - Frost,QUANTITY,,,en,1.0
-six to seven minutes,six to seven minutes,TIME,,,en,1.0
-more than 180,more than 180,CARDINAL,,,en,1.0
-Thermaikos,Thermaikos,NORP,,,en,1.0
-Castle Peak,Castle Peak,FAC,,,en,1.0
-03:00,03:00,TIME,,,en,1.0
-8 km,8 km,QUANTITY,,,en,1.0
-almost 24 hours,almost 24 hours,TIME,,,en,1.0
-| Precipitation,| Precipitation,TIME,,,en,1.0
-Pyrgo National Highway,Pyrgo National Highway,FAC,,,en,1.0
-911,911,CARDINAL,,,en,1.0
-53 kilometers,53 kilometers,QUANTITY,,,en,1.0
-"Today, Sunday, February 15","Today, Sunday, February 15",DATE,,,en,1.0
 about 70 meters,about 70 meters,QUANTITY,,,en,1.0
-Taman,Taman,NORP,0.0,0.0,en,1.0
 the coordination center of the Fire Department,the coordination center of the Fire Department,FAC,,,en,1.0
+"tomorrow, Thursday, February 26","tomorrow, Thursday, February 26",DATE,,,en,1.0
+Sunday morning,Sunday morning,TIME,,,en,1.0
+05:30,05:30,TIME,,,en,1.0
+early in the morning,early in the morning,TIME,,,en,1.0
+the next 20 days,the next 20 days,DATE,,,en,1.0
+a 1920s,a 1920s,DATE,,,en,1.0
+Bad Weather - Giorgos Tsatrafillias: Rains,Bad Weather - Giorgos Tsatrafillias: Rains,WORK_OF_ART,,,en,1.0
+Chiknopempti | Change,Chiknopempti | Change,WORK_OF_ART,,,en,1.0
+last July,last July,DATE,,,en,1.0
+44 kilometers,44 kilometers,QUANTITY,,,en,1.0
+Pyrgo National Highway,Pyrgo National Highway,FAC,,,en,1.0
+the Winter Olympics,the Winter Olympics,EVENT,,,en,1.0
+about 400 meters,about 400 meters,QUANTITY,,,en,1.0
+Hungarians,Hungarians,NORP,,,en,1.0
+Parikiakia,Parikiakia,WORK_OF_ART,,,en,1.0
+"January 16, 2026","January 16, 2026",DATE,,,en,1.0
+Cypriots,Cypriots,NORP,,,en,1.0
+30cm,30cm,QUANTITY,,,en,1.0
+9 degrees,9 degrees,QUANTITY,,,en,1.0
+at least 31,at least 31,CARDINAL,,,en,1.0
+the beginning of the day,the beginning of the day,DATE,,,en,1.0
+the late afternoon,the late afternoon,TIME,,,en,1.0
 66th,66th,ORDINAL,,,en,1.0
-La Louviere | Snow | Belgium | Anderlecht,La Louviere | Snow | Belgium | Anderlecht,WORK_OF_ART,,,en,1.0
 Spain | Bad,Spain | Bad,EVENT,,,en,1.0
 Port-Olry,Port-Olry,FAC,,,en,1.0
-5.1 Richter east,5.1 Richter east,QUANTITY,,,en,1.0
-Statue of Liberty,Statue of Liberty,FAC,,,en,1.0
-more than 90 km,more than 90 km,QUANTITY,,,en,1.0
 Zakynthos: Landslides in Agia,Zakynthos: Landslides in Agia,WORK_OF_ART,,,en,1.0
-10 km | Russia,10 km | Russia,TIME,,,en,1.0
-La Louviere | Sports,La Louviere | Sports,WORK_OF_ART,,,en,1.0
-16/02/206,16/02/206,CARDINAL,,,en,1.0
-13:01 and two,13:01 and two,CARDINAL,,,en,1.0
-the dawn of Tuesday,the dawn of Tuesday,TIME,,,en,1.0
-24 hour,24 hour,TIME,,,en,1.0
-Naxos | Civil Protection |,Naxos | Civil Protection |,EVENT,,,en,1.0
-EMY | Weather | Rains | Thunderstorms,EMY | Weather | Rains | Thunderstorms,PRODUCT,,,en,1.0
-the previous two days,the previous two days,DATE,,,en,1.0
-16/2/2026,16/2/2026,CARDINAL,,,en,1.0
-half to a meter,half to a meter,QUANTITY,,,en,1.0
-The Light,The Light,WORK_OF_ART,,,en,1.0
-half a meter,half a meter,QUANTITY,,,en,1.0
-tomorrow Tuesday,tomorrow Tuesday,DATE,,,en,1.0
-Thessaloniki | Landslide | Rainfall | Greece,Thessaloniki | Landslide | Rainfall | Greece,EVENT,,,en,1.0
-almost midnight,almost midnight,TIME,,,en,1.0
-Ferto,Ferto,WORK_OF_ART,,,en,1.0
-Hurricane Akylas,Hurricane Akylas,EVENT,,,en,1.0
-20-02-2026,20-02-2026,DATE,,,en,1.0
-"Saturday, February 21","Saturday, February 21",DATE,,,en,1.0
-Superfund,Superfund,LAW,,,en,1.0
-more than 200 square meters,more than 200 square meters,QUANTITY,,,en,1.0
-around 3 trillion,around 3 trillion,MONEY,,,en,1.0
-3 trillion market dollars,3 trillion market dollars,MONEY,,,en,1.0
-the 80s,the 80s,DATE,,,en,1.0
-29 years,29 years,DATE,,,en,1.0
+About ten hectares,About ten hectares,QUANTITY,,,en,1.0
+Arta highway,Arta highway,FAC,,,en,1.0
+6 o'clock,6 o'clock,TIME,,,en,1.0
+6 o'clock this morning,6 o'clock this morning,TIME,,,en,1.0
+France | Bad,France | Bad,EVENT,,,en,1.0
+6.21 miles,6.21 miles,QUANTITY,,,en,1.0
+6.6,6.6,CARDINAL,,,en,1.0
+Storm Nils,Storm Nils,WORK_OF_ART,,,en,1.0
+"about 850,000","about 850,000",CARDINAL,,,en,1.0
+more than 100 miles per hour,more than 100 miles per hour,QUANTITY,,,en,1.0
+1.25,1.25,CARDINAL,,,en,1.0
+03:00,03:00,TIME,,,en,1.0
+Castle Peak,Castle Peak,FAC,,,en,1.0
+Thermaikos,Thermaikos,NORP,,,en,1.0
+about 7:30 p.m.,about 7:30 p.m.,TIME,,,en,1.0
 450,450,CARDINAL,,,en,1.0
 1869,1869,DATE,,,en,1.0
+more than 200 square meters,more than 200 square meters,QUANTITY,,,en,1.0
 "more than 600,000","more than 600,000",CARDINAL,,,en,1.0
-2 Weeks Ago,2 Weeks Ago,DATE,,,en,1.0
 Ninth,Ninth,ORDINAL,,,en,1.0
 a decade,a decade,DATE,,,en,1.0
 More than 50 cm,More than 50 cm,QUANTITY,,,en,1.0
-about 7:30 p.m.,about 7:30 p.m.,TIME,,,en,1.0
 more than 40 million,more than 40 million,CARDINAL,,,en,1.0
-4.1 Richter,4.1 Richter,QUANTITY,,,en,1.0
-2008,2008,DATE,,,en,1.0
-almost 2.5 years,almost 2.5 years,DATE,,,en,1.0
-60%,60%,PERCENT,,,en,1.0
-"title=""4.2","title=""4.2",NORP,,,en,1.0
+more than 180,more than 180,CARDINAL,,,en,1.0
+Sicilian,Sicilian,NORP,,,en,1.0
+More than 5000,More than 5000,CARDINAL,,,en,1.0
+11:00 today,11:00 today,TIME,,,en,1.0
+21:00 on Sunday night,21:00 on Sunday night,TIME,,,en,1.0
+all night,all night,TIME,,,en,1.0
+80km/h,80km/h,QUANTITY,,,en,1.0
+"more than 3,000","more than 3,000",CARDINAL,,,en,1.0
+29 years,29 years,DATE,,,en,1.0
+the 80s,the 80s,DATE,,,en,1.0
+3 trillion market dollars,3 trillion market dollars,MONEY,,,en,1.0
+around 3 trillion,around 3 trillion,MONEY,,,en,1.0
 March - Giorgos,March - Giorgos,DATE,,,en,1.0
 "55,000 euros","55,000 euros",MONEY,,,en,1.0
 at least 29,at least 29,CARDINAL,,,en,1.0
 the last 10,the last 10,DATE,,,en,1.0
-24.3 kilometers,24.3 kilometers,QUANTITY,,,en,1.0
 the beginning of the season,the beginning of the season,DATE,,,en,1.0
-one and a half minutes,one and a half minutes,TIME,,,en,1.0
-Daniel | Karditsa | Greece,Daniel | Karditsa | Greece,PRODUCT,,,en,1.0
-about four seconds,about four seconds,TIME,,,en,1.0
+"title=""4.2","title=""4.2",NORP,,,en,1.0
 Juiz de Fora,Juiz de Fora,FAC,,,en,1.0
 About 440,About 440,CARDINAL,,,en,1.0
 "tomorrow, Wednesday, February 25","tomorrow, Wednesday, February 25",DATE,,,en,1.0
 Thessalian,Thessalian,NORP,,,en,1.0
 Almost two and a half years,Almost two and a half years,CARDINAL,,,en,1.0
-Sicilian,Sicilian,NORP,,,en,1.0
-More than 5000,More than 5000,CARDINAL,,,en,1.0
-11:00 today,11:00 today,TIME,,,en,1.0
+Daniel | Karditsa | Greece,Daniel | Karditsa | Greece,PRODUCT,,,en,1.0
+almost 2.5 years,almost 2.5 years,DATE,,,en,1.0
+2 Weeks Ago,2 Weeks Ago,DATE,,,en,1.0
+2008,2008,DATE,,,en,1.0
+2013,2013,DATE,,,en,1.0
+about 93 km,about 93 km,QUANTITY,,,en,1.0
+0.62 mi,0.62 mi,QUANTITY,,,en,1.0
+100 km/h,100 km/h,QUANTITY,,,en,1.0
+79km,79km,QUANTITY,,,en,1.0
+a 300 km,a 300 km,QUANTITY,,,en,1.0
+Saturday - Epi,Saturday - Epi,DATE,,,en,1.0
+60%,60%,PERCENT,,,en,1.0
+Superfund,Superfund,LAW,,,en,1.0
+"Saturday, February 21","Saturday, February 21",DATE,,,en,1.0
+20-02-2026,20-02-2026,DATE,,,en,1.0
+early Friday,early Friday,DATE,,,en,1.0
+Filiatra,Filiatra,NORP,,,en,1.0
+| Avalanche | Italy | Skier | Children | World,| Avalanche | Italy | Skier | Children | World,WORK_OF_ART,,,en,1.0
+Humidity | Rains | Water | Greece,Humidity | Rains | Water | Greece,EVENT,,,en,1.0
+7 to 28 cm,7 to 28 cm,QUANTITY,,,en,1.0
+Norwegians,Norwegians,NORP,,,en,1.0
+80 tons,80 tons,QUANTITY,,,en,1.0
+six to seven minutes,six to seven minutes,TIME,,,en,1.0
+Austria: The snow,Austria: The snow,WORK_OF_ART,,,en,1.0
+7:30 p.m.,7:30 p.m.,TIME,,,en,1.0
+1 km,1 km,QUANTITY,,,en,1.0
 Naiadon street,Naiadon street,FAC,,,en,1.0
+Only 1km Focal Depth,Only 1km Focal Depth,QUANTITY,,,en,1.0
+8 million,8 million,CARDINAL,,,en,1.0
+Mamdani,Mamdani,PRODUCT,,,en,1.0
+633 kilometers,633 kilometers,QUANTITY,,,en,1.0
+two meters,two meters,QUANTITY,,,en,1.0
+Miracle,Miracle,WORK_OF_ART,,,en,1.0
+the two days,the two days,DATE,,,en,1.0
+six to seven days,six to seven days,DATE,,,en,1.0
+9th,9th,ORDINAL,,,en,1.0
+60cm,60cm,QUANTITY,,,en,1.0
 Austrian,Austrian,NORP,,,en,1.0
 Slovak,Slovak,NORP,,,en,1.0
 Shrove Sunday,Shrove Sunday,DATE,,,en,1.0
 | Clean,| Clean,DATE,,,en,1.0
 78.6 mm,78.6 mm,QUANTITY,,,en,1.0
-ten seconds,ten seconds,TIME,,,en,1.0
-12/12,12/12,CARDINAL,,,en,1.0
-21:00 on Sunday night,21:00 on Sunday night,TIME,,,en,1.0
-7:30 p.m.,7:30 p.m.,TIME,,,en,1.0
-100 km/h,100 km/h,QUANTITY,,,en,1.0
-Austria: The snow,Austria: The snow,WORK_OF_ART,,,en,1.0
-79km,79km,QUANTITY,,,en,1.0
-a 300 km,a 300 km,QUANTITY,,,en,1.0
-Saturday - Epi,Saturday - Epi,DATE,,,en,1.0
-60cm,60cm,QUANTITY,,,en,1.0
-9th,9th,ORDINAL,,,en,1.0
-six to seven days,six to seven days,DATE,,,en,1.0
-the two days,the two days,DATE,,,en,1.0
-Miracle,Miracle,WORK_OF_ART,,,en,1.0
-two meters,two meters,QUANTITY,,,en,1.0
-633 kilometers,633 kilometers,QUANTITY,,,en,1.0
-Mamdani,Mamdani,PRODUCT,,,en,1.0
-8 million,8 million,CARDINAL,,,en,1.0
-Only 1km Focal Depth,Only 1km Focal Depth,QUANTITY,,,en,1.0
-1 km,1 km,QUANTITY,,,en,1.0
-0.62 mi,0.62 mi,QUANTITY,,,en,1.0
-about 93 km,about 93 km,QUANTITY,,,en,1.0
-2013,2013,DATE,,,en,1.0
-"more than 3,000","more than 3,000",CARDINAL,,,en,1.0
-80km/h,80km/h,QUANTITY,,,en,1.0
-all night,all night,TIME,,,en,1.0
-| Thunderstorm Warning |,| Thunderstorm Warning |,WORK_OF_ART,,,en,1.0
+40s,40s,CARDINAL,,,en,1.0
