@@ -5,7 +5,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '41889f3e2c',extremes,Thunderstorm,#53785a,wmo,χαλάζι ανατολική Πελοπόννησος,2026-05-22T06:32:00+00:00,Greece,0.4537951391861379,2,1,el,MED,Europe
 'b8eb47bf7f',extremes,Heat Wave,#c40202,random,θόλος θερμότητας,2026-06-07T06:48:00+00:00,,0.4523440784323728,1,2,el,,
 '3ea3d085b4',extremes,Storm,#b3b2b1,wmo,κύμα καταιγίδας κεντρική Μακεδονία,2026-06-04T07:06:00+00:00,Greece,0.4494700023283926,2,1,el,MED,Europe
-'c262014612',extremes,Storm,#b3b2b1,wmo,καταιγίδα ήπειρος,2026-06-24T06:30:00+00:00,Greece,0.44562263524078044,2,1,el,MED,Europe
+'c262014612',extremes,Storm,#b3b2b1,wmo,καταιγίδα ήπειρος,2026-06-24T06:30:00+00:00,Greece,0.4456226352407804,2,1,el,MED,Europe
 '1e7f1c2625',extremes,Storm,#b3b2b1,random,χαμός,2026-06-17T07:33:00+00:00,,0.4424690359882727,2,3,el,,
 '776fe47817',extremes,Wildfire,#d60d2b,random,πυρκαγιά,2026-05-18T06:38:00+00:00,,0.438785475056321,3,3,el,,
 '68ec31b616',extremes,Thunderstorm,#53785a,wmo,χαλάζι ανατολική Μακεδονία,2026-06-03T07:23:00+00:00,Greece,0.4381424568749759,2,1,el,MED,Europe
@@ -78,16 +78,26 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'fa9e452d04',extremes,Precipitation,#d60d2b,random,καταιγίδα,2026-05-25T06:52:00+00:00,,0.3230473645934151,3,2,el,,
 '8a1a9038c3',extremes,Storm,#b3b2b1,random,χιονοθύελλα,2026-06-14T07:06:00+00:00,,0.3218377893345158,1,1,el,,
 '648c26f911',extremes,Drought,#edc291,edo,έλλειψη βροχής ελλάδα,2026-05-24T06:22:00+00:00,Greece,0.3182182527250051,2,1,el,MED,Europe
-'f01104a9ec',extremes,Heat Wave,#c40202,wmo,κύμα καύσωνα Γερμανία,2026-06-18T07:16:00+00:00,Germany,0.31710828855594003,4,1,el,WCE,Europe
+'f01104a9ec',extremes,Heat Wave,#c40202,wmo,κύμα καύσωνα Γερμανία,2026-06-18T07:16:00+00:00,Germany,0.31710828855594,4,1,el,WCE,Europe
 'a4e5430606',extremes,Thunderstorm,#53785a,wmo,έντονα καιρικά φαινόμενα ανατολική Στερεά αμπ Εύβοια,2026-06-12T07:05:00+00:00,Greece,0.3153392872689878,3,1,el,MED,Europe
+'729f81e9bb',extremes,Iceberg,#d60d2b,eonet,παγόβουνο b22h,2026-06-24T06:29:00+00:00,Antarctica,0.3151917905018551,0,1,el,WAN,Antarctica
 'c0ae99f2a9',extremes,Precipitation,#d60d2b,random,έντονη βροχόπτωση,2026-05-18T06:38:00+00:00,,0.3146191851699755,2,2,el,,
 '469687aa19',extremes,Drought,#edc291,edo,έλλειψη βροχής Αλβανία,2026-06-15T08:36:00+00:00,Albania,0.3136153145313965,2,1,el,MED,Europe
 '7015f6a761',extremes,Thunderstorm,#53785a,wmo,χαλάζι κεντρική Μακεδονία,2026-06-02T07:08:00+00:00,Greece,0.313568398835543,3,1,el,MED,Europe
+'5fbcbe15d8',extremes,Iceberg,#d60d2b,eonet,παγόβουνο d33b,2026-06-24T06:29:00+00:00,,0.3124380319247081,0,1,el,EAN,
 '053bb10e09',extremes,Heat Wave,#c40202,random,ινδικό καλοκαίρι,2026-06-18T07:16:00+00:00,,0.3097124545776585,1,1,el,,
 '3d4dbc8c3b',extremes,Precipitation,#d60d2b,random,δυνατή βροχή,2026-06-16T08:27:00+00:00,,0.3088515794149787,2,1,el,,
+'7978d58b02',extremes,Precipitation,#d60d2b,wmo,βροχή Βραζιλία,2026-06-17T07:33:00+00:00,Brazil,0.3085132658720165,0,1,el,SAM,South-America
+'155c83286e',extremes,Precipitation,#d60d2b,wmo,βροχή χερσόνησος κορομαντέλ,2026-06-24T06:30:00+00:00,New Zealand,0.30756940341547295,0,1,el,NZ,Oceania
 '82ed5705b2',extremes,Precipitation,#d60d2b,wmo,νεροποντή Κόστα Ρίκα,2026-06-23T06:33:00+00:00,Costa Rica,0.3063112568852629,0,1,el,SCA,North-America
+'e528d858c2',extremes,Snow&Ice,#d60d2b,wmo,παγετός Βραζιλία,2026-06-15T08:36:00+00:00,Brazil,0.30561891596238305,0,1,el,SAM,South-America
 '9790df1d1c',extremes,Thunderstorm,#53785a,wmo,κακοκαιρία θεσσαλία,2026-06-04T07:06:00+00:00,Greece,0.3054882604146646,3,1,el,MED,Europe
+'39a886a9b9',extremes,Wildfire,#d60d2b,cmeter,wildfire antarctica,2026-06-24T06:30:00+00:00,Antarctica,0.305113404069782,0,1,el,EAN,
+'e7ee03fac9',extremes,Snow&Ice,#d60d2b,wmo,παγωμένος δρόμος κορώνας,2026-06-24T06:30:00+00:00,New Zealand,0.30385291777320317,0,1,el,NZ,Oceania
+'f3f61a0510',extremes,Flood,#030ba1,wmo,πλημμύρα περιοχή Τομσκ,2026-06-15T08:36:00+00:00,Russia,0.30374759513732363,0,1,el,ESB,Europe
 'a840b9c328',extremes,Snow&Ice,#d60d2b,wmo,χιόνι Νέα Ζηλανδία,2026-06-23T06:33:00+00:00,New Zealand,0.3036720903176165,0,1,el,NZ,Oceania
+'9044bc0335',extremes,Earthquake,#870007,usgs,σεισμός Τζωρτζτάουν,2026-06-24T06:29:00+00:00,Saint Helena,0.30343255643902944,0,1,el,EAO,Atlantic Ocean
+'be647fc7a4',extremes,Storm,#b3b2b1,wmo,κύμα καταιγίδας Εκουαδόρ,2026-06-10T06:49:00+00:00,Ecuador,0.302793530878201,0,1,el,NWS,South-America
 '13104e853c',extremes,Drought,#edc291,edo,Ξηρασία Γκαμπόν,2026-06-23T06:33:00+00:00,Gabon,0.302777298933887,0,1,el,CAF,Africa
 '52af874334',extremes,Drought,#edc291,random,ξηρασία,2026-06-23T06:32:00+00:00,,0.3022990568151539,0,1,el,,
 '3f340afd02',extremes,Precipitation,#d60d2b,wmo,καταρρακτώδης βροχή Εκουαδόρ,2026-06-13T06:38:00+00:00,Ecuador,0.3022906770294079,0,1,el,NWS,South-America
@@ -165,7 +175,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '52e589d51e',extremes,Precipitation,#d60d2b,wmo,βροχή Νέα Ζηλανδία,2026-06-20T06:47:00+00:00,New Zealand,0.262227959038657,1,1,el,NZ,Oceania
 '244b4adc07',extremes,Landslide,#572c03,aidr,κατολίσθηση αυστραλία,2026-06-10T06:49:00+00:00,Australia,0.262191140696275,1,1,el,EAU,Oceania
 '8bc0bfe218',extremes,Precipitation,#d60d2b,wmo,καταρρακτώδης βροχή Βραζιλία,2026-06-12T07:05:00+00:00,Brazil,0.2621040278274321,1,1,el,SAM,South-America
-'4ae75fc210',extremes,Precipitation,#d60d2b,wmo,νεροποντή Σαουδική Αραβία,2026-06-23T06:33:00+00:00,Saudi Arabia,0.26210351060814024,1,1,el,ARP,Asia
+'4ae75fc210',extremes,Precipitation,#d60d2b,wmo,νεροποντή Σαουδική Αραβία,2026-06-23T06:33:00+00:00,Saudi Arabia,0.2621035106081402,1,1,el,ARP,Asia
 'a77fe28103',extremes,Precipitation,#d60d2b,wmo,νεροποντή Ώκλαντ και μεγάλο νησί φραγμού,2026-06-23T06:33:00+00:00,New Zealand,0.2619873855865429,1,1,el,NZ,Oceania
 '495243907b',extremes,Precipitation,#d60d2b,wmo,κατακρήμνιση la majeure party du pays.,2026-06-08T07:13:00+00:00,Mali,0.2619036204148463,1,1,el,SAH,Africa
 '82db593da5',extremes,Precipitation,#d60d2b,wmo,νεροποντή χερσόνησος κορομαντέλ,2026-06-23T06:33:00+00:00,New Zealand,0.2618665339280634,1,1,el,NZ,Oceania
@@ -313,7 +323,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'e0f14a84be',extremes,Tropical Cyclone,#4f4f4f,random,εθνικό κέντρο τυφώνων,2026-05-28T06:38:00+00:00,,0.2462631341432895,2,1,el,,
 '6be9519179',extremes,Cold Wave,#a7e9fa,random,ψυχρό κύμα,2026-06-02T07:08:00+00:00,,0.2403936983835372,2,1,el,,
 '45500dcb47',extremes,Precipitation,#d60d2b,random,ρεκόρ βροχοπτώσεων,2026-06-10T06:49:00+00:00,,0.2394345122492867,3,1,el,,
-'59b5340b69',extremes,Precipitation,#d60d2b,random,μέτωπο του καιρού,2026-06-04T07:06:00+00:00,,0.23919735461902245,2,1,el,,
+'59b5340b69',extremes,Precipitation,#d60d2b,random,μέτωπο του καιρού,2026-06-04T07:06:00+00:00,,0.2391973546190224,2,1,el,,
 'd2b5043a66',extremes,Cold Wave,#a7e9fa,random,η χαμηλότερη ελάχιστη θερμοκρασία,2026-06-03T07:22:00+00:00,,0.2387051410486087,3,1,el,,
 'f8039d6ad1',extremes,Cold Wave,#a7e9fa,acwe,κρύο ξόρκι δυτική Αυστραλία,2026-05-27T06:46:00+00:00,Australia,0.2307075435203133,2,1,el,CAU,Oceania
 '1927a6d4e9',extremes,Tropical Cyclone,#4f4f4f,eonet,τροπική καταιγίδα Αμάντα,2026-06-04T07:06:00+00:00,,0.2305342680007449,2,1,el,NPO,Pacific Ocean
