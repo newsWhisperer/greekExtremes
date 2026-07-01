@@ -85,6 +85,16 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '9790df1d1c',extremes,Thunderstorm,#53785a,wmo,κακοκαιρία θεσσαλία,2026-06-04T07:06:00+00:00,Greece,0.3054882604146646,3,1,el,MED,Europe
 'ebf0baeb9e',extremes,Drought,#edc291,edo,ξηρασία αλβανία,2026-06-09T06:33:00+00:00,Albania,0.3021949611909816,2,1,el,MED,Europe
 '52a93d89d4',extremes,Thunderstorm,#53785a,wmo,καταιγίδα ανατολική sterea amp evvoia,2026-06-02T07:08:00+00:00,Greece,0.300661352245405,3,1,el,MED,Europe
+'854af57bd3',extremes,Fog,#d60d2b,wmo,ομίχλη Καναδάς,2026-06-24T06:30:00+00:00,Canada,0.2998278253343798,0,1,el,NEN,North-America
+'82e3d2a385',extremes,Flood,#030ba1,acwe,υψηλή στάθμη νερού νότια Αυστραλία,2026-06-15T08:36:00+00:00,Australia,0.2998151207592392,0,1,el,SAU,Oceania
+'9b59bee21e',extremes,Drought,#edc291,edo,ξηρασία Πολωνία,2026-06-12T07:05:00+00:00,Poland,0.29980155688323434,0,1,el,WCE,Europe
+'b7181b9ed3',extremes,Storm,#b3b2b1,wmo,καταιγίδα inverness κομητεία mabou και βόρεια,2026-06-16T08:27:00+00:00,Canada,0.2998003208572942,0,1,el,NEN,North-America
+'828fe03351',extremes,Snow&Ice,#d60d2b,wmo,πάγος χιονισμένα βουνά της Νέας Νότιας Ουαλίας,2026-06-19T07:39:00+00:00,Australia,0.2997645087082268,0,1,el,CAU,Oceania
+'0dedeac327',extremes,Precipitation,#d60d2b,wmo,καταρρακτώδης βροχή fiordland,2026-06-19T07:39:00+00:00,New Zealand,0.29975510430199476,0,1,el,NZ,Oceania
+'fb2669902d',extremes,Wildfire,#d60d2b,wmo,wildfire περιοχή samara,2026-06-17T07:33:00+00:00,Russia,0.29975155219072136,0,1,el,ESB,Europe
+'6eb74257af',extremes,Storm,#b3b2b1,wmo,κατάσταση καταιγίδας του Κουβέιτ,2026-06-16T08:27:00+00:00,Kuwait,0.29975067917429243,0,1,el,ARP,Asia
+'f1c9dfa3a2',extremes,Earthquake,#870007,usgs,σεισμός Νικόλσκι,2026-06-27T06:08:00+00:00,Alaska,0.2997494039126939,0,1,el,NPO,Pacific Ocean
+'3e806f55ec',extremes,Precipitation,#d60d2b,wmo,νεροποντή στις περιοχές της δυτικής περιοχής,2026-06-19T07:39:00+00:00,New Zealand,0.29973050891225556,0,1,el,NZ,Oceania
 'deaa4b70a0',extremes,Storm,#b3b2b1,random,αμμοθύελλα,2026-06-09T06:32:00+00:00,,0.2980538179038604,1,1,el,,
 '40f675561f',extremes,Heat Wave,#c40202,random,το πιο ζεστό καλοκαίρι,2026-06-11T07:14:00+00:00,,0.2941436232708976,1,1,el,,
 '283b154c38',extremes,Wet Spell,#d60d2b,random,βρεγμένο ξόρκι,2026-05-31T06:40:00+00:00,,0.2884383800012831,2,1,el,,
@@ -386,7 +396,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'acd0e1409b',extremes,Flood,#030ba1,acwe,πλημμύρες στη Νέα Νότια Ουαλία,2026-06-13T06:38:00+00:00,Australia,0.22745569381347,2,1,el,EAU,Oceania
 'a8955ad6a2',extremes,Cold Wave,#a7e9fa,random,κρύο κρούσμα,2026-06-15T08:36:00+00:00,,0.2274314710003104,2,1,el,,
 '16afad5339',extremes,Heat Wave,#c40202,acwe,ήπιος χειμώνας Νότια Αυστραλία,2026-06-19T07:39:00+00:00,Australia,0.2269717427370962,2,1,el,CAU,Oceania
-'f314bb7747',extremes,Flood,#030ba1,aidr,pluvial flooding australia,2026-06-13T06:38:00+00:00,Australia,0.22663835880057823,2,1,el,EAU,Oceania
+'f314bb7747',extremes,Flood,#030ba1,aidr,pluvial flooding australia,2026-06-13T06:38:00+00:00,Australia,0.2266383588005782,2,1,el,EAU,Oceania
 '60a34b83b0',extremes,Flood,#030ba1,acwe,πλημμύρες νότια Αυστραλία,2026-06-04T07:06:00+00:00,Australia,0.226584821554404,2,1,el,SAU,Oceania
 'ec9681f6d8',extremes,Flood,#030ba1,aidr,πλημμύρα Τασμανία Ιούνιος Ιούλιος 2016,2026-06-02T07:08:00+00:00,Australia,0.2263139786777642,2,1,el,SAU,Oceania
 'ab5d1234a0',extremes,Flood,#030ba1,aidr,flood hobart flash flooding tasmania 2018,2026-06-01T07:30:00+00:00,Australia,0.2255233373813785,2,1,el,SAU,Oceania
