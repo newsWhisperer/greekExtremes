@@ -1,11 +1,10 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'2c615566d1',extremes,Heat Wave,#c40202,wmo,κύμα καύσωνα νησιά Δωδεκάνησα,2026-06-28T06:44:00+00:00,Greece,0.6272076678039343,0,1,el,MED,Europe
-'aee6956f34',extremes,Storm,#b3b2b1,wmo,καταιγίδα δυτική Στερεά,2026-07-05T06:25:00+00:00,Greece,0.6175322977320786,0,1,el,MED,Europe
-'d5851c2bc9',extremes,Storm,#b3b2b1,wmo,καταιγίδα δυτική Πελοπόννησος,2026-07-05T06:25:00+00:00,Greece,0.598784166118658,0,1,el,MED,Europe
+'2c615566d1',extremes,Heat Wave,#c40202,wmo,κύμα καύσωνα νησιά Δωδεκάνησα,2026-06-28T06:44:00+00:00,Greece,0.5331265176333442,1,1,el,MED,Europe
+'aee6956f34',extremes,Storm,#b3b2b1,wmo,καταιγίδα δυτική Στερεά,2026-07-05T06:25:00+00:00,Greece,0.5249024530722668,1,1,el,MED,Europe
+'d5851c2bc9',extremes,Storm,#b3b2b1,wmo,καταιγίδα δυτική Πελοπόννησος,2026-07-05T06:25:00+00:00,Greece,0.5089665412008593,1,1,el,MED,Europe
 '1caafaca2a',extremes,Storm,#b3b2b1,wmo,κύμα καταιγίδας ελλάδα,2026-06-23T06:33:00+00:00,Greece,0.4985960503771742,2,1,el,MED,Europe
 '2e2a852d68',extremes,Earthquake,#870007,usgs,σεισμός κάρπαθος,2026-07-03T06:09:00+00:00,Greece,0.4956052270325122,2,1,el,MED,Europe
 'ca94998c29',extremes,Heat Wave,#c40202,wmo,κύμα καύσωνα Ηνωμένο Βασίλειο,2026-06-21T07:16:00+00:00,United Kingdom,0.4948000313519813,2,2,el,NEU,Europe
-'7fa9213218',extremes,Thunderstorm,#53785a,wmo,χαλάζι θεσσαλία,2026-07-05T06:25:00+00:00,Greece,0.49110972632499295,0,1,el,MED,Europe
 'e4c0eb1729',extremes,Wildfire,#d60d2b,random,πυρκαγιά,2026-06-19T07:39:00+00:00,,0.4886622707845064,2,3,el,,
 '60a5373b45',extremes,Earthquake,#870007,usgs,σεισμός Κύθηρα,2026-07-03T06:09:00+00:00,Greece,0.483907679578572,2,1,el,MED,Europe
 '20741ce7eb',extremes,Tsunami,#690191,random,τσουνάμι,2026-05-27T06:46:00+00:00,,0.4693818156010997,2,3,el,,
@@ -39,6 +38,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '53fdeb9836',extremes,Earthquake,#870007,usgs,σεισμός λίμνη,2026-06-08T07:13:00+00:00,Greece,0.4278441230323991,4,2,el,MED,Europe
 '762f5b8867',extremes,Heat Wave,#c40202,wmo,καύσωνας ήπειρος,2026-06-21T07:16:00+00:00,Greece,0.4243280552184755,4,2,el,MED,Europe
 '3ba62ce4f2',extremes,Earthquake,#870007,usgs,σεισμός ελλάδα,2026-06-10T06:49:00+00:00,Greece,0.4192217930512997,3,2,el,MED,Europe
+'7fa9213218',extremes,Thunderstorm,#53785a,wmo,χαλάζι θεσσαλία,2026-07-05T06:25:00+00:00,Greece,0.41774329737624394,1,1,el,MED,Europe
 '0198490ba7',extremes,Heat Wave,#c40202,wmo,κύμα καύσωνα κεντρική Μακεδονία,2026-06-21T07:16:00+00:00,Greece,0.4149371279890157,3,1,el,MED,Europe
 '80c06ab8a0',extremes,Cold Wave,#a7e9fa,random,πτώση της θερμοκρασίας,2026-05-31T06:40:00+00:00,,0.4145539997563395,3,3,el,,
 '47a71b6762',extremes,Thunderstorm,#53785a,wmo,έντονα καιρικά φαινόμενα στην Ελλάδα,2026-06-04T07:06:00+00:00,Greece,0.4141281668414053,3,1,el,MED,Europe
