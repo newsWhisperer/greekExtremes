@@ -1,334 +1,302 @@
 ,phrase,label,sentiment,subjectivity,language,count
-EMY,EMY,ORG,-0.08558663558663561,0.3361926961926963,en,32.49999999999998
-NewsIT,NewsIT,ORG,0.031468531468531485,0.16083916083916094,en,28.59999999999998
+EMY,EMY,ORG,-0.05487402433425162,0.3515983700642793,en,35.199999999999974
+NewsIT,NewsIT,ORG,0.022364217252396183,0.16293929712460076,en,31.299999999999976
+the Fire Department,the Fire Department,ORG,0.11720641646489108,0.32357243744955616,en,23.599999999999994
 the Geodynamic Institute,the Geodynamic Institute,ORG,0.01721439749608764,0.05712050078247262,en,21.299999999999997
 the Supreme Court,the Supreme Court,ORG,-0.003108919382504285,0.37760863350486,en,21.199999999999992
-the Fire Department,the Fire Department,ORG,0.11161426293005243,0.3302859421280474,en,20.9
 PASOK,PASOK,ORG,0.039345632018045806,0.4783871141629763,en,20.299999999999997
-Trump,Trump,ORG,0.04974443227455276,0.2056407447973713,en,16.6
+Trump,Trump,ORG,0.04773165177789456,0.197320021019443,en,17.3
 the Fire Service,the Fire Service,ORG,0.016455696202531647,0.13481012658227848,en,15.8
+USGS,USGS,ORG,0.33253333333333335,0.6187999999999999,en,12.500000000000002
 Erminio,Erminio,ORG,-0.2536318469245297,0.5572103145273876,en,12.300000000000002
 EU,EU,ORG,0.03342419522326064,0.12490913811007268,en,10.700000000000001
-USGS,USGS,ORG,0.39183673469387753,0.6617346938775509,en,9.8
 Areios Pagos,Areios Pagos,ORG,0.05813234384662958,0.43201144094001237,en,9.799999999999999
 the Department of Meteorology,the Department of Meteorology,ORG,0.07006815139345259,0.19777290982110257,en,8.3
 Thrace,Thrace,ORG,0.04324894514767933,0.36181434599156115,en,7.900000000000001
+the Geodynamic Institute's,the Geodynamic Institute's,ORG,0.05292652552926525,0.107928601079286,en,7.300000000000001
+the US Geological Survey,the US Geological Survey,ORG,0.3671361502347417,0.6704225352112675,en,7.1000000000000005
 OPEKEPE,OPEKEPE,ORG,0.11857707509881421,0.35419411506368026,en,6.9
 UAE,UAE,ORG,-0.039452495974235106,0.23027375201288244,en,6.9
 Supreme Court,Supreme Court,ORG,0.0,0.1515151515151515,en,6.6000000000000005
-the Geodynamic Institute's,the Geodynamic Institute's,ORG,0.06036931818181818,0.1231060606060606,en,6.4
-the US Geological Survey,the US Geological Survey,ORG,0.3693548387096774,0.646774193548387,en,6.2
 SYRIZA,SYRIZA,ORG,0.08829201101928376,0.17217630853994492,en,5.5
 The Supreme Court,The Supreme Court,ORG,-0.04938271604938272,0.08641975308641976,en,5.3999999999999995
 Ilissos,Ilissos,ORG,-0.3228511530398323,0.5964360587002097,en,5.3
 the National Weather Service,the National Weather Service,ORG,-0.02510683760683759,0.2948717948717949,en,5.2
 the Geodynamic Institute of,the Geodynamic Institute of,ORG,-0.07653061224489795,0.12755102040816327,en,4.9
 Prokopi Evia,Prokopi Evia,ORG,0.055658627087198514,0.1855287569573284,en,4.8999999999999995
-Violanda,Violanda,ORG,-0.010869565217391318,0.3007246376811594,en,4.6
 the National Meteorological Service,the National Meteorological Service,ORG,-0.01630434782608696,0.21195652173913043,en,4.6
+Violanda,Violanda,ORG,-0.010869565217391318,0.3007246376811594,en,4.6
 The Fire Department,The Fire Department,ORG,-0.08838383838383836,0.30952380952380953,en,4.2
+OASP,OASP,ORG,0.3105555555555556,0.4504166666666667,en,4.0
 El Niño,El Niño,ORG,0.13125,0.2734375,en,4.0
-Parnitha,Parnitha,ORG,0.15990990990990991,0.3378378378378379,en,3.6999999999999997
-EMSC,EMSC,ORG,0.09009009009009007,0.33333333333333337,en,3.6999999999999997
-The Athens Stock Exchange,The Athens Stock Exchange,ORG,0.2542997542997543,0.33415233415233414,en,3.6999999999999997
-NASA,NASA,ORG,0.39613314613314615,0.4901061776061776,en,3.6999999999999997
-DEOS,DEOS,ORG,0.069000819000819,0.15724815724815724,en,3.6999999999999997
-NBA,NBA,ORG,0.1024921024921025,0.3391394641394642,en,3.6999999999999997
 Bloomberg,Bloomberg,ORG,-0.04204204204204205,0.0,en,3.6999999999999997
-the Euro-Mediterranean Seismological Center,the Euro-Mediterranean Seismological Center,ORG,0.036036036036036015,0.16666666666666666,en,3.6999999999999997
+EMSC,EMSC,ORG,0.09009009009009007,0.33333333333333337,en,3.6999999999999997
 Mati,Mati,ORG,-0.20270270270270271,0.6351351351351352,en,3.6999999999999997
 Sykies,Sykies,ORG,0.027027027027027032,0.0,en,3.6999999999999997
+Parnitha,Parnitha,ORG,0.15990990990990991,0.3378378378378379,en,3.6999999999999997
+The Athens Stock Exchange,The Athens Stock Exchange,ORG,0.2542997542997543,0.33415233415233414,en,3.6999999999999997
+the Meteorological Service,the Meteorological Service,ORG,-0.07125307125307123,0.17690417690417692,en,3.6999999999999997
+DEOS,DEOS,ORG,0.069000819000819,0.15724815724815724,en,3.6999999999999997
+NBA,NBA,ORG,0.1024921024921025,0.3391394641394642,en,3.6999999999999997
+the Euro-Mediterranean Seismological Center,the Euro-Mediterranean Seismological Center,ORG,0.036036036036036015,0.16666666666666666,en,3.6999999999999997
+NASA,NASA,ORG,0.39613314613314615,0.4901061776061776,en,3.6999999999999997
 LNG,LNG,ORG,0.06394557823129252,0.3147959183673469,en,3.5
 Police,Police,ORG,0.0,0.0,en,3.4999999999999996
+Civil Protection,Civil Protection,ORG,-0.3371212121212121,0.15782828282828282,en,3.3
 Sporades,Sporades,ORG,0.010101010101010104,0.049663299663299666,en,3.3
 Kasos,Kasos,ORG,0.04132231404958678,0.13774104683195593,en,3.3
 Parliament,Parliament,ORG,0.1216712580348944,0.28772574227119685,en,3.3
-OASP,OASP,ORG,0.28552188552188557,0.24292929292929297,en,3.3
 Sony,Sony,ORG,0.125,0.41935483870967744,en,3.1
 Geodynamic Institute,Geodynamic Institute,ORG,0.0,0.32258064516129037,en,3.0999999999999996
 ELAS,ELAS,ORG,0.036168132942326486,0.5268817204301076,en,3.0999999999999996
 PAOK,PAOK,ORG,0.08779761904761905,0.6145833333333334,en,2.8
-Enceladus,Enceladus,ORG,0.050595238095238096,0.20238095238095238,en,2.8
-ELGA,ELGA,ORG,-0.49999999999999994,0.2380952380952381,en,2.8
-Rizoma,Rizoma,ORG,-0.35714285714285715,0.0,en,2.8
-The Ionian Road,The Ionian Road,ORG,-0.09173044217687076,0.2056760204081633,en,2.8
-the Meteorological Service,the Meteorological Service,ORG,-0.07629870129870128,0.16233766233766234,en,2.8
-AFP,AFP,ORG,-0.21428571428571433,0.01785714285714286,en,2.8
 the European Parliament,the European Parliament,ORG,0.03571428571428572,0.10952380952380952,en,2.8
-Assos,Assos,ORG,0.03571428571428572,0.0,en,2.8
-Ilion,Ilion,ORG,-0.13732993197278914,0.5059523809523809,en,2.8
 Chevron,Chevron,ORG,0.044642857142857144,0.14285714285714288,en,2.8
+Enceladus,Enceladus,ORG,0.050595238095238096,0.20238095238095238,en,2.8
+AFP,AFP,ORG,-0.21428571428571433,0.01785714285714286,en,2.8
 the Ministry of Culture,the Ministry of Culture,ORG,0.008928571428571432,0.14285714285714288,en,2.8
-WSJ,WSJ,ORG,0.0,0.0,en,2.8
+Rizoma,Rizoma,ORG,-0.35714285714285715,0.0,en,2.8
+ELGA,ELGA,ORG,-0.49999999999999994,0.2380952380952381,en,2.8
 Senate,Senate,ORG,0.0,0.5,en,2.8
+The Ionian Road,The Ionian Road,ORG,-0.09173044217687076,0.2056760204081633,en,2.8
+Ilion,Ilion,ORG,-0.13732993197278914,0.5059523809523809,en,2.8
+WSJ,WSJ,ORG,0.0,0.0,en,2.8
+Assos,Assos,ORG,0.03571428571428572,0.0,en,2.8
 AI,AI,ORG,0.0743006993006993,0.11538461538461538,en,2.6
-Civil Protection,Civil Protection,ORG,-0.42788461538461536,0.20032051282051283,en,2.5999999999999996
+EMODE,EMODE,ORG,0.0,0.0,en,2.6
+ERT,ERT,ORG,0.1730769230769231,0.6153846153846155,en,2.5999999999999996
 Arkesini,Arkesini,ORG,0.0,0.0,en,2.4999999999999996
-Navy,Navy,ORG,0.14930555555555558,0.19907407407407404,en,2.4
 Roma,Roma,ORG,-0.1388888888888889,0.05555555555555556,en,2.4
-the Archive of the Supreme Court of Justice,the Archive of the Supreme Court of Justice,ORG,0.33333333333333337,0.375,en,2.4
-Areios Pagos |,Areios Pagos |,ORG,-0.011574074074074068,0.375,en,2.4
 Fire Department,Fire Department,ORG,0.4444444444444445,0.45833333333333337,en,2.4
+Navy,Navy,ORG,0.14930555555555558,0.19907407407407404,en,2.4
+Areios Pagos |,Areios Pagos |,ORG,-0.011574074074074068,0.375,en,2.4
+the Archive of the Supreme Court of Justice,the Archive of the Supreme Court of Justice,ORG,0.33333333333333337,0.375,en,2.4
 "Techblog.gr
 ","Techblog.gr
 ",ORG,0.5113636363636364,0.6818181818181818,en,2.2
-WRC,WRC,ORG,0.13157894736842105,0.0,en,1.9
-the Southern Sector,the Southern Sector,ORG,-0.06578947368421052,0.0,en,1.9
+Rally Croatia,Rally Croatia,ORG,0.0,0.0,en,1.9
+PAOK - OFI,PAOK - OFI,ORG,0.0,0.3508771929824561,en,1.9
+the Met Office,the Met Office,ORG,0.0,0.0,en,1.9
+the Premier League,the Premier League,ORG,0.15789473684210525,0.2631578947368421,en,1.9
+Anthiro,Anthiro,ORG,-0.016374269005847958,0.13771929824561407,en,1.9
+the Fire Brigade,the Fire Brigade,ORG,0.03947368421052632,0.19736842105263158,en,1.9
 Euroclear,Euroclear,ORG,0.02631578947368421,0.008771929824561403,en,1.9
+PASYDY,PASYDY,ORG,-0.06578947368421052,0.19736842105263158,en,1.9
+WRC,WRC,ORG,0.13157894736842105,0.0,en,1.9
+Turkish Airlines,Turkish Airlines,ORG,0.2067669172932331,0.2725563909774436,en,1.9
+Georgiadis,Georgiadis,ORG,0.0,0.0,en,1.9
+Volkswagen,Volkswagen,ORG,0.0,0.0,en,1.9
+Menidi,Menidi,ORG,-0.052631578947368425,0.0,en,1.9
+Hyundai,Hyundai,ORG,0.0,0.0,en,1.9
+Gennimata,Gennimata,ORG,-0.06578947368421052,0.0,en,1.9
+The European Commission,The European Commission,ORG,0.0,0.0,en,1.9
+Hondius,Hondius,ORG,0.0,0.0,en,1.9
+Intel,Intel,ORG,0.0388755980861244,0.23923444976076555,en,1.9
+NHS,NHS,ORG,0.017543859649122834,0.36257309941520466,en,1.9
+Sivota,Sivota,ORG,-0.36842105263157887,0.0,en,1.9
+Kremlin,Kremlin,ORG,0.20467836257309943,0.0,en,1.9
+kitasweather,kitasweather,ORG,-0.07894736842105264,0.15789473684210525,en,1.9
+Port-Olry,Port-Olry,ORG,0.22807017543859648,0.38596491228070173,en,1.9
+SDOE,SDOE,ORG,0.011363636363636364,0.13875598086124405,en,1.9
+The Fire Service,The Fire Service,ORG,-0.022556390977443646,0.3082706766917293,en,1.9
 Microsoft,Microsoft,ORG,0.3253588516746412,0.5263157894736842,en,1.9
-Troodos,Troodos,ORG,-0.052631578947368425,0.13157894736842105,en,1.9
+Bora,Bora,ORG,0.5263157894736842,0.2631578947368421,en,1.9
+EKPA,EKPA,ORG,0.08771929824561403,0.13157894736842105,en,1.9
+Arta - Amfilochia,Arta - Amfilochia,ORG,-0.04088345864661654,0.14520676691729326,en,1.9
+Thodoris Kolidas,Thodoris Kolidas,ORG,-0.7368421052631577,0.3508771929824561,en,1.9
+Ust-Luga,Ust-Luga,ORG,0.0,0.0,en,1.9
+SBU,SBU,ORG,0.05639097744360902,0.3759398496240602,en,1.9
 EFKA,EFKA,ORG,0.07177033492822966,0.23923444976076555,en,1.9
 KitasWeather,KitasWeather,ORG,-0.10526315789473685,0.2631578947368421,en,1.9
 "title=""4.3","title=""4.3",ORG,0.08771929824561403,0.17543859649122806,en,1.9
-Ust-Luga,Ust-Luga,ORG,0.0,0.0,en,1.9
-ERT,ERT,ORG,0.07894736842105264,0.31578947368421056,en,1.9
-PASYDY,PASYDY,ORG,-0.06578947368421052,0.19736842105263158,en,1.9
+Troodos,Troodos,ORG,-0.052631578947368425,0.13157894736842105,en,1.9
 Hezbollah,Hezbollah,ORG,-0.10526315789473685,0.0,en,1.9
-Intel,Intel,ORG,0.0388755980861244,0.23923444976076555,en,1.9
-the Kenya Rally,the Kenya Rally,ORG,0.23684210526315788,0.052631578947368425,en,1.9
-Georgiadis,Georgiadis,ORG,0.0,0.0,en,1.9
-SDOE,SDOE,ORG,0.011363636363636364,0.13875598086124405,en,1.9
-Gennimata,Gennimata,ORG,-0.06578947368421052,0.0,en,1.9
-the Met Office,the Met Office,ORG,0.0,0.0,en,1.9
-PAOK - OFI,PAOK - OFI,ORG,0.0,0.3508771929824561,en,1.9
-Papigo,Papigo,ORG,-0.47368421052631576,0.0,en,1.9
-Rally Croatia,Rally Croatia,ORG,0.0,0.0,en,1.9
-Hyundai,Hyundai,ORG,0.0,0.0,en,1.9
-the Fire Brigade,the Fire Brigade,ORG,0.03947368421052632,0.19736842105263158,en,1.9
-The Fire Service,The Fire Service,ORG,-0.022556390977443646,0.3082706766917293,en,1.9
-Sivota,Sivota,ORG,-0.36842105263157887,0.0,en,1.9
-the Premier League,the Premier League,ORG,0.15789473684210525,0.2631578947368421,en,1.9
-Arta - Amfilochia,Arta - Amfilochia,ORG,-0.04088345864661654,0.14520676691729326,en,1.9
-Kremlin,Kremlin,ORG,0.20467836257309943,0.0,en,1.9
-The European Commission,The European Commission,ORG,0.0,0.0,en,1.9
-Port-Olry,Port-Olry,ORG,0.22807017543859648,0.38596491228070173,en,1.9
-Hondius,Hondius,ORG,0.0,0.0,en,1.9
-Turkish Airlines,Turkish Airlines,ORG,0.2067669172932331,0.2725563909774436,en,1.9
 Polygono,Polygono,ORG,-0.17105263157894737,0.23026315789473686,en,1.9
-Bora,Bora,ORG,0.5263157894736842,0.2631578947368421,en,1.9
-Anthiro,Anthiro,ORG,-0.016374269005847958,0.13771929824561407,en,1.9
-kitasweather,kitasweather,ORG,-0.07894736842105264,0.15789473684210525,en,1.9
 the European Union,the European Union,ORG,0.02631578947368421,0.008771929824561403,en,1.9
-Volkswagen,Volkswagen,ORG,0.0,0.0,en,1.9
-SBU,SBU,ORG,0.05639097744360902,0.3759398496240602,en,1.9
-NHS,NHS,ORG,0.017543859649122834,0.36257309941520466,en,1.9
-Thodoris Kolidas,Thodoris Kolidas,ORG,-0.7368421052631577,0.3508771929824561,en,1.9
+the Southern Sector,the Southern Sector,ORG,-0.06578947368421052,0.0,en,1.9
 Vardousia,Vardousia,ORG,0.0,0.0,en,1.9
-EKPA,EKPA,ORG,0.08771929824561403,0.13157894736842105,en,1.9
-Menidi,Menidi,ORG,-0.052631578947368425,0.0,en,1.9
-Astros,Astros,ORG,-0.2037037037037037,0.271604938271605,en,1.8
+the Kenya Rally,the Kenya Rally,ORG,0.23684210526315788,0.052631578947368425,en,1.9
+Papigo,Papigo,ORG,-0.47368421052631576,0.0,en,1.9
 the Cyprus Meteorological Department,the Cyprus Meteorological Department,ORG,-0.018518518518518514,0.2777777777777778,en,1.8
-the Risk Assessment Committee,the Risk Assessment Committee,ORG,-0.106060606060606,0.2575757575757575,en,1.8
-Attiki,Attiki,ORG,-0.3935185185185185,0.21296296296296294,en,1.8
 The Risk Assessment Committee,The Risk Assessment Committee,ORG,-0.0625,0.2152777777777778,en,1.8
 Google,Google,ORG,0.5486111111111112,0.9375,en,1.8
-Tsipras,Tsipras,ORG,-0.11764705882352944,0.43137254901960786,en,1.7
-the Municipal Unit of Paramythia,the Municipal Unit of Paramythia,ORG,0.09068627450980392,0.32598039215686275,en,1.7
-Harilaou Trikoupi,Harilaou Trikoupi,ORG,0.07843137254901958,0.43137254901960786,en,1.7
-cloudevo,cloudevo,ORG,0.0,0.0,en,1.7
-the Prosecutor of the Supreme Court,the Prosecutor of the Supreme Court,ORG,0.2549019607843137,0.0,en,1.7
-Department,Department,ORG,0.0,0.0,en,1.7
-Basketball League,Basketball League,ORG,-0.04705882352941178,0.12745098039215685,en,1.7
-Single,Single,ORG,0.07352941176470588,0.29411764705882354,en,1.7
-Konstantopoulou,Konstantopoulou,ORG,0.0,0.0,en,1.7
-Dafnousa,Dafnousa,ORG,0.09558823529411765,0.29411764705882354,en,1.7
-UN,UN,ORG,0.6823529411764706,0.3176470588235294,en,1.7
+Attiki,Attiki,ORG,-0.3935185185185185,0.21296296296296294,en,1.8
+the Risk Assessment Committee,the Risk Assessment Committee,ORG,-0.106060606060606,0.2575757575757575,en,1.8
+Astros,Astros,ORG,-0.2037037037037037,0.271604938271605,en,1.8
 NOAA,NOAA,ORG,0.0392156862745098,0.0,en,1.7
+Basketball League,Basketball League,ORG,-0.04705882352941178,0.12745098039215685,en,1.7
+Tsipras,Tsipras,ORG,-0.11764705882352944,0.43137254901960786,en,1.7
+the Prosecutor of the Supreme Court,the Prosecutor of the Supreme Court,ORG,0.2549019607843137,0.0,en,1.7
+Wall Street Journal,Wall Street Journal,ORG,0.14705882352941177,0.29411764705882354,en,1.7
+Harilaou Trikoupi,Harilaou Trikoupi,ORG,0.07843137254901958,0.43137254901960786,en,1.7
+Konstantopoulou,Konstantopoulou,ORG,0.0,0.0,en,1.7
+Department,Department,ORG,0.0,0.0,en,1.7
+Single,Single,ORG,0.07352941176470588,0.29411764705882354,en,1.7
 Mantoudi - Limni - Agia Anna,Mantoudi - Limni - Agia Anna,ORG,0.1843137254901961,0.3176470588235294,en,1.7
 Prokopi,Prokopi,ORG,0.07352941176470588,0.2205882352941176,en,1.7
-Tsipras Party,Tsipras Party,ORG,-0.058823529411764705,0.21428571428571427,en,1.7
-EMODE,EMODE,ORG,0.0,0.0,en,1.7
-Wall Street Journal,Wall Street Journal,ORG,0.14705882352941177,0.29411764705882354,en,1.7
-Red Star,Red Star,ORG,-0.09803921568627451,0.0,en,1.7
+Dafnousa,Dafnousa,ORG,0.09558823529411765,0.29411764705882354,en,1.7
+the Municipal Unit of Paramythia,the Municipal Unit of Paramythia,ORG,0.09068627450980392,0.32598039215686275,en,1.7
+cloudevo,cloudevo,ORG,0.0,0.0,en,1.7
 Papandreou,Papandreou,ORG,0.0,0.17647058823529413,en,1.7
+Red Star,Red Star,ORG,-0.09803921568627451,0.0,en,1.7
+UN,UN,ORG,0.6823529411764706,0.3176470588235294,en,1.7
+Tsipras Party,Tsipras Party,ORG,-0.058823529411764705,0.21428571428571427,en,1.7
 SSD,SSD,ORG,0.078125,0.7421875,en,1.6
 the European Public Prosecutor's Office,the European Public Prosecutor's Office,ORG,0.005494505494505496,0.08058608058608058,en,1.3
-Rescues,Rescues,ORG,0.0,0.0,en,1.0
-the Press Representative of the Fire Service,the Press Representative of the Fire Service,ORG,0.0,0.0,en,1.0
-Yomiuri Shimbun,Yomiuri Shimbun,ORG,0.15625,0.0,en,1.0
-The European Public Prosecutor's Office,The European Public Prosecutor's Office,ORG,-0.006249999999999999,0.0,en,1.0
-Phytoplankton,Phytoplankton,ORG,0.0,0.0,en,1.0
-GDAEFK,GDAEFK,ORG,0.0,0.0,en,1.0
-the Japan Meteorological Agency,the Japan Meteorological Agency,ORG,0.0,0.0,en,1.0
-Giorgos Tsatraphyllias,Giorgos Tsatraphyllias,ORG,0.2848484848484848,0.0,en,1.0
-Sporades - Improvement,Sporades - Improvement,ORG,0.2848484848484848,0.0,en,1.0
+the Association of Relatives of the Dead,the Association of Relatives of the Dead,ORG,-0.2,0.0,en,1.0
 Banks,Banks,ORG,-0.15555555555555559,0.0,en,1.0
-Softades,Softades,ORG,-0.0625,0.0,en,1.0
-the Fire Department's,the Fire Department's,ORG,-0.1,0.0,en,1.0
-Nea Kydonia High School,Nea Kydonia High School,ORG,0.48000000000000004,0.0,en,1.0
-News,News,ORG,0.0,0.0,en,1.0
-NHK,NHK,ORG,0.02,0.0,en,1.0
-the Minister of Justice,the Minister of Justice,ORG,-0.1,0.0,en,1.0
-Easter,Easter,ORG,0.0,0.0,en,1.0
-Viva Energy,Viva Energy,ORG,0.25000000000000006,0.0,en,1.0
-Suez,Suez,ORG,0.75,0.0,en,1.0
-Cristina,Cristina,ORG,-0.1,0.0,en,1.0
-the Partizan-Dubai BC,the Partizan-Dubai BC,ORG,0.1,0.0,en,1.0
-Kalamos,Kalamos,ORG,0.05,0.0,en,1.0
-Areopagite,Areopagite,ORG,0.35,0.0,en,1.0
-the University General Hospital of Ioannina,the University General Hospital of Ioannina,ORG,0.125,0.0,en,1.0
-the European Prosecutor's Office,the European Prosecutor's Office,ORG,0.0,0.0,en,1.0
-Hailfall,Hailfall,ORG,0.2,0.0,en,1.0
-IRS,IRS,ORG,0.0,0.0,en,1.0
-Interfax,Interfax,ORG,0.0,0.0,en,1.0
-Aktaeo Patron,Aktaeo Patron,ORG,-0.1,0.0,en,1.0
-Patreon Achaia,Patreon Achaia,ORG,0.0,0.0,en,1.0
-BYD,BYD,ORG,0.0,0.0,en,1.0
-BYD (Build Your Dreams,BYD (Build Your Dreams,ORG,0.15714285714285714,0.0,en,1.0
-the University of Ioannina,the University of Ioannina,ORG,0.125,0.0,en,1.0
-New York Times Report - Trump,New York Times Report - Trump,ORG,0.13636363636363635,0.0,en,1.0
-the Department of Meteorology of,the Department of Meteorology of,ORG,0.16666666666666663,0.0,en,1.0
-the United Kingdom Maritime Trade Service,the United Kingdom Maritime Trade Service,ORG,0.0,0.0,en,1.0
-Edi Rama,Edi Rama,ORG,0.03333333333333333,0.0,en,1.0
-The Suez Canal Authority,The Suez Canal Authority,ORG,0.0,0.0,en,1.0
-the Cyprus Meteorological Service,the Cyprus Meteorological Service,ORG,0.0,0.0,en,1.0
-the 9th EMODE,the 9th EMODE,ORG,0.0,0.0,en,1.0
-OpenAI,OpenAI,ORG,0.0,0.0,en,1.0
-ATA,ATA,ORG,0.0,0.0,en,1.0
-Aircraft,Aircraft,ORG,0.0,0.0,en,1.0
-NAVY,NAVY,ORG,1.0,0.0,en,1.0
-PerissoIt,PerissoIt,ORG,0.0,0.0,en,1.0
-the German Center for Geosciences (GFZ,the German Center for Geosciences (GFZ,ORG,-0.05,0.0,en,1.0
-the Autoforous Court of Heraklion,the Autoforous Court of Heraklion,ORG,0.0,0.0,en,1.0
-Beogradska Arena,Beogradska Arena,ORG,-0.16666666666666666,0.0,en,1.0
-Rio de Janeiro | Helicopters | Helicopter Crash | Dead,Rio de Janeiro | Helicopters | Helicopter Crash | Dead,ORG,-0.2333333333333333,0.0,en,1.0
-the Department of Forestry,the Department of Forestry,ORG,0.3333333333333333,0.0,en,1.0
-The Lakatamia Fire Station,The Lakatamia Fire Station,ORG,0.0,0.0,en,1.0
-The Acropolis Fire Station,The Acropolis Fire Station,ORG,0.0,0.0,en,1.0
-KTAMS,KTAMS,ORG,-0.125,0.0,en,1.0
-Anthili Fthiotidas - Aircraft,Anthili Fthiotidas - Aircraft,ORG,0.0,0.0,en,1.0
-the Notre Dame Cathedral,the Notre Dame Cathedral,ORG,-0.0625,0.0,en,1.0
-Palu,Palu,ORG,0.16666666666666666,0.0,en,1.0
-Sigi,Sigi,ORG,0.16666666666666666,0.0,en,1.0
+Kavvadas,Kavvadas,ORG,0.0,0.0,en,1.0
+MINISTRY OF MINISTRY:,MINISTRY OF MINISTRY:,ORG,0.0,0.0,en,1.0
+PASOK-Movement,PASOK-Movement,ORG,0.1787878787878788,0.0,en,1.0
+the Minister of Health,the Minister of Health,ORG,0.06666666666666667,0.0,en,1.0
+The Russian Meteorological Center,The Russian Meteorological Center,ORG,-0.05,0.0,en,1.0
+the White House Correspondents' Dinner,the White House Correspondents' Dinner,ORG,0.0,0.0,en,1.0
+OFI,OFI,ORG,0.0,0.0,en,1.0
+IOM,IOM,ORG,0.0,0.0,en,1.0
+the International Organization for Migration,the International Organization for Migration,ORG,0.0,0.0,en,1.0
+Lekkas,Lekkas,ORG,0.0,0.0,en,1.0
+the European Prosecutor,the European Prosecutor,ORG,0.06666666666666667,0.0,en,1.0
+Velopoulos,Velopoulos,ORG,0.06666666666666667,0.0,en,1.0
 Pikermi,Pikermi,ORG,0.13636363636363635,0.0,en,1.0
-Giorgos Tsakkistos,Giorgos Tsakkistos,ORG,-0.3,0.0,en,1.0
-Association of consumer goods,Association of consumer goods,ORG,-0.3,0.0,en,1.0
-the Police Department,the Police Department,ORG,0.0,0.0,en,1.0
-"title=""7.8","title=""7.8",ORG,0.5633333333333334,0.0,en,1.0
-the U.S. Center,the U.S. Center,ORG,-0.1,0.0,en,1.0
-Premier League,Premier League,ORG,0.0,0.0,en,1.0
-19.6.26,19.6.26,ORG,0.0,0.0,en,1.0
-Knicks,Knicks,ORG,0.0,0.0,en,1.0
-"the Ministry of Agriculture, Rural Development and Environment","the Ministry of Agriculture, Rural Development and Environment",ORG,0.0,0.0,en,1.0
-The Forestry Department of,The Forestry Department of,ORG,0.0,0.0,en,1.0
-The New York Knicks,The New York Knicks,ORG,0.10324675324675325,0.0,en,1.0
-NORSI,NORSI,ORG,0.0,0.0,en,1.0
-Macron,Macron,ORG,0.0,0.0,en,1.0
+CDU,CDU,ORG,-0.4125,0.0,en,1.0
+the Minister of Environment and Energy,the Minister of Environment and Energy,ORG,0.1,0.0,en,1.0
+State,State,ORG,-0.15,0.0,en,1.0
+The Council of Ministers,The Council of Ministers,ORG,0.13636363636363635,0.0,en,1.0
+Pelion,Pelion,ORG,0.0,0.0,en,1.0
+Neochorouda,Neochorouda,ORG,0.0,0.0,en,1.0
+Mets,Mets,ORG,0.175,0.0,en,1.0
+the International Union of Technical Geology and Environment,the International Union of Technical Geology and Environment,ORG,0.08636363636363636,0.0,en,1.0
+NTUA,NTUA,ORG,0.0,0.0,en,1.0
+the Minister of Justice,the Minister of Justice,ORG,-0.1,0.0,en,1.0
+Suez,Suez,ORG,0.75,0.0,en,1.0
+NHK,NHK,ORG,0.02,0.0,en,1.0
+"the ""Brothers of Italy"" party","the ""Brothers of Italy"" party",ORG,-0.1,0.0,en,1.0
 the Recovery Fund,the Recovery Fund,ORG,0.35,0.0,en,1.0
 "Techblog.gr
 Article","Techblog.gr
 Article",ORG,0.125,0.0,en,1.0
-Methana,Methana,ORG,0.0,0.0,en,1.0
 the Press Representative of the Fire Service Andreas Kettis,the Press Representative of the Fire Service Andreas Kettis,ORG,0.05,0.0,en,1.0
-Kavvadas,Kavvadas,ORG,0.0,0.0,en,1.0
+the Autoforous Court of Heraklion,the Autoforous Court of Heraklion,ORG,0.0,0.0,en,1.0
 Kythera,Kythera,ORG,0.0,0.0,en,1.0
-Methana - Aerial,Methana - Aerial,ORG,0.0,0.0,en,1.0
 Areio Pagos,Areio Pagos,ORG,0.0,0.0,en,1.0
 the Prosecutor's Office of Athens,the Prosecutor's Office of Athens,ORG,0.0,0.0,en,1.0
+the German Center for Geosciences (GFZ,the German Center for Geosciences (GFZ,ORG,-0.05,0.0,en,1.0
 the Supreme Court | Subs,the Supreme Court | Subs,ORG,0.375,0.0,en,1.0
-The General Staff,The General Staff,ORG,0.05000000000000002,0.0,en,1.0
 Court of First Instance,Court of First Instance,ORG,0.125,0.0,en,1.0
-"the ""Brothers of Italy"" party","the ""Brothers of Italy"" party",ORG,-0.1,0.0,en,1.0
 Ioanna Tounis,Ioanna Tounis,ORG,0.10714285714285714,0.0,en,1.0
-Ergin Ataman's,Ergin Ataman's,ORG,-0.2,0.0,en,1.0
+Beogradska Arena,Beogradska Arena,ORG,-0.16666666666666666,0.0,en,1.0
+PerissoIt,PerissoIt,ORG,0.0,0.0,en,1.0
 Ministry of Defense,Ministry of Defense,ORG,0.0,0.0,en,1.0
 the 3rd National Division of Turkey,the 3rd National Division of Turkey,ORG,0.0,0.0,en,1.0
 Central Bankers,Central Bankers,ORG,0.0,0.0,en,1.0
 Ioannina,Ioannina,ORG,0.0,0.0,en,1.0
 Inter Roma | Sports,Inter Roma | Sports,ORG,0.5,0.0,en,1.0
 the Champions League,the Champions League,ORG,0.5,0.0,en,1.0
+NAVY,NAVY,ORG,1.0,0.0,en,1.0
 "Serie A,","Serie A,",ORG,0.0,0.0,en,1.0
-the Association of Relatives of the Dead,the Association of Relatives of the Dead,ORG,-0.2,0.0,en,1.0
-The Council of Ministers,The Council of Ministers,ORG,0.13636363636363635,0.0,en,1.0
-PASOK-Movement,PASOK-Movement,ORG,0.1787878787878788,0.0,en,1.0
-the Minister of Rural Development,the Minister of Rural Development,ORG,0.0028409090909090884,0.0,en,1.0
-Akamas,Akamas,ORG,-0.20000000000000004,0.0,en,1.0
-Tasnim,Tasnim,ORG,0.0,0.0,en,1.0
-the Sailing Federation,the Sailing Federation,ORG,0.2,0.0,en,1.0
-the Hellenic Sailing Federation,the Hellenic Sailing Federation,ORG,0.5,0.0,en,1.0
-PDVSA,PDVSA,ORG,0.1,0.0,en,1.0
-the Council of State,the Council of State,ORG,0.25,0.0,en,1.0
-Areios Pagos | Council of State,Areios Pagos | Council of State,ORG,0.25,0.0,en,1.0
-The Cyprus Police,The Cyprus Police,ORG,0.0987878787878788,0.0,en,1.0
-the Athens Primary Prosecutor's Office,the Athens Primary Prosecutor's Office,ORG,0.4,0.0,en,1.0
-tarsanas,tarsanas,ORG,0.0,0.0,en,1.0
-the Ministry of Finance's,the Ministry of Finance's,ORG,0.0,0.0,en,1.0
-RAD,RAD,ORG,0.0028409090909090884,0.0,en,1.0
-the Political Council,the Political Council,ORG,0.0,0.0,en,1.0
-the Rural Development Program,the Rural Development Program,ORG,0.0028409090909090884,0.0,en,1.0
-the Supreme Criminal Court,the Supreme Criminal Court,ORG,-0.13181818181818183,0.0,en,1.0
-European Prosecutor,European Prosecutor,ORG,0.007142857142857145,0.0,en,1.0
-the Supreme Judicial Council of the Supreme Court,the Supreme Judicial Council of the Supreme Court,ORG,0.007142857142857145,0.0,en,1.0
-Instagrammer | Christina,Instagrammer | Christina,ORG,-0.14027777777777778,0.0,en,1.0
-the 5th Criminal Division of the Supreme Court,the 5th Criminal Division of the Supreme Court,ORG,-0.4,0.0,en,1.0
-Directorate of AADE,Directorate of AADE,ORG,0.21212121212121213,0.0,en,1.0
-Airbus,Airbus,ORG,0.39285714285714285,0.0,en,1.0
-Airline,Airline,ORG,0.0,0.0,en,1.0
-Tourna,Tourna,ORG,0.16,0.0,en,1.0
-the Minister of Citizen Protection,the Minister of Citizen Protection,ORG,0.0,0.0,en,1.0
-Weather,Weather,ORG,-0.08333333333333334,0.0,en,1.0
-White House,White House,ORG,0.05000000000000001,0.0,en,1.0
-The Geodynamic Institute,The Geodynamic Institute,ORG,0.0,0.0,en,1.0
-Pinios,Pinios,ORG,0.15416666666666665,0.0,en,1.0
-United Nations,United Nations,ORG,0.0,0.0,en,1.0
-The Central Bank,The Central Bank,ORG,-0.09999999999999999,0.0,en,1.0
-the Hellenic Left Alliance,the Hellenic Left Alliance,ORG,-0.09999999999999999,0.0,en,1.0
-Health of the USA,Health of the USA,ORG,0.0,0.0,en,1.0
-Health,Health,ORG,0.0,0.0,en,1.0
-Tsipras party,Tsipras party,ORG,0.39242424242424245,0.0,en,1.0
-Famellistas,Famellistas,ORG,0.06818181818181818,0.0,en,1.0
-Utumishi Girls School,Utumishi Girls School,ORG,0.0,0.0,en,1.0
-the Court of Appeal,the Court of Appeal,ORG,-0.1,0.0,en,1.0
-the Nintendo Switch 2,the Nintendo Switch 2,ORG,0.9,0.0,en,1.0
-"title=""New","title=""New",ORG,0.13636363636363635,0.0,en,1.0
-the Cyprus News Agency,the Cyprus News Agency,ORG,0.0,0.0,en,1.0
-Platano,Platano,ORG,0.0,0.0,en,1.0
-Bayern,Bayern,ORG,0.04285714285714286,0.0,en,1.0
-The Southern derby,The Southern derby,ORG,0.15,0.0,en,1.0
-The Association of Relatives of Deaths and Eye Burns,The Association of Relatives of Deaths and Eye Burns,ORG,0.0,0.0,en,1.0
-Fenerbahce,Fenerbahce,ORG,0.0,0.0,en,1.0
-Wikimedia Foundation,Wikimedia Foundation,ORG,0.0,0.0,en,1.0
-Olympiacos,Olympiacos,ORG,0.0,0.0,en,1.0
-Olympiacos - Fener,Olympiacos - Fener,ORG,0.0,0.0,en,1.0
-The Department of Meteorology,The Department of Meteorology,ORG,0.0,0.0,en,1.0
-Community Engineering,Community Engineering,ORG,0.1,0.0,en,1.0
-the Piraeus Court of Appeal,the Piraeus Court of Appeal,ORG,0.0,0.0,en,1.0
-the Piraeus Board of Appeals,the Piraeus Board of Appeals,ORG,0.0,0.0,en,1.0
+NORSI,NORSI,ORG,0.0,0.0,en,1.0
+Macron,Macron,ORG,0.0,0.0,en,1.0
+the Notre Dame Cathedral,the Notre Dame Cathedral,ORG,-0.0625,0.0,en,1.0
+The European Public Prosecutor's Office,The European Public Prosecutor's Office,ORG,-0.006249999999999999,0.0,en,1.0
+BYD,BYD,ORG,0.0,0.0,en,1.0
+Patreon Achaia,Patreon Achaia,ORG,0.0,0.0,en,1.0
+Aktaeo Patron,Aktaeo Patron,ORG,-0.1,0.0,en,1.0
+ATA,ATA,ORG,0.0,0.0,en,1.0
+IRS,IRS,ORG,0.0,0.0,en,1.0
+the European Prosecutor's Office,the European Prosecutor's Office,ORG,0.0,0.0,en,1.0
+Areopagite,Areopagite,ORG,0.35,0.0,en,1.0
+KTAMS,KTAMS,ORG,-0.125,0.0,en,1.0
+Viva Energy,Viva Energy,ORG,0.25000000000000006,0.0,en,1.0
+Kalamos,Kalamos,ORG,0.05,0.0,en,1.0
+Interfax,Interfax,ORG,0.0,0.0,en,1.0
+BYD (Build Your Dreams,BYD (Build Your Dreams,ORG,0.15714285714285714,0.0,en,1.0
+OpenAI,OpenAI,ORG,0.0,0.0,en,1.0
+New York Times Report - Trump,New York Times Report - Trump,ORG,0.13636363636363635,0.0,en,1.0
+the United Kingdom Maritime Trade Service,the United Kingdom Maritime Trade Service,ORG,0.0,0.0,en,1.0
+The Suez Canal Authority,The Suez Canal Authority,ORG,0.0,0.0,en,1.0
+Yomiuri Shimbun,Yomiuri Shimbun,ORG,0.15625,0.0,en,1.0
+the Japan Meteorological Agency,the Japan Meteorological Agency,ORG,0.0,0.0,en,1.0
+the Press Representative of the Fire Service,the Press Representative of the Fire Service,ORG,0.0,0.0,en,1.0
+Softades,Softades,ORG,-0.0625,0.0,en,1.0
+Easter,Easter,ORG,0.0,0.0,en,1.0
+Rescues,Rescues,ORG,0.0,0.0,en,1.0
+the Fire Department's,the Fire Department's,ORG,-0.1,0.0,en,1.0
+Nea Kydonia High School,Nea Kydonia High School,ORG,0.48000000000000004,0.0,en,1.0
 OAKA,OAKA,ORG,0.0,0.0,en,1.0
-Valverde,Valverde,ORG,0.30833333333333335,0.0,en,1.0
-The EKPA Laboratory,The EKPA Laboratory,ORG,0.16666666666666666,0.0,en,1.0
-the European Prosecutor,the European Prosecutor,ORG,0.06666666666666667,0.0,en,1.0
-Unmanned,Unmanned,ORG,-0.16111111111111112,0.0,en,1.0
 Rosneft,Rosneft,ORG,-0.16111111111111112,0.0,en,1.0
-The Russian Meteorological Center,The Russian Meteorological Center,ORG,-0.05,0.0,en,1.0
-the White House Correspondents' Dinner,the White House Correspondents' Dinner,ORG,0.0,0.0,en,1.0
-OFI,OFI,ORG,0.0,0.0,en,1.0
-Prokopi High School,Prokopi High School,ORG,0.15333333333333335,0.0,en,1.0
-Pan-Hellenic,Pan-Hellenic,ORG,0.024999999999999994,0.0,en,1.0
-IOM,IOM,ORG,0.0,0.0,en,1.0
+Airline,Airline,ORG,0.0,0.0,en,1.0
+the University of Ioannina,the University of Ioannina,ORG,0.125,0.0,en,1.0
+the Department of Meteorology of,the Department of Meteorology of,ORG,0.16666666666666663,0.0,en,1.0
+the Operations Center of the Fire Brigade,the Operations Center of the Fire Brigade,ORG,-0.1416666666666667,0.0,en,1.0
+Edi Rama,Edi Rama,ORG,0.03333333333333333,0.0,en,1.0
+Phytoplankton,Phytoplankton,ORG,0.0,0.0,en,1.0
+fe,fe,ORG,0.05333333333333334,0.0,en,1.0
+GDAEFK,GDAEFK,ORG,0.0,0.0,en,1.0
+The EKPA Laboratory,The EKPA Laboratory,ORG,0.16666666666666666,0.0,en,1.0
 the General Directorate for Rehabilitation of the Effects of Natural Disasters,the General Directorate for Rehabilitation of the Effects of Natural Disasters,ORG,0.07500000000000001,0.0,en,1.0
-the International Organization for Migration,the International Organization for Migration,ORG,0.0,0.0,en,1.0
-Lekkas,Lekkas,ORG,0.0,0.0,en,1.0
-Velopoulos,Velopoulos,ORG,0.06666666666666667,0.0,en,1.0
-MKD,MKD,ORG,0.4,0.0,en,1.0
-the Minister of Health,the Minister of Health,ORG,0.06666666666666667,0.0,en,1.0
-the Minister of Environment and Energy,the Minister of Environment and Energy,ORG,0.1,0.0,en,1.0
-MINISTRY OF MINISTRY:,MINISTRY OF MINISTRY:,ORG,0.0,0.0,en,1.0
-State,State,ORG,-0.15,0.0,en,1.0
-European Union,European Union,ORG,0.0,0.0,en,1.0
-Pelion,Pelion,ORG,0.0,0.0,en,1.0
-Neochorouda,Neochorouda,ORG,0.0,0.0,en,1.0
-Mets,Mets,ORG,0.175,0.0,en,1.0
-the International Union of Technical Geology and Environment,the International Union of Technical Geology and Environment,ORG,0.08636363636363636,0.0,en,1.0
-NTUA,NTUA,ORG,0.0,0.0,en,1.0
-CDU,CDU,ORG,-0.4125,0.0,en,1.0
-Skiathos,Skiathos,ORG,0.0,0.0,en,1.0
-Facebook,Facebook,ORG,0.0,0.0,en,1.0
+Pan-Hellenic,Pan-Hellenic,ORG,0.024999999999999994,0.0,en,1.0
+Prokopi High School,Prokopi High School,ORG,0.15333333333333335,0.0,en,1.0
+AUTH,AUTH,ORG,0.25,0.0,en,1.0
+the Minister of Citizen Protection,the Minister of Citizen Protection,ORG,0.0,0.0,en,1.0
+Tourna,Tourna,ORG,0.16,0.0,en,1.0
+the 5th Criminal Division of the Supreme Court,the 5th Criminal Division of the Supreme Court,ORG,-0.4,0.0,en,1.0
+the Hellenic Left Alliance,the Hellenic Left Alliance,ORG,-0.09999999999999999,0.0,en,1.0
+Instagrammer | Christina,Instagrammer | Christina,ORG,-0.14027777777777778,0.0,en,1.0
+the Supreme Criminal Court,the Supreme Criminal Court,ORG,-0.13181818181818183,0.0,en,1.0
+The Cyprus Police,The Cyprus Police,ORG,0.0987878787878788,0.0,en,1.0
+Areios Pagos | Council of State,Areios Pagos | Council of State,ORG,0.25,0.0,en,1.0
+the Council of State,the Council of State,ORG,0.25,0.0,en,1.0
+the Hellenic Sailing Federation,the Hellenic Sailing Federation,ORG,0.5,0.0,en,1.0
+the Sailing Federation,the Sailing Federation,ORG,0.2,0.0,en,1.0
+the Political Council,the Political Council,ORG,0.0,0.0,en,1.0
+White House,White House,ORG,0.05000000000000001,0.0,en,1.0
+Community Engineering,Community Engineering,ORG,0.1,0.0,en,1.0
+Wikimedia Foundation,Wikimedia Foundation,ORG,0.0,0.0,en,1.0
+The Association of Relatives of Deaths and Eye Burns,The Association of Relatives of Deaths and Eye Burns,ORG,0.0,0.0,en,1.0
+Pinios,Pinios,ORG,0.15416666666666665,0.0,en,1.0
+the Court of Appeal,the Court of Appeal,ORG,-0.1,0.0,en,1.0
+the University General Hospital of Ioannina,the University General Hospital of Ioannina,ORG,0.125,0.0,en,1.0
+the Partizan-Dubai BC,the Partizan-Dubai BC,ORG,0.1,0.0,en,1.0
+Cristina,Cristina,ORG,-0.1,0.0,en,1.0
+Giorgos Tsatraphyllias,Giorgos Tsatraphyllias,ORG,0.2848484848484848,0.0,en,1.0
+| European Union,| European Union,ORG,0.0625,0.0,en,1.0
+Styrofoam Blocks,Styrofoam Blocks,ORG,0.0,0.0,en,1.0
+Grevena,Grevena,ORG,0.0,0.0,en,1.0
+the second party,the second party,ORG,0.125,0.0,en,1.0
+The Euro-Mediterranean Seismological Institute,The Euro-Mediterranean Seismological Institute,ORG,0.0,0.0,en,1.0
+Ge,Ge,ORG,-0.1,0.0,en,1.0
+Knicks,Knicks,ORG,0.0,0.0,en,1.0
+19.6.26,19.6.26,ORG,0.0,0.0,en,1.0
+Ferrari,Ferrari,ORG,0.0,0.0,en,1.0
+the U.S. Center,the U.S. Center,ORG,-0.1,0.0,en,1.0
+Sigi,Sigi,ORG,0.16666666666666666,0.0,en,1.0
+Palu,Palu,ORG,0.16666666666666666,0.0,en,1.0
+Anthili Fthiotidas - Aircraft,Anthili Fthiotidas - Aircraft,ORG,0.0,0.0,en,1.0
+The Acropolis Fire Station,The Acropolis Fire Station,ORG,0.0,0.0,en,1.0
+The Lakatamia Fire Station,The Lakatamia Fire Station,ORG,0.0,0.0,en,1.0
+the Department of Forestry,the Department of Forestry,ORG,0.3333333333333333,0.0,en,1.0
+Rio de Janeiro | Helicopters | Helicopter Crash | Dead,Rio de Janeiro | Helicopters | Helicopter Crash | Dead,ORG,-0.2333333333333333,0.0,en,1.0
+Aircraft,Aircraft,ORG,0.0,0.0,en,1.0
+"the Ministry of Agriculture, Rural Development and Environment","the Ministry of Agriculture, Rural Development and Environment",ORG,0.0,0.0,en,1.0
+The Forestry Department of,The Forestry Department of,ORG,0.0,0.0,en,1.0
+The New York Knicks,The New York Knicks,ORG,0.10324675324675325,0.0,en,1.0
+Ergin Ataman's,Ergin Ataman's,ORG,-0.2,0.0,en,1.0
+The General Staff,The General Staff,ORG,0.05000000000000002,0.0,en,1.0
+Methana - Aerial,Methana - Aerial,ORG,0.0,0.0,en,1.0
+the 9th EMODE,the 9th EMODE,ORG,0.0,0.0,en,1.0
+Methana,Methana,ORG,0.0,0.0,en,1.0
+Hailfall,Hailfall,ORG,0.2,0.0,en,1.0
+News,News,ORG,0.0,0.0,en,1.0
+Sporades - Improvement,Sporades - Improvement,ORG,0.2848484848484848,0.0,en,1.0
+Utumishi Girls School,Utumishi Girls School,ORG,0.0,0.0,en,1.0
+The Central Bank,The Central Bank,ORG,-0.09999999999999999,0.0,en,1.0
+Unmanned,Unmanned,ORG,-0.16111111111111112,0.0,en,1.0
+Alonissos - What,Alonissos - What,ORG,0.4333333333333333,0.0,en,1.0
+The Geodynamic Institute,The Geodynamic Institute,ORG,0.0,0.0,en,1.0
+Valverde,Valverde,ORG,0.30833333333333335,0.0,en,1.0
 Super El Niño',Super El Niño',ORG,0.3333333333333333,0.0,en,1.0
-TAHYDROMOS,TAHYDROMOS,ORG,0.4333333333333333,0.0,en,1.0
 Lasithi | Earthquake | Crete,Lasithi | Earthquake | Crete,ORG,0.0,0.0,en,1.0
 h3,h3,ORG,-0.155,0.0,en,1.0
-AUTH,AUTH,ORG,0.25,0.0,en,1.0
 h1,h1,ORG,-0.155,0.0,en,1.0
 Digital Governance,Digital Governance,ORG,0.11666666666666665,0.0,en,1.0
 OroraTech,OroraTech,ORG,0.11666666666666665,0.0,en,1.0
@@ -337,9 +305,9 @@ the Department of Meteorology See,the Department of Meteorology See,ORG,-0.3,0.0
 the Civil Defense Office,the Civil Defense Office,ORG,-0.3,0.0,en,1.0
 the Kalamata Mountaineering Association,the Kalamata Mountaineering Association,ORG,-0.033333333333333326,0.0,en,1.0
 Alonissos,Alonissos,ORG,-0.1,0.0,en,1.0
-Alonissos - What,Alonissos - What,ORG,0.4333333333333333,0.0,en,1.0
-the Minister of Health Ad,the Minister of Health Ad,ORG,0.0,0.0,en,1.0
+TAHYDROMOS,TAHYDROMOS,ORG,0.4333333333333333,0.0,en,1.0
 Parnithos Avenue,Parnithos Avenue,ORG,-0.1,0.0,en,1.0
+the Cyprus Meteorological Service,the Cyprus Meteorological Service,ORG,0.0,0.0,en,1.0
 the Central Port Authority of Heraklion,the Central Port Authority of Heraklion,ORG,-0.05,0.0,en,1.0
 the Port Authority,the Port Authority,ORG,0.0,0.0,en,1.0
 the 6th EMODE,the 6th EMODE,ORG,0.0,0.0,en,1.0
@@ -350,10 +318,49 @@ Association of Prosecutors of Greece,Association of Prosecutors of Greece,ORG,0.
 DSA,DSA,ORG,-0.25,0.0,en,1.0
 the Athens Bar Association,the Athens Bar Association,ORG,0.0,0.0,en,1.0
 ISA G. Patoulis,ISA G. Patoulis,ORG,0.0,0.0,en,1.0
+the Minister of Health Ad,the Minister of Health Ad,ORG,0.0,0.0,en,1.0
+Facebook,Facebook,ORG,0.0,0.0,en,1.0
+MKD,MKD,ORG,0.4,0.0,en,1.0
+Skiathos,Skiathos,ORG,0.0,0.0,en,1.0
+Association of consumer goods,Association of consumer goods,ORG,-0.3,0.0,en,1.0
+Airbus,Airbus,ORG,0.39285714285714285,0.0,en,1.0
+Directorate of AADE,Directorate of AADE,ORG,0.21212121212121213,0.0,en,1.0
+the Supreme Judicial Council of the Supreme Court,the Supreme Judicial Council of the Supreme Court,ORG,0.007142857142857145,0.0,en,1.0
+European Union,European Union,ORG,0.0,0.0,en,1.0
+United Nations,United Nations,ORG,0.0,0.0,en,1.0
+Health of the USA,Health of the USA,ORG,0.0,0.0,en,1.0
+Health,Health,ORG,0.0,0.0,en,1.0
+Tsipras party,Tsipras party,ORG,0.39242424242424245,0.0,en,1.0
+Famellistas,Famellistas,ORG,0.06818181818181818,0.0,en,1.0
+the Nintendo Switch 2,the Nintendo Switch 2,ORG,0.9,0.0,en,1.0
+"title=""New","title=""New",ORG,0.13636363636363635,0.0,en,1.0
+the Cyprus News Agency,the Cyprus News Agency,ORG,0.0,0.0,en,1.0
+Bayern,Bayern,ORG,0.04285714285714286,0.0,en,1.0
+The Southern derby,The Southern derby,ORG,0.15,0.0,en,1.0
+Fenerbahce,Fenerbahce,ORG,0.0,0.0,en,1.0
+Olympiacos,Olympiacos,ORG,0.0,0.0,en,1.0
+Olympiacos - Fener,Olympiacos - Fener,ORG,0.0,0.0,en,1.0
+The Department of Meteorology,The Department of Meteorology,ORG,0.0,0.0,en,1.0
+the Piraeus Court of Appeal,the Piraeus Court of Appeal,ORG,0.0,0.0,en,1.0
+the Piraeus Board of Appeals,the Piraeus Board of Appeals,ORG,0.0,0.0,en,1.0
+Platano,Platano,ORG,0.0,0.0,en,1.0
+Weather,Weather,ORG,-0.08333333333333334,0.0,en,1.0
+Akamas,Akamas,ORG,-0.20000000000000004,0.0,en,1.0
+Tasnim,Tasnim,ORG,0.0,0.0,en,1.0
+PDVSA,PDVSA,ORG,0.1,0.0,en,1.0
+the Athens Primary Prosecutor's Office,the Athens Primary Prosecutor's Office,ORG,0.4,0.0,en,1.0
+tarsanas,tarsanas,ORG,0.0,0.0,en,1.0
+the Ministry of Finance's,the Ministry of Finance's,ORG,0.0,0.0,en,1.0
+the Minister of Rural Development,the Minister of Rural Development,ORG,0.0028409090909090884,0.0,en,1.0
+RAD,RAD,ORG,0.0028409090909090884,0.0,en,1.0
+the Rural Development Program,the Rural Development Program,ORG,0.0028409090909090884,0.0,en,1.0
+European Prosecutor,European Prosecutor,ORG,0.007142857142857145,0.0,en,1.0
+Giorgos Tsakkistos,Giorgos Tsakkistos,ORG,-0.3,0.0,en,1.0
 Konitsa,Konitsa,ORG,-0.1875,0.0,en,1.0
-The Cyprus Meteorological Department,The Cyprus Meteorological Department,ORG,0.022222222222222216,0.0,en,1.0
-Erminio - Tsatraphyllias,Erminio - Tsatraphyllias,ORG,-0.14791666666666664,0.0,en,1.0
-The Arson Crime Investigation Service of the Fire Brigade,The Arson Crime Investigation Service of the Fire Brigade,ORG,-0.1,0.0,en,1.0
+the Police Department,the Police Department,ORG,0.0,0.0,en,1.0
+Varis-Voulas-Vouliagmenis,Varis-Voulas-Vouliagmenis,ORG,0.15,0.0,en,1.0
+epirusgate.gr,epirusgate.gr,ORG,0.0,0.0,en,1.0
+Agiokampos,Agiokampos,ORG,-0.3999999999999999,0.0,en,1.0
 Agiokampo - Complains,Agiokampo - Complains,ORG,-0.4666666666666666,0.0,en,1.0
 Sarapio,Sarapio,ORG,0.025000000000000022,0.0,en,1.0
 OLPA,OLPA,ORG,0.0,0.0,en,1.0
@@ -367,8 +374,8 @@ the Director of Research,the Director of Research,ORG,0.033333333333333326,0.0,e
 Beyond,Beyond,ORG,0.033333333333333326,0.0,en,1.0
 The European Parliament's,The European Parliament's,ORG,0.0,0.0,en,1.0
 Greenland,Greenland,ORG,-0.125,0.0,en,1.0
+The Arson Crime Investigation Service of the Fire Brigade,The Arson Crime Investigation Service of the Fire Brigade,ORG,-0.1,0.0,en,1.0
 the Special School,the Special School,ORG,0.35714285714285715,0.0,en,1.0
-epirusgate.gr,epirusgate.gr,ORG,0.0,0.0,en,1.0
 Violanda Factory,Violanda Factory,ORG,0.0,0.0,en,1.0
 Violand biscuit,Violand biscuit,ORG,-0.21666666666666667,0.0,en,1.0
 Java,Java,ORG,-0.021428571428571436,0.0,en,1.0
@@ -381,11 +388,12 @@ the Fire Operations Center,the Fire Operations Center,ORG,-0.15833333333333333,0
 the Fire Department - They,the Fire Department - They,ORG,-0.6999999999999998,0.0,en,1.0
 Climate Change,Climate Change,ORG,0.35714285714285715,0.0,en,1.0
 Observatory,Observatory,ORG,-0.3499999999999999,0.0,en,1.0
-Live News,Live News,ORG,-0.18787878787878784,0.0,en,1.0
-Agiokampos,Agiokampos,ORG,-0.3999999999999999,0.0,en,1.0
 Ionia Road,Ionia Road,ORG,0.0,0.0,en,1.0
-Vari,Vari,ORG,-0.6999999999999998,0.0,en,1.0
-The Arta - Amfilochia,The Arta - Amfilochia,ORG,-0.1,0.0,en,1.0
+Epstein,Epstein,ORG,-0.2818181818181818,0.0,en,1.0
+the Coast Guard,the Coast Guard,ORG,0.0,0.0,en,1.0
+the Community Council,the Community Council,ORG,0.0,0.0,en,1.0
+the German Research Center,the German Research Center,ORG,-0.05,0.0,en,1.0
+Kallianos,Kallianos,ORG,-0.17999999999999994,0.0,en,1.0
 The American Service,The American Service,ORG,0.2333333333333333,0.0,en,1.0
 Atmospheric Administration,Atmospheric Administration,ORG,0.06666666666666667,0.0,en,1.0
 Xiaomi,Xiaomi,ORG,0.0,0.0,en,1.0
@@ -397,10 +405,10 @@ Val d'Isère,Val d'Isère,ORG,-0.1,0.0,en,1.0
 Katakolo - 10,Katakolo - 10,ORG,0.4000000000000001,0.0,en,1.0
 Artas - Amfilochia - Epirus,Artas - Amfilochia - Epirus,ORG,0.04545454545454545,0.0,en,1.0
 the German Research Center for Geosciences (GFZ,the German Research Center for Geosciences (GFZ,ORG,-0.03333333333333333,0.0,en,1.0
-the Community Council,the Community Council,ORG,0.0,0.0,en,1.0
 the Hunting Service,the Hunting Service,ORG,0.0,0.0,en,1.0
+the Hellenic Coast Guard,the Hellenic Coast Guard,ORG,0.0,0.0,en,1.0
+The Arta - Amfilochia,The Arta - Amfilochia,ORG,-0.1,0.0,en,1.0
 The National Meteorological Service,The National Meteorological Service,ORG,0.0,0.0,en,1.0
-Epstein,Epstein,ORG,-0.2818181818181818,0.0,en,1.0
 Dust,Dust,ORG,-0.1,0.0,en,1.0
 Trafficker,Trafficker,ORG,0.0,0.0,en,1.0
 C#@^& ICE,C#@^& ICE,ORG,0.0,0.0,en,1.0
@@ -412,12 +420,11 @@ the Directorate of Technical Works,the Directorate of Technical Works,ORG,-0.166
 Afionas - Settlements,Afionas - Settlements,ORG,-0.23333333333333328,0.0,en,1.0
 Civil Protection and Fire Department,Civil Protection and Fire Department,ORG,-0.38611111111111107,0.0,en,1.0
 Coast Guard,Coast Guard,ORG,-0.1,0.0,en,1.0
-the Hellenic Coast Guard,the Hellenic Coast Guard,ORG,0.0,0.0,en,1.0
-the Coast Guard,the Coast Guard,ORG,0.0,0.0,en,1.0
-Varis-Voulas-Vouliagmenis,Varis-Voulas-Vouliagmenis,ORG,0.15,0.0,en,1.0
+Live News,Live News,ORG,-0.18787878787878784,0.0,en,1.0
+Vari,Vari,ORG,-0.6999999999999998,0.0,en,1.0
+"title=""7.8","title=""7.8",ORG,0.5633333333333334,0.0,en,1.0
 Risk Assessment Committee,Risk Assessment Committee,ORG,-0.6999999999999998,0.0,en,1.0
-the Ministry of Finance,the Ministry of Finance,ORG,0.0,0.0,en,1.0
-EMAK,EMAK,ORG,0.0,0.0,en,1.0
+Val-d'Isère,Val-d'Isère,ORG,0.16,0.0,en,1.0
 the Office of Nikos Christodoulidis,the Office of Nikos Christodoulidis,ORG,0.21666666666666665,0.0,en,1.0
 Monodendri,Monodendri,ORG,0.25,0.0,en,1.0
 Forest,Forest,ORG,0.0,0.0,en,1.0
@@ -431,8 +438,8 @@ mercury,mercury,ORG,0.17424242424242423,0.0,en,1.0
 SNF,SNF,ORG,0.06818181818181818,0.0,en,1.0
 the Stavros Niarchos Foundation,the Stavros Niarchos Foundation,ORG,0.06818181818181818,0.0,en,1.0
 Syntagma,Syntagma,ORG,0.13636363636363635,0.0,en,1.0
+EMAK,EMAK,ORG,0.0,0.0,en,1.0
 the Ministry of Climate Crisis and Civil Protection,the Ministry of Climate Crisis and Civil Protection,ORG,0.0,0.0,en,1.0
-Ares-Beaufort,Ares-Beaufort,ORG,0.16,0.0,en,1.0
 Volkswagen Commercial Vehicles,Volkswagen Commercial Vehicles,ORG,-0.1,0.0,en,1.0
 The Statue of Liberty,The Statue of Liberty,ORG,-0.4,0.0,en,1.0
 Attica - Interministerial,Attica - Interministerial,ORG,-0.44999999999999996,0.0,en,1.0
@@ -446,10 +453,11 @@ Finikounda,Finikounda,ORG,0.0,0.0,en,1.0
 Interior,Interior,ORG,-0.6999999999999998,0.0,en,1.0
 TarkasGreece,TarkasGreece,ORG,-0.12777777777777777,0.0,en,1.0
 Florina Bad,Florina Bad,ORG,-0.6999999999999998,0.0,en,1.0
-Val-d'Isère,Val-d'Isère,ORG,0.16,0.0,en,1.0
+Ares-Beaufort,Ares-Beaufort,ORG,0.16,0.0,en,1.0
 Prespes,Prespes,ORG,-0.3083333333333333,0.0,en,1.0
+| Ministry of Health,| Ministry of Health,ORG,0.3,0.0,en,1.0
+Lekanopedi,Lekanopedi,ORG,-0.3,0.0,en,1.0
 El,El,ORG,-0.3499999999999999,0.0,en,1.0
-Gavdos,Gavdos,ORG,0.07777777777777782,0.0,en,1.0
 Konia - Dead,Konia - Dead,ORG,-0.2,0.0,en,1.0
 Left,Left,ORG,0.0,0.0,en,1.0
 the European Court of Justice,the European Court of Justice,ORG,0.0,0.0,en,1.0
@@ -462,9 +470,9 @@ Authorities,Authorities,ORG,-0.6999999999999998,0.0,en,1.0
 Ilisos,Ilisos,ORG,0.0,0.0,en,1.0
 Spata - Traffic,Spata - Traffic,ORG,-0.6999999999999998,0.0,en,1.0
 Attica | Bad,Attica | Bad,ORG,-0.43333333333333324,0.0,en,1.0
-Lekanopedi,Lekanopedi,ORG,-0.3,0.0,en,1.0
+Gavdos,Gavdos,ORG,0.07777777777777782,0.0,en,1.0
+OTA,OTA,ORG,0.13636363636363635,0.0,en,1.0
 INTA,INTA,ORG,0.1,0.0,en,1.0
-| Ministry of Health,| Ministry of Health,ORG,0.3,0.0,en,1.0
 International Trade Committee,International Trade Committee,ORG,0.1,0.0,en,1.0
 Thodoris Kolydas,Thodoris Kolydas,ORG,-0.1333333333333333,0.0,en,1.0
 the Port Department,the Port Department,ORG,-0.16666666666666669,0.0,en,1.0
@@ -477,11 +485,14 @@ the Santorini Volcano Study and Monitoring Institute,the Santorini Volcano Study
 Panathinaikos,Panathinaikos,ORG,0.03333333333333333,0.0,en,1.0
 Elbrus,Elbrus,ORG,0.0666666666666667,0.0,en,1.0
 the Meteorology Department,the Meteorology Department,ORG,0.0,0.0,en,1.0
-OTA,OTA,ORG,0.13636363636363635,0.0,en,1.0
-Kallianos,Kallianos,ORG,-0.17999999999999994,0.0,en,1.0
-the German Research Center,the German Research Center,ORG,-0.05,0.0,en,1.0
 the Greek Final for Eurovision,the Greek Final for Eurovision,ORG,0.0,0.0,en,1.0
-Delphi XI Economic Forum,Delphi XI Economic Forum,ORG,0.02,0.0,en,1.0
+Paleo Faliro,Paleo Faliro,ORG,0.4,0.0,en,1.0
+Code Red,Code Red,ORG,0.0,0.0,en,1.0
+Civil Protection Emergency,Civil Protection Emergency,ORG,0.0,0.0,en,1.0
+Lakers,Lakers,ORG,-0.7,0.0,en,1.0
+Bitanje,Bitanje,ORG,-0.4,0.0,en,1.0
+Filiato | Ioannina,Filiato | Ioannina,ORG,0.0,0.0,en,1.0
+Flambouri,Flambouri,ORG,0.0,0.0,en,1.0
 "title=""4.6","title=""4.6",ORG,0.0,0.0,en,1.0
 Anjun Industrial,Anjun Industrial,ORG,0.0,0.0,en,1.0
 The National Fire Service,The National Fire Service,ORG,0.0,0.0,en,1.0
@@ -495,8 +506,8 @@ Alarm,Alarm,ORG,-0.049999999999999996,0.0,en,1.0
 Lava,Lava,ORG,0.0,0.0,en,1.0
 Sougia Chania,Sougia Chania,ORG,0.0,0.0,en,1.0
 the Geodynamic Institute of Athens,the Geodynamic Institute of Athens,ORG,0.0,0.0,en,1.0
+Delphi XI Economic Forum,Delphi XI Economic Forum,ORG,0.02,0.0,en,1.0
 Thodoris,Thodoris,ORG,0.13636363636363635,0.0,en,1.0
-Filiato | Ioannina,Filiato | Ioannina,ORG,0.0,0.0,en,1.0
 the World Rally Championship,the World Rally Championship,ORG,0.25,0.0,en,1.0
 Toyota,Toyota,ORG,0.25,0.0,en,1.0
 Katsuta,Katsuta,ORG,0.3,0.0,en,1.0
@@ -507,13 +518,13 @@ Achaia - Alarm,Achaia - Alarm,ORG,0.0,0.0,en,1.0
 the Armed Forces - Th,the Armed Forces - Th,ORG,0.0,0.0,en,1.0
 MEKO,MEKO,ORG,0.0,0.0,en,1.0
 iPhone,iPhone,ORG,0.13636363636363635,0.0,en,1.0
-χαρισματικός,χαρισματικός,ORG,0.0,0.0,en,1.0
-αυθεντικός,αυθεντικός,ORG,0.0,0.0,en,1.0
-the British Maritime Safety Agency,the British Maritime Safety Agency,ORG,0.0,0.0,en,1.0
-Flambouri,Flambouri,ORG,0.0,0.0,en,1.0
-Bitanje,Bitanje,ORG,-0.4,0.0,en,1.0
-Paleo Faliro,Paleo Faliro,ORG,0.4,0.0,en,1.0
-CFexpress,CFexpress,ORG,-0.0625,0.0,en,1.0
+Chaos,Chaos,ORG,0.0,0.0,en,1.0
+The Cyprus Meteorological Department,The Cyprus Meteorological Department,ORG,0.022222222222222216,0.0,en,1.0
+BBC,BBC,ORG,0.0,0.0,en,1.0
+PASOK Conference,PASOK Conference,ORG,-0.125,0.0,en,1.0
+Premier League,Premier League,ORG,0.0,0.0,en,1.0
+Erminio - Tsatraphyllias,Erminio - Tsatraphyllias,ORG,-0.14791666666666664,0.0,en,1.0
+the Ministry of Finance,the Ministry of Finance,ORG,0.0,0.0,en,1.0
 12.09.2027,12.09.2027,ORG,0.0,0.0,en,1.0
 the Panathinaikos - Olympiacos derby,the Panathinaikos - Olympiacos derby,ORG,-0.14333333333333328,0.0,en,1.0
 the Piraeus guard,the Piraeus guard,ORG,0.0,0.0,en,1.0
@@ -524,11 +535,11 @@ Rising Energy and Construction Costs | Economy,Rising Energy and Construction Co
 the Middle East Crisis,the Middle East Crisis,ORG,-0.2,0.0,en,1.0
 Narelle,Narelle,ORG,0.10277777777777776,0.0,en,1.0
 Wheatstone,Wheatstone,ORG,0.1,0.0,en,1.0
-PASOK Conference,PASOK Conference,ORG,-0.125,0.0,en,1.0
 Coita,Coita,ORG,0.0,0.0,en,1.0
+Truth Social,Truth Social,ORG,0.016666666666666666,0.0,en,1.0
 SD,SD,ORG,-0.0625,0.0,en,1.0
+CFexpress,CFexpress,ORG,-0.0625,0.0,en,1.0
 the Pancypriot Organization of the Blind,the Pancypriot Organization of the Blind,ORG,-0.1875,0.0,en,1.0
-Lakers,Lakers,ORG,-0.7,0.0,en,1.0
 Wheatstone Units,Wheatstone Units,ORG,0.1,0.0,en,1.0
 Chevron's Gorgon,Chevron's Gorgon,ORG,0.1,0.0,en,1.0
 KTEL,KTEL,ORG,0.0,0.0,en,1.0
@@ -539,13 +550,12 @@ Batman,Batman,ORG,-0.075,0.0,en,1.0
 "href=""https://www.newsit.gr/ellada","href=""https://www.newsit.gr/ellada",ORG,0.4333333333333333,0.0,en,1.0
 the Authorities South Africa,the Authorities South Africa,ORG,-0.1,0.0,en,1.0
 Heraklion - Meteorological,Heraklion - Meteorological,ORG,-0.2333333333333333,0.0,en,1.0
-Truth Social,Truth Social,ORG,0.016666666666666666,0.0,en,1.0
-BBC,BBC,ORG,0.0,0.0,en,1.0
-Chaos,Chaos,ORG,0.0,0.0,en,1.0
-the Abu Dhabi Media Office on Platform,the Abu Dhabi Media Office on Platform,ORG,-0.15,0.0,en,1.0
-The Coast Guard,The Coast Guard,ORG,0.0,0.0,en,1.0
-Geology and Disaster Management,Geology and Disaster Management,ORG,0.0,0.0,en,1.0
-ESEE,ESEE,ORG,-0.09999999999999999,0.0,en,1.0
+χαρισματικός,χαρισματικός,ORG,0.0,0.0,en,1.0
+αυθεντικός,αυθεντικός,ORG,0.0,0.0,en,1.0
+the British Maritime Safety Agency,the British Maritime Safety Agency,ORG,0.0,0.0,en,1.0
+PPC,PPC,ORG,0.23393939393939397,0.0,en,1.0
+Schalke,Schalke,ORG,0.375,0.0,en,1.0
+Nicoski,Nicoski,ORG,0.0,0.0,en,1.0
 Loris Karius,Loris Karius,ORG,0.05,0.0,en,1.0
 Sierra Nevada,Sierra Nevada,ORG,0.1,0.0,en,1.0
 Theodoriana Arta,Theodoriana Arta,ORG,-0.6999999999999998,0.0,en,1.0
@@ -557,10 +567,10 @@ Proteos,Proteos,ORG,-0.14999999999999997,0.0,en,1.0
 Thodoris Kolidas - Analytical,Thodoris Kolidas - Analytical,ORG,0.0,0.0,en,1.0
 The German Research Center for Geosciences,The German Research Center for Geosciences,ORG,-0.05,0.0,en,1.0
 Attica - What,Attica - What,ORG,-0.2888888888888888,0.0,en,1.0
-PPC,PPC,ORG,0.23393939393939397,0.0,en,1.0
 ND,ND,ORG,0.25,0.0,en,1.0
+AADE,AADE,ORG,0.02159090909090909,0.0,en,1.0
+ESEE,ESEE,ORG,-0.09999999999999999,0.0,en,1.0
 Bell,Bell,ORG,-0.09999999999999999,0.0,en,1.0
-BAPCO,BAPCO,ORG,0.12023809523809523,0.0,en,1.0
 the Hellenic Confederation of Trade and Entrepreneurship,the Hellenic Confederation of Trade and Entrepreneurship,ORG,-0.09999999999999999,0.0,en,1.0
 ESEE - Fears,ESEE - Fears,ORG,-0.1784090909090909,0.0,en,1.0
 Bell-bell,Bell-bell,ORG,-0.1784090909090909,0.0,en,1.0
@@ -572,12 +582,13 @@ Courmayeur,Courmayeur,ORG,0.0,0.0,en,1.0
 Castle Peak,Castle Peak,ORG,0.1481818181818182,0.0,en,1.0
 Sivota - Pic,Sivota - Pic,ORG,0.0,0.0,en,1.0
 Mazaraki,Mazaraki,ORG,0.1,0.0,en,1.0
-Civil Protection Emergency,Civil Protection Emergency,ORG,0.0,0.0,en,1.0
-Code Red,Code Red,ORG,0.0,0.0,en,1.0
-Nicoski,Nicoski,ORG,0.0,0.0,en,1.0
-Schalke,Schalke,ORG,0.375,0.0,en,1.0
 New General Directorate of Financial Transactions Control Forces,New General Directorate of Financial Transactions Control Forces,ORG,0.02159090909090909,0.0,en,1.0
-AADE,AADE,ORG,0.02159090909090909,0.0,en,1.0
+Hydra,Hydra,ORG,0.5,0.0,en,1.0
+the Abu Dhabi Media Office on Platform,the Abu Dhabi Media Office on Platform,ORG,-0.15,0.0,en,1.0
+the Stock Exchange,the Stock Exchange,ORG,0.2287878787878788,0.0,en,1.0
+The Coast Guard,The Coast Guard,ORG,0.0,0.0,en,1.0
+Geology and Disaster Management,Geology and Disaster Management,ORG,0.0,0.0,en,1.0
+BAPCO,BAPCO,ORG,0.12023809523809523,0.0,en,1.0
 Bahrain Petroleum Company,Bahrain Petroleum Company,ORG,0.12023809523809523,0.0,en,1.0
 the Community of Anogyras,the Community of Anogyras,ORG,0.0,0.0,en,1.0
 Mandria - See Video,Mandria - See Video,ORG,0.0,0.0,en,1.0
@@ -588,8 +599,8 @@ the Revolutionary Guards,the Revolutionary Guards,ORG,0.033333333333333326,0.0,e
 EAC,EAC,ORG,0.0,0.0,en,1.0
 Athens Stock Exchange,Athens Stock Exchange,ORG,-0.03333333333333333,0.0,en,1.0
 AX,AX,ORG,-0.03333333333333333,0.0,en,1.0
-the Stock Exchange,the Stock Exchange,ORG,0.2287878787878788,0.0,en,1.0
 Stena Imperative,Stena Imperative,ORG,0.0,0.0,en,1.0
+Sion Prosecutor's,Sion Prosecutor's,ORG,0.12727272727272726,0.0,en,1.0
 Euro,Euro,ORG,-0.02,0.0,en,1.0
 interior ministry,interior ministry,ORG,-0.2,0.0,en,1.0
 IDC,IDC,ORG,0.0,0.0,en,1.0
@@ -603,6 +614,4 @@ the German Center for Geosciences,the German Center for Geosciences,ORG,-0.05,0.
 the Fire Department Fire,the Fire Department Fire,ORG,0.4,0.0,en,1.0
 Daniel,Daniel,ORG,-0.23619047619047615,0.0,en,1.0
 Office Releases New Video,Office Releases New Video,ORG,0.12727272727272726,0.0,en,1.0
-Sion Prosecutor's,Sion Prosecutor's,ORG,0.12727272727272726,0.0,en,1.0
-Hydra,Hydra,ORG,0.5,0.0,en,1.0
-Ge,Ge,ORG,-0.1,0.0,en,1.0
+Border Collie,Border Collie,ORG,0.0,0.0,en,1.0
