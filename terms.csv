@@ -1,7 +1,7 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'2e28dfa4bf',extremes,Heat Wave,#c40202,wmo,κύμα καύσωνα Κύπρος,2026-07-12T05:43:00+00:00,Cyprus,0.7111360557155793,0,1,el,MED,Europe
 'b6cef22543',extremes,Drought,#edc291,random,περιορισμός νερού,2026-07-01T06:52:00+00:00,,0.6768174015103884,4,2,el,,
-'3ba62ce4f2',extremes,Earthquake,#870007,usgs,σεισμός ελλάδα,2026-07-01T06:52:00+00:00,Greece,0.5904892702978413,0,1,el,MED,Europe
+'2e28dfa4bf',extremes,Heat Wave,#c40202,wmo,κύμα καύσωνα Κύπρος,2026-07-12T05:43:00+00:00,Cyprus,0.6044656473582424,1,1,el,MED,Europe
+'3ba62ce4f2',extremes,Earthquake,#870007,usgs,σεισμός ελλάδα,2026-07-01T06:52:00+00:00,Greece,0.5750482079349832,1,2,el,MED,Europe
 '03f33e230d',extremes,Earthquake,#870007,usgs,σεισμός χιλή,2026-06-06T06:08:00+00:00,Chile,0.5720205477870324,3,2,el,SWS,South-America
 'ebf0baeb9e',extremes,Drought,#edc291,edo,ξηρασία αλβανία,2026-06-30T06:39:00+00:00,Albania,0.5432365645153622,0,1,el,MED,Europe
 '26015c1155',extremes,Storm,#b3b2b1,wmo,κύμα καταιγίδας Κύπρος,2026-07-08T05:37:00+00:00,Cyprus,0.52820604672384,2,1,el,MED,Europe
@@ -107,7 +107,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '3662ca4c1e',extremes,Thunderstorm,#53785a,wmo,έντονα καιρικά φαινόμενα δυτική Πελοπόννησος,2026-07-03T06:09:00+00:00,Greece,0.3064454258023797,3,1,el,MED,Europe
 '3421a57149',extremes,Storm,#b3b2b1,wmo,καταιγίδα Εκουαδόρ,2026-07-04T05:59:00+00:00,Ecuador,0.3056874199990245,0,1,el,NWS,South-America
 'a78a18febe',extremes,Fog,#d60d2b,wmo,ομίχλη zabaykalsky krai,2026-06-30T06:39:00+00:00,Russia,0.305345955975524,0,1,el,ESB,Europe
-'68a565abbc',extremes,Storm,#b3b2b1,wmo,κύμα καταιγίδας Νέα Ζηλανδία,2026-07-03T06:09:00+00:00,New Zealand,0.30487151393540624,0,1,el,NZ,Oceania
+'68a565abbc',extremes,Storm,#b3b2b1,wmo,κύμα καταιγίδας Νέα Ζηλανδία,2026-07-03T06:09:00+00:00,New Zealand,0.3048715139354062,0,1,el,NZ,Oceania
 '7fa9213218',extremes,Thunderstorm,#53785a,wmo,χαλάζι θεσσαλία,2026-07-05T06:25:00+00:00,Greece,0.3023745878543362,3,1,el,MED,Europe
 '49b55c4a32',extremes,Precipitation,#d60d2b,wmo,κατακρήμνιση gro oax,2026-07-11T05:27:00+00:00,Mexico,0.300649220223321,0,1,el,NCA,North-America
 '6fb1e93945',extremes,Storm,#b3b2b1,wmo,καταιγίδα naâma,2026-07-11T05:27:00+00:00,Algeria,0.3002432780295195,0,1,el,SAH,Africa
