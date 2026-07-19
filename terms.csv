@@ -49,6 +49,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'cb7240e022',extremes,Precipitation,#d60d2b,wmo,νεροποντή θρακή,2026-07-09T06:27:00+00:00,Greece,0.4194107787845015,2,1,el,MED,Europe
 '45480a05ce',extremes,Tropical Cyclone,#4f4f4f,random,τυφώνας,2026-07-19T05:37:00+00:00,,0.4167888738200377,1,2,el,,
 'ee17683783',extremes,Tropical Cyclone,#4f4f4f,wmo,τυφώνας Φιλιππίνες,2026-06-23T06:33:00+00:00,Philippines,0.4114153201733368,1,2,el,SEA,Asia
+'e529bb6ac5',extremes,Precipitation,#d60d2b,wmo,βροχή Αργεντινή,2026-07-09T06:27:00+00:00,Argentina,0.4111119771674744,1,2,el,SES,South-America
 '3c17bef987',extremes,Earthquake,#870007,usgs,σεισμός φριτ,2026-06-28T06:44:00+00:00,Greece,0.4103826372942462,2,1,el,MED,Europe
 '52af874334',extremes,Drought,#edc291,random,ξηρασία,2026-06-23T06:32:00+00:00,,0.4078542882928808,1,2,el,,
 '09a1eac0c2',extremes,Thunderstorm,#53785a,wmo,κακοκαιρία ανατολική Μακεδονία,2026-07-02T06:24:00+00:00,Greece,0.4064885294261654,3,1,el,MED,Europe
@@ -98,7 +99,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '9797aa6299',extremes,Drought,#edc291,edo,έλλειψη βροχής Κύπρος,2026-06-17T07:34:00+00:00,Cyprus,0.3264468793088121,2,1,el,MED,Europe
 '648c26f911',extremes,Drought,#edc291,edo,έλλειψη βροχής ελλάδα,2026-06-20T06:47:00+00:00,Greece,0.3192130378680705,2,1,el,MED,Europe
 '2ac35a800e',extremes,Storm,#b3b2b1,wmo,καταιγίδα ανατολική Μακεδονία,2026-07-01T06:52:00+00:00,Greece,0.3148527474416214,4,1,el,MED,Europe
-'e529bb6ac5',extremes,Precipitation,#d60d2b,wmo,βροχή Αργεντινή,2026-07-09T06:27:00+00:00,Argentina,0.3070140731382051,0,1,el,SES,South-America
 'ae340540d6',extremes,Precipitation,#d60d2b,wmo,νεροποντή Αργεντινή,2026-07-09T06:27:00+00:00,Argentina,0.306824563456158,0,1,el,SES,South-America
 '3662ca4c1e',extremes,Thunderstorm,#53785a,wmo,έντονα καιρικά φαινόμενα δυτική Πελοπόννησος,2026-07-03T06:09:00+00:00,Greece,0.3064454258023797,3,1,el,MED,Europe
 '283502e4c1',extremes,Heat Wave,#c40202,wmo,κύμα καύσωνα el tarf,2026-07-19T05:37:00+00:00,Algeria,0.3054042087808403,0,1,el,SAH,Africa
