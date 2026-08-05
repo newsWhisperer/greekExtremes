@@ -4,7 +4,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '4130a75ccf',extremes,Thunderstorm,#53785a,wmo,χαλάζι ελλάδα,2026-07-17T05:27:00+00:00,Greece,0.5877057115130787,4,1,el,MED,Europe
 'ebc221a7df',extremes,Thunderstorm,#53785a,wmo,χαλάζι αττική,2026-07-25T05:29:00+00:00,Greece,0.576092551962646,8,2,el,MED,Europe
 'f6159d54ec',extremes,Heat Wave,#c40202,wmo,κύμα καύσωνα Αλγερία,2026-07-09T06:27:00+00:00,Algeria,0.5734810707109699,3,2,el,SAH,Africa
-'e4c0eb1729',extremes,Wildfire,#d60d2b,random,πυρκαγιά,2026-06-19T07:39:00+00:00,,0.5703215251668304,3,3,el,,
 '6fd5acddee',extremes,Storm,#b3b2b1,wmo,καταιγίδα ελλάδα,2026-07-24T05:36:00+00:00,Greece,0.5691618257333054,4,1,el,MED,Europe
 '83f2a9deea',extremes,Drought,#edc291,edo,ξηρασία Γαλλία,2026-06-26T06:36:00+00:00,France,0.5544678359581795,3,2,el,WCE,Europe
 'af3396aaaf',extremes,Drought,#edc291,edo,ξηρασία Ελλάδα,2026-07-18T05:10:00+00:00,Greece,0.5389378912677528,1,2,el,MED,Europe
@@ -21,7 +20,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '8c6258cb76',extremes,Heat Wave,#c40202,wmo,κύμα καύσωνα δυτική Πελοπόννησος,2026-07-31T05:51:00+00:00,Greece,0.4885457032969694,2,1,el,MED,Europe
 '10f476720b',extremes,Insect Infestation,#d60d2b,random,ακρίδα,2026-07-14T05:14:00+00:00,,0.4871702452126841,4,2,el,,
 '560b05d603',extremes,Heat Wave,#c40202,random,κύμα καύσωνα,2026-07-09T06:27:00+00:00,,0.4861219467507124,2,3,el,,
-'80c06ab8a0',extremes,Cold Wave,#a7e9fa,random,πτώση της θερμοκρασίας,2026-08-04T05:31:00+00:00,,0.48583277153473337,1,3,el,,
+'80c06ab8a0',extremes,Cold Wave,#a7e9fa,random,πτώση της θερμοκρασίας,2026-08-04T05:31:00+00:00,,0.4858327715347333,1,3,el,,
 '60a5373b45',extremes,Earthquake,#870007,usgs,σεισμός Κύθηρα,2026-07-03T06:09:00+00:00,Greece,0.483907679578572,2,1,el,MED,Europe
 '372f4267a4',extremes,Heat Wave,#c40202,wmo,κύμα καύσωνα ιοντικά νησιά,2026-07-13T05:53:00+00:00,Greece,0.4827810904578847,3,1,el,MED,Europe
 'ba70aff664',extremes,Storm,#b3b2b1,wmo,καταιγίδα Κυκλάδες,2026-08-01T05:42:00+00:00,Greece,0.4800701781355348,2,1,el,MED,Europe
@@ -40,6 +39,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '20741ce7eb',extremes,Tsunami,#690191,random,τσουνάμι,2026-08-02T05:41:00+00:00,,0.4593641542994683,2,2,el,,
 '0639323bb2',extremes,Precipitation,#d60d2b,wmo,καταρρακτώδης βροχή θεσσαλία,2026-07-25T05:29:00+00:00,Greece,0.458529712696582,2,1,el,MED,Europe
 '95c7801011',extremes,Heat Wave,#c40202,wmo,καύσωνας κυκλάδες,2026-07-20T05:54:00+00:00,Greece,0.4576504617952337,2,1,el,MED,Europe
+'82d648b882',extremes,Drought,#edc291,random,ξηρασία,2026-08-04T05:31:00+00:00,,0.45180016228545156,1,3,el,,
 '31a102c336',extremes,Precipitation,#d60d2b,wmo,καταρρακτώδης βροχή ελλάδα,2026-07-24T05:36:00+00:00,Greece,0.451684620946061,2,1,el,MED,Europe
 '26015c1155',extremes,Storm,#b3b2b1,wmo,κύμα καταιγίδας Κύπρος,2026-07-08T05:37:00+00:00,Cyprus,0.448975139715264,3,1,el,MED,Europe
 'b8a0990dab',extremes,Heat Wave,#c40202,wmo,κύμα καύσωνα Γαλλία,2026-07-04T05:59:00+00:00,France,0.4480811389372833,2,3,el,WCE,Europe
@@ -74,7 +74,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'c4f95855f2',extremes,Precipitation,#d60d2b,wmo,βροχόπτωση ανατολική Μακεδονία,2026-07-09T06:27:00+00:00,Greece,0.4026279308875449,2,1,el,MED,Europe
 'd5d7a11479',extremes,Drought,#edc291,edo,ξηρασία Κύπρος,2026-07-18T05:10:00+00:00,Cyprus,0.3876404186376151,2,1,el,MED,Europe
 'c262014612',extremes,Storm,#b3b2b1,wmo,καταιγίδα ήπειρος,2026-07-15T05:15:00+00:00,Greece,0.382561672974878,3,1,el,MED,Europe
-'82d648b882',extremes,Drought,#edc291,random,ξηρασία,2026-08-04T05:31:00+00:00,,0.3813204288919751,0,1,el,,
 'dfc27fa2c9',extremes,Thunderstorm,#53785a,wmo,χαλάζι σε νησιά βορειοανατολικού Αιγαίου,2026-07-25T05:29:00+00:00,Greece,0.3759602320586825,2,1,el,MED,Europe
 'ebf0baeb9e',extremes,Drought,#edc291,edo,ξηρασία αλβανία,2026-07-22T05:35:00+00:00,Albania,0.3739621254405987,2,1,el,MED,Europe
 '84febdd06c',extremes,Thunderstorm,#53785a,random,καταιγίδα,2026-07-28T05:30:00+00:00,,0.3704501061230961,1,3,el,,
@@ -96,7 +95,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '5b8cf400f9',extremes,Iceberg,#d60d2b,random,iceberg caving,2026-07-26T05:46:00+00:00,,0.328940148988303,1,1,el,,
 'd587c21e0d',extremes,Tropical Cyclone,#4f4f4f,random,τυφώνας,2026-07-29T05:37:00+00:00,,0.32597395298742,2,1,el,,
 'f1101350a4',extremes,Storm,#b3b2b1,wmo,καταιγίδα Χιλή,2026-07-07T06:30:00+00:00,Chile,0.3194898161713366,2,2,el,SWS,South-America
-'41f3b5b396',extremes,Storm,#b3b2b1,aidr,καταιγίδα ισχυρός άνεμος και βροχοπτώσεις victoria 2024,2026-08-04T05:32:00+00:00,Australia,0.3148874504506791,0,1,el,SAU,Oceania
 '648c26f911',extremes,Drought,#edc291,edo,έλλειψη βροχής ελλάδα,2026-07-20T05:54:00+00:00,Greece,0.3123443545478933,2,1,el,MED,Europe
 '7467da3199',extremes,Drought,#edc291,edo,ξηρασία γκαμπόν,2026-07-18T05:10:00+00:00,Gabon,0.3122325136543795,0,1,el,CAF,Africa
 'b445ee6ee0',extremes,Drought,#edc291,edo,ξηρότητα Ελ Σαλβαδόρ,2026-08-04T05:32:00+00:00,El Salvador,0.3115124832368088,0,1,el,SCA,North-America
@@ -145,6 +143,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '4c8bd3e4d4',extremes,Insect Infestation,#d60d2b,random,ακρίδες,2026-07-19T05:37:00+00:00,,0.27280113626546,1,1,el,,
 'b073fed5b4',extremes,Snow&Ice,#d60d2b,random,παγετός,2026-07-17T05:27:00+00:00,,0.2722598066928018,2,1,el,,
 '0a8e5743d9',extremes,Landslide,#572c03,random,κατολίσθηση,2026-07-06T06:52:00+00:00,,0.2678896828251552,2,1,el,,
+'41f3b5b396',extremes,Storm,#b3b2b1,aidr,καταιγίδα ισχυρός άνεμος και βροχοπτώσεις victoria 2024,2026-08-04T05:32:00+00:00,Australia,0.2676543328830772,1,1,el,SAU,Oceania
 'fbcb0a4ae5',extremes,Storm,#b3b2b1,eonet,σούπερ τυφώνας δελφίνι,2026-07-30T05:24:00+00:00,,0.2660558188490732,1,1,el,NPO,Pacific Ocean
 '940a9f74b0',extremes,Wildfire,#d60d2b,acwe,πυρκαγιά τασμανίας,2026-07-30T05:24:00+00:00,Australia,0.2659379747517909,1,1,el,SAU,Oceania
 '656113a2f4',extremes,Tropical Cyclone,#4f4f4f,eonet,τυφώνας fausto,2026-07-22T05:35:00+00:00,,0.2658167465601694,1,1,el,NPO,Pacific Ocean
