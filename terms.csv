@@ -1,5 +1,5 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'eee948eee4',extremes,Heat Wave,#c40202,wmo,καύσωνας θεσσαλία,2026-07-21T05:36:00+00:00,Greece,0.591714386950473,2,1,el,MED,Europe
+'eee948eee4',extremes,Heat Wave,#c40202,wmo,καύσωνας θεσσαλία,2026-07-21T05:36:00+00:00,Greece,0.6111501910507591,3,2,el,MED,Europe
 '4130a75ccf',extremes,Thunderstorm,#53785a,wmo,χαλάζι ελλάδα,2026-07-17T05:27:00+00:00,Greece,0.5877057115130787,4,1,el,MED,Europe
 'ebc221a7df',extremes,Thunderstorm,#53785a,wmo,χαλάζι αττική,2026-07-25T05:29:00+00:00,Greece,0.576092551962646,8,2,el,MED,Europe
 'f6159d54ec',extremes,Heat Wave,#c40202,wmo,κύμα καύσωνα Αλγερία,2026-07-09T06:27:00+00:00,Algeria,0.5734810707109699,3,2,el,SAH,Africa
@@ -156,7 +156,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'b445ee6ee0',extremes,Drought,#edc291,edo,ξηρότητα Ελ Σαλβαδόρ,2026-08-04T05:32:00+00:00,El Salvador,0.2647856107512875,1,1,el,SCA,North-America
 'f8a513bf41',extremes,Tropical Cyclone,#4f4f4f,random,medicane,2026-07-22T05:35:00+00:00,,0.2645098717044576,2,1,el,,
 '8c2b565540',extremes,Drought,#edc291,edo,Ξηρότητα Ουγκάντα,2026-07-16T05:25:00+00:00,Uganda,0.2645058593136487,1,1,el,SEAF,Africa
-'0d261f252d',extremes,Storm,#b3b2b1,random,χειμωνιάτικη θύελλα,2026-07-24T05:35:00+00:00,,0.2643472659665208,2,1,el,,
 'fc1842c1fa',extremes,Drought,#edc291,edo,ξηρασία Καμπότζη,2026-08-04T05:32:00+00:00,Cambodia,0.2638235073174058,1,1,el,SEA,Asia
 '0053afc92f',extremes,Volcano,#b83202,random,λαχάρ,2026-07-26T05:46:00+00:00,,0.2637961344478107,1,1,el,,
 '538eadceb4',extremes,Heat Wave,#c40202,random,ήπιος χειμώνας,2026-07-20T05:54:00+00:00,,0.2637397265153623,2,1,el,,
@@ -397,6 +396,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'ec51ecb5d3',extremes,Flood,#030ba1,acwe,αστραπιαία πλημμύρα τασμανία,2026-07-22T05:35:00+00:00,Australia,0.2258091465237685,2,1,el,SAU,Oceania
 '7467da3199',extremes,Drought,#edc291,edo,ξηρασία γκαμπόν,2026-07-18T05:10:00+00:00,Gabon,0.2255879911152891,2,1,el,CAF,Africa
 '38e672b274',extremes,Drought,#edc291,edo,ξηρότητα Γκαμπόν,2026-07-12T05:43:00+00:00,Gabon,0.2252217860413407,2,1,el,CAF,Africa
+'0d261f252d',extremes,Storm,#b3b2b1,random,χειμωνιάτικη θύελλα,2026-07-24T05:35:00+00:00,,0.22469517607154268,3,1,el,,
 '393400b105',extremes,Drought,#edc291,edo,ξηρότητα Πουέρτο Ρίκο,2026-07-13T05:53:00+00:00,Puerto Rico,0.2246220725450731,2,1,el,CAR,North-America
 '02bc9c64a4',extremes,Drought,#edc291,edo,έλλειψη βροχής Καμπότζη,2026-07-13T05:53:00+00:00,Cambodia,0.2234785260062696,2,1,el,SEA,Asia
 '48bbc2ab73',extremes,Thunderstorm,#53785a,wmo,καταιγίδα γκανά,2026-07-23T05:40:00+00:00,Ghana,0.2232749899214736,2,1,el,WAF,Africa
