@@ -1,6 +1,6 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'4130a75ccf',extremes,Thunderstorm,#53785a,wmo,χαλάζι ελλάδα,2026-07-17T05:27:00+00:00,Greece,0.5877057115130787,4,1,el,MED,Europe
 'ebc221a7df',extremes,Thunderstorm,#53785a,wmo,χαλάζι αττική,2026-07-25T05:29:00+00:00,Greece,0.576092551962646,8,2,el,MED,Europe
+'4130a75ccf',extremes,Thunderstorm,#53785a,wmo,χαλάζι ελλάδα,2026-07-17T05:27:00+00:00,Greece,0.5757499747861169,5,2,el,MED,Europe
 'f6159d54ec',extremes,Heat Wave,#c40202,wmo,κύμα καύσωνα Αλγερία,2026-07-09T06:27:00+00:00,Algeria,0.5734810707109699,3,2,el,SAH,Africa
 '02711610b5',extremes,Storm,#b3b2b1,wmo,καταιγίδα Αργεντινή,2026-07-17T05:27:00+00:00,Argentina,0.5729502540221965,3,2,el,SES,South-America
 '6fd5acddee',extremes,Storm,#b3b2b1,wmo,καταιγίδα ελλάδα,2026-07-24T05:36:00+00:00,Greece,0.5691618257333054,4,1,el,MED,Europe
@@ -129,9 +129,9 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'fa9e452d04',extremes,Precipitation,#d60d2b,random,καταιγίδα,2026-07-12T05:43:00+00:00,,0.2925268828654529,2,1,el,,
 '469687aa19',extremes,Drought,#edc291,edo,έλλειψη βροχής Αλβανία,2026-07-15T05:15:00+00:00,Albania,0.2913555021333728,2,1,el,MED,Europe
 '4c31a9a075',extremes,Wildfire,#d60d2b,effis,wild fire λασίθι greece,2026-08-07T09:56:00+00:00,Greece,0.2895239021090075,2,1,el,MED,Europe
-'a27ac3abee',extremes,Wildfire,#d60d2b,effis,bushfire εύβοια greece,2026-08-07T09:56:00+00:00,Greece,0.28951396855824446,2,1,el,MED,Europe
+'a27ac3abee',extremes,Wildfire,#d60d2b,effis,bushfire εύβοια greece,2026-08-07T09:56:00+00:00,Greece,0.2895139685582444,2,1,el,MED,Europe
 'ce37661cdd',extremes,Cold Wave,#a7e9fa,random,η πιο κρύα μέρα,2026-08-03T05:57:00+00:00,,0.2894930864480558,1,1,el,,
-'f3b91506ec',extremes,Cold Wave,#a7e9fa,random,ρεκόρ κρύου,2026-07-31T05:51:00+00:00,,0.28417406904131404,2,1,el,,
+'f3b91506ec',extremes,Cold Wave,#a7e9fa,random,ρεκόρ κρύου,2026-07-31T05:51:00+00:00,,0.284174069041314,2,1,el,,
 'a4e63fa11b',extremes,Snow&Ice,#d60d2b,random,χειμωνιάτικος,2026-07-21T05:36:00+00:00,,0.2819040747606474,2,1,el,,
 'a8955ad6a2',extremes,Cold Wave,#a7e9fa,random,κρύο κρούσμα,2026-07-11T05:26:00+00:00,,0.2817406978317453,2,1,el,,
 '16aa48504a',extremes,Cold Wave,#a7e9fa,random,σταγόνες υδραργύρου,2026-07-10T06:27:00+00:00,,0.2816579629729382,2,1,el,,
@@ -141,7 +141,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'ea1c03418f',extremes,Snow&Ice,#d60d2b,random,χιονόνερο,2026-07-16T05:25:00+00:00,,0.2801161259054544,2,1,el,,
 '55c39b351d',extremes,Storm,#b3b2b1,random,σκόνη διάβολος,2026-07-14T05:14:00+00:00,,0.2800834518204186,2,1,el,,
 '5b8cf400f9',extremes,Iceberg,#d60d2b,random,iceberg caving,2026-07-26T05:46:00+00:00,,0.2795991266400575,2,1,el,,
-'7f74d7e52f',extremes,Wildfire,#d60d2b,effis,wildfire shqipëria elbasan prrenjas,2026-08-07T09:56:00+00:00,Albania,0.27863347074903644,2,1,el,MED,Europe
+'7f74d7e52f',extremes,Wildfire,#d60d2b,effis,wildfire shqipëria elbasan prrenjas,2026-08-07T09:56:00+00:00,Albania,0.2786334707490364,2,1,el,MED,Europe
 '056bed0dad',extremes,Cold Wave,#a7e9fa,random,ο πιο κρύος χειμώνας,2026-07-09T06:27:00+00:00,,0.2784758545774319,2,1,el,,
 'd2b5043a66',extremes,Cold Wave,#a7e9fa,random,η χαμηλότερη ελάχιστη θερμοκρασία,2026-07-20T05:54:00+00:00,,0.2771842968025577,2,1,el,,
 'ee63b257d5',extremes,Tropical Cyclone,#4f4f4f,random,τροπική καταιγίδα,2026-08-01T05:41:00+00:00,,0.276986970245168,2,1,el,,
@@ -152,11 +152,11 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'b073fed5b4',extremes,Snow&Ice,#d60d2b,random,παγετός,2026-07-17T05:27:00+00:00,,0.2722598066928018,2,1,el,,
 '9c704e4826',extremes,Wildfire,#d60d2b,effis,άγρια ​​φωτιά Λίβανος,2026-08-07T11:06:00+00:00,Lebanon,0.271793887239806,1,1,el,MED,Asia
 '3ecff8bdd9',extremes,Wildfire,#d60d2b,effis,δασική πυρκαγιά Λίβανος,2026-08-07T11:06:00+00:00,Lebanon,0.2717932233775344,1,1,el,MED,Asia
-'5b2f7ef723',extremes,Wildfire,#d60d2b,effis,άγρια ​​φωτιά sarafend Λίβανος,2026-08-07T11:06:00+00:00,Lebanon,0.27179281095943236,1,1,el,MED,Asia
+'5b2f7ef723',extremes,Wildfire,#d60d2b,effis,άγρια ​​φωτιά sarafend Λίβανος,2026-08-07T11:06:00+00:00,Lebanon,0.2717928109594323,1,1,el,MED,Asia
 '2094eeff3e',extremes,Wildfire,#d60d2b,effis,wild fire nabi youcheaa Λίβανος,2026-08-07T11:06:00+00:00,Lebanon,0.2717928057572668,1,1,el,MED,Asia
-'84da2917b8',extremes,Wildfire,#d60d2b,effis,wildfire mardin γαλοπούλα,2026-08-07T11:06:00+00:00,Turkey,0.27179280356739416,1,1,el,WCA,Asia
+'84da2917b8',extremes,Wildfire,#d60d2b,effis,wildfire mardin γαλοπούλα,2026-08-07T11:06:00+00:00,Turkey,0.2717928035673941,1,1,el,WCA,Asia
 '5400f1e65e',extremes,Wildfire,#d60d2b,effis,πυρκαγιά kilis syria,2026-08-07T11:06:00+00:00,Syria,0.2717928035185565,1,1,el,MED,Asia
-'4e07fc8f74',extremes,Wildfire,#d60d2b,effis,άγρια ​​φωτιά habbouche Λίβανος,2026-08-07T11:06:00+00:00,Lebanon,0.27179280255300614,1,1,el,MED,Asia
+'4e07fc8f74',extremes,Wildfire,#d60d2b,effis,άγρια ​​φωτιά habbouche Λίβανος,2026-08-07T11:06:00+00:00,Lebanon,0.2717928025530061,1,1,el,MED,Asia
 'b445ee6ee0',extremes,Drought,#edc291,edo,ξηρότητα Ελ Σαλβαδόρ,2026-08-04T05:32:00+00:00,El Salvador,0.2647856107512875,1,1,el,SCA,North-America
 'f8a513bf41',extremes,Tropical Cyclone,#4f4f4f,random,medicane,2026-07-22T05:35:00+00:00,,0.2645098717044576,2,1,el,,
 '8c2b565540',extremes,Drought,#edc291,edo,Ξηρότητα Ουγκάντα,2026-07-16T05:25:00+00:00,Uganda,0.2645058593136487,1,1,el,SEAF,Africa
