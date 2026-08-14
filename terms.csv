@@ -1,6 +1,5 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'2e28dfa4bf',extremes,Heat Wave,#c40202,wmo,κύμα καύσωνα Κύπρος,2026-08-02T05:42:00+00:00,Cyprus,0.781880463184042,1,2,el,MED,Europe
-'1a50ea2097',extremes,Wildfire,#d60d2b,effis,wild fire ελλάδα  ροδόπη τοπική κοινότητα ιμέρου,2026-08-14T04:24:00+00:00,Greece,0.640327525113052,0,1,el,MED,Europe
+'2e28dfa4bf',extremes,Heat Wave,#c40202,wmo,κύμα καύσωνα Κύπρος,2026-08-02T05:42:00+00:00,Cyprus,0.8147484087064357,2,2,el,MED,Europe
 '9e744bada4',extremes,Wildfire,#d60d2b,effis,wildfire ελλάδα  γρεβενά κοζάνη τοπική κοινότητα αναρραχής,2026-08-14T04:24:00+00:00,Greece,0.6343800138309744,0,1,el,MED,Europe
 'd1b189b866',extremes,Wildfire,#d60d2b,effis,wildfire ελλάδα  ζάκυνθος τοπική κοινότητα βολιμών,2026-08-14T04:24:00+00:00,Greece,0.6330660866717991,0,1,el,MED,Europe
 '9790df1d1c',extremes,Thunderstorm,#53785a,wmo,κακοκαιρία θεσσαλία,2026-08-14T04:24:00+00:00,Greece,0.6261823384764742,0,1,el,MED,Europe
@@ -10,6 +9,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '350b00d122',extremes,Wildfire,#d60d2b,effis,wildfire ζάκυνθος greece,2026-08-14T04:24:00+00:00,Greece,0.6056094045127135,0,1,el,MED,Europe
 '50aa3c0884',extremes,Wildfire,#d60d2b,effis,wild fire ροδόπη greece,2026-08-14T04:24:00+00:00,Greece,0.6052225852913259,0,1,el,MED,Europe
 'ddce777b5c',extremes,Wildfire,#d60d2b,effis,πυρκαγιά ροδόπη greece,2026-08-13T04:26:00+00:00,Greece,0.5647986139685501,2,2,el,MED,Europe
+'1a50ea2097',extremes,Wildfire,#d60d2b,effis,wild fire ελλάδα  ροδόπη τοπική κοινότητα ιμέρου,2026-08-14T04:24:00+00:00,Greece,0.5442783963460942,1,1,el,MED,Europe
 'af3396aaaf',extremes,Drought,#edc291,edo,ξηρασία Ελλάδα,2026-07-18T05:10:00+00:00,Greece,0.5336972675775898,2,2,el,MED,Europe
 'f90601fa23',extremes,Volcano,#b83202,random,έκρηξη ηφαιστείου,2026-07-03T06:09:00+00:00,,0.531039970068576,2,2,el,,
 '4d9577e33d',extremes,Volcano,#b83202,random,ηφαίστειο,2026-08-01T05:41:00+00:00,,0.525751486500181,2,2,el,,
