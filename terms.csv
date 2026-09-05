@@ -1,9 +1,9 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
+'0468325e9c',extremes,Heat Wave,#c40202,wmo,καύσωνας αττική,2026-08-22T03:22:00+00:00,Greece,0.6741144504381593,3,2,el,MED,Europe
 '247bcedc95',extremes,Thunderstorm,#53785a,wmo,χαλάζι Κύπρος,2026-08-28T14:32:00+00:00,Cyprus,0.6471918061145259,2,2,el,MED,Europe
 'f805ea7d0d',extremes,Heat Wave,#c40202,wmo,κύμα καύσωνα ανατολική Μακεδονία,2026-08-10T04:14:00+00:00,Greece,0.6390015143256114,6,1,el,MED,Europe
 '8b63278dd1',extremes,Heat Wave,#c40202,wmo,κύμα καύσωνα ανατολική Πελοπόννησος,2026-08-17T03:28:00+00:00,Greece,0.6335061693428167,6,1,el,MED,Europe
 'ee76108475',extremes,Wildfire,#d60d2b,effis,πυρκαγιά ελλάδα,2026-08-07T09:56:00+00:00,Greece,0.630391546539768,5,3,el,MED,Europe
-'0468325e9c',extremes,Heat Wave,#c40202,wmo,καύσωνας αττική,2026-08-22T03:22:00+00:00,Greece,0.6157227946331286,2,1,el,MED,Europe
 '9790df1d1c',extremes,Thunderstorm,#53785a,wmo,κακοκαιρία θεσσαλία,2026-08-14T04:24:00+00:00,Greece,0.6026264538416495,7,2,el,MED,Europe
 'eee948eee4',extremes,Heat Wave,#c40202,wmo,καύσωνας θεσσαλία,2026-08-17T03:28:00+00:00,Greece,0.5841979231674788,4,2,el,MED,Europe
 '4e3fa8e0c6',extremes,Wildfire,#d60d2b,effis,wild fire βοιωτία greece,2026-08-27T13:00:00+00:00,Greece,0.56158584465141,2,1,el,MED,Europe
@@ -305,7 +305,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '2d196b98c8',extremes,Wildfire,#d60d2b,effis,wildfire marocco,2026-08-07T09:56:00+00:00,Morocco,0.2717885829565318,1,1,el,MED,Africa
 '7aef40d766',extremes,Wildfire,#d60d2b,effis,δασική πυρκαγιά Μαρόκο,2026-08-07T09:56:00+00:00,Morocco,0.2717879296876216,1,1,el,MED,Africa
 '1944ae7912',extremes,Wildfire,#d60d2b,effis,πυρκαγιά της Ρουμανίας,2026-08-07T09:56:00+00:00,Romania,0.2717871967656482,1,1,el,MED,Europe
-'d33e4146b6',extremes,Wildfire,#d60d2b,effis,πυρκαγιά türkiye kilis ν.α.,2026-08-07T11:06:00+00:00,Syria,0.2717864330680696,1,1,el,MED,Asia
 '1f50df77c2',extremes,Wildfire,#d60d2b,effis,wildfire bulgaria,2026-08-07T09:56:00+00:00,Bulgaria,0.2717863218962212,1,1,el,MED,Europe
 '1fefacbadb',extremes,Iceberg,#d60d2b,random,τοκετός παγετώνων,2026-08-05T05:31:00+00:00,,0.2714958790027282,2,1,el,,
 '135f8534c2',extremes,Precipitation,#d60d2b,random,περισσότερη βροχόπτωση,2026-08-26T03:33:00+00:00,,0.2702501600725032,2,1,el,,
@@ -338,7 +337,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '7ab0357fd9',extremes,Wildfire,#d60d2b,effis,πυρκαγιά douro πορτογαλία,2026-08-07T09:56:00+00:00,Portugal,0.2310238798675817,2,1,el,MED,Europe
 'cd3c884b3c',extremes,Wildfire,#d60d2b,effis,πυρκαγιά bchatfine Λίβανος,2026-08-07T11:06:00+00:00,Lebanon,0.2310238776950641,2,1,el,MED,Asia
 'f5c50f1b78',extremes,Wildfire,#d60d2b,effis,wild fire el mery libanon,2026-08-07T11:06:00+00:00,Lebanon,0.2310238775929455,2,1,el,MED,Asia
-'5fc209e2c8',extremes,Wildfire,#d60d2b,effis,πυρκαγιά aïn jarfa Λίβανος,2026-08-07T11:06:00+00:00,Lebanon,0.23102387749779527,2,1,el,MED,Asia
+'5fc209e2c8',extremes,Wildfire,#d60d2b,effis,πυρκαγιά aïn jarfa Λίβανος,2026-08-07T11:06:00+00:00,Lebanon,0.2310238774977952,2,1,el,MED,Asia
 '5a44e56560',extremes,Wildfire,#d60d2b,effis,πυρκαγιά machha Λίβανος,2026-08-07T11:06:00+00:00,Lebanon,0.2310238768789536,2,1,el,MED,Asia
 '53e43a28d5',extremes,Wildfire,#d60d2b,effis,πυρκαγιά el kfour Λίβανος,2026-08-07T11:06:00+00:00,Lebanon,0.2310238759197291,2,1,el,MED,Asia
 '3b374ddaaa',extremes,Wildfire,#d60d2b,effis,πυρκαγιά вардарски βόρεια Μακεδονία,2026-08-07T11:06:00+00:00,North Macedonia,0.231023875889621,2,1,el,MED,Europe
@@ -388,4 +387,5 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'be6eea75ee',extremes,Wildfire,#d60d2b,effis,wildfire Τυνησία,2026-08-07T09:56:00+00:00,Tunisia,0.2310209164837724,2,1,el,MED,Africa
 '66954ee37f',extremes,Wildfire,#d60d2b,effis,πυρκαγιά στη Βοσνία και Ερζεγοβίνη,2026-08-07T09:56:00+00:00,Bosnia and Herzegovina,0.2310207010404584,2,1,el,MED,Europe
 '793ba29f43',extremes,Wildfire,#d60d2b,effis,wild fire libanon sarafend ν.α.,2026-08-07T11:06:00+00:00,Lebanon,0.2310194555368801,2,1,el,MED,Asia
+'d33e4146b6',extremes,Wildfire,#d60d2b,effis,πυρκαγιά türkiye kilis ν.α.,2026-08-07T11:06:00+00:00,Syria,0.23101846810785914,2,1,el,MED,Asia
 'a23c450be4',extremes,Wildfire,#d60d2b,effis,bushfire marocco bab berred n.a.,2026-08-07T09:56:00+00:00,Morocco,0.2310182472024828,2,1,el,MED,Africa
