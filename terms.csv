@@ -1,10 +1,6 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'8bf3cc433f',extremes,Wildfire,#d60d2b,effis,wild fire greece,2026-08-27T13:00:00+00:00,Greece,0.7813474670654895,0,1,el,MED,Europe
-'6d6528d836',extremes,Wildfire,#d60d2b,effis,wild fire albania,2026-08-27T13:00:00+00:00,Albania,0.7020871329944787,0,1,el,MED,Europe
 '0198490ba7',extremes,Heat Wave,#c40202,wmo,κύμα καύσωνα κεντρική Μακεδονία,2026-08-28T14:32:00+00:00,Greece,0.7003309603312389,3,2,el,MED,Europe
-'6e172a8d1b',extremes,Wildfire,#d60d2b,effis,bushfire ελλάδα  ξάνθη δημοτική κοινότητα ευμοίρου,2026-09-08T07:23:00+00:00,Greece,0.6757532837990382,0,1,el,MED,Europe
-'e048c4b3d7',extremes,Wildfire,#d60d2b,effis,πυρκαγιά shqipëria fier fier,2026-09-08T07:23:00+00:00,Albania,0.6700788607110026,0,1,el,MED,Europe
-'3d78159313',extremes,Thunderstorm,#53785a,wmo,καταιγίδα ελλάδα,2026-08-28T14:32:00+00:00,Greece,0.6659881380444669,0,1,el,MED,Europe
+'8bf3cc433f',extremes,Wildfire,#d60d2b,effis,wild fire greece,2026-08-27T13:00:00+00:00,Greece,0.6641453470056661,1,1,el,MED,Europe
 '586ee38d37',extremes,Wildfire,#d60d2b,effis,wild fire shqipëria tiranë kavajë,2026-09-08T07:23:00+00:00,Albania,0.6561361314614645,0,1,el,MED,Europe
 'aa2f190dbf',extremes,Wildfire,#d60d2b,effis,wild fire tiranë albania,2026-09-08T07:23:00+00:00,Albania,0.6500073821560018,0,1,el,MED,Europe
 '3b091a11d8',extremes,Wildfire,#d60d2b,effis,bushfire ξάνθη greece,2026-09-08T07:23:00+00:00,Greece,0.6481078772712191,0,1,el,MED,Europe
@@ -15,11 +11,15 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'e1450a8f8d',extremes,Wildfire,#d60d2b,effis,wildfire ελλάδα  ξάνθη δημοτική κοινότητα ευμοίρου,2026-09-08T07:23:00+00:00,Greece,0.6152159672088932,0,1,el,MED,Europe
 '6db948209a',extremes,Heat Wave,#c40202,wmo,κύμα καύσωνα στην Ελλάδα,2026-08-30T08:30:00+00:00,Greece,0.6105261659714278,1,1,el,MED,Europe
 '372f4267a4',extremes,Heat Wave,#c40202,wmo,κύμα καύσωνα ιοννήσια,2026-08-27T13:00:00+00:00,Greece,0.6095496186026119,1,1,el,MED,Europe
+'3d78159313',extremes,Thunderstorm,#53785a,wmo,καταιγίδα ελλάδα,2026-08-28T14:32:00+00:00,Greece,0.6041899773377968,1,1,el,MED,Europe
 '9790df1d1c',extremes,Thunderstorm,#53785a,wmo,κακοκαιρία θεσσαλία,2026-08-14T04:24:00+00:00,Greece,0.6026264538416495,7,2,el,MED,Europe
 '65d62aaf7d',extremes,Wildfire,#d60d2b,effis,wild fire φλώρινα greece,2026-09-08T07:23:00+00:00,Greece,0.60026086951239,1,1,el,MED,Europe
+'6d6528d836',extremes,Wildfire,#d60d2b,effis,wild fire albania,2026-08-27T13:00:00+00:00,Albania,0.5967740630453069,1,1,el,MED,Europe
 '2bc06ad0b6',extremes,Wildfire,#d60d2b,effis,wildfire albania,2026-08-28T14:32:00+00:00,Albania,0.5925406328138879,1,1,el,MED,Europe
 'eee948eee4',extremes,Heat Wave,#c40202,wmo,καύσωνας θεσσαλία,2026-08-17T03:28:00+00:00,Greece,0.5841979231674788,4,2,el,MED,Europe
+'6e172a8d1b',extremes,Wildfire,#d60d2b,effis,bushfire ελλάδα  ξάνθη δημοτική κοινότητα ευμοίρου,2026-09-08T07:23:00+00:00,Greece,0.5743902912291825,1,1,el,MED,Europe
 '0468325e9c',extremes,Heat Wave,#c40202,wmo,καύσωνας αττική,2026-08-22T03:22:00+00:00,Greece,0.5729973428724354,4,1,el,MED,Europe
+'e048c4b3d7',extremes,Wildfire,#d60d2b,effis,πυρκαγιά shqipëria fier fier,2026-09-08T07:23:00+00:00,Albania,0.5695670316043522,1,1,el,MED,Europe
 'dd174d55e9',extremes,Wildfire,#d60d2b,effis,wildfire ξάνθη greece,2026-09-08T07:23:00+00:00,Greece,0.5684633304230589,0,1,el,MED,Europe
 '4e3fa8e0c6',extremes,Wildfire,#d60d2b,effis,wild fire βοιωτία greece,2026-08-27T13:00:00+00:00,Greece,0.56158584465141,2,1,el,MED,Europe
 '4c8bd3e4d4',extremes,Insect Infestation,#d60d2b,random,ακρίδες,2026-08-12T04:22:00+00:00,,0.5613653121958151,2,2,el,,
