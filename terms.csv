@@ -4,7 +4,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '8b63278dd1',extremes,Heat Wave,#c40202,wmo,κύμα καύσωνα ανατολική Πελοπόννησος,2026-08-17T03:28:00+00:00,Greece,0.6335061693428167,6,1,el,MED,Europe
 'ee76108475',extremes,Wildfire,#d60d2b,effis,πυρκαγιά ελλάδα,2026-08-07T09:56:00+00:00,Greece,0.630391546539768,5,3,el,MED,Europe
 '6db948209a',extremes,Heat Wave,#c40202,wmo,κύμα καύσωνα στην Ελλάδα,2026-08-30T08:30:00+00:00,Greece,0.6105261659714278,1,1,el,MED,Europe
-'3d78159313',extremes,Thunderstorm,#53785a,wmo,καταιγίδα ελλάδα,2026-08-28T14:32:00+00:00,Greece,0.6041899773377968,1,1,el,MED,Europe
 '9790df1d1c',extremes,Thunderstorm,#53785a,wmo,κακοκαιρία θεσσαλία,2026-08-14T04:24:00+00:00,Greece,0.6026264538416495,7,2,el,MED,Europe
 '0198490ba7',extremes,Heat Wave,#c40202,wmo,κύμα καύσωνα κεντρική Μακεδονία,2026-08-28T14:32:00+00:00,Greece,0.595281331281553,4,1,el,MED,Europe
 'eee948eee4',extremes,Heat Wave,#c40202,wmo,καύσωνας θεσσαλία,2026-08-17T03:28:00+00:00,Greece,0.5841979231674788,4,2,el,MED,Europe
@@ -17,6 +16,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '45500dcb47',extremes,Precipitation,#d60d2b,random,ρεκόρ βροχοπτώσεων,2026-08-22T03:22:00+00:00,,0.5595925013784063,2,2,el,,
 '491cc61ca3',extremes,Drought,#edc291,edo,ξηρασία ελλάδα,2026-08-27T13:00:00+00:00,Greece,0.5588701092782093,2,2,el,MED,Europe
 'e81aa0ac7e',extremes,Wildfire,#d60d2b,effis,wildfire αιτωλοακαρνανία greece,2026-08-27T13:00:00+00:00,Greece,0.551679250222837,2,1,el,MED,Europe
+'3d78159313',extremes,Thunderstorm,#53785a,wmo,καταιγίδα ελλάδα,2026-08-28T14:32:00+00:00,Greece,0.5516615407371273,2,1,el,MED,Europe
 'b4cd8bfe1e',extremes,ice jam,#d60d2b,random,πλημμύρα,2026-08-02T05:41:00+00:00,,0.550418855077923,2,3,el,,
 '59a17cc18a',extremes,Wildfire,#d60d2b,effis,πυρκαγιά Κύπρος,2026-09-02T07:16:00+00:00,Cyprus,0.5429158662624084,2,1,el,MED,Europe
 'bbe37bed06',extremes,Wildfire,#d60d2b,effis,wild fire ελλάδα  βοιωτία τοπική κοινότητα αγίου βλασίου,2026-08-27T13:00:00+00:00,Greece,0.5394080917238996,2,1,el,MED,Europe
@@ -37,7 +37,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '1caafaca2a',extremes,Storm,#b3b2b1,wmo,κύμα καταιγίδας ελλάδα,2026-08-14T04:24:00+00:00,Greece,0.5022269200955597,2,1,el,MED,Europe
 '8c6258cb76',extremes,Heat Wave,#c40202,wmo,κύμα καύσωνα δυτική Πελοπόννησος,2026-08-22T03:22:00+00:00,Greece,0.5019316341454017,2,1,el,MED,Europe
 '42c01ec8fd',extremes,Wildfire,#d60d2b,effis,wild fire shqipëria vlorë selenicë,2026-08-25T03:27:00+00:00,Albania,0.4999707840146171,2,1,el,MED,Europe
-'40e113cd9e',extremes,Wildfire,#d60d2b,effis,wild fire κύπρος  κύπρος μηλιά αμμοχώστου,2026-08-21T03:30:00+00:00,Cyprus,0.4984978920860252,2,1,el,MED,Europe
 '9936758b94',extremes,Wildfire,#d60d2b,effis,bushfire ελλάδα  γρεβενά κοζάνη τοπική κοινότητα παλιουριάς,2026-08-31T08:51:00+00:00,Greece,0.49751340098316,2,1,el,MED,Europe
 'c3d0e3b068',extremes,Snow&Ice,#d60d2b,random,πάγωμα,2026-08-18T03:23:00+00:00,,0.495968141719981,3,2,el,,
 'ef54296dab',extremes,Snow&Ice,#d60d2b,random,πάγος,2026-08-14T04:24:00+00:00,,0.4939046217511816,2,2,el,,
@@ -48,7 +47,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '9f7ec0eb96',extremes,Heat Wave,#c40202,wmo,κύμα καύσωνα δυτική Στερεά,2026-08-20T03:26:00+00:00,Greece,0.4860836726120694,2,1,el,MED,Europe
 'e048c4b3d7',extremes,Wildfire,#d60d2b,effis,πυρκαγιά shqipëria fier fier,2026-09-08T07:23:00+00:00,Albania,0.4841319768636993,2,1,el,MED,Europe
 '29e4e32198',extremes,Wildfire,#d60d2b,effis,bushfire ελλάδα  θεσπρωτία τοπική κοινότητα πλαισίου,2026-08-15T03:13:00+00:00,Greece,0.4822083695463034,2,1,el,MED,Europe
-'3a950bc4b2',extremes,Wildfire,#d60d2b,effis,πυρκαγιά θεσπρωτία greece,2026-08-15T03:13:00+00:00,Greece,0.4821349576645597,2,1,el,MED,Europe
 '97329212fc',extremes,Wildfire,#d60d2b,effis,πυρκαγιά gjirokastër albania,2026-08-28T14:32:00+00:00,Albania,0.4820808680600567,2,1,el,MED,Europe
 'd5d7a11479',extremes,Drought,#edc291,edo,ξηρασία Κύπρος,2026-08-08T03:51:00+00:00,Cyprus,0.4786943815665222,2,2,el,MED,Europe
 '50787822da',extremes,Wildfire,#d60d2b,effis,bushfire vlorë albania,2026-08-25T03:27:00+00:00,Albania,0.4784368373853767,2,1,el,MED,Europe
@@ -121,6 +119,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '2ac35a800e',extremes,Storm,#b3b2b1,wmo,καταιγίδα ανατολική Μακεδονία,2026-08-19T03:26:00+00:00,Greece,0.4244804947296716,2,1,el,MED,Europe
 '3cd619cb2e',extremes,Thunderstorm,#53785a,wmo,έντονα καιρικά φαινόμενα δυτική Στερεά,2026-09-02T07:16:00+00:00,Greece,0.4240951510713076,2,1,el,MED,Europe
 'eaec226d8f',extremes,Wildfire,#d60d2b,effis,wild fire ελλάδα  χαλκιδική δημοτική κοινότητα κασσανδρείας,2026-08-17T03:28:00+00:00,Greece,0.4240476768613952,3,1,el,MED,Europe
+'40e113cd9e',extremes,Wildfire,#d60d2b,effis,wild fire κύπρος  κύπρος μηλιά αμμοχώστου,2026-08-21T03:30:00+00:00,Cyprus,0.4237232082731214,3,1,el,MED,Europe
 'be3aa35ac9',extremes,Wildfire,#d60d2b,effis,wild fire ιωάννινα greece,2026-09-05T07:04:00+00:00,Greece,0.4236456607208517,2,1,el,MED,Europe
 'ad595b5fab',extremes,Wildfire,#d60d2b,effis,bushfire shqipëria shkodër πεδίο arrës,2026-09-05T07:04:00+00:00,Albania,0.4234497045055138,2,1,el,MED,Europe
 '3f1654d72c',extremes,Wildfire,#d60d2b,effis,wildfire κύπρος  κύπρος τρυπημένη,2026-09-02T07:16:00+00:00,Cyprus,0.4231116053154329,2,1,el,MED,Europe
@@ -157,17 +156,17 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'ed77e42747',extremes,Wildfire,#d60d2b,effis,πυρκαγιά shqipëria elbasan prrenjas,2026-08-17T03:28:00+00:00,Albania,0.410618231124589,2,1,el,MED,Europe
 'edc29d4c35',extremes,Wildfire,#d60d2b,effis,πυρκαγιά fier albania,2026-08-14T04:24:00+00:00,Albania,0.4102214877971884,2,1,el,MED,Europe
 '5ab53ec16f',extremes,Heat Wave,#c40202,wmo,κύμα καύσωνα ανατολική sterea amp evvoia,2026-08-17T03:28:00+00:00,Greece,0.4101922695916662,3,1,el,MED,Europe
+'3a950bc4b2',extremes,Wildfire,#d60d2b,effis,πυρκαγιά θεσπρωτία greece,2026-08-15T03:13:00+00:00,Greece,0.40981471401487574,3,1,el,MED,Europe
 '9c565cb3d4',extremes,Wildfire,#d60d2b,effis,wild fire shqipëria shkodër shkodër,2026-08-24T03:32:00+00:00,Albania,0.4096283103062115,2,1,el,MED,Europe
 '243711187c',extremes,Wildfire,#d60d2b,effis,wild fire shqipëria vlorë vlorë,2026-08-29T09:18:00+00:00,Albania,0.4093869279610378,2,1,el,MED,Europe
-'ddce777b5c',extremes,Wildfire,#d60d2b,effis,πυρκαγιά ροδόπη greece,2026-08-13T04:26:00+00:00,Greece,0.4082170263422774,4,1,el,MED,Europe
 '3f046dcdba',extremes,Wildfire,#d60d2b,effis,wild fire fier albania,2026-08-14T04:24:00+00:00,Albania,0.407693889502504,2,1,el,MED,Europe
 '9196912171',extremes,Wildfire,#d60d2b,effis,wildfire gjirokastër albania,2026-08-29T09:18:00+00:00,Albania,0.4064561490264989,3,1,el,MED,Europe
 '36aa370621',extremes,Wildfire,#d60d2b,effis,wildfire tiranë albania,2026-08-14T04:24:00+00:00,Albania,0.4045592778115187,2,1,el,MED,Europe
 '1368a0b03f',extremes,Storm,#b3b2b1,wmo,κύμα καταιγίδας θεσσαλία,2026-09-02T07:16:00+00:00,Greece,0.4042886282928223,2,1,el,MED,Europe
 '469687aa19',extremes,Drought,#edc291,edo,έλλειψη βροχής Αλβανία,2026-08-27T13:00:00+00:00,Albania,0.4040508162253242,0,1,el,MED,Europe
 '4ad04c703b',extremes,Wildfire,#d60d2b,effis,πυρκαγιά shqipëria fier mallakastër,2026-08-25T03:27:00+00:00,Albania,0.4033778212165529,2,1,el,MED,Europe
-'586ee38d37',extremes,Wildfire,#d60d2b,effis,wild fire shqipëria tiranë kavajë,2026-09-08T07:23:00+00:00,Albania,0.40294960173377187,3,1,el,MED,Europe
-'068e92d9bc',extremes,Earthquake,#870007,usgs,σεισμός άστρος,2026-09-01T07:57:00+00:00,Greece,0.40294253076012887,3,1,el,MED,Europe
+'586ee38d37',extremes,Wildfire,#d60d2b,effis,wild fire shqipëria tiranë kavajë,2026-09-08T07:23:00+00:00,Albania,0.4029496017337718,3,1,el,MED,Europe
+'068e92d9bc',extremes,Earthquake,#870007,usgs,σεισμός άστρος,2026-09-01T07:57:00+00:00,Greece,0.4029425307601288,3,1,el,MED,Europe
 '3029d20e1c',extremes,Wildfire,#d60d2b,effis,wildfire dibër albania,2026-08-22T03:22:00+00:00,Albania,0.4019508851543981,2,1,el,MED,Europe
 '00a273612a',extremes,Wildfire,#d60d2b,effis,wild fire lezhë albania,2026-08-16T03:28:00+00:00,Albania,0.4018010009863154,2,1,el,MED,Europe
 'c4feb3200d',extremes,Wildfire,#d60d2b,effis,wildfire ελλάδα  ροδόπη τοπική κοινότητα νέου σιδηροχωρίου,2026-08-13T04:26:00+00:00,Greece,0.4008268834527598,3,1,el,MED,Europe
@@ -192,7 +191,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '648c26f911',extremes,Drought,#edc291,edo,έλλειψη βροχής ελλάδα,2026-08-12T04:23:00+00:00,Greece,0.3917835529795127,2,1,el,MED,Europe
 '2b97cbe6bd',extremes,Wildfire,#d60d2b,effis,wildfire fier albania,2026-08-21T03:30:00+00:00,Albania,0.3910256609273132,2,1,el,MED,Europe
 '52a93d89d4',extremes,Thunderstorm,#53785a,wmo,καταιγίδα ανατολική sterea amp evvoia,2026-09-04T07:23:00+00:00,Greece,0.39096415781484,1,1,el,MED,Europe
-'a7859b1ea4',extremes,Wildfire,#d60d2b,effis,wild fire ελλάδα  λασίθι τοπική κοινότητα ζάκρου,2026-08-11T04:01:00+00:00,Greece,0.3906606439975426,3,1,el,MED,Europe
 '2dbd6afd7c',extremes,Wildfire,#d60d2b,effis,wild fire shqipëria gjirokastër tepelenë,2026-08-29T09:18:00+00:00,Albania,0.3897077563724421,2,1,el,MED,Europe
 '9e744bada4',extremes,Wildfire,#d60d2b,effis,wildfire ελλάδα  γρεβενά κοζάνη τοπική κοινότητα αναρραχής,2026-08-14T04:24:00+00:00,Greece,0.3895886259939471,3,1,el,MED,Europe
 '0a98fdd376',extremes,Snow Avalanche,#deddd5,random,χιονοστιβάδα,2026-09-10T07:28:00+00:00,,0.386850272436199,0,1,el,,
@@ -214,7 +212,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '300b5a694a',extremes,Heat Wave,#c40202,meteo,υψηλή θερμοκρασία αλβανία,2026-08-13T04:26:00+00:00,Albania,0.3763325264129382,2,1,el,MED,Europe
 'ab3b052049',extremes,Precipitation,#d60d2b,meteo,βροχόπτωση αλβανία,2026-08-28T14:32:00+00:00,Albania,0.3759943108271341,1,1,el,MED,Europe
 '4d9577e33d',extremes,Volcano,#b83202,random,ηφαίστειο,2026-08-25T03:27:00+00:00,,0.3758755767876381,0,1,el,,
-'4525fdee50',extremes,Wildfire,#d60d2b,effis,wildfire vlorë albania,2026-08-20T03:26:00+00:00,Albania,0.3758680891008693,3,1,el,MED,Europe
 '283e17f0b3',extremes,Wildfire,#d60d2b,effis,wildfire berat albania,2026-09-03T07:20:00+00:00,Albania,0.3756357772047546,1,1,el,MED,Europe
 '2ee61d9cfd',extremes,Wildfire,#d60d2b,effis,wild fire shqipëria fier mallakastër,2026-08-14T04:24:00+00:00,Albania,0.3753254287243989,3,1,el,MED,Europe
 'fd6be0bdc7',extremes,Wildfire,#d60d2b,effis,πυρκαγιά λάρισα greece,2026-09-01T07:57:00+00:00,Greece,0.3747034151999269,2,1,el,MED,Europe
@@ -235,14 +232,13 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '5ec206de21',extremes,Wildfire,#d60d2b,effis,πυρκαγιά shqipëria fier patos,2026-08-14T04:24:00+00:00,Albania,0.3684405194886659,3,1,el,MED,Europe
 '5dbd8955b2',extremes,Wildfire,#d60d2b,effis,wild fire shqipëria elbasan elbasan,2026-08-23T03:30:00+00:00,Albania,0.367622858026169,2,1,el,MED,Europe
 '274a320e35',extremes,Wildfire,#d60d2b,effis,πυρκαγιά shqipëria lezhë kurbin,2026-08-21T03:30:00+00:00,Albania,0.3660012091457179,2,1,el,MED,Europe
-'6d41685acd',extremes,Wildfire,#d60d2b,effis,wildfire shqipëria berat ura vajgurore,2026-09-08T07:23:00+00:00,Albania,0.36432574072703394,1,1,el,MED,Europe
+'6d41685acd',extremes,Wildfire,#d60d2b,effis,wildfire shqipëria berat ura vajgurore,2026-09-08T07:23:00+00:00,Albania,0.3643257407270339,1,1,el,MED,Europe
 '8d4e6fcc3e',extremes,Snow&Ice,#d60d2b,random,χιονοθύελλα,2026-09-09T07:32:00+00:00,,0.3638364049571675,0,1,el,,
 'a9469025e6',extremes,Wildfire,#d60d2b,effis,wildfire ελλάδα  βοιωτία τοπική κοινότητα διονύσου,2026-08-27T13:00:00+00:00,Greece,0.3592133754661797,2,1,el,MED,Europe
 'fa7b8a962d',extremes,Wildfire,#d60d2b,effis,αγριάδα shqipëria tiranë tiranë,2026-08-14T04:24:00+00:00,Albania,0.3586695570998155,3,1,el,MED,Europe
 'd536b40cd9',extremes,Wildfire,#d60d2b,effis,πυρκαγιά shqipëria dibër dibër,2026-08-31T08:51:00+00:00,Albania,0.3586335781607702,3,1,el,MED,Europe
 '9bf488e92a',extremes,Earthquake,#870007,usgs,σεισμός χίμαρα,2026-08-31T08:51:00+00:00,Albania,0.3580470783104082,1,1,el,MED,Europe
 'a76a98fec2',extremes,Wildfire,#d60d2b,effis,άγρια ​​φωτιά shqipëria lezhë mirditë,2026-08-16T03:28:00+00:00,Albania,0.3576466748329411,3,1,el,MED,Europe
-'810077b9f4',extremes,Wildfire,#d60d2b,effis,άγρια ​​φωτιά shqipëria dibër dibër,2026-08-12T04:22:00+00:00,Albania,0.3568786947637773,3,1,el,MED,Europe
 '91c1f4d9b3',extremes,Wildfire,#d60d2b,effis,wildfire shqipëria shkodër pukë,2026-08-16T03:28:00+00:00,Albania,0.3529588083895433,3,1,el,MED,Europe
 '0c642ed149',extremes,Wildfire,#d60d2b,effis,wildfire βοιωτία greece,2026-08-27T13:00:00+00:00,Greece,0.3527811809772335,1,1,el,MED,Europe
 '62084daeb0',extremes,Earthquake,#870007,random,σεισμός,2026-09-05T07:04:00+00:00,,0.3517191669714787,0,1,el,,
@@ -268,6 +264,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'c948617fef',extremes,Heat Wave,#c40202,random,ακραία έκθεση στη ζέστη,2026-08-22T03:22:00+00:00,,0.3250201254127751,0,1,el,,
 'a652c78afc',extremes,Drought,#edc291,random,μέγα ξηρασία,2026-09-03T07:20:00+00:00,,0.3218654491131005,1,1,el,,
 '51569472af',extremes,Earthquake,#870007,usgs,σεισμός έμπονας,2026-08-31T08:51:00+00:00,Greece,0.3205888006622009,2,1,el,MED,Europe
+'4525fdee50',extremes,Wildfire,#d60d2b,effis,wildfire vlorë albania,2026-08-20T03:26:00+00:00,Albania,0.3194878757357389,4,1,el,MED,Europe
 '69791e5a17',extremes,Flood,#030ba1,random,αστραπιαία πλημμύρα,2026-09-03T07:20:00+00:00,,0.3183492652701583,0,1,el,,
 'b7f999932e',extremes,Tropical Cyclone,#4f4f4f,eonet,τροπική καταιγίδα etau,2026-08-31T08:51:00+00:00,,0.3181566093575306,0,1,el,NPO,Pacific Ocean
 '54927bfe65',extremes,Flood,#030ba1,random,παράκτια πλημμύρα,2026-08-22T03:22:00+00:00,,0.3181116401583331,0,1,el,,
@@ -278,7 +275,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '7d72d405be',extremes,Tropical Cyclone,#4f4f4f,eonet,τυφώνας Lowell,2026-09-02T07:16:00+00:00,,0.3172348526717112,0,1,el,NPO,Pacific Ocean
 '00e5e36ea1',extremes,Tropical Cyclone,#4f4f4f,eonet,τροπική καταιγίδα iselle,2026-08-25T03:27:00+00:00,,0.3170066591638231,0,1,el,NPO,Pacific Ocean
 'db3be3f429',extremes,Tropical Cyclone,#4f4f4f,eonet,τροπική καταιγίδα bang lang,2026-08-31T08:51:00+00:00,,0.3169554391479997,0,1,el,NPO,Pacific Ocean
-'e900b0ff18',extremes,Wildfire,#d60d2b,effis,wildfire ιωάννινα greece,2026-09-03T07:20:00+00:00,Greece,0.31687847855454104,2,1,el,MED,Europe
+'e900b0ff18',extremes,Wildfire,#d60d2b,effis,wildfire ιωάννινα greece,2026-09-03T07:20:00+00:00,Greece,0.316878478554541,2,1,el,MED,Europe
 'dd6493c331',extremes,Storm,#b3b2b1,aidr,καταιγίδα αυστραλία,2026-09-01T07:58:00+00:00,Australia,0.3165343851226193,0,1,el,EAU,Oceania
 '41f3b5b396',extremes,Storm,#b3b2b1,aidr,καταιγίδα ισχυρός άνεμος και βροχοπτώσεις victoria 2024,2026-08-27T13:01:00+00:00,Australia,0.3164082035295365,0,1,el,SAU,Oceania
 'a320301f76',extremes,Wildfire,#d60d2b,effis,άγρια ​​φωτιά αλγερία,2026-08-27T13:00:00+00:00,Algeria,0.3159927465131042,0,1,el,MED,Africa
@@ -302,9 +299,9 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'a4e63fa11b',extremes,Snow&Ice,#d60d2b,random,χειμωνιάτικος,2026-08-14T04:24:00+00:00,,0.2749666908797163,2,1,el,,
 'd59a7e48d7',extremes,Drought,#edc291,random,εξατμισοδιαπνοή,2026-08-28T14:31:00+00:00,,0.2746148958905133,2,1,el,,
 '135f8534c2',extremes,Precipitation,#d60d2b,random,περισσότερη βροχόπτωση,2026-08-26T03:33:00+00:00,,0.2702501600725032,2,1,el,,
-'ccefefc59e',extremes,Drought,#edc291,random,αστραπιαία ξηρασία,2026-09-08T07:23:00+00:00,,0.26900148653262423,1,1,el,,
-'ec98366bcb',extremes,Flood,#030ba1,aidr,πλημμύρα νοτιοανατολική Αυστραλία 2016,2026-08-30T08:30:00+00:00,Australia,0.26872043919328553,1,1,el,SAU,Oceania
+'ccefefc59e',extremes,Drought,#edc291,random,αστραπιαία ξηρασία,2026-09-08T07:23:00+00:00,,0.2690014865326242,1,1,el,,
+'ec98366bcb',extremes,Flood,#030ba1,aidr,πλημμύρα νοτιοανατολική Αυστραλία 2016,2026-08-30T08:30:00+00:00,Australia,0.2687204391932855,1,1,el,SAU,Oceania
 'b24c0517bf',extremes,Cold Wave,#a7e9fa,random,βουτιές υδραργύρου,2026-08-15T03:13:00+00:00,,0.2678862952374474,2,1,el,,
 '80462e91eb',extremes,Tropical Cyclone,#4f4f4f,random,κυκλώνας,2026-08-12T04:22:00+00:00,,0.2672913372564672,2,1,el,,
 '9391f481ee',extremes,Storm,#b3b2b1,random,ανεμοθύελλα,2026-08-16T03:27:00+00:00,,0.2615424657348816,2,1,el,,
-'1fefacbadb',extremes,Iceberg,#d60d2b,random,τοκετός παγετώνων,2026-09-01T07:57:00+00:00,,0.25590611795917334,2,1,el,,
+'1fefacbadb',extremes,Iceberg,#d60d2b,random,τοκετός παγετώνων,2026-09-01T07:57:00+00:00,,0.2559061179591733,2,1,el,,
