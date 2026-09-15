@@ -17,6 +17,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '3d78159313',extremes,Thunderstorm,#53785a,wmo,καταιγίδα ελλάδα,2026-08-28T14:32:00+00:00,Greece,0.5516615407371273,2,1,el,MED,Europe
 '3dcef39465',extremes,Wildfire,#d60d2b,effis,wildfire greece,2026-09-03T07:20:00+00:00,Greece,0.5443104972323438,2,1,el,MED,Europe
 '59a17cc18a',extremes,Wildfire,#d60d2b,effis,πυρκαγιά Κύπρος,2026-09-02T07:16:00+00:00,Cyprus,0.5429158662624084,2,1,el,MED,Europe
+'9942e2b4c0',extremes,Precipitation,#d60d2b,meteo,βροχή ελλάδα,2026-08-14T04:24:00+00:00,Greece,0.5352245761622715,3,2,el,MED,Europe
 'a2161a577a',extremes,Wildfire,#d60d2b,effis,wildfire ελλάδα  γρεβενά κοζάνη τοπική κοινότητα παρασκευής,2026-08-27T13:00:00+00:00,Greece,0.5346706974777325,2,1,el,MED,Europe
 '6a7f97b7d4',extremes,Wildfire,#d60d2b,effis,wildfire αχαΐα greece,2026-09-12T07:19:00+00:00,Greece,0.5311973696537912,1,1,el,MED,Europe
 '6f66108fa3',extremes,Wildfire,#d60d2b,effis,wildfire καρδίτσα greece,2026-09-12T07:19:00+00:00,Greece,0.5270549704604378,1,1,el,MED,Europe
@@ -24,7 +25,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '338ca0127f',extremes,Wildfire,#d60d2b,effis,wild fire ελλάδα  δυτική αττική ψευδοδημοτική κοινότητα ασπροπύργου,2026-08-27T13:00:00+00:00,Greece,0.5240775839794676,2,1,el,MED,Europe
 'a09a76e559',extremes,Heat Wave,#c40202,wmo,κύμα καύσωνα νησιά βορειοανατολικού Αιγαίου,2026-08-27T13:00:00+00:00,Greece,0.5190756207604056,2,1,el,MED,Europe
 '372f4267a4',extremes,Heat Wave,#c40202,wmo,κύμα καύσωνα ιοννήσια,2026-08-27T13:00:00+00:00,Greece,0.5181171758122202,2,1,el,MED,Europe
-'9942e2b4c0',extremes,Precipitation,#d60d2b,meteo,βροχή ελλάδα,2026-08-14T04:24:00+00:00,Greece,0.5179699484262017,2,2,el,MED,Europe
 '51eca7e9c1',extremes,Heat Wave,#c40202,wmo,κύμα καύσωνα kriti,2026-08-27T13:00:00+00:00,Greece,0.5141135574976348,2,1,el,MED,Europe
 '65d62aaf7d',extremes,Wildfire,#d60d2b,effis,wild fire φλώρινα greece,2026-09-08T07:23:00+00:00,Greece,0.5102217390855315,2,1,el,MED,Europe
 'f881445b97',extremes,Thunderstorm,#53785a,wmo,χαλάζι ήπειρος,2026-09-12T07:19:00+00:00,Greece,0.5064427254348753,1,1,el,MED,Europe
@@ -227,7 +227,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'ab90cfcdd4',extremes,Drought,#edc291,edo,ξηρασία αλβανία,2026-08-29T09:19:00+00:00,Albania,0.3360090280588146,1,1,el,MED,Europe
 'c4f1f0cbf9',extremes,Iceberg,#d60d2b,random,iceberg arctis,2026-09-08T07:23:00+00:00,,0.3343663529343995,1,1,el,,
 '52a93d89d4',extremes,Thunderstorm,#53785a,wmo,καταιγίδα ανατολική sterea amp evvoia,2026-09-04T07:23:00+00:00,Greece,0.332319534142614,2,1,el,MED,Europe
-'b073fed5b4',extremes,Snow&Ice,#d60d2b,random,παγετός,2026-08-31T08:51:00+00:00,,0.3315847465255091,0,1,el,,
 'ea1c03418f',extremes,Snow&Ice,#d60d2b,random,χιονόνερο,2026-08-26T03:33:00+00:00,,0.3302761658849169,1,1,el,,
 '9f0423d739',extremes,Drought,#edc291,random,ξηρασία,2026-08-27T13:00:00+00:00,,0.3300628054721654,0,1,el,,
 '10f476720b',extremes,Insect Infestation,#d60d2b,random,ακρίδα,2026-09-02T07:16:00+00:00,,0.3298665129470182,1,1,el,,
@@ -253,7 +252,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '00e5e36ea1',extremes,Tropical Cyclone,#4f4f4f,eonet,τροπική καταιγίδα iselle,2026-08-25T03:27:00+00:00,,0.3170066591638231,0,1,el,NPO,Pacific Ocean
 'db3be3f429',extremes,Tropical Cyclone,#4f4f4f,eonet,τροπική καταιγίδα bang lang,2026-08-31T08:51:00+00:00,,0.3169554391479997,0,1,el,NPO,Pacific Ocean
 'e900b0ff18',extremes,Wildfire,#d60d2b,effis,wildfire ιωάννινα greece,2026-09-03T07:20:00+00:00,Greece,0.316878478554541,2,1,el,MED,Europe
-'dd6493c331',extremes,Storm,#b3b2b1,aidr,καταιγίδα αυστραλία,2026-09-01T07:58:00+00:00,Australia,0.3165343851226193,0,1,el,EAU,Oceania
 '41f3b5b396',extremes,Storm,#b3b2b1,aidr,καταιγίδα ισχυρός άνεμος και βροχοπτώσεις victoria 2024,2026-08-27T13:01:00+00:00,Australia,0.3164082035295365,0,1,el,SAU,Oceania
 'a320301f76',extremes,Wildfire,#d60d2b,effis,άγρια ​​φωτιά αλγερία,2026-08-27T13:00:00+00:00,Algeria,0.3159927465131042,0,1,el,MED,Africa
 '363ce72927',extremes,Drought,#edc291,edo,ξηρασία αλβανία,2026-09-02T07:17:00+00:00,Albania,0.3137998612570836,2,1,el,MED,Europe
@@ -271,6 +269,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '970a0d9b17',extremes,Earthquake,#870007,usgs,σεισμός αλβανία,2026-08-30T08:29:00+00:00,Albania,0.2913716495847105,2,1,el,MED,Europe
 'b1d56de062',extremes,Snow&Ice,#d60d2b,random,παγετός,2026-09-10T07:28:00+00:00,,0.2906276173486721,1,1,el,,
 '8b4587c763',extremes,Storm,#b3b2b1,random,καταιγίδα σκόνης,2026-09-05T07:04:00+00:00,,0.2887523701247447,1,1,el,,
+'b073fed5b4',extremes,Snow&Ice,#d60d2b,random,παγετός,2026-08-31T08:51:00+00:00,,0.28184703454668275,1,1,el,,
 'a8955ad6a2',extremes,Cold Wave,#a7e9fa,random,κρύο κρούσμα,2026-08-29T09:18:00+00:00,,0.2817618364422319,1,1,el,,
 '283b154c38',extremes,Wet Spell,#d60d2b,random,βρεγμένο ξόρκι,2026-08-25T03:27:00+00:00,,0.2812140219255804,2,1,el,,
 '980a973102',extremes,Tropical Cyclone,#4f4f4f,random,κυκλώνας βόμβας,2026-08-28T14:31:00+00:00,,0.2768967321190763,2,1,el,,
@@ -280,6 +279,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '1d33bbdbbe',extremes,Snow&Ice,#d60d2b,random,φυσώντας χιόνι,2026-09-06T07:16:00+00:00,,0.2724054531235918,2,1,el,,
 'b7f999932e',extremes,Tropical Cyclone,#4f4f4f,eonet,τροπική καταιγίδα etau,2026-08-31T08:51:00+00:00,,0.270433117953901,1,1,el,NPO,Pacific Ocean
 '135f8534c2',extremes,Precipitation,#d60d2b,random,περισσότερη βροχόπτωση,2026-08-26T03:33:00+00:00,,0.2702501600725032,2,1,el,,
+'dd6493c331',extremes,Storm,#b3b2b1,aidr,καταιγίδα αυστραλία,2026-09-01T07:58:00+00:00,Australia,0.2690542273542264,1,1,el,EAU,Oceania
 'ccefefc59e',extremes,Drought,#edc291,random,αστραπιαία ξηρασία,2026-09-08T07:23:00+00:00,,0.2690014865326242,1,1,el,,
 'ec98366bcb',extremes,Flood,#030ba1,aidr,πλημμύρα νοτιοανατολική Αυστραλία 2016,2026-08-30T08:30:00+00:00,Australia,0.2687204391932855,1,1,el,SAU,Oceania
 'b24c0517bf',extremes,Cold Wave,#a7e9fa,random,βουτιές υδραργύρου,2026-08-15T03:13:00+00:00,,0.2678862952374474,2,1,el,,
